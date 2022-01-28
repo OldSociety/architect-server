@@ -1,9 +1,5 @@
-//This is our server for the Architect
+const express = require("express");
+const app = express();
 
-import React from 'react';
 
-const App = () => {
-  return <div></div>;
-};
-
-export default App;
+module.exports = app;
