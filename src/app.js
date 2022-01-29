@@ -1,27 +1,24 @@
-const express = require("express");
-const app = express();
-const logger = require("./config/logger")
+const express = require('express')
+const app = express()
+const logger = require('./config/logger')
 
 //DATA Files
-const races = require("../data/races");
+const races = require('./data/races')
 
 // Middleware
 app.use(logger) // Add request ID middleware
-app.get("/races", (req, res) => {
-    res.json({ data: races });
-  });
+app.get('/races', (req, res) => {
+  res.json({ data: races })
+})
 
-  // Routes
+// Routes
 
+//Error handling
+app.use((error, req, res, next) => {
+  // sets up default 500 error
+  console.error(error)
+  const { status = 500, message = 'Something went wrong!' } = error
+  res.status(status).json({ error: message })
+})
 
-
-  //Error handling
-
-  app.use((error, req, res, next) => {
-    console.error(error);
-    const { status = 500, message = "Something went wrong!" } = error;
-    res.status(status).json({ error: message });
-  
-  });
-
-module.exports = app;
+module.exports = app
