@@ -1,17 +1,19 @@
 const express = require('express')
 const app = express()
-const logger = require('./config/logger')
+const morgan = require('morgan')
+const racesRouter = require("./races/races.router");
 
-//DATA Files
-const races = require('./data/races')
+//Middleware Test
+const sayHello = (req, res) => {
+  res.send('Hello!')
+}
 
 // Middleware
-app.use(logger) // Add request ID middleware
-app.get('/races', (req, res) => {
-  res.json({ data: races })
-})
+app.use(morgan("dev")) //A small logging organ replaces Logger printing in terminal
+
 
 // Routes
+app.use("/races", racesRouter); // Note: app.use
 
 //Error handling
 app.use((error, req, res, next) => {
