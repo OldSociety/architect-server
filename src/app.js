@@ -1,12 +1,7 @@
 const express = require('express')
 const app = express()
 const morgan = require('morgan')
-const racesRouter = require("./races/races.router");
-
-//Middleware Test
-const sayHello = (req, res) => {
-  res.send('Hello!')
-}
+const racesRouter = require("./races-page/races.router.js");
 
 // Middleware
 app.use(morgan("dev")) //A small logging organ replaces Logger printing in terminal
