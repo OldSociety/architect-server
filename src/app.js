@@ -9,10 +9,11 @@ const notFound = require("./errors/notFound");
 const morgan = require('morgan')
 
 // Middleware
-app.use(morgan("dev")) //A small logging organ replaces Logger printing in terminal
+app.use(morgan("dev")) //A small logging program to replace Logger printing in terminal
 
 
 // Routes
+//app.use("/")
 app.use("/races", racesRouter); // Note: app.use
 app.use("/builder", buildRouter); // Note: app.use
 
