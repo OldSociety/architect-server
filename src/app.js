@@ -1,7 +1,8 @@
 const express = require('express')
 const app = express()
 const morgan = require('morgan')
-const racesRouter = require("./races-page/races.router.js");
+const racesRouter = require("./page-races/races.router.js");
+const buildRouter = require("./page-build/build.router.js");
 
 // Middleware
 app.use(morgan("dev")) //A small logging organ replaces Logger printing in terminal
@@ -9,6 +10,8 @@ app.use(morgan("dev")) //A small logging organ replaces Logger printing in termi
 
 // Routes
 app.use("/races", racesRouter); // Note: app.use
+app.use("/characters"); // Note: characters -> builder
+app.use("/builder", buildRouter); // Note: app.use
 
 //Error handling
 app.use((error, req, res, next) => {
