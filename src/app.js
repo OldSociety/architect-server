@@ -15,7 +15,7 @@ app.use(morgan("dev")) //A small logging program to replace Logger printing in t
 // Routes
 //app.use("/")
 app.use("/races", racesRouter); // Note: app.use
-app.use("/builder", buildRouter); // Note: app.use
+app.use("/characters/builder", buildRouter); // Note: app.use
 
 
 //Error handling
