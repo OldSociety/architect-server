@@ -6,9 +6,17 @@ const racesRouter = require("./page-races/races.router.js");
 const buildRouter = require("./page-build/build.router.js");
 const errorHandler = require("./errors/errorHandler");
 const notFound = require("./errors/notFound");
+const cors = require("cors");
 const morgan = require('morgan')
 
+//TESTING
+var testAPIRouter = require("./routes/testAPI");
+
+app.use("/testAPI", testAPIRouter);
+
+
 // Middleware
+app.use(cors());
 app.use(morgan("dev")) //A small logging program to replace Logger printing in terminal
 
 

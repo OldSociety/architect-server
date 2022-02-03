@@ -1,10 +1,10 @@
-require("dotenv").config();
+require('dotenv').config()
 
-const { PORT = 5001 } = process.env;
+const { PORT = 9000 } = process.env
+const knex = require('./db/connection')
 
-const app = require("./app");
-const listener = () => console.log(`Listening on Port ${PORT}!`);
-app.listen(PORT, listener);
+const app = require('./app')
+const listener = () => console.log(`Listening on Port ${PORT}!`)
 
 knex.migrate
   .latest()
@@ -13,3 +13,4 @@ knex.migrate
     app.listen(PORT, listener);
   })
   .catch(console.error);
+
