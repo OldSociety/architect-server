@@ -23,6 +23,6 @@ function list(req, res, next) {
   };
 
 module.exports = {
-    list,
-    read,
+  read,
+  list
 }
