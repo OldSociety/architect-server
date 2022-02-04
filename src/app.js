@@ -3,6 +3,7 @@ const express = require('express')
 const app = express()
 
 const racesRouter = require("./races/races.router.js");
+const buildRouter = require("./build/build.router.js");
 const moonsRouter = require("./moons/moons.router.js");
 const nationsRouter = require("./nations/nations.router.js");
 const errorHandler = require("./errors/errorHandler");
@@ -26,6 +27,7 @@ app.use(morgan("dev")) //A small logging program to replace Logger printing in t
 app.use("/races", racesRouter); // Note: app.use
 app.use("/moons", moonsRouter);
 app.use("/nations", nationsRouter);
+app.use("/build", buildRouter);
 
 //Error handling
 app.use(notFound);
