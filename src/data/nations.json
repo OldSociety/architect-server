@@ -3,15 +3,15 @@
       "id": 1,
       "name": "Fairbourne",
       "ruler": "King Leos VII",
-      "government": "",
+      "government": "absolute monarchy",
       "nationality": "Fairec",
       "description": "When King Leos VII took the throne more than 80 years ago, he promised a united nation that could fend off the Bloodlands finally. While some see him as a tyrant, countless others swear that without his ruthless, steadfast leadership to protect them - the world as they know it would finally end."
     },
     {
       "id": 2,
       "name": "Whitepine",
-      "ruler": "",
-      "government": "",
+      "ruler": "none",
+      "government": "none",
       "nationality": "I bow to no king.",
       "description": ""
     },
@@ -19,7 +19,7 @@
       "id": 3,
       "name": "Uruban",
       "ruler": "Red Horde",
-      "government": "",
+      "government": "theocracy",
       "nationality": "Uru",
       "description": ""
     },
@@ -27,31 +27,31 @@
       "id": 4,
       "name": "Ash'ahla",
       "ruler": "god-Queen Aurora",
-      "government": "",
+      "government": "theocracy",
       "nationality": "Ash'a",
       "description": ""
     },
     {
       "id": 5,
       "name": "Egress",
-      "ruler": "King adahn",
-      "government": "",
+      "ruler": "King Adahn",
+      "government": "constitutional monarchy",
       "nationality": "Egressian",
       "description": ""
     },
     {
       "id": 6,
       "name": "Medina",
-      "ruler": "",
-      "government": "",
+      "ruler": "none",
+      "government": "none",
       "nationality": "I bow to no king.",
       "description": ""
     },
     {
       "id": 7,
       "name": "Medun",
-      "ruler": "",
-      "government": "",
+      "ruler": "none",
+      "government": "none",
       "nationality": "I bow to no king.",
       "description": ""
     },
@@ -59,7 +59,7 @@
       "id": 8,
       "name": "Karaj",
       "ruler": "King Karaji V",
-      "government": "",
+      "government": "absolute monarchy",
       "nationality": "Karaji",
       "description": ""
     },
@@ -67,15 +67,15 @@
       "id": 9,
       "name": "Zemér",
       "ruler": "King Jared",
-      "government": "",
+      "government": "absolute monarchy",
       "nationality": "Zeméri",
       "description": ""
     },
     {
       "id": 10,
       "name": "Seneka",
-      "ruler": "",
-      "government": "",
+      "ruler": "city-states",
+      "government": "feudalism",
       "nationality": "Senekan",
       "description": ""
     }
