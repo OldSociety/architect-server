@@ -1,6 +1,6 @@
 const races = require("../data/races.json")
 
-function list(req, res) {
+function read(req, res) {
     const { raceId } = req.params;
     res.json({ data: races.filter(raceId ? race => race.id == raceId : () => true) });
   }
@@ -18,11 +18,11 @@ function raceExists(req, res, next) {
     // });
   };
 
-function read(req, res, next) {
+function list(req, res, next) {
     res.json({ data: races });
   };
 
 module.exports = {
-    list,
-    read,
+  read,
+  list
 }
