@@ -1,4 +1,4 @@
-const moons = require('../data/moons.json')
+const moons = require('../data/pantheons.json')
 
 function read(req, res, next) {
   res.json({ data: moons })

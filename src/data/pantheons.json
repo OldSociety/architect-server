@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Mirra",
+    "name": "Miira",
     "religion": ["Solace", "Exclusionism"],
     "rank": "Goddess",
     "sphere": [
@@ -175,6 +175,20 @@
   },
   {
     "id": 9,
+    "name": "Aurora",
+    "religion": ["Ash'a"],
+    "rank": "archfey",
+    "entries": [
+      {
+        "description": ""
+      }
+    ],
+    "language": "Ash'a",
+    "domain": ["arcane", "love", "indulgance"],
+    "tenents": ["Be an elf."]
+  },
+  {
+    "id": 10,
     "name": "The Ephemeron",
     "religion": ["Nobility"],
     "rank": "Elven Lord",
