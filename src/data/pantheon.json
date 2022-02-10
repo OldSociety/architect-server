@@ -1,0 +1,530 @@
+[
+  {
+    "id": 1,
+    "name": "Miira",
+    "religion": ["Solace", "Exclusionism"],
+    "rank": "Goddess",
+    "sphere": [
+      { "name": "Meridian", "type": "moon" },
+      {
+        "name": "Delis",
+        "type": "sun",
+        "color": "yellow"
+      },
+      {
+        "name": "Veris",
+        "type": "sun",
+        "color": "red"
+      }
+    ],
+    "entries": [
+      {
+        "description": [
+          "Miira is the Great Goddess of Meridian, Mother of Men, and the Warrior Who Awaits the Inevitable End.",
+          "Miira represents the unknowable and what should not be known."
+        ]
+      },
+      {
+        "tenants": [
+          "Protect Meridian from exploitation and destruction.",
+          "Slay abomination in every form.",
+          "Exist in harmony with one another."
+        ]
+      },
+      { "domain": ["Life", "Light", "Order"] },
+      {
+        "astrology": [
+          {
+            "name": "The Bow",
+            "description": "All Seraphs align for the birth of the famed ones.",
+            "traits": "Bows are admired, successful, and sexual."
+          },
+          {
+            "name": "The Lance",
+            "description": "Fate offers you a simple life.",
+            "traits": "Lances are simple, carefree, and generous."
+          }
+        ]
+      },
+      { "language": "draconic" },
+      { "holiday": "renewal" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Larimar",
+    "religion": ["Solace"],
+    "rank": "Seraph",
+    "sphere": [
+      {
+        "type": "moon",
+        "color": "green",
+        "description": "Named after the Seraph of arcana and prophecy, the small green moon is barely a dot in the night sky. Those born under "
+      }
+    ],
+    "entries": [
+      {
+        "description": [
+          "Larimar is the arcane dragon of premonition, and the protector of witches and their secret arts.",
+          "At the creation of the universe, Larimar descended from Paradise and foresaw the Inevitable End.",
+          "They taught man how to cast spells and work magic.",
+          "Larimese priests were once prophets to the ancient world, advisors of king who helped shape the destiny of the ancient world. In the modern era, they are mostly regulated to protecting places of power and hiding away the most forbidden arcane secrets."
+        ]
+      },
+      {
+        "tenants": [
+          "Protect Meridian from exploitation and destruction.",
+          "Slay abomination in every form.",
+          "Exist in harmony with one another."
+        ]
+      },
+      { "domain": ["Arcana", "Knowledge", "Trickery"] },
+      {
+        "astrology": {
+          "name": "The Kunai",
+          "description": "Very social and generous, you aspire to bring peace into the world.",
+          "traits": "Kunai are fair, intelligent and timid."
+        }
+      },
+      { "organizations": "Watchers of the Wild" },
+      { "language": "draconic" },
+      { "holiday": "." }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Udreth-sol",
+    "religion": ["Solace"],
+    "rank": "Seraph",
+    "sphere": [
+      {
+        "type": "moon",
+        "color": "grey",
+        "description": "Udreth-sol is both Seraph of the afterlife and the largest moon surrounding Pandem. Udreth-Sol is only visible during the day, standing out like a dark grey scar across an otherwise blue sky."
+      }
+    ],
+    "entries": [
+      {
+        "description": ["."]
+      },
+      {
+        "tenants": ["."]
+      },
+      { "domain": ["Death", "Grave", "War"] },
+      {
+        "astrology": {
+          "name": "The Flail",
+          "description": "You have unyeilding respect for hierarchy and a natural inclination towards leadership.",
+          "traits": "Flails are conservative, authoritarian, and often extreme in their beliefs."
+        }
+      },
+      { "organizations": "Red Horde" },
+      { "language": "draconic" },
+      { "holiday": "." }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Pan-shi",
+    "religion": ["Solace"],
+    "rank": "Seraph",
+    "sphere": [
+      {
+        "type": "moon",
+        "color": "white",
+        "description": "Pan-shi is the Seraph of debauchery who favors the outcasts of society. Its moon is easily mistaken to its sister moon, Sen-Shi, as they share equal color and size. The two white moons have opposing orbits and never appear together."
+      }
+    ],
+    "entries": [
+      {
+        "description": ["."]
+      },
+      {
+        "tenants": ["."]
+      },
+      { "domain": ["Moon", "Trickery", "Twilight"] },
+      {
+        "astrology": {
+          "name": "The Knife",
+          "description": "You have all the skill, but none of the work ethic.",
+          "traits": "Knives are cunning but often wind up living as artists or beggars."
+        }
+      },
+      { "organizations": "." },
+      { "language": "draconic" },
+      { "holiday": "renewal" }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Nessenti",
+    "religion": ["Solace"],
+    "rank": "Seraph",
+    "sphere": [
+      {
+        "type": "moon",
+        "color": "blue",
+        "description": "This blue moon has 3 visible rings that form a halo in the night sky. It is ruled by the Seraph of the Tempest, known for nature's duality as both nurturer and unforgiving wrath."
+      }
+    ],
+    "entries": [
+      {
+        "description": ["."]
+      },
+      {
+        "tenants": ["."]
+      },
+      { "domain": ["Life", "Tempest", "Grave"] },
+      {
+        "astrology": {
+          "name": "The Chain",
+          "description": "Master of diplomacy and seduction, you effortlessly bend others to your will often without intending to.",
+          "traits": "Chains are agile, warm, and opportunistic."
+        }
+      },
+      { "organizations": "." },
+      { "language": "draconic" },
+      { "holiday": "renewal" }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Zyry",
+    "religion": ["Solace"],
+    "rank": "Seraph",
+    "sphere": [
+      {
+        "type": "moon",
+        "color": "gold",
+        "description": "Half the size of Udreth-Sol, yet still larger than the rest, Zyry's moon has a warm yellow light which halos the moon at night. As Seraph of aspiration and invention, Zyry is said to inspire the great works of artistry"
+      }
+    ],
+    "entries": [
+      {
+        "description": ["."]
+      },
+      {
+        "tenants": ["."]
+      },
+      { "domain": ["Forge", "Knowledge", "Order"] },
+      {
+        "astrology": {
+          "name": "The Glaive",
+          "description": "You are a hardworking traditionalist of a composed nature.",
+          "traits": "Glaives are loyal, prudent, selfless and secure in themselves."
+        }
+      },
+      { "organizations": "." },
+      { "language": "draconic" },
+      { "holiday": "renewal" }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Sen-shi",
+    "religion": ["Solace"],
+    "rank": "Seraph",
+    "sphere": [
+      {
+        "type": "moon",
+        "color": "white",
+        "description": "Twin Seraph to Pan-shi, Sen-shi is both Seraph of light and defender against the Bloodlands. Likewise, it's moon is identical to Pan-Shi, but when gazed upon carefully, has surface patterns opposite of those across Pan-Shi."
+      }
+    ],
+    "entries": [
+      {
+        "description": ["."]
+      },
+      {
+        "tenants": ["."]
+      },
+      { "domain": ["Light", "Order", "War"] },
+      {
+        "astrology": {
+          "name": "The Peasant Club",
+          "description": "You inspire confidence despite sentimentality.",
+          "traits": "Clubs are robust, yet honest and serene. They make for natural priests and confidants."
+        }
+      },
+      { "organizations": "Scarbacks" },
+      { "language": "draconic" },
+      { "holiday": "." }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Oth-orleth",
+    "religion": ["Solace"],
+    "rank": "Seraph",
+    "sphere": [
+      {
+        "type": "moon",
+        "color": "red",
+        "description": "This small red moon is easily identifiable in the night sky, except when Veris, Meridian's red sun rises. Its Seraph of War revels in battle and blesses the continued bloodlines of his most favored warriors."
+      }
+    ],
+    "entries": [
+      {
+        "description": ["."]
+      },
+      {
+        "tenants": ["."]
+      },
+      { "domain": ["Order", "Trickery", "War"] },
+      {
+        "astrology": {
+          "name": "The Scimitar",
+          "description": "You hold a high opinion of yourself but protective of those you care for. You have a firm understanding of right and wrong.",
+          "traits": "While haughty, self-centered, and superior, Scimitars are also extremely heroic."
+        }
+      },
+      { "organizations": "Synagogue" },
+      { "language": "draconic" },
+      { "holiday": "." }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Aurora",
+    "religion": ["Ash'a"],
+    "rank": "archfey",
+    "entries": [
+      {
+        "description": [
+          "Larimar is the arcane dragon of premonition, and the protector of witches and their secret arts.",
+          "At the creation of the universe, Larimar descended from Paradise and foresaw the Inevitable End.",
+          "They taught man how to cast spells and work magic.",
+          "Larimese priests were once prophets to the ancient world, advisors of king who helped shape the destiny of the ancient world. In the modern era, they are mostly regulated to protecting places of power and hiding away the most forbidden arcane secrets."
+        ]
+      },
+      {
+        "tenants": [
+          "Protect Meridian from exploitation and destruction.",
+          "Slay abomination in every form.",
+          "Exist in harmony with one another."
+        ]
+      },
+      { "domain": ["Arcana", "Knowledge", "Trickery"] },
+      {
+        "astrology": {
+          "name": "The Kunai",
+          "description": "Very social and generous, you aspire to bring peace into the world.",
+          "traits": "Kunai are fair, intelligent and timid."
+        }
+      },
+      { "organizations": "Watchers of the Wild" },
+      { "language": "draconic" },
+      { "holiday": "renewal" }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "The Abiosis",
+    "religion": ["Nobility"],
+    "rank": "Elven Lord",
+    "entries": [
+      {
+        "description": ""
+      }
+    ],
+    "language": "celestial",
+    "domain": ["dead", "undeath"],
+    "tenents": ["Be an elf."]
+  },
+  {
+    "id": 11,
+    "name": "The Abnegation",
+    "religion": ["Nobility"],
+    "rank": "Elven Lord",
+    "entries": [
+      {
+        "description": ""
+      }
+    ],
+    "language": "celestial",
+    "domain": ["dead", "undeath"],
+    "tenents": ["Be an elf."]
+  },
+  {
+    "id": 12,
+    "name": "The Abominate",
+    "religion": ["Nobility"],
+    "rank": "Elven Lord",
+    "entries": [
+      {
+        "description": ""
+      }
+    ],
+    "language": "celestial",
+    "domain": ["dead", "undeath"],
+    "tenents": ["Be an elf."]
+  },
+  {
+    "id": 13,
+    "name": "The Benignity",
+    "religion": ["Nobility"],
+    "rank": "Elven Lord",
+    "entries": [
+      {
+        "description": ""
+      }
+    ],
+    "language": "celestial",
+    "domain": ["dead", "undeath"],
+    "tenents": ["Be an elf."]
+  },
+  {
+    "id": 14,
+    "name": "The Collusion",
+    "religion": ["Nobility"],
+    "rank": "Elven Lord",
+    "entries": [
+      {
+        "description": ""
+      }
+    ],
+    "language": "celestial",
+    "domain": ["dead", "undeath"],
+    "tenents": ["Be an elf."]
+  },
+  {
+    "id": 15,
+    "name": "The Conformity",
+    "religion": ["Nobility"],
+    "rank": "Elven Lord",
+    "entries": [
+      {
+        "description": ""
+      }
+    ],
+    "language": "celestial",
+    "domain": ["dead", "undeath"],
+    "tenents": ["Be an elf."]
+  },
+  {
+    "id": 16,
+    "name": "The Diarchy",
+    "religion": ["Nobility"],
+    "rank": "Elven Lord",
+    "entries": [
+      {
+        "description": ""
+      }
+    ],
+    "language": "celestial",
+    "domain": ["dead", "undeath"],
+    "tenents": ["Be an elf."]
+  },
+  {
+    "id": 17,
+    "name": "The Dissonance",
+    "religion": ["Nobility"],
+    "rank": "Elven Lord",
+    "entries": [
+      {
+        "description": ""
+      }
+    ],
+    "language": "celestial",
+    "domain": ["dead", "undeath"],
+    "tenents": ["Be an elf."]
+  },
+  {
+    "id": 18,
+    "name": "The Ephemeron",
+    "religion": ["Nobility"],
+    "rank": "Elven Lord",
+    "entries": [
+      {
+        "description": ""
+      }
+    ],
+    "language": "celestial",
+    "domain": ["dead", "undeath"],
+    "tenents": ["Be an elf."]
+  },
+  {
+    "id": 19,
+    "name": "The Fathomless",
+    "religion": ["Nobility"],
+    "rank": "Elven Lord",
+    "entries": [
+      {
+        "description": ""
+      }
+    ],
+    "language": "celestial",
+    "domain": ["dead", "undeath"],
+    "tenents": ["Be an elf."]
+  },
+  {
+    "id": 20,
+    "name": "The Incandescent",
+    "religion": ["Nobility"],
+    "rank": "Elven Lord",
+    "entries": [
+      {
+        "description": ""
+      }
+    ],
+    "language": "celestial",
+    "domain": ["dead", "undeath"],
+    "tenents": ["Be an elf."]
+  },
+  {
+    "id": 21,
+    "name": "The Obscene",
+    "religion": ["Nobility"],
+    "rank": "Elven Lord",
+    "entries": [
+      {
+        "description": ""
+      }
+    ],
+    "language": "celestial",
+    "domain": ["dead", "undeath"],
+    "tenents": ["Be an elf."]
+  },
+  {
+    "id": 22,
+    "name": "The Oracular",
+    "religion": ["Nobility"],
+    "rank": "Elven Lord",
+    "entries": [
+      {
+        "description": ""
+      }
+    ],
+    "language": "celestial",
+    "domain": ["dead", "undeath"],
+    "tenents": ["Be an elf."]
+  },
+  {
+    "id": 23,
+    "name": "The Verity",
+    "religion": ["Nobility"],
+    "rank": "Elven Lord",
+    "entries": [
+      {
+        "description": ""
+      }
+    ],
+    "language": "celestial",
+    "domain": ["dead", "undeath"],
+    "tenents": ["Be an elf."]
+  },
+  {
+    "id": 24,
+    "name": "The Vulnerary",
+    "religion": ["Nobility"],
+    "rank": "Elven Lord",
+    "entries": [
+      {
+        "description": ""
+      }
+    ],
+    "language": "celestial",
+    "domain": ["dead", "undeath"],
+    "tenents": ["Be an elf."]
+  }
+]
