@@ -31,7 +31,7 @@
           "Exist in harmony with one another."
         ]
       },
-      { "domain": ["Life", "Light", "Order"] },
+      { "domain": ["Life", "Light", "Peace"] },
       {
         "astrology": [
           {
@@ -78,7 +78,7 @@
           "Exist in harmony with one another."
         ]
       },
-      { "domain": ["Arcana", "Knowledge", "Trickery"] },
+      { "domain": ["Arcana", "Knowledge", "Nature"] },
       {
         "astrology": {
           "name": "The Kunai",
@@ -105,12 +105,16 @@
     ],
     "entries": [
       {
-        "description": ["."]
+        "description": [
+          "Udreth-sol judges the weight of one's soul and, if found worthy, guides them safely through the Gray Halls into Miira's Paradise. The unworthy are left to purgatory, wandering the long path path to redemption."
+        ]
       },
       {
-        "tenants": ["."]
+        "tenants": [
+          "Respect the dead and care for the dying, lest your soul be judged beside them."
+        ]
       },
-      { "domain": ["Death", "Grave", "War"] },
+      { "domain": ["Death", "Grave", "Order"] },
       {
         "astrology": {
           "name": "The Flail",
@@ -137,12 +141,16 @@
     ],
     "entries": [
       {
-        "description": ["."]
+        "description": [
+          "Before being cleaved into two by the Archdemon Vedigo, Sen-shi was the lord of the Seraphs - perfect and whole. But divided, Pan-she carries the scar from that great battle, and is a being of extreme emotion.",
+          "Pan-shi's commandments come with powerful conviction, deep sorrow, or tremendous joy. Their visions are dramatic and are mercurial at best.",
+          "Only Pan-shi's holiest followers can see through the false visions and find holy truth."
+        ]
       },
       {
-        "tenants": ["."]
+        "tenants": ["Life is for the living, so live fully and without shame."]
       },
-      { "domain": ["Moon", "Trickery", "Twilight"] },
+      { "domain": ["Trickery", "Twilight", "Knowledge"] },
       {
         "astrology": {
           "name": "The Knife",
@@ -169,12 +177,13 @@
     ],
     "entries": [
       {
-        "description": ["."]
+        "description": ["The tempest dragon Nassenti is 'Mistress of the Fractured Sea' and custodian of the natural.",
+        "Closely tide to the elemental forces, Nassenti is the mother of primordials and it is under her wrath that the world may be created, destroyed, or reborn."]
       },
       {
-        "tenants": ["."]
+        "tenants": ["Nature offers no mercy, no forgiveness, no salvation."]
       },
-      { "domain": ["Life", "Tempest", "Grave"] },
+      { "domain": ["Grave", "Nature", "Tempest"] },
       {
         "astrology": {
           "name": "The Chain",
@@ -201,12 +210,15 @@
     ],
     "entries": [
       {
-        "description": ["."]
+        "description": [
+          "Zyry is inspiration personified and patron of art and invention.",
+          "Before the arrival of the elves, Zyrese knights were golden warriors and famed inventors. Their blend of early science and magic paved the way for the first developing nations.",
+        "Towards the end of that age, the Zyrese army was largest in the world and dominated over the majority of the Severed Hand and Pumicestone Mountains."]
       },
       {
-        "tenants": ["."]
+        "tenants": ["Follow your muse."]
       },
-      { "domain": ["Forge", "Knowledge", "Order"] },
+      { "domain": ["Forge", "Trickery", "War"] },
       {
         "astrology": {
           "name": "The Glaive",
@@ -233,12 +245,17 @@
     ],
     "entries": [
       {
-        "description": ["."]
+        "description": [
+          "Sen-shi was the primary servitor of Miira, once acting as chief protector of the material world. This changed when man committed the Original Sin and the archdemon Vedigo entered the material plane.",
+          "Sen-shi was clieved into two and severely weakened, Sen-shi and their twin soul Pan-shi have remained this way ever since.",
+          "Sen-shi is seen as a being of pure rationality, regardless of the sitaution, they view the world with calm detatchment and logical reasoning.",
+          "Their followers are known to be patient since Sen-shi's intervention in mortal affairs is measured and always with great assurance."
+        ]
       },
       {
-        "tenants": ["."]
+        "tenants": ["Stand against devils wherever they arise and show no mercy to whom they lend their power."]
       },
-      { "domain": ["Light", "Order", "War"] },
+      { "domain": ["Light", "Order", "Peace"] },
       {
         "astrology": {
           "name": "The Peasant Club",
@@ -265,12 +282,12 @@
     ],
     "entries": [
       {
-        "description": ["."]
+        "description": ["The blood dragon Oth-orleth is custodian of the material plane and patron of nobility."]
       },
       {
         "tenants": ["."]
       },
-      { "domain": ["Order", "Trickery", "War"] },
+      { "domain": ["Death", "Forge", "War"] },
       {
         "astrology": {
           "name": "The Scimitar",
@@ -526,5 +543,460 @@
     "language": "celestial",
     "domain": ["dead", "undeath"],
     "tenents": ["Be an elf."]
+  },
+  {
+    "id": 0,
+    "name": "Vedigo",
+    "religion": ["Vestige"],
+    "rank": "Archdemon",
+    "sphere": [
+      {
+        "type": "",
+        "color": "",
+        "description": ""
+      }
+    ],
+    "entries": [
+      {
+        "description": [
+          ""
+        ]
+      },
+      {
+        "tenants": [
+          ""
+        ]
+      },
+      { "domain": ["", "", ""] },
+      {
+        "astrology": {
+          "name": "",
+          "description": "",
+          "traits": ""
+        }
+      },
+      { "organizations": "" },
+      { "language": "abyssal" }
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Angeres",
+    "religion": ["Vestige"],
+    "rank": "Archdemon",
+    "sphere": [
+      {
+        "type": "",
+        "color": "",
+        "description": ""
+      }
+    ],
+    "entries": [
+      {
+        "description": [
+          ""
+        ]
+      },
+      {
+        "tenants": [
+          ""
+        ]
+      },
+      { "domain": ["", "", ""] },
+      {
+        "astrology": {
+          "name": "",
+          "description": "",
+          "traits": ""
+        }
+      },
+      { "organizations": "" },
+      { "language": "abyssal" }
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Imdugud",
+    "religion": ["Vestige"],
+    "rank": "Archdemon",
+    "sphere": [
+      {
+        "type": "",
+        "color": "",
+        "description": ""
+      }
+    ],
+    "entries": [
+      {
+        "description": [
+          ""
+        ]
+      },
+      {
+        "tenants": [
+          ""
+        ]
+      },
+      { "domain": ["", "", ""] },
+      {
+        "astrology": {
+          "name": "",
+          "description": "",
+          "traits": ""
+        }
+      },
+      { "organizations": "" },
+      { "language": "abyssal" }
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Nintura",
+    "religion": ["Vestige"],
+    "rank": "Archdemon",
+    "sphere": [
+      {
+        "type": "",
+        "color": "",
+        "description": ""
+      }
+    ],
+    "entries": [
+      {
+        "description": [
+          ""
+        ]
+      },
+      {
+        "tenants": [
+          ""
+        ]
+      },
+      { "domain": ["", "", ""] },
+      {
+        "astrology": {
+          "name": "",
+          "description": "",
+          "traits": ""
+        }
+      },
+      { "organizations": "" },
+      { "language": "abyssal" }
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Ordog",
+    "religion": ["Vestige"],
+    "rank": "Archdemon",
+    "sphere": [
+      {
+        "type": "",
+        "color": "",
+        "description": ""
+      }
+    ],
+    "entries": [
+      {
+        "description": [
+          ""
+        ]
+      },
+      {
+        "tenants": [
+          ""
+        ]
+      },
+      { "domain": ["", "", ""] },
+      {
+        "astrology": {
+          "name": "",
+          "description": "",
+          "traits": ""
+        }
+      },
+      { "organizations": "" },
+      { "language": "abyssal" }
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Suanggi",
+    "religion": ["Vestige"],
+    "rank": "Archdemon",
+    "sphere": [
+      {
+        "type": "",
+        "color": "",
+        "description": ""
+      }
+    ],
+    "entries": [
+      {
+        "description": [
+          ""
+        ]
+      },
+      {
+        "tenants": [
+          ""
+        ]
+      },
+      { "domain": ["", "", ""] },
+      {
+        "astrology": {
+          "name": "",
+          "description": "",
+          "traits": ""
+        }
+      },
+      { "organizations": "" },
+      { "language": "abyssal" }
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Rusalka",
+    "religion": ["Vestige"],
+    "rank": "Archdemon",
+    "sphere": [
+      {
+        "type": "",
+        "color": "",
+        "description": ""
+      }
+    ],
+    "entries": [
+      {
+        "description": [
+          ""
+        ]
+      },
+      {
+        "tenants": [
+          ""
+        ]
+      },
+      { "domain": ["", "", ""] },
+      {
+        "astrology": {
+          "name": "",
+          "description": "",
+          "traits": ""
+        }
+      },
+      { "organizations": "" },
+      { "language": "abyssal" }
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Medijal",
+    "religion": ["Vestige"],
+    "rank": "Archdemon",
+    "sphere": [
+      {
+        "type": "",
+        "color": "",
+        "description": ""
+      }
+    ],
+    "entries": [
+      {
+        "description": [
+          ""
+        ]
+      },
+      {
+        "tenants": [
+          ""
+        ]
+      },
+      { "domain": ["", "", ""] },
+      {
+        "astrology": {
+          "name": "",
+          "description": "",
+          "traits": ""
+        }
+      },
+      { "organizations": "" },
+      { "language": "abyssal" }
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Kronkalli",
+    "religion": ["Vestige"],
+    "rank": "Archdemon",
+    "sphere": [
+      {
+        "type": "",
+        "color": "",
+        "description": ""
+      }
+    ],
+    "entries": [
+      {
+        "description": [
+          ""
+        ]
+      },
+      {
+        "tenants": [
+          ""
+        ]
+      },
+      { "domain": ["", "", ""] },
+      {
+        "astrology": {
+          "name": "",
+          "description": "",
+          "traits": ""
+        }
+      },
+      { "organizations": "" },
+      { "language": "abyssal" }
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Dzoavac",
+    "religion": ["Vestige"],
+    "rank": "Archdemon",
+    "sphere": [
+      {
+        "type": "",
+        "color": "",
+        "description": ""
+      }
+    ],
+    "entries": [
+      {
+        "description": [
+          ""
+        ]
+      },
+      {
+        "tenants": [
+          ""
+        ]
+      },
+      { "domain": ["", "", ""] },
+      {
+        "astrology": {
+          "name": "",
+          "description": "",
+          "traits": ""
+        }
+      },
+      { "organizations": "" },
+      { "language": "abyssal" }
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Esheth",
+    "religion": ["Vestige"],
+    "rank": "Archdemon",
+    "sphere": [
+      {
+        "type": "",
+        "color": "",
+        "description": ""
+      }
+    ],
+    "entries": [
+      {
+        "description": [
+          ""
+        ]
+      },
+      {
+        "tenants": [
+          ""
+        ]
+      },
+      { "domain": ["", "", ""] },
+      {
+        "astrology": {
+          "name": "",
+          "description": "",
+          "traits": ""
+        }
+      },
+      { "organizations": "" },
+      { "language": "abyssal" }
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Cimeis",
+    "religion": ["Vestige"],
+    "rank": "Archdemon",
+    "sphere": [
+      {
+        "type": "",
+        "color": "",
+        "description": ""
+      }
+    ],
+    "entries": [
+      {
+        "description": [
+          ""
+        ]
+      },
+      {
+        "tenants": [
+          ""
+        ]
+      },
+      { "domain": ["", "", ""] },
+      {
+        "astrology": {
+          "name": "",
+          "description": "",
+          "traits": ""
+        }
+      },
+      { "organizations": "" },
+      { "language": "abyssal" }
+    ]
+  },
+  {
+    "id": 0,
+    "name": "Bokavac",
+    "religion": ["Vestige"],
+    "rank": "Archdemon",
+    "sphere": [
+      {
+        "type": "",
+        "color": "",
+        "description": ""
+      }
+    ],
+    "entries": [
+      {
+        "description": [
+          ""
+        ]
+      },
+      {
+        "tenants": [
+          ""
+        ]
+      },
+      { "domain": ["", "", ""] },
+      {
+        "astrology": {
+          "name": "",
+          "description": "",
+          "traits": ""
+        }
+      },
+      { "organizations": "" },
+      { "language": "abyssal" }
+    ]
   }
 ]
