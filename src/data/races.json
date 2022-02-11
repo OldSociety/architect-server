@@ -1,1809 +1,1792 @@
-{
-  "_meta": {
-    "internalCopies": ["race"]
+[
+  {
+    "name": "Ash'a",
+    "id": 1,
+    "raceName": "Human",
+    "size": ["M"],
+    "speed": 30,
+    "sanity": 20,
+    "ability": [
+      {
+        "str": 1,
+        "dex": 1,
+        "con": 1,
+        "int": 1,
+        "wis": 1,
+        "cha": 1
+      }
+    ],
+    "age": {
+      "mature": 20,
+      "max": 100
+    },
+    "skillProficiencies": [
+      {
+        "any": 1
+      }
+    ],
+    "entries": [
+      {
+        "name": "Age",
+        "type": "entries",
+        "entries": [
+          "Humans reach adulthood in their late teens and usually live less than a century."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Size",
+        "entries": [
+          "Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium."
+        ]
+      },
+      {
+        "name": "Cling to Life",
+        "entries": [
+          "When you make a death saving throw and roll 16 or higher, you regain 1 hit point.."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Inescapable Death",
+        "entries": [
+          "You know the chill touch cantrip. When you hit a target with an attack roll and deal necrotic damage, you ignore the target's resistance to that damage."
+        ],
+        "type": "entries"
+      }
+    ]
   },
-  "race": [
-    {
-      "name": "Ash'a",
-      "id": 1,
-      "raceName": "Human",
-      "size": ["M"],
-      "speed": 30,
-      "sanity": 20,
-      "ability": [
-        {
-          "str": 1,
-          "dex": 1,
-          "con": 1,
-          "int": 1,
-          "wis": 1,
-          "cha": 1
-        }
-      ],
-      "age": {
-        "mature": 20,
-        "max": 100
-      },
-      "skillProficiencies": [
-        {
-          "any": 1
-        }
-      ],
-      "entries": [
-        {
-          "name": "Age",
-          "type": "entries",
-          "entries": [
-            "Humans reach adulthood in their late teens and usually live less than a century."
-          ]
-        },
-        {
-          "type": "entries",
-          "name": "Size",
-          "entries": [
-            "Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium."
-          ]
-        },
-        {
-          "name": "Cling to Life",
-          "entries": [
-            "When you make a death saving throw and roll 16 or higher, you regain 1 hit point.."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Inescapable Death",
-          "entries": [
-            "You know the chill touch cantrip. When you hit a target with an attack roll and deal necrotic damage, you ignore the target's resistance to that damage."
-          ],
-          "type": "entries"
-        }
-      ]
+  {
+    "name": "Nyxen",
+    "id": 2,
+    "size": ["M"],
+    "raceName": "Human",
+    "speed": 30,
+    "sanity": 20,
+    "ability": [
+      {
+        "str": 1,
+        "dex": 1,
+        "con": 1,
+        "int": 1,
+        "wis": 1,
+        "cha": 1
+      }
+    ],
+    "age": {
+      "mature": 20,
+      "max": 100
     },
-    {
-      "name": "Nyxen",
-      "id": 2,
-      "size": ["M"],
-      "raceName": "Human",
-      "speed": 30,
-      "sanity": 20,
-      "ability": [
-        {
-          "str": 1,
-          "dex": 1,
-          "con": 1,
-          "int": 1,
-          "wis": 1,
-          "cha": 1
-        }
-      ],
-      "age": {
-        "mature": 20,
-        "max": 100
+    "skillProficiencies": [
+      {
+        "any": 1
+      }
+    ],
+    "entries": [
+      {
+        "name": "Age",
+        "type": "entries",
+        "entries": [
+          "Humans reach adulthood in their late teens and usually live less than a century."
+        ]
       },
-      "skillProficiencies": [
-        {
-          "any": 1
-        }
-      ],
-      "entries": [
-        {
-          "name": "Age",
-          "type": "entries",
-          "entries": [
-            "Humans reach adulthood in their late teens and usually live less than a century."
-          ]
-        },
-        {
-          "name": "Size",
-          "type": "entries",
-          "entries": [
-            "Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium."
-          ]
-        },
-        {
-          "name": "Savage Blow",
-          "entries": [
-            "As a bonus action, when you hit a creature with a melee weapon attack, you can force the creature to succeed on a constitution saving throw or have their speed reduced to 0 until the end of their next turn. If the target fails by 5 or more, they are instead stunned for the same duration. The save DC for this attack is 10 + your proficiency bonus. Once you use this trait, you cannot do so again until you finish a long rest."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Northern Toughness",
-          "entries": [
-            "Your hit point maximum increases by 1, and it increases by 1 every time you gain a level."
-          ],
-          "type": "entries"
-        }
-      ]
+      {
+        "name": "Size",
+        "type": "entries",
+        "entries": [
+          "Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium."
+        ]
+      },
+      {
+        "name": "Savage Blow",
+        "entries": [
+          "As a bonus action, when you hit a creature with a melee weapon attack, you can force the creature to succeed on a constitution saving throw or have their speed reduced to 0 until the end of their next turn. If the target fails by 5 or more, they are instead stunned for the same duration. The save DC for this attack is 10 + your proficiency bonus. Once you use this trait, you cannot do so again until you finish a long rest."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Northern Toughness",
+        "entries": [
+          "Your hit point maximum increases by 1, and it increases by 1 every time you gain a level."
+        ],
+        "type": "entries"
+      }
+    ]
+  },
+  {
+    "name": "Siiq",
+    "id": 3,
+    "size": ["M"],
+    "raceName": "Human",
+    "speed": 30,
+    "sanity": 20,
+    "ability": [
+      {
+        "str": 1,
+        "dex": 1,
+        "con": 1,
+        "int": 1,
+        "wis": 1,
+        "cha": 1
+      }
+    ],
+    "age": {
+      "mature": 20,
+      "max": 100
     },
-    {
-      "name": "Siiq",
-      "id": 3,
-      "size": ["M"],
-      "raceName": "Human",
-      "speed": 30,
-      "sanity": 20,
-      "ability": [
-        {
-          "str": 1,
-          "dex": 1,
-          "con": 1,
-          "int": 1,
-          "wis": 1,
-          "cha": 1
-        }
-      ],
-      "age": {
-        "mature": 20,
-        "max": 100
+    "skillProficiencies": [
+      {
+        "any": 1
+      }
+    ],
+    "entries": [
+      {
+        "name": "Age",
+        "type": "entries",
+        "entries": [
+          "Humans reach adulthood in their late teens and usually live less than a century."
+        ]
       },
-      "skillProficiencies": [
-        {
-          "any": 1
-        }
-      ],
-      "entries": [
-        {
-          "name": "Age",
-          "type": "entries",
-          "entries": [
-            "Humans reach adulthood in their late teens and usually live less than a century."
-          ]
-        },
-        {
-          "name": "Size",
-          "type": "entries",
-          "entries": [
-            "Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium."
-          ]
-        },
-        {
-          "name": "Ambusher",
-          "entries": [
-            "On your first turn in combat, your movement doesn't provoke opportunity attacks, and you have advantage on attack rolls against creatures who have not yet acted."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Pack Leader",
-          "entries": [
-            "As a bonus action on your turn, you rally your allies to work in unison. Until the start of your next turn, your allies have advantage against enemies within 10 feet of you that you can see. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
-          ],
-          "type": "entries"
-        }
-      ]
+      {
+        "name": "Size",
+        "type": "entries",
+        "entries": [
+          "Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium."
+        ]
+      },
+      {
+        "name": "Ambusher",
+        "entries": [
+          "On your first turn in combat, your movement doesn't provoke opportunity attacks, and you have advantage on attack rolls against creatures who have not yet acted."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Pack Leader",
+        "entries": [
+          "As a bonus action on your turn, you rally your allies to work in unison. Until the start of your next turn, your allies have advantage against enemies within 10 feet of you that you can see. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+        ],
+        "type": "entries"
+      }
+    ]
+  },
+  {
+    "name": "Thesian",
+    "id": 4,
+    "size": ["M"],
+    "raceName": "Human",
+    "speed": 30,
+    "sanity": 20,
+    "ability": [
+      {
+        "str": 1,
+        "dex": 1,
+        "con": 1,
+        "int": 1,
+        "wis": 1,
+        "cha": 1
+      }
+    ],
+    "age": {
+      "mature": 20,
+      "max": 100
     },
-    {
-      "name": "Thesian",
-      "id": 4,
-      "size": ["M"],
-      "raceName": "Human",
-      "speed": 30,
-      "sanity": 20,
-      "ability": [
-        {
-          "str": 1,
-          "dex": 1,
-          "con": 1,
-          "int": 1,
-          "wis": 1,
-          "cha": 1
-        }
-      ],
-      "age": {
-        "mature": 20,
-        "max": 100
+    "skillProficiencies": [
+      {
+        "any": 1
+      }
+    ],
+    "entries": [
+      {
+        "name": "Age",
+        "type": "entries",
+        "entries": [
+          "Humans reach adulthood in their late teens and usually live less than a century."
+        ]
       },
-      "skillProficiencies": [
-        {
-          "any": 1
-        }
-      ],
-      "entries": [
-        {
-          "name": "Age",
-          "type": "entries",
-          "entries": [
-            "Humans reach adulthood in their late teens and usually live less than a century."
-          ]
-        },
-        {
-          "name": "Size",
-          "type": "entries",
-          "entries": [
-            "Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium."
-          ]
-        },
-        {
-          "name": "Lucky",
-          "entries": [
-            "When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Silver Tongue",
-          "entries": [
-            "You have mastered the art of persuasion. If you fail a persuasion or deception check, as long as the creature that can hear you and the two you share the same language, you can choose to succeed instead. Once you use this trait, you cannot do so again until you finish a long rest."
-          ],
-          "type": "entries"
-        }
-      ]
+      {
+        "name": "Size",
+        "type": "entries",
+        "entries": [
+          "Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium."
+        ]
+      },
+      {
+        "name": "Lucky",
+        "entries": [
+          "When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Silver Tongue",
+        "entries": [
+          "You have mastered the art of persuasion. If you fail a persuasion or deception check, as long as the creature that can hear you and the two you share the same language, you can choose to succeed instead. Once you use this trait, you cannot do so again until you finish a long rest."
+        ],
+        "type": "entries"
+      }
+    ]
+  },
+  {
+    "name": "High",
+    "id": 5,
+    "size": ["M"],
+    "raceName": "Elf",
+    "speed": 30,
+    "sanity": 18,
+    "ability": [
+      {
+        "dex": 2,
+        "int": 1
+      }
+    ],
+    "age": {
+      "mature": 30,
+      "max": 150
     },
-    {
-      "name": "High",
-      "id": 5,
-      "size": ["M"],
-      "raceName": "Elf",
-      "speed": 30,
-      "sanity": 18,
-      "ability": [
-        {
-          "dex": 2,
-          "int": 1
-        }
-      ],
-      "age": {
-        "mature": 30,
-        "max": 150
-      },
-      "darkvision": 60,
-      "skillProficiencies": [
-        {
-          "perception": true
-        }
-      ],
-      "weaponProficiencies": [
-        {
-          "longsword|phb": true,
-          "shortsword|phb": true,
-          "longbow|phb": true,
-          "shortbow|phb": true
-        }
-      ],
-      "additionalSpells": [
-        {
-          "ability": "int",
-          "known": {
-            "1": {
-              "_": [
-                {
-                  "choose": "level=0|class=Wizard"
-                }
-              ]
-            }
+    "darkvision": 60,
+    "skillProficiencies": [
+      {
+        "perception": true
+      }
+    ],
+    "weaponProficiencies": [
+      {
+        "longsword|phb": true,
+        "shortsword|phb": true,
+        "longbow|phb": true,
+        "shortbow|phb": true
+      }
+    ],
+    "additionalSpells": [
+      {
+        "ability": "int",
+        "known": {
+          "1": {
+            "_": [
+              {
+                "choose": "level=0|class=Wizard"
+              }
+            ]
           }
         }
-      ],
-      "entries": [
-        {
-          "name": "Age",
-          "type": "entries",
-          "entries": [
-            "Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood around the age of 40 and can live to be 150 years old."
-          ]
-        },
-        {
-          "type": "entries",
-          "name": "Size",
-          "entries": [
-            "Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium."
-          ]
-        },
-        {
-          "name": "Keen Senses",
-          "entries": ["You have proficiency in the {@skill Perception} skill."],
-          "type": "entries"
-        },
-        {
-          "name": "Elven Ancestry",
-          "entries": [
-            "You have advantage on saving throws against being {@condition charmed}, and magic can't put you to sleep."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Elf Weapon Training",
-          "entries": [
-            "You have proficiency with the {@item longsword|phb}, {@item shortsword|phb}, {@item shortbow|phb}, and {@item longbow|phb}."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Cantrip",
-          "entries": [
-            "You know one {@filter cantrip of your choice from the wizard spell list|spells|level=0|class=Wizard}. Intelligence is your spellcasting ability for it."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Extra Language",
-          "entries": [
-            "You can speak, read, and write one extra language of your choosing."
-          ],
-          "type": "entries"
-        }
-      ]
-    },
-    {
-      "name": "Moon",
-      "id": 6,
-      "size": ["M"],
-      "raceName": "Elf",
-      "speed": 30,
-      "sanity": 18,
-      "ability": [
-        {
-          "dex": 2,
-          "int": 1
-        }
-      ],
-      "age": {
-        "mature": 30,
-        "max": 150
+      }
+    ],
+    "entries": [
+      {
+        "name": "Age",
+        "type": "entries",
+        "entries": [
+          "Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood around the age of 40 and can live to be 150 years old."
+        ]
       },
-      "darkvision": 60,
-      "skillProficiencies": [
-        {
-          "perception": true,
-          "investigation": true
-        }
-      ],
-      "entries": [
-        {
-          "name": "Age",
-          "type": "entries",
-          "entries": [
-            "Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood around the age of 40 and can live to be 150 years old."
-          ]
-        },
-        {
-          "type": "entries",
-          "name": "Size",
-          "entries": [
-            "Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium."
-          ]
-        },
-        {
-          "name": "Keen Senses",
-          "entries": ["You have proficiency in the {@skill Perception} skill."],
-          "type": "entries"
-        },
-        {
-          "name": "Elven Ancestry",
-          "entries": [
-            "You have advantage on saving throws against being {@condition charmed}, and magic can't put you to sleep."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Incisive Sense",
-          "entries": [
-            "You have proficiency in the {@skill Investigation} skill."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Industrial Legacy",
-          "entries": [
-            "You know the {@spell mending} cantrip. Once you reach 3rd level, you can cast the {@spell identify} spell once with this trait, and you regain the ability to do so when you finish a long rest. Once you reach 5th level, you can cast the {@spell unseen servant} spell once with this trait, and you regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
-          ],
-          "type": "entries"
-        }
-      ]
-    },
-    {
-      "name": "Wood",
-      "id": 7,
-      "size": ["M"],
-      "raceName": "Elf",
-      "speed": 35,
-      "sanity": 18,
-      "ability": [
-        {
-          "dex": 2,
-          "wis": 1
-        }
-      ],
-      "age": {
-        "mature": 30,
-        "max": 150
+      {
+        "type": "entries",
+        "name": "Size",
+        "entries": [
+          "Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium."
+        ]
       },
-      "darkvision": 60,
-      "skillProficiencies": [
-        {
-          "perception": true
-        }
-      ],
-      "weaponProficiencies": [
-        {
-          "rapier|phb": true,
-          "shortsword|phb": true,
-          "hand crossbow|phb": true
-        }
-      ],
-      "entries": [
-        {
-          "name": "Age",
-          "type": "entries",
-          "entries": [
-            "Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood around the age of 40 and can live to be 150 years old."
-          ]
-        },
-        {
-          "type": "entries",
-          "name": "Size",
-          "entries": [
-            "Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium."
-          ]
-        },
-        {
-          "name": "Keen Senses",
-          "entries": ["You have proficiency in the {@skill Perception} skill."],
-          "type": "entries"
-        },
-        {
-          "name": "Elven Ancestry",
-          "entries": [
-            "You have advantage on saving throws against being {@condition charmed}, and magic can't put you to sleep."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Elf Weapon Training",
-          "entries": [
-            "You have proficiency with the {@item longsword|phb}, {@item shortsword|phb}, {@item shortbow|phb}, and {@item longbow|phb}."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Fleet of Foot",
-          "entries": ["Your base walking speed increases to 35 feet."],
-          "type": "entries"
-        },
-        {
-          "name": "Mask of the Wild",
-          "entries": [
-            "You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
-          ],
-          "type": "entries"
-        }
-      ]
-    },
-    {
-      "name": "Dark",
-      "id": 8,
-      "size": ["M"],
-      "raceName": "Elf",
-      "speed": 30,
-      "sanity": 18,
-      "ability": [
-        {
-          "dex": 2,
-          "cha": 1
-        }
-      ],
-      "age": {
-        "mature": 40,
-        "max": 200
+      {
+        "name": "Keen Senses",
+        "entries": ["You have proficiency in the {@skill Perception} skill."],
+        "type": "entries"
       },
-      "darkvision": 120,
-      "traitTags": ["Sunlight Sensitivity"],
-      "skillProficiencies": [
-        {
-          "perception": true
-        }
-      ],
-      "weaponProficiencies": [
-        {
-          "rapier|phb": true,
-          "shortsword|phb": true,
-          "hand crossbow|phb": true
-        }
-      ],
-      "additionalSpells": [
-        {
-          "innate": {
-            "3": {
-              "daily": {
-                "1": ["faerie fire"]
-              }
-            },
-            "5": {
-              "daily": {
-                "1": ["darkness"]
-              }
+      {
+        "name": "Elven Ancestry",
+        "entries": [
+          "You have advantage on saving throws against being {@condition charmed}, and magic can't put you to sleep."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Elf Weapon Training",
+        "entries": [
+          "You have proficiency with the {@item longsword|phb}, {@item shortsword|phb}, {@item shortbow|phb}, and {@item longbow|phb}."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Cantrip",
+        "entries": [
+          "You know one {@filter cantrip of your choice from the wizard spell list|spells|level=0|class=Wizard}. Intelligence is your spellcasting ability for it."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Extra Language",
+        "entries": [
+          "You can speak, read, and write one extra language of your choosing."
+        ],
+        "type": "entries"
+      }
+    ]
+  },
+  {
+    "name": "Moon",
+    "id": 6,
+    "size": ["M"],
+    "raceName": "Elf",
+    "speed": 30,
+    "sanity": 18,
+    "ability": [
+      {
+        "dex": 2,
+        "int": 1
+      }
+    ],
+    "age": {
+      "mature": 30,
+      "max": 150
+    },
+    "darkvision": 60,
+    "skillProficiencies": [
+      {
+        "perception": true,
+        "investigation": true
+      }
+    ],
+    "entries": [
+      {
+        "name": "Age",
+        "type": "entries",
+        "entries": [
+          "Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood around the age of 40 and can live to be 150 years old."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Size",
+        "entries": [
+          "Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium."
+        ]
+      },
+      {
+        "name": "Keen Senses",
+        "entries": ["You have proficiency in the {@skill Perception} skill."],
+        "type": "entries"
+      },
+      {
+        "name": "Elven Ancestry",
+        "entries": [
+          "You have advantage on saving throws against being {@condition charmed}, and magic can't put you to sleep."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Incisive Sense",
+        "entries": [
+          "You have proficiency in the {@skill Investigation} skill."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Industrial Legacy",
+        "entries": [
+          "You know the {@spell mending} cantrip. Once you reach 3rd level, you can cast the {@spell identify} spell once with this trait, and you regain the ability to do so when you finish a long rest. Once you reach 5th level, you can cast the {@spell unseen servant} spell once with this trait, and you regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
+        ],
+        "type": "entries"
+      }
+    ]
+  },
+  {
+    "name": "Wood",
+    "id": 7,
+    "size": ["M"],
+    "raceName": "Elf",
+    "speed": 35,
+    "sanity": 18,
+    "ability": [
+      {
+        "dex": 2,
+        "wis": 1
+      }
+    ],
+    "age": {
+      "mature": 30,
+      "max": 150
+    },
+    "darkvision": 60,
+    "skillProficiencies": [
+      {
+        "perception": true
+      }
+    ],
+    "weaponProficiencies": [
+      {
+        "rapier|phb": true,
+        "shortsword|phb": true,
+        "hand crossbow|phb": true
+      }
+    ],
+    "entries": [
+      {
+        "name": "Age",
+        "type": "entries",
+        "entries": [
+          "Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood around the age of 40 and can live to be 150 years old."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Size",
+        "entries": [
+          "Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium."
+        ]
+      },
+      {
+        "name": "Keen Senses",
+        "entries": ["You have proficiency in the {@skill Perception} skill."],
+        "type": "entries"
+      },
+      {
+        "name": "Elven Ancestry",
+        "entries": [
+          "You have advantage on saving throws against being {@condition charmed}, and magic can't put you to sleep."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Elf Weapon Training",
+        "entries": [
+          "You have proficiency with the {@item longsword|phb}, {@item shortsword|phb}, {@item shortbow|phb}, and {@item longbow|phb}."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Fleet of Foot",
+        "entries": ["Your base walking speed increases to 35 feet."],
+        "type": "entries"
+      },
+      {
+        "name": "Mask of the Wild",
+        "entries": [
+          "You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena."
+        ],
+        "type": "entries"
+      }
+    ]
+  },
+  {
+    "name": "Dark",
+    "id": 8,
+    "size": ["M"],
+    "raceName": "Elf",
+    "speed": 30,
+    "sanity": 18,
+    "ability": [
+      {
+        "dex": 2,
+        "cha": 1
+      }
+    ],
+    "age": {
+      "mature": 40,
+      "max": 200
+    },
+    "darkvision": 120,
+    "traitTags": ["Sunlight Sensitivity"],
+    "skillProficiencies": [
+      {
+        "perception": true
+      }
+    ],
+    "weaponProficiencies": [
+      {
+        "rapier|phb": true,
+        "shortsword|phb": true,
+        "hand crossbow|phb": true
+      }
+    ],
+    "additionalSpells": [
+      {
+        "innate": {
+          "3": {
+            "daily": {
+              "1": ["faerie fire"]
             }
           },
-          "ability": "cha",
-          "known": {
-            "1": ["dancing lights"]
+          "5": {
+            "daily": {
+              "1": ["darkness"]
+            }
           }
+        },
+        "ability": "cha",
+        "known": {
+          "1": ["dancing lights"]
         }
-      ],
-      "entries": [
-        {
-          "name": "Age",
-          "type": "entries",
-          "entries": [
-            "Although most elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood around the age of 40 and can live to be 200 years old."
-          ]
-        },
-        {
-          "type": "entries",
-          "name": "Size",
-          "entries": [
-            "Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium."
-          ]
-        },
-        {
-          "name": "Keen Senses",
-          "entries": ["You have proficiency in the {@skill Perception} skill."],
-          "type": "entries"
-        },
-        {
-          "name": "Elven Ancestry",
-          "entries": [
-            "You have advantage on saving throws against being {@condition charmed}, and magic can't put you to sleep."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Superior Darkvision",
-          "entries": [
-            "Accustomed to the depths of the underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
-          ],
-          "data": {
-            "overwrite": "Darkvision"
-          },
-          "type": "entries"
-        },
-        {
-          "name": "Light Sensitivity",
-          "entries": [
-            "You have disadvantage on Wisdom ({@skill Perception}) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Dark Magic",
-          "entries": [
-            "You know the {@spell dancing lights} cantrip. When you reach 3rd level, you can cast the {@spell faerie fire} spell once with this trait; you regain the ability to cast it when you finish a long rest. When you reach 5th level, you can also cast the {@spell darkness} spell once per day with this trait; you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Elven Weapon Training",
-          "entries": [
-            "You have proficiency with {@item rapier|phb|rapiers}, {@item shortsword|phb|shortswords}, and {@item hand crossbow|phb|hand crossbows}."
-          ],
-          "type": "entries"
-        }
-      ]
-    },
-    {
-      "name": "Sea",
-      "id": 9,
-      "size": ["M"],
-      "raceName": "Elf",
-      "speed": 30,
-      "sanity": 18,
-      "ability": [
-        {
-          "cha": 2,
-          "any": 1
-        }
-      ],
-      "age": {
-        "mature": 30,
-        "max": 150
+      }
+    ],
+    "entries": [
+      {
+        "name": "Age",
+        "type": "entries",
+        "entries": [
+          "Although most elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood around the age of 40 and can live to be 200 years old."
+        ]
       },
-      "darkvision": 60,
+      {
+        "type": "entries",
+        "name": "Size",
+        "entries": [
+          "Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium."
+        ]
+      },
+      {
+        "name": "Keen Senses",
+        "entries": ["You have proficiency in the {@skill Perception} skill."],
+        "type": "entries"
+      },
+      {
+        "name": "Elven Ancestry",
+        "entries": [
+          "You have advantage on saving throws against being {@condition charmed}, and magic can't put you to sleep."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Superior Darkvision",
+        "entries": [
+          "Accustomed to the depths of the underground, you have superior vision in dark and dim conditions. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+        ],
+        "data": {
+          "overwrite": "Darkvision"
+        },
+        "type": "entries"
+      },
+      {
+        "name": "Light Sensitivity",
+        "entries": [
+          "You have disadvantage on Wisdom ({@skill Perception}) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Dark Magic",
+        "entries": [
+          "You know the {@spell dancing lights} cantrip. When you reach 3rd level, you can cast the {@spell faerie fire} spell once with this trait; you regain the ability to cast it when you finish a long rest. When you reach 5th level, you can also cast the {@spell darkness} spell once per day with this trait; you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Elven Weapon Training",
+        "entries": [
+          "You have proficiency with {@item rapier|phb|rapiers}, {@item shortsword|phb|shortswords}, and {@item hand crossbow|phb|hand crossbows}."
+        ],
+        "type": "entries"
+      }
+    ]
+  },
+  {
+    "name": "Sea",
+    "id": 9,
+    "size": ["M"],
+    "raceName": "Elf",
+    "speed": 30,
+    "sanity": 18,
+    "ability": [
+      {
+        "cha": 2,
+        "any": 1
+      }
+    ],
+    "age": {
+      "mature": 30,
+      "max": 150
+    },
+    "darkvision": 60,
 
-      "skillProficiencies": [
-        {
-          "perception": true
-        }
-      ],
-      "entries": [
-        {
-          "name": "Age",
-          "type": "entries",
-          "entries": [
-            "Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood around the age of 40 and can live to be 150 years old."
-          ]
-        },
-        {
-          "type": "entries",
-          "name": "Size",
-          "entries": [
-            "Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium."
-          ]
-        },
-        {
-          "name": "Keen Senses",
-          "entries": ["You have proficiency in the {@skill Perception} skill."],
-          "type": "entries"
-        },
-        {
-          "name": "Elven Ancestry",
-          "entries": [
-            "You have advantage on saving throws against being {@condition charmed}, and magic can't put you to sleep."
-          ],
-          "type": "entries"
-        },
-        {
-          "type": "entries",
-          "name": "Animal Enhancement",
-          "entries": [
-            "Your body is genetically unstable and will occasionally incorporate new and unusual characteristics. You choose one enhancement now and a second enhancement at 5th level.",
-            "At 1st level, choose one of the following options:",
-            {
-              "type": "list",
-              "style": "list-hang-notitle",
-              "items": [
-                {
-                  "type": "item",
-                  "name": "Earth Walk",
-                  "entry": "You can move across difficult terrain without expending extra movement."
-                },
-                {
-                  "type": "item",
-                  "name": "Nimble Climber",
-                  "entry": "You have a climbing speed equal to your walking speed."
-                },
-                {
-                  "type": "item",
-                  "name": "Underwater Adaptation",
-                  "entry": "You can breathe air and water, and you have a swimming speed equal to your walking speed."
-                },
-                {
-                  "type": "item",
-                  "name": "Limited Telepathy",
-                  "entry": "You can send telepathic messages to any creature you can see within 30 feet of you. You don't need to share a language with the creature for it to understand these messages, but it must be able to understand at least one language. This process of communication is slow and limited, allowing you to transmit and receive only simple ideas and straightforward concepts."
-                }
-              ]
-            },
-            "At 5th level, your body evolves further, developing new characteristics. Choose one of the options you didn't take at 1st level, or one of the following options:",
-            {
-              "type": "list",
-              "style": "list-hang-notitle",
-              "items": [
-                {
-                  "type": "item",
-                  "name": "Change Appearance",
-                  "entry": "As an action, you can change your appearance and your voice. This transformation lasts for 1 hour, until you die, or until you revert to your normal appearance as a free action. You determine the specifics of the changes, including your coloration, hair length, and sex. You can also adjust your height and weight, but not so much that your size changes. You can make yourself appear as a member of another race, though none of your game statistics change. You can't duplicate the appearance of a creature you've never seen, and you must adopt a form that has the same basic arrangement of limbs that you have. Your clothing and equipment aren't changed by this trait. Once you use this trait, you can't use it again until you finish a long rest."
-                },
-                {
-                  "type": "item",
-                  "name": "Natural Armor",
-                  "entry": "You have tough, scaly skin. When you aren't wearing armor, your AC is 13 + your Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor. Furthermore, you have proficiency in athletics."
-                },
-                {
-                  "type": "item",
-                  "name": "Fury",
-                  "entry": "When you damage a single creature with an attack or a spell, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a short or long rest. Furthermore, you have proficiency in intimidation."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Half-Elf",
-      "id": 10,
-      "size": ["M"],
-      "speed": 30,
-      "sanity": 19,
-      "ability": [
-        {
-          "cha": 2,
-          "any": 1
-        }
-      ],
-      "age": {
-        "mature": 20,
-        "max": 100
+    "skillProficiencies": [
+      {
+        "perception": true
+      }
+    ],
+    "entries": [
+      {
+        "name": "Age",
+        "type": "entries",
+        "entries": [
+          "Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood around the age of 40 and can live to be 150 years old."
+        ]
       },
-      "darkvision": 60,
+      {
+        "type": "entries",
+        "name": "Size",
+        "entries": [
+          "Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium."
+        ]
+      },
+      {
+        "name": "Keen Senses",
+        "entries": ["You have proficiency in the {@skill Perception} skill."],
+        "type": "entries"
+      },
+      {
+        "name": "Elven Ancestry",
+        "entries": [
+          "You have advantage on saving throws against being {@condition charmed}, and magic can't put you to sleep."
+        ],
+        "type": "entries"
+      },
+      {
+        "type": "entries",
+        "name": "Animal Enhancement",
+        "entries": [
+          "Your body is genetically unstable and will occasionally incorporate new and unusual characteristics. You choose one enhancement now and a second enhancement at 5th level.",
+          "At 1st level, choose one of the following options:",
+          {
+            "type": "list",
+            "style": "list-hang-notitle",
+            "items": [
+              {
+                "type": "item",
+                "name": "Earth Walk",
+                "entry": "You can move across difficult terrain without expending extra movement."
+              },
+              {
+                "type": "item",
+                "name": "Nimble Climber",
+                "entry": "You have a climbing speed equal to your walking speed."
+              },
+              {
+                "type": "item",
+                "name": "Underwater Adaptation",
+                "entry": "You can breathe air and water, and you have a swimming speed equal to your walking speed."
+              },
+              {
+                "type": "item",
+                "name": "Limited Telepathy",
+                "entry": "You can send telepathic messages to any creature you can see within 30 feet of you. You don't need to share a language with the creature for it to understand these messages, but it must be able to understand at least one language. This process of communication is slow and limited, allowing you to transmit and receive only simple ideas and straightforward concepts."
+              }
+            ]
+          },
+          "At 5th level, your body evolves further, developing new characteristics. Choose one of the options you didn't take at 1st level, or one of the following options:",
+          {
+            "type": "list",
+            "style": "list-hang-notitle",
+            "items": [
+              {
+                "type": "item",
+                "name": "Change Appearance",
+                "entry": "As an action, you can change your appearance and your voice. This transformation lasts for 1 hour, until you die, or until you revert to your normal appearance as a free action. You determine the specifics of the changes, including your coloration, hair length, and sex. You can also adjust your height and weight, but not so much that your size changes. You can make yourself appear as a member of another race, though none of your game statistics change. You can't duplicate the appearance of a creature you've never seen, and you must adopt a form that has the same basic arrangement of limbs that you have. Your clothing and equipment aren't changed by this trait. Once you use this trait, you can't use it again until you finish a long rest."
+              },
+              {
+                "type": "item",
+                "name": "Natural Armor",
+                "entry": "You have tough, scaly skin. When you aren't wearing armor, your AC is 13 + your Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor. Furthermore, you have proficiency in athletics."
+              },
+              {
+                "type": "item",
+                "name": "Fury",
+                "entry": "When you damage a single creature with an attack or a spell, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a short or long rest. Furthermore, you have proficiency in intimidation."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Half-Elf",
+    "id": 10,
+    "size": ["M"],
+    "speed": 30,
+    "sanity": 19,
+    "ability": [
+      {
+        "cha": 2,
+        "any": 1
+      }
+    ],
+    "age": {
+      "mature": 20,
+      "max": 100
+    },
+    "darkvision": 60,
 
-      "skillProficiencies": [
-        {
-          "any": 2
-        }
-      ],
-      "entries": [
-        {
-          "name": "Age",
-          "type": "entries",
-          "entries": [
-            "Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood around the age of 40 and can live to be 150 years old."
-          ]
-        },
-        {
-          "type": "entries",
-          "name": "Size",
-          "entries": [
-            "Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium."
-          ]
-        },
-        {
-          "name": "Elven Ancestry",
-          "entries": [
-            "You have advantage on saving throws against being {@condition charmed}, and magic can't put you to sleep."
-          ],
-          "type": "entries"
-        },
-        {
-          "type": "inset",
-          "name": "Human-Variant Feature (Choose 1)",
-          "entries": [
-            {
-              "name": "Child of Miira",
-              "entries": [
-                "If you have the Spellcasting or the Pact Magic class feature, the spells on the Child of Miira Spells table are added to the spell list of your spellcasting class.",
-                {
-                  "type": "table",
-                  "caption": "Child of Miira Spells",
-                  "colLabels": ["Spell Level", "Spells"],
-                  "colStyles": ["col-2 text-center", "col-10"],
-                  "rows": [
-                    ["1st", "{@spell beast bond}, {@spell detect magic}"],
-                    ["2nd", "{@spell augury}, {@spell beast sense}"],
-                    ["3rd", "{@spell glyph of warding}, {@spell magic circle}"],
-                    ["4th", "{@spell aura of life}, {@spell summon elemental}"],
-                    ["5th", "{@spell summon draconic spirit}"]
-                  ]
-                }
-              ],
-              "type": "entries"
-            },
-            {
-              "name": "Silver Tongue",
-              "entries": [
-                "You have mastered the art of persuasion. If you fail a persuasion or deception check, as long as the creature that can hear you and the two you share the same language, you can choose to succeed instead. Once you use this trait, you can’t do so again until you finish a long rest."
-              ],
-              "type": "entries"
-            },
-            {
-              "name": "Death Touch",
-              "entries": [
-                "You can focus your deadly touch against your foes. As an action, make one unarmed strike. On a hit, the target takes an additional 1d10 necrotic damage. This damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10)."
-              ],
-              "type": "entries"
-            },
-            {
-              "name": "Savage Blow",
-              "entries": [
-                "As a bonus action, when you hit a creature with a melee weapon attack, you can force the creature to succeed on a constitution saving throw or have their speed reduced to 0 until the end of their next turn. If the target fails by 5 or more, they are instead stunned until the end of their next turn. The save DC for this attack is 10 + your proficiency bonus. Once you use this trait, you cannot do so again until you finish a long rest."
-              ],
-              "type": "entries"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Lynx",
-      "id": 11,
-      "size": ["S", "M"],
-      "raceName": "Furborn",
-      "speed": {
-        "walk": 30,
-        "climb": true
+    "skillProficiencies": [
+      {
+        "any": 2
+      }
+    ],
+    "entries": [
+      {
+        "name": "Age",
+        "type": "entries",
+        "entries": [
+          "Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood around the age of 40 and can live to be 150 years old."
+        ]
       },
-      "sanity": 19,
-      "ability": [
-        {
-          "dex": 2,
-          "cha": 1
-        }
-      ],
-      "age": {
-        "mature": 20,
-        "max": 100
+      {
+        "type": "entries",
+        "name": "Size",
+        "entries": [
+          "Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium."
+        ]
       },
-      "darkvision": 60,
-      "skillProficiencies": [
-        {
-          "perception": true,
-          "stealth": true
-        }
-      ],
-      "entries": [
-        {
-          "name": "Age",
-          "type": "entries",
-          "entries": [
-            "Furborn mature and age at about the same rate as humans."
-          ]
-        },
-        {
-          "name": "Size",
-          "entries": [
-            "Lynx are taller on average than humans and relatively slender. Your size is Small or Medium and you choose the size when you select this race."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Cat's Talents",
-          "entries": [
-            "You have proficiency in the {@skill Perception} and {@skill Stealth} skills."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Cat's Claws",
-          "entries": [
-            "Because of your claws, you have a climbing speed of 20 feet. In addition, your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Feline Agility",
-          "entries": [
-            "Your reflexes and agility allow you to move with a burst of speed. When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can't use it again until you move 0 feet on one of your turns."
-          ],
-          "type": "entries"
-        }
-      ]
-    },
-    {
-      "name": "Prideborn",
-      "id": 12,
-      "size": ["M"],
-      "raceName": "Furborn",
-      "speed": 30,
-      "sanity": 19,
-      "ability": [
-        {
-          "con": 2,
-          "str": 1
-        }
-      ],
-      "age": {
-        "mature": 20,
-        "max": 100
+      {
+        "name": "Elven Ancestry",
+        "entries": [
+          "You have advantage on saving throws against being {@condition charmed}, and magic can't put you to sleep."
+        ],
+        "type": "entries"
       },
-      "darkvision": 60,
-      "skillProficiencies": [
-        {
-          "choose": {
-            "from": ["athletics", "intimidation", "perception", "survival"]
-          }
-        }
-      ],
-      "entries": [
-        {
-          "name": "Age",
-          "type": "entries",
-          "entries": [
-            "Furborn mature and age at about the same rate as humans."
-          ]
-        },
-        {
-          "name": "Size",
-          "entries": [
-            "Prideborn are typically over 6 feet tall, with some standing over 7 feet. Your size is Medium."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Agressive",
-          "entries": [
-            "As a bonus action, you can move up to your movement speed toward a hostile creature you can see or hear. You must end this move closer to the enemy than you started."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Claws",
-          "entries": [
-            "Your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d8 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Daunting Roar",
-          "entries": [
-            "As a bonus action, you can let out an especially menacing roar. Creatures of your choice within 10 feet of you that can hear you must succeed on a Wisdom saving throw or become frightened of you until the end of your next turn. The DC of the save equals 8 + your proficiency bonus + your Constitution modifier. Once you use this trait, you can't use it again until you finish a short or long rest. "
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Hunter's Instincts",
-          "entries": [
-            "You have proficiency in one of the following skills of your choice: {@skill Athletics}, {@skill Intimidation}, {@skill Perception}, or {@skill Survival}."
-          ],
-          "type": "entries"
-        }
-      ]
-    },
-    {
-      "name": "Snakeskin",
-      "id": 13,
-      "size": ["M"],
-      "raceName": "Scaleborn",
-      "speed": 30,
-      "sanity": 19,
-      "ability": [
-        {
-          "int": 2,
-          "wis": 1
-        }
-      ],
-      "age": {
-        "mature": 20,
-        "max": 100
-      },
-      "skillProficiencies": [
-        {
-          "deception": true
-        }
-      ],
-      "entries": [
-        {
-          "name": "Age",
-          "type": "entries",
-          "entries": [
-            "Scaleborn mature slower than humans do, reaching maturity around age 30. Their life span is typically 100 years, with some living to age 150."
-          ]
-        },
-        {
-          "name": "Size",
-          "entries": [
-            "Skinnier in nature, Snakeskin range between 5 to 6 feet. Your size is Medium."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Viper's Dispassion",
-          "entries": [
-            "You have advantage on all Intelligence, Wisdom, and Charisma saving throws."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Genetic Memory",
-          "entries": [
-            "You temporarily remember glimpses of the past, faded memories from ancestral lives ages ago. When you make an ability check that uses a skill, you can roll a d6 immediately after seeing the number on the d20 and add the number on the d6 to the check. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Infiltrator",
-          "entries": [
-            "As a bonus action, you can let out an especially menacing roar. Creatures of your choice within 10 feet of you that can hear you must succeed on a Wisdom saving throw or become frightened of you until the end of your next turn. The DC of the save equals 8 + your proficiency bonus + your Constitution modifier. Once you use this trait, you can't use it again until you finish a short or long rest. "
-          ],
-          "type": "entries"
-        }
-      ]
-    },
-    {
-      "name": "Lizardskin",
-      "id": 14,
-      "size": ["M"],
-      "raceName": "Scaleborn",
-      "speed": {
-        "walk": 30,
-        "swim": true
-      },
-      "sanity": 19,
-      "ability": [
-        {
-          "con": 2,
-          "wis": 1
-        }
-      ],
-      "age": {
-        "mature": 20,
-        "max": 100
-      },
-      "skillProficiencies": [
-        {
-          "choose": {
-            "from": ["athletics", "intimidation", "perception", "survival"]
-          }
-        }
-      ],
-      "entries": [
-        {
-          "name": "Age",
-          "type": "entries",
-          "entries": [
-            "Furborn mature and age at about the same rate as humans."
-          ]
-        },
-        {
-          "name": "Size",
-          "entries": [
-            "Prideborn are typically over 6 feet tall, with some standing over 7 feet. Your size is Medium."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Hungry Jaws",
-          "entries": [
-            "You can throw yourself into a feeding frenzy. As a bonus action, you can make a special attack with your Bite. If the attack hits, it deals its normal damage, and you gain temporary hit points equal to your proficiency bonus. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Hold Breath",
-          "entries": [
-            "You can hold your breath for up to 15 minutes at a time."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Hunter's Instincts",
-          "entries": [
-            "You have proficiency in one of the following skills of your choice: {@skill Athletics}, {@skill Intimidation}, {@skill Perception}, or {@skill Survival}."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Natural Armor",
-          "entries": [
-            "    You have tough, scaly skin. When you aren't wearing armor, your AC is 13 + your Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor."
-          ],
-          "type": "entries"
-        }
-      ]
-    },
-    {
-      "name": "Naga",
-      "id": 15,
-      "size": ["M"],
-      "raceName": "Seaborn",
-      "speed": {
-        "walk": 30,
-        "swim": true
-      },
-      "sanity": 19,
-      "ability": [
-        {
-          "str": 1,
-          "con": 1,
-          "wis": 1
-        }
-      ],
-      "age": {
-        "mature": 15,
-        "max": 200
-      },
-      "darkvision": 120,
-      "traitTags": ["Light Sensitivity"],
-      "resist": [
-        {
-          "cold": true
-        }
-      ],
-      "weaponProficiencies": [
-        {
-          "spear": true,
-          "trident": true,
-          "light crossbow": true,
-          "net": true
-        }
-      ],
-      "entries": [
-        {
-          "name": "Age",
-          "type": "entries",
-          "entries": [
-            "Naga reach maturity around age 15 and can live up to 200 years."
-          ]
-        },
-        {
-          "name": "Size",
-          "entries": [
-            "Naga are slightly shorter than humans, averaging about 5 feet tall. Your size is Medium."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Child of the Sea",
-          "entries": [
-            "You have a swimming speed of 30 feet, and you can breathe air and water. "
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Guardian of the Depths",
-          "entries": [
-            "Adapted to even the most extreme ocean depths, you have resistance to cold damage."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Light Sensitivity",
-          "entries": [
-            "You have disadvantage on Wisdom ({@skill Perception}) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Poisonous Skin",
-          "entries": [
-            "As a bonus action, you can release a powerful toxin from your pores for 1 minute. Any creature  that grapples you or comes into direct contact with your skin must succeed on a Constitution saving throw (DC 8 + your proficiency bonus + your Constitution modifier) or become poisoned for 1 minute. A poisoned creature no longer in direct contact with you can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Once you use this trait, you can't use it again until you finish a short or long rest."
-          ],
-          "type": "entries"
-        }
-      ]
-    },
-    {
-      "name": "Sigri",
-      "id": 16,
-      "size": ["M"],
-      "raceName": "Seaborn",
-      "speed": {
-        "walk": 30,
-        "swim": true
-      },
-      "sanity": 19,
-      "ability": [
-        {
-          "str": 1,
-          "con": 1,
-          "wis": 1
-        }
-      ],
-      "age": {
-        "mature": 15,
-        "max": 100
-      },
-      "darkvision": 60,
-      "resist": [
-        {
-          "cold": true
-        }
-      ],
-      "additionalSpells": [
-        {
-          "innate": {
-            "1": {
-              "daily": {
-                "1": ["fog cloud"]
+      {
+        "type": "inset",
+        "name": "Human-Variant Feature (Choose 1)",
+        "entries": [
+          {
+            "name": "Child of Miira",
+            "entries": [
+              "If you have the Spellcasting or the Pact Magic class feature, the spells on the Child of Miira Spells table are added to the spell list of your spellcasting class.",
+              {
+                "type": "table",
+                "caption": "Child of Miira Spells",
+                "colLabels": ["Spell Level", "Spells"],
+                "colStyles": ["col-2 text-center", "col-10"],
+                "rows": [
+                  ["1st", "{@spell beast bond}, {@spell detect magic}"],
+                  ["2nd", "{@spell augury}, {@spell beast sense}"],
+                  ["3rd", "{@spell glyph of warding}, {@spell magic circle}"],
+                  ["4th", "{@spell aura of life}, {@spell summon elemental}"],
+                  ["5th", "{@spell summon draconic spirit}"]
+                ]
               }
-            },
-            "3": {
-              "daily": {
-                "1": ["gust of wind"]
-              }
-            },
-            "5": {
-              "daily": {
-                "1": ["water walk"]
-              }
-            }
+            ],
+            "type": "entries"
+          },
+          {
+            "name": "Silver Tongue",
+            "entries": [
+              "You have mastered the art of persuasion. If you fail a persuasion or deception check, as long as the creature that can hear you and the two you share the same language, you can choose to succeed instead. Once you use this trait, you can’t do so again until you finish a long rest."
+            ],
+            "type": "entries"
+          },
+          {
+            "name": "Death Touch",
+            "entries": [
+              "You can focus your deadly touch against your foes. As an action, make one unarmed strike. On a hit, the target takes an additional 1d10 necrotic damage. This damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10)."
+            ],
+            "type": "entries"
+          },
+          {
+            "name": "Savage Blow",
+            "entries": [
+              "As a bonus action, when you hit a creature with a melee weapon attack, you can force the creature to succeed on a constitution saving throw or have their speed reduced to 0 until the end of their next turn. If the target fails by 5 or more, they are instead stunned until the end of their next turn. The save DC for this attack is 10 + your proficiency bonus. Once you use this trait, you cannot do so again until you finish a long rest."
+            ],
+            "type": "entries"
           }
-        }
-      ],
-      "weaponProficiencies": [
-        {
-          "spear": true,
-          "trident": true,
-          "light crossbow": true,
-          "net": true
-        }
-      ],
-      "entries": [
-        {
-          "name": "Age",
-          "type": "entries",
-          "entries": [
-            "Sigri reach maturity around age 15 and can live up to 100 years."
-          ]
-        },
-        {
-          "name": "Size",
-          "entries": [
-            "Sigri are slightly shorter than humans, averaging about 5 feet tall. Your size is Medium."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Child of the Sea",
-          "entries": [
-            "You have a swimming speed of 30 feet, and you can breathe air and water. "
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Ocean Born",
-          "entries": ["You have resistance to cold damage."],
-          "type": "entries"
-        },
-        {
-          "name": "Control Air and Water",
-          "entries": [
-            "You can cast {@spell fog cloud} with this trait. Starting at 3rd level, you can cast the {@spell gust of wind} spell with this trait. Starting at 5th level, you can also cast the {@spell water walk} spell with it. Once you cast any of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have of the appropriate level.",
-            "Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race)."
-          ],
-          "type": "entries"
-        }
-      ]
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lynx",
+    "id": 11,
+    "size": ["S", "M"],
+    "raceName": "Furborn",
+    "speed": {
+      "walk": 30,
+      "climb": true
     },
-    {
-      "name": "Pureblood",
-      "id": 17,
-      "size": ["M"],
-      "raceName": "Stoneborn",
-      "speed": 30,
-      "sanity": 20,
-      "ability": [
-        {
-          "str": 2,
-          "con": 1
-        }
-      ],
-      "age": {
-        "mature": 20,
-        "max": 100
+    "sanity": 19,
+    "ability": [
+      {
+        "dex": 2,
+        "cha": 1
+      }
+    ],
+    "age": {
+      "mature": 20,
+      "max": 100
+    },
+    "darkvision": 60,
+    "skillProficiencies": [
+      {
+        "perception": true,
+        "stealth": true
+      }
+    ],
+    "entries": [
+      {
+        "name": "Age",
+        "type": "entries",
+        "entries": ["Furborn mature and age at about the same rate as humans."]
       },
-      "traitTags": ["Powerful Build"],
-      "skillProficiencies": [
-        {
-          "athletics": true
-        }
-      ],
-      "resist": [
-        {
-          "choose": {
-            "from": ["cold", "fire"]
-          }
-        }
-      ],
-      "entries": [
-        {
-          "name": "Age",
-          "type": "entries",
-          "entries": [
-            "Stoneborn have lifespans comparable to humans. They enter adulthood in their late teens and usually live less than a century."
-          ]
-        },
-        {
-          "type": "entries",
-          "name": "Size",
-          "entries": [
-            "Goliaths are between 6 and 7 feet tall and weigh between 280 and 340 pounds. Your size is Medium."
-          ]
-        },
-        {
-          "name": "Natural Athlete",
-          "entries": ["You have proficiency in the {@skill Athletics} skill."],
-          "type": "entries"
-        },
-        {
-          "name": "Powerful Build",
-          "entries": [
-            "You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Mountain Born",
-          "entries": [
-            "You have resistance to cold damage. You're also acclimated to high altitude, including elevations above 20,000 feet."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Desert Born",
-          "entries": [
-            "You have resistance to fire damage. This feature replaces the Mountain Born feature."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Savage Attacks",
-          "entries": [
-            "When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit."
-          ],
-          "type": "entries"
-        }
-      ]
-    },
-    {
-      "name": "Nightblood",
-      "id": 18,
-      "size": ["M"],
-      "raceName": "Stoneborn",
-      "speed": 30,
-      "sanity": 20,
-      "ability": [
-        {
-          "wis": 2,
-          "con": 1
-        }
-      ],
-      "age": {
-        "mature": 20,
-        "max": 100
+      {
+        "name": "Size",
+        "entries": [
+          "Lynx are taller on average than humans and relatively slender. Your size is Small or Medium and you choose the size when you select this race."
+        ],
+        "type": "entries"
       },
-      "traitTags": ["Powerful Build"],
-      "resist": [
-        {
-          "choose": {
-            "from": ["cold", "fire"]
-          }
-        }
-      ],
-      "entries": [
-        {
-          "name": "Age",
-          "type": "entries",
-          "entries": [
-            "Stoneborn have lifespans comparable to humans. They enter adulthood in their late teens and usually live less than a century."
-          ]
-        },
-        {
-          "type": "entries",
-          "name": "Size",
-          "entries": [
-            "Stoneborn are between 6 and 7 feet tall and weigh between 280 and 340 pounds. Your size is Medium."
-          ]
-        },
-        {
-          "name": "Black Blood Healing",
-          "entries": [
-            "The black blood that is a sign of your people's connection to Udreth-Sol boosts your natural healing. When you roll a 1 or 2 on any Hit Die you spend at the end of a short rest, you can reroll the die and must use the new roll."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Powerful Build",
-          "entries": [
-            "You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Mountain Born",
-          "entries": [
-            "You have resistance to cold damage. You're also acclimated to high altitude, including elevations above 20,000 feet."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Desert Born",
-          "entries": [
-            "You have resistance to fire damage. In hot hot, dry weather, you can survive drinking a single gallon of water a day without suffering any ill effects. This feature replaces the Mountain Born feature."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Stone's Endurance",
-          "entries": [
-            "You can focus yourself to occasionally shrug off injury. When you take damage, you can use your reaction to roll a d12. Add your Constitution modifier to the number rolled and reduce the damage by that total. After you use this trait, you can't use it again until you finish a short or long rest."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Night-blood Ceremony",
-          "entries": [
-            "You can cast protection from good and evil and ceremony with this trait, providing material components, using Wisdom as your spellcasting ability for them. Once you cast either spell, you can't cast it again with this trait until you finish a long rest."
-          ],
-          "type": "entries"
-        }
-      ]
-    },
-    {
-      "name": "Wren",
-      "id": 19,
-      "size": ["M"],
-      "raceName": "Skyborn",
-      "speed": {
-        "walk": 20,
-        "fly": 50
+      {
+        "name": "Cat's Talents",
+        "entries": [
+          "You have proficiency in the {@skill Perception} and {@skill Stealth} skills."
+        ],
+        "type": "entries"
       },
-      "sanity": 19,
-      "ability": [
-        {
-          "dex": 2,
-          "wis": 1
-        }
-      ],
-      "age": {
-        "mature": 20,
-        "max": 80
+      {
+        "name": "Cat's Claws",
+        "entries": [
+          "Because of your claws, you have a climbing speed of 20 feet. In addition, your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d6 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
+        ],
+        "type": "entries"
       },
-      "skillProficiencies": [
-        {
-          "perception": true
-        }
-      ],
-      "entries": [
-        {
-          "name": "Age",
-          "type": "entries",
-          "entries": [
-            "Skyborn have lifespans comparable to humans. They enter adulthood in their late teens and usually live into their 80s."
-          ]
-        },
-        {
-          "name": "Size",
-          "entries": [
-            "Wren range from 5 to 6 feet tall, but their bodies are slender and their bones are partially hollow to facilitate their flight. Your size is Medium."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Flight",
-          "entries": [
-            "You have a flying speed of 30 feet. You can't use your flying speed while you wear medium or heavy armor. (If your campaign uses the variant rule for encumbrance, you can't use your flying speed if you are encumbered.)"
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Hawkeyed",
-          "entries": [
-            "You have proficiency in the {@skill Perception} skill. In addition, attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls."
-          ],
-          "type": "entries"
-        }
-      ]
+      {
+        "name": "Feline Agility",
+        "entries": [
+          "Your reflexes and agility allow you to move with a burst of speed. When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can't use it again until you move 0 feet on one of your turns."
+        ],
+        "type": "entries"
+      }
+    ]
+  },
+  {
+    "name": "Prideborn",
+    "id": 12,
+    "size": ["M"],
+    "raceName": "Furborn",
+    "speed": 30,
+    "sanity": 19,
+    "ability": [
+      {
+        "con": 2,
+        "str": 1
+      }
+    ],
+    "age": {
+      "mature": 20,
+      "max": 100
     },
-    {
-      "name": "Blackwren",
-      "id": 20,
-      "size": ["S", "M"],
-      "raceName": "Skyborn",
-      "speed": 30,
-      "sanity": 19,
-      "ability": [
-        {
-          "dex": 2,
-          "wis": 1
+    "darkvision": 60,
+    "skillProficiencies": [
+      {
+        "choose": {
+          "from": ["athletics", "intimidation", "perception", "survival"]
         }
-      ],
-      "age": {
-        "mature": 20,
-        "max": 80
+      }
+    ],
+    "entries": [
+      {
+        "name": "Age",
+        "type": "entries",
+        "entries": ["Furborn mature and age at about the same rate as humans."]
       },
-      "skillProficiencies": [
-        {
-          "any": 2
-        }
-      ],
-      "entries": [
-        {
-          "name": "Age",
-          "type": "entries",
-          "entries": [
-            "Skyborn have lifespans comparable to humans. They enter adulthood in their late teens and usually live into their 80s."
-          ]
-        },
-        {
-          "name": "Size",
-          "entries": [
-            "Blackwren stand from 4 to 5 feet tall, but their bodies are slender and their bones are partially hollow to facilitate their flight. Your size is Small or Medium and you choose the size when you select this race."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Ambusher",
-          "entries": [
-            "In the first round of a combat, you have advantage on attack rolls against any creature who is surprised."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Blackwren Talents",
-          "entries": [
-            "Thanks to your supernaturally good memory, you have proficiency in two skills of your choice."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Saving Face",
-          "entries": [
-            "Blackwren are careful not to show weakness in front of their allies, for fear of losing status. If you miss with an attack roll or fail an ability check or a saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). Once you use this trait, you can't use it again until you finish a short or long rest."
-          ],
-          "type": "entries"
-        }
-      ]
+      {
+        "name": "Size",
+        "entries": [
+          "Prideborn are typically over 6 feet tall, with some standing over 7 feet. Your size is Medium."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Agressive",
+        "entries": [
+          "As a bonus action, you can move up to your movement speed toward a hostile creature you can see or hear. You must end this move closer to the enemy than you started."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Claws",
+        "entries": [
+          "Your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d8 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Daunting Roar",
+        "entries": [
+          "As a bonus action, you can let out an especially menacing roar. Creatures of your choice within 10 feet of you that can hear you must succeed on a Wisdom saving throw or become frightened of you until the end of your next turn. The DC of the save equals 8 + your proficiency bonus + your Constitution modifier. Once you use this trait, you can't use it again until you finish a short or long rest. "
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Hunter's Instincts",
+        "entries": [
+          "You have proficiency in one of the following skills of your choice: {@skill Athletics}, {@skill Intimidation}, {@skill Perception}, or {@skill Survival}."
+        ],
+        "type": "entries"
+      }
+    ]
+  },
+  {
+    "name": "Snakeskin",
+    "id": 13,
+    "size": ["M"],
+    "raceName": "Scaleborn",
+    "speed": 30,
+    "sanity": 19,
+    "ability": [
+      {
+        "int": 2,
+        "wis": 1
+      }
+    ],
+    "age": {
+      "mature": 20,
+      "max": 100
     },
-    {
-      "name": "Generation I",
-      "id": 21,
-      "size": ["M"],
-      "raceName": "Marksmen",
-      "speed": 30,
-      "sanity": 17,
-      "ability": [
-        {
-          "con": 2,
-          "str": 1
-        }
-      ],
-      "skillProficiencies": [
-        {
-          "any": 1
-        }
-      ],
-      "toolProficiencies": [
-        {
-          "any": 1
-        }
-      ],
-      "resist": ["poison"],
-      "conditionImmune": ["disease"],
-      "entries": [
-        {
-          "name": "Age",
-          "type": "entries",
-          "entries": [
-            "Potential Marksmen can start their new life at any time after racial maturity. Once the process is complete, Marksmen have shown no sign of deterioration due to age. You are immune to magical aging effects."
-          ]
-        },
-        {
-          "name": "Size",
-          "entries": [
-            "Most Marksmen stand between 5 and 6½ feet tall. Build is affected by your subrace. Your size is Medium."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Elven Tech",
-          "entries": [
-            "As an artificial race, you do not study a spell book or cast spells. Instead, you work with your tools and create the specialized items you'll use to produce your spell-like effects. You are unable to use potions and scrolls but not from utilizing other advanced tech."
-          ],
-          "type": "entries"
-        },
-        {
-          "type": "entries",
-          "name": "Constructed Resilience",
-          "entries": [
-            "You were created to have remarkable fortitude and have advantage on saving throws against being {@condition poisoned}, and you have resistance to poison damage."
-          ]
-        },
-        {
-          "name": "Integrated Protection",
-          "entries": [
-            "Your body has built-in defensive layers, which give you a +1 bonus to Armor Class."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Specialized Design",
-          "entries": [
-            "You gain one skill proficiency and one tool proficiency of your choice."
-          ],
-          "type": "entries"
-        }
-      ]
+    "skillProficiencies": [
+      {
+        "deception": true
+      }
+    ],
+    "entries": [
+      {
+        "name": "Age",
+        "type": "entries",
+        "entries": [
+          "Scaleborn mature slower than humans do, reaching maturity around age 30. Their life span is typically 100 years, with some living to age 150."
+        ]
+      },
+      {
+        "name": "Size",
+        "entries": [
+          "Skinnier in nature, Snakeskin range between 5 to 6 feet. Your size is Medium."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Viper's Dispassion",
+        "entries": [
+          "You have advantage on all Intelligence, Wisdom, and Charisma saving throws."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Genetic Memory",
+        "entries": [
+          "You temporarily remember glimpses of the past, faded memories from ancestral lives ages ago. When you make an ability check that uses a skill, you can roll a d6 immediately after seeing the number on the d20 and add the number on the d6 to the check. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Infiltrator",
+        "entries": [
+          "As a bonus action, you can let out an especially menacing roar. Creatures of your choice within 10 feet of you that can hear you must succeed on a Wisdom saving throw or become frightened of you until the end of your next turn. The DC of the save equals 8 + your proficiency bonus + your Constitution modifier. Once you use this trait, you can't use it again until you finish a short or long rest. "
+        ],
+        "type": "entries"
+      }
+    ]
+  },
+  {
+    "name": "Lizardskin",
+    "id": 14,
+    "size": ["M"],
+    "raceName": "Scaleborn",
+    "speed": {
+      "walk": 30,
+      "swim": true
     },
-    {
-      "name": "Generation II",
-      "id": 22,
-      "size": ["M"],
-      "raceName": "Marksmen",
-      "speed": 30,
-      "sanity": 17,
-      "ability": [
-        {
-          "con": 2,
-          "str": 1
-        }
-      ],
-      "resist": [
-        {
-          "choose": ["force, lightning, radiant, thunder"]
-        }
-      ],
-      "conditionImmune": ["disease"],
-      "entries": [
-        {
-          "name": "Age",
-          "type": "entries",
-          "entries": [
-            "Potential Marksmen can start their new life at any time after racial maturity. Once the process is complete, Marksmen have shown no sign of deterioration due to age. You are immune to magical aging effects."
-          ]
-        },
-        {
-          "name": "Size",
-          "entries": [
-            "Most Marksmen stand between 5 and 6½ feet tall. Build is affected by your subrace. Your size is Medium."
-          ],
-          "type": "entries"
-        },
-        {
-          "type": "entries",
-          "name": "Elemental Configuration",
-          "entries": [
-            "Choose one damage type from force, lightning, radiant, or thunder. This determines the damage types of other traits below."
-          ]
-        },
-        {
-          "type": "entries",
-          "name": "Concussion Beam",
-          "entries": [
-            "When you take the {@action Attack} action, you can replace one of your attacks with a blast of energy from your arm in a 30-foot line that is 5 feet wide. Each creature in the area must make a Dexterity saving throw against a DC equal to 8 + your Constitution modifier + your proficiency bonus. A creature takes {@dice 2d8} damage of the type associated with your Elemental Configuration on a failed save, and half as much damage on a successful one. This damage increases by {@dice 1d8} when you reach 5th level ({@dice 3d8}), 11th level ({@dice 4d8}), and 17th level ({@dice 5d8}).",
-            "You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
-          ]
-        },
-        {
-          "type": "entries",
-          "name": "Integrated Resistance",
-          "entries": [
-            "You have resistance to the damage type associated with your Elemental Configuration. Furthermore, starting at 5th level, as an action, you can create an energy shield to protect yourself. For 1 minute, you become immune to the damage type associated with your Elemental Configuration. Once you use this trait, you can't do so again until you finish a long rest."
-          ]
-        }
-      ]
+    "sanity": 19,
+    "ability": [
+      {
+        "con": 2,
+        "wis": 1
+      }
+    ],
+    "age": {
+      "mature": 20,
+      "max": 100
     },
-    {
-      "name": "Generation III",
-      "id": 23,
-      "size": ["M"],
-      "raceName": "Marksmen",
-      "speed": 30,
-      "sanity": 17,
-      "ability": [
-        {
-          "con": 2,
-          "str": 1
+    "skillProficiencies": [
+      {
+        "choose": {
+          "from": ["athletics", "intimidation", "perception", "survival"]
         }
-      ],
-      "conditionImmune": ["disease"],
-      "additionalSpells": [
-        {
-          "innate": {
-            "3": {
-              "daily": {
-                "1": ["silence"]
-              }
-            },
-            "5": {
-              "daily": {
-                "1": ["dispel magic"]
-              }
+      }
+    ],
+    "entries": [
+      {
+        "name": "Age",
+        "type": "entries",
+        "entries": ["Furborn mature and age at about the same rate as humans."]
+      },
+      {
+        "name": "Size",
+        "entries": [
+          "Prideborn are typically over 6 feet tall, with some standing over 7 feet. Your size is Medium."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Hungry Jaws",
+        "entries": [
+          "You can throw yourself into a feeding frenzy. As a bonus action, you can make a special attack with your Bite. If the attack hits, it deals its normal damage, and you gain temporary hit points equal to your proficiency bonus. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Hold Breath",
+        "entries": ["You can hold your breath for up to 15 minutes at a time."],
+        "type": "entries"
+      },
+      {
+        "name": "Hunter's Instincts",
+        "entries": [
+          "You have proficiency in one of the following skills of your choice: {@skill Athletics}, {@skill Intimidation}, {@skill Perception}, or {@skill Survival}."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Natural Armor",
+        "entries": [
+          "    You have tough, scaly skin. When you aren't wearing armor, your AC is 13 + your Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor."
+        ],
+        "type": "entries"
+      }
+    ]
+  },
+  {
+    "name": "Naga",
+    "id": 15,
+    "size": ["M"],
+    "raceName": "Seaborn",
+    "speed": {
+      "walk": 30,
+      "swim": true
+    },
+    "sanity": 19,
+    "ability": [
+      {
+        "str": 1,
+        "con": 1,
+        "wis": 1
+      }
+    ],
+    "age": {
+      "mature": 15,
+      "max": 200
+    },
+    "darkvision": 120,
+    "traitTags": ["Light Sensitivity"],
+    "resist": [
+      {
+        "cold": true
+      }
+    ],
+    "weaponProficiencies": [
+      {
+        "spear": true,
+        "trident": true,
+        "light crossbow": true,
+        "net": true
+      }
+    ],
+    "entries": [
+      {
+        "name": "Age",
+        "type": "entries",
+        "entries": [
+          "Naga reach maturity around age 15 and can live up to 200 years."
+        ]
+      },
+      {
+        "name": "Size",
+        "entries": [
+          "Naga are slightly shorter than humans, averaging about 5 feet tall. Your size is Medium."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Child of the Sea",
+        "entries": [
+          "You have a swimming speed of 30 feet, and you can breathe air and water. "
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Guardian of the Depths",
+        "entries": [
+          "Adapted to even the most extreme ocean depths, you have resistance to cold damage."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Light Sensitivity",
+        "entries": [
+          "You have disadvantage on Wisdom ({@skill Perception}) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Poisonous Skin",
+        "entries": [
+          "As a bonus action, you can release a powerful toxin from your pores for 1 minute. Any creature  that grapples you or comes into direct contact with your skin must succeed on a Constitution saving throw (DC 8 + your proficiency bonus + your Constitution modifier) or become poisoned for 1 minute. A poisoned creature no longer in direct contact with you can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Once you use this trait, you can't use it again until you finish a short or long rest."
+        ],
+        "type": "entries"
+      }
+    ]
+  },
+  {
+    "name": "Sigri",
+    "id": 16,
+    "size": ["M"],
+    "raceName": "Seaborn",
+    "speed": {
+      "walk": 30,
+      "swim": true
+    },
+    "sanity": 19,
+    "ability": [
+      {
+        "str": 1,
+        "con": 1,
+        "wis": 1
+      }
+    ],
+    "age": {
+      "mature": 15,
+      "max": 100
+    },
+    "darkvision": 60,
+    "resist": [
+      {
+        "cold": true
+      }
+    ],
+    "additionalSpells": [
+      {
+        "innate": {
+          "1": {
+            "daily": {
+              "1": ["fog cloud"]
             }
           },
-          "ability": "cha",
-          "known": {
-            "1": ["true strike#c"]
+          "3": {
+            "daily": {
+              "1": ["gust of wind"]
+            }
+          },
+          "5": {
+            "daily": {
+              "1": ["water walk"]
+            }
           }
         }
-      ],
-      "entries": [
-        {
-          "name": "Age",
-          "type": "entries",
-          "entries": [
-            "Potential Marksmen can start their new life at any time after racial maturity. Once the process is complete, Marksmen have shown no sign of deterioration due to age. You are immune to magical aging effects."
-          ]
-        },
-        {
-          "name": "Size",
-          "entries": [
-            "Most Marksmen stand between 5 and 6½ feet tall. Build is affected by your subrace. Your size is Medium."
-          ],
-          "type": "entries"
-        },
-        {
-          "name": "Elven Tech",
-          "entries": [
-            "As an artificial race, you do not study a spell book or cast spells. Instead, you work with your tools and create the specialized items you'll use to produce your spell-like effects. You are unable to use potions and scrolls but not from utilizing other advanced tech."
-          ],
-          "type": "entries"
-        },
-        {
-          "type": "entries",
-          "name": "Magician's Judge",
-          "entries": [
-            " You know the true strike cantrip. Once you reach 3rd level, you can cast the {@spell silence} spell as a 2nd-level spell; you must finish a long rest in order to cast the spell again using this trait. Once you reach 5th level, you can also cast the {@spell dispel magic} spell; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells."
-          ]
-        },
-        {
-          "name": "Automated Serenity",
-          "entries": [
-            "You have advantage on saving throws against being charmed or frightened."
-          ],
-          "type": "entries"
-        },
-        {
-					"type": "entries",
-					"name": "Automated Defense",
-					"entries": [
-						"You activate a force field as an action. You gain a +4 bonus to AC, and you have advantage on Strength and Constitution saving throws. While the shield is active, your speed is 0 and can't increase, you have disadvantage on Dexterity saving throws, you can not take reactions, and the only action you can take is a bonus action to release the field."
-					]
-				}
-      ]
+      }
+    ],
+    "weaponProficiencies": [
+      {
+        "spear": true,
+        "trident": true,
+        "light crossbow": true,
+        "net": true
+      }
+    ],
+    "entries": [
+      {
+        "name": "Age",
+        "type": "entries",
+        "entries": [
+          "Sigri reach maturity around age 15 and can live up to 100 years."
+        ]
+      },
+      {
+        "name": "Size",
+        "entries": [
+          "Sigri are slightly shorter than humans, averaging about 5 feet tall. Your size is Medium."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Child of the Sea",
+        "entries": [
+          "You have a swimming speed of 30 feet, and you can breathe air and water. "
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Ocean Born",
+        "entries": ["You have resistance to cold damage."],
+        "type": "entries"
+      },
+      {
+        "name": "Control Air and Water",
+        "entries": [
+          "You can cast {@spell fog cloud} with this trait. Starting at 3rd level, you can cast the {@spell gust of wind} spell with this trait. Starting at 5th level, you can also cast the {@spell water walk} spell with it. Once you cast any of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have of the appropriate level.",
+          "Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race)."
+        ],
+        "type": "entries"
+      }
+    ]
+  },
+  {
+    "name": "Pureblood",
+    "id": 17,
+    "size": ["M"],
+    "raceName": "Stoneborn",
+    "speed": 30,
+    "sanity": 20,
+    "ability": [
+      {
+        "str": 2,
+        "con": 1
+      }
+    ],
+    "age": {
+      "mature": 20,
+      "max": 100
     },
-    {
-      "name": "Unmarked",
-      "id": 24,
-      "creatureTypes": [
-				"construct"
-			],
-      "size": ["M"],
-      "speed": 30,
-      "sanity": 16,
-      "ability": [
-        {
-          "int": 2,
-          "cha": 1
+    "traitTags": ["Powerful Build"],
+    "skillProficiencies": [
+      {
+        "athletics": true
+      }
+    ],
+    "resist": [
+      {
+        "choose": {
+          "from": ["cold", "fire"]
         }
-      ],
-      "darkvision": 60,
-      "skillProficiencies": [
-        {
-          "choose": {
-            "from": ["arcana", "history", "nature", "religion"]
+      }
+    ],
+    "entries": [
+      {
+        "name": "Age",
+        "type": "entries",
+        "entries": [
+          "Stoneborn have lifespans comparable to humans. They enter adulthood in their late teens and usually live less than a century."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Size",
+        "entries": [
+          "Goliaths are between 6 and 7 feet tall and weigh between 280 and 340 pounds. Your size is Medium."
+        ]
+      },
+      {
+        "name": "Natural Athlete",
+        "entries": ["You have proficiency in the {@skill Athletics} skill."],
+        "type": "entries"
+      },
+      {
+        "name": "Powerful Build",
+        "entries": [
+          "You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Mountain Born",
+        "entries": [
+          "You have resistance to cold damage. You're also acclimated to high altitude, including elevations above 20,000 feet."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Desert Born",
+        "entries": [
+          "You have resistance to fire damage. This feature replaces the Mountain Born feature."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Savage Attacks",
+        "entries": [
+          "When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit."
+        ],
+        "type": "entries"
+      }
+    ]
+  },
+  {
+    "name": "Nightblood",
+    "id": 18,
+    "size": ["M"],
+    "raceName": "Stoneborn",
+    "speed": 30,
+    "sanity": 20,
+    "ability": [
+      {
+        "wis": 2,
+        "con": 1
+      }
+    ],
+    "age": {
+      "mature": 20,
+      "max": 100
+    },
+    "traitTags": ["Powerful Build"],
+    "resist": [
+      {
+        "choose": {
+          "from": ["cold", "fire"]
+        }
+      }
+    ],
+    "entries": [
+      {
+        "name": "Age",
+        "type": "entries",
+        "entries": [
+          "Stoneborn have lifespans comparable to humans. They enter adulthood in their late teens and usually live less than a century."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Size",
+        "entries": [
+          "Stoneborn are between 6 and 7 feet tall and weigh between 280 and 340 pounds. Your size is Medium."
+        ]
+      },
+      {
+        "name": "Black Blood Healing",
+        "entries": [
+          "The black blood that is a sign of your people's connection to Udreth-Sol boosts your natural healing. When you roll a 1 or 2 on any Hit Die you spend at the end of a short rest, you can reroll the die and must use the new roll."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Powerful Build",
+        "entries": [
+          "You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Mountain Born",
+        "entries": [
+          "You have resistance to cold damage. You're also acclimated to high altitude, including elevations above 20,000 feet."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Desert Born",
+        "entries": [
+          "You have resistance to fire damage. In hot hot, dry weather, you can survive drinking a single gallon of water a day without suffering any ill effects. This feature replaces the Mountain Born feature."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Stone's Endurance",
+        "entries": [
+          "You can focus yourself to occasionally shrug off injury. When you take damage, you can use your reaction to roll a d12. Add your Constitution modifier to the number rolled and reduce the damage by that total. After you use this trait, you can't use it again until you finish a short or long rest."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Night-blood Ceremony",
+        "entries": [
+          "You can cast protection from good and evil and ceremony with this trait, providing material components, using Wisdom as your spellcasting ability for them. Once you cast either spell, you can't cast it again with this trait until you finish a long rest."
+        ],
+        "type": "entries"
+      }
+    ]
+  },
+  {
+    "name": "Wren",
+    "id": 19,
+    "size": ["M"],
+    "raceName": "Skyborn",
+    "speed": {
+      "walk": 20,
+      "fly": 50
+    },
+    "sanity": 19,
+    "ability": [
+      {
+        "dex": 2,
+        "wis": 1
+      }
+    ],
+    "age": {
+      "mature": 20,
+      "max": 80
+    },
+    "skillProficiencies": [
+      {
+        "perception": true
+      }
+    ],
+    "entries": [
+      {
+        "name": "Age",
+        "type": "entries",
+        "entries": [
+          "Skyborn have lifespans comparable to humans. They enter adulthood in their late teens and usually live into their 80s."
+        ]
+      },
+      {
+        "name": "Size",
+        "entries": [
+          "Wren range from 5 to 6 feet tall, but their bodies are slender and their bones are partially hollow to facilitate their flight. Your size is Medium."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Flight",
+        "entries": [
+          "You have a flying speed of 30 feet. You can't use your flying speed while you wear medium or heavy armor. (If your campaign uses the variant rule for encumbrance, you can't use your flying speed if you are encumbered.)"
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Hawkeyed",
+        "entries": [
+          "You have proficiency in the {@skill Perception} skill. In addition, attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls."
+        ],
+        "type": "entries"
+      }
+    ]
+  },
+  {
+    "name": "Blackwren",
+    "id": 20,
+    "size": ["S", "M"],
+    "raceName": "Skyborn",
+    "speed": 30,
+    "sanity": 19,
+    "ability": [
+      {
+        "dex": 2,
+        "wis": 1
+      }
+    ],
+    "age": {
+      "mature": 20,
+      "max": 80
+    },
+    "skillProficiencies": [
+      {
+        "any": 2
+      }
+    ],
+    "entries": [
+      {
+        "name": "Age",
+        "type": "entries",
+        "entries": [
+          "Skyborn have lifespans comparable to humans. They enter adulthood in their late teens and usually live into their 80s."
+        ]
+      },
+      {
+        "name": "Size",
+        "entries": [
+          "Blackwren stand from 4 to 5 feet tall, but their bodies are slender and their bones are partially hollow to facilitate their flight. Your size is Small or Medium and you choose the size when you select this race."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Ambusher",
+        "entries": [
+          "In the first round of a combat, you have advantage on attack rolls against any creature who is surprised."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Blackwren Talents",
+        "entries": [
+          "Thanks to your supernaturally good memory, you have proficiency in two skills of your choice."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Saving Face",
+        "entries": [
+          "Blackwren are careful not to show weakness in front of their allies, for fear of losing status. If you miss with an attack roll or fail an ability check or a saving throw, you can gain a bonus to the roll equal to the number of allies you can see within 30 feet of you (maximum bonus of +5). Once you use this trait, you can't use it again until you finish a short or long rest."
+        ],
+        "type": "entries"
+      }
+    ]
+  },
+  {
+    "name": "Generation I",
+    "id": 21,
+    "size": ["M"],
+    "raceName": "Marksmen",
+    "speed": 30,
+    "sanity": 17,
+    "ability": [
+      {
+        "con": 2,
+        "str": 1
+      }
+    ],
+    "skillProficiencies": [
+      {
+        "any": 1
+      }
+    ],
+    "toolProficiencies": [
+      {
+        "any": 1
+      }
+    ],
+    "resist": ["poison"],
+    "conditionImmune": ["disease"],
+    "entries": [
+      {
+        "name": "Age",
+        "type": "entries",
+        "entries": [
+          "Potential Marksmen can start their new life at any time after racial maturity. Once the process is complete, Marksmen have shown no sign of deterioration due to age. You are immune to magical aging effects."
+        ]
+      },
+      {
+        "name": "Size",
+        "entries": [
+          "Most Marksmen stand between 5 and 6½ feet tall. Build is affected by your subrace. Your size is Medium."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Elven Tech",
+        "entries": [
+          "As an artificial race, you do not study a spell book or cast spells. Instead, you work with your tools and create the specialized items you'll use to produce your spell-like effects. You are unable to use potions and scrolls but not from utilizing other advanced tech."
+        ],
+        "type": "entries"
+      },
+      {
+        "type": "entries",
+        "name": "Constructed Resilience",
+        "entries": [
+          "You were created to have remarkable fortitude and have advantage on saving throws against being {@condition poisoned}, and you have resistance to poison damage."
+        ]
+      },
+      {
+        "name": "Integrated Protection",
+        "entries": [
+          "Your body has built-in defensive layers, which give you a +1 bonus to Armor Class."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Specialized Design",
+        "entries": [
+          "You gain one skill proficiency and one tool proficiency of your choice."
+        ],
+        "type": "entries"
+      }
+    ]
+  },
+  {
+    "name": "Generation II",
+    "id": 22,
+    "size": ["M"],
+    "raceName": "Marksmen",
+    "speed": 30,
+    "sanity": 17,
+    "ability": [
+      {
+        "con": 2,
+        "str": 1
+      }
+    ],
+    "resist": [
+      {
+        "choose": ["force, lightning, radiant, thunder"]
+      }
+    ],
+    "conditionImmune": ["disease"],
+    "entries": [
+      {
+        "name": "Age",
+        "type": "entries",
+        "entries": [
+          "Potential Marksmen can start their new life at any time after racial maturity. Once the process is complete, Marksmen have shown no sign of deterioration due to age. You are immune to magical aging effects."
+        ]
+      },
+      {
+        "name": "Size",
+        "entries": [
+          "Most Marksmen stand between 5 and 6½ feet tall. Build is affected by your subrace. Your size is Medium."
+        ],
+        "type": "entries"
+      },
+      {
+        "type": "entries",
+        "name": "Elemental Configuration",
+        "entries": [
+          "Choose one damage type from force, lightning, radiant, or thunder. This determines the damage types of other traits below."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Concussion Beam",
+        "entries": [
+          "When you take the {@action Attack} action, you can replace one of your attacks with a blast of energy from your arm in a 30-foot line that is 5 feet wide. Each creature in the area must make a Dexterity saving throw against a DC equal to 8 + your Constitution modifier + your proficiency bonus. A creature takes {@dice 2d8} damage of the type associated with your Elemental Configuration on a failed save, and half as much damage on a successful one. This damage increases by {@dice 1d8} when you reach 5th level ({@dice 3d8}), 11th level ({@dice 4d8}), and 17th level ({@dice 5d8}).",
+          "You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Integrated Resistance",
+        "entries": [
+          "You have resistance to the damage type associated with your Elemental Configuration. Furthermore, starting at 5th level, as an action, you can create an energy shield to protect yourself. For 1 minute, you become immune to the damage type associated with your Elemental Configuration. Once you use this trait, you can't do so again until you finish a long rest."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Generation III",
+    "id": 23,
+    "size": ["M"],
+    "raceName": "Marksmen",
+    "speed": 30,
+    "sanity": 17,
+    "ability": [
+      {
+        "con": 2,
+        "str": 1
+      }
+    ],
+    "conditionImmune": ["disease"],
+    "additionalSpells": [
+      {
+        "innate": {
+          "3": {
+            "daily": {
+              "1": ["silence"]
+            }
+          },
+          "5": {
+            "daily": {
+              "1": ["dispel magic"]
+            }
           }
+        },
+        "ability": "cha",
+        "known": {
+          "1": ["true strike#c"]
         }
-      ],
-      "entries": [
-        {
-          "name": "Age",
-          "type": "entries",
-          "entries": [
-            "The Unmarked have no memory of their exact age and have shown no signs of deterioration due to age. You are immune to magical aging effects."
-          ]
-        },
-        {
-          "name": "Size",
-          "entries": [
-            "Unmarked are created in the image of elves and share the same average height and weight. Your size is Medium."
-          ],
-          "type": "entries"
-        },
-				{
-					"type": "entries",
-					"name": "Creature Type",
-					"entries": [
-						"You are a Construct."
-					]
-				},
-        {
-          "name": "Elven Tech",
-          "entries": [
-            "As an artificial race, you do not study a spell book or cast spells. Instead, you work with your tools and create the specialized items you'll use to produce your spell-like effects. You are unable to use potions and scrolls but not from utilizing other advanced tech."
-          ],
-          "type": "entries"
-        },
-				{
-					"type": "entries",
-					"name": "Constructed Resilience",
-					"entries": [
-						"You were created to have remarkable fortitude, represented by the following benefits:",
-						{
-							"type": "list",
-							"items": [
-								"You have advantage on saving throws against being {@condition poisoned}, and you have resistance to poison damage.",
-								"You don't need to eat, drink, or breathe.",
-								"You are immune to disease.",
-								"You don't need to sleep, and magic can't put you to sleep."
-							]
-						}
-					]
-				},
-        {
-					"name": "Tireless Precision",
-					"entries": [
-						"You are proficient in one of the following skills of your choice: {@skill Arcana}, {@skill History}, {@skill Investigation}, {@skill Medicine}, {@skill Performance}, or {@skill Sleight of Hand}.  You are also proficient with one {@book tool|phb|5|tools} of your choice.",
-						"Whenever you make an ability check with the chosen skill or tool, roll a {@dice d4} and add the number rolled to the check's total."
-					],
-					"type": "entries"
-				},
-				{
-					"name": "Artificial Intelligence",
-					"entries": [
-						"You have advantage on all Wisdom saving throws."
-					],
-					"type": "entries"
-				},
-				{
-					"type": "entries",
-					"name": "Sentry's Rest",
-					"entries": [
-						"When you take a long rest, you spend at least 6 hours in an inactive, motionless state, instead of sleeping. In this state, you appear inert, but you aren't {@condition unconscious}."
-					]
-				}
-      ]
-    }
-  ]
-}
+      }
+    ],
+    "entries": [
+      {
+        "name": "Age",
+        "type": "entries",
+        "entries": [
+          "Potential Marksmen can start their new life at any time after racial maturity. Once the process is complete, Marksmen have shown no sign of deterioration due to age. You are immune to magical aging effects."
+        ]
+      },
+      {
+        "name": "Size",
+        "entries": [
+          "Most Marksmen stand between 5 and 6½ feet tall. Build is affected by your subrace. Your size is Medium."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Elven Tech",
+        "entries": [
+          "As an artificial race, you do not study a spell book or cast spells. Instead, you work with your tools and create the specialized items you'll use to produce your spell-like effects. You are unable to use potions and scrolls but not from utilizing other advanced tech."
+        ],
+        "type": "entries"
+      },
+      {
+        "type": "entries",
+        "name": "Magician's Judge",
+        "entries": [
+          " You know the true strike cantrip. Once you reach 3rd level, you can cast the {@spell silence} spell as a 2nd-level spell; you must finish a long rest in order to cast the spell again using this trait. Once you reach 5th level, you can also cast the {@spell dispel magic} spell; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells."
+        ]
+      },
+      {
+        "name": "Automated Serenity",
+        "entries": [
+          "You have advantage on saving throws against being charmed or frightened."
+        ],
+        "type": "entries"
+      },
+      {
+        "type": "entries",
+        "name": "Automated Defense",
+        "entries": [
+          "You activate a force field as an action. You gain a +4 bonus to AC, and you have advantage on Strength and Constitution saving throws. While the shield is active, your speed is 0 and can't increase, you have disadvantage on Dexterity saving throws, you can not take reactions, and the only action you can take is a bonus action to release the field."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Unmarked",
+    "id": 24,
+    "creatureTypes": ["construct"],
+    "size": ["M"],
+    "speed": 30,
+    "sanity": 16,
+    "ability": [
+      {
+        "int": 2,
+        "cha": 1
+      }
+    ],
+    "darkvision": 60,
+    "skillProficiencies": [
+      {
+        "choose": {
+          "from": ["arcana", "history", "nature", "religion"]
+        }
+      }
+    ],
+    "resist": ["poison"],
+    "conditionImmune": ["disease"],
+    "entries": [
+      {
+        "name": "Age",
+        "type": "entries",
+        "entries": [
+          "The Unmarked have no memory of their exact age and have shown no signs of deterioration due to age. You are immune to magical aging effects."
+        ]
+      },
+      {
+        "name": "Size",
+        "entries": [
+          "Unmarked are created in the image of elves and share the same average height and weight. Your size is Medium."
+        ],
+        "type": "entries"
+      },
+      {
+        "type": "entries",
+        "name": "Creature Type",
+        "entries": ["You are a Construct."]
+      },
+      {
+        "name": "Elven Tech",
+        "entries": [
+          "As an artificial race, you do not study a spell book or cast spells. Instead, you work with your tools and create the specialized items you'll use to produce your spell-like effects. You are unable to use potions and scrolls but not from utilizing other advanced tech."
+        ],
+        "type": "entries"
+      },
+      {
+        "type": "entries",
+        "name": "Constructed Resilience",
+        "entries": [
+          "You were created to have remarkable fortitude, represented by the following benefits:",
+          {
+            "type": "list",
+            "items": [
+              "You have advantage on saving throws against being {@condition poisoned}, and you have resistance to poison damage.",
+              "You don't need to eat, drink, or breathe.",
+              "You are immune to disease.",
+              "You don't need to sleep, and magic can't put you to sleep."
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Tireless Precision",
+        "entries": [
+          "You are proficient in one of the following skills of your choice: {@skill Arcana}, {@skill History}, {@skill Investigation}, {@skill Medicine}, {@skill Performance}, or {@skill Sleight of Hand}.  You are also proficient with one tool of your choice.",
+          "Whenever you make an ability check with the chosen skill or tool, roll a {@dice d4} and add the number rolled to the check's total."
+        ],
+        "type": "entries"
+      },
+      {
+        "name": "Artificial Intelligence",
+        "entries": ["You have advantage on all Wisdom saving throws."],
+        "type": "entries"
+      },
+      {
+        "type": "entries",
+        "name": "Sentry's Rest",
+        "entries": [
+          "When you take a long rest, you spend at least 6 hours in an inactive, motionless state, instead of sleeping. In this state, you appear inert, but you aren't {@condition unconscious}."
+        ]
+      }
+    ]
+  }
+]
