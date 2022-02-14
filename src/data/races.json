@@ -25,12 +25,28 @@
         "any": 1
       }
     ],
+    "additionalSpells": [
+      {
+        "known": {
+          "1": {
+            "-": ["druidcraft"],
+            "1": ["beast bond", "detect magic"],
+            "2": ["augury", "beast sense"],
+            "3": ["glyph of warding", "magic circle"],
+            "4": ["aura of life", "summon elemental"],
+            "5": ["summon draconic spirit"]
+          }
+        }
+      }
+    ],
     "entries": [
       {
         "name": "Description",
         "type": "entries",
         "entries": [
-          "I am from Ash'ahla."
+          "Descendants of the first humans to cross the shores of Ash'ahla, the Ash'a are a fiercely pious people with a deep connection to Meridian's magic.",
+          "Enamored with Ash'ahla's many wonders and enchanted by its immortal god-Queen, the Ash’a are devout in worship and feverishly protective of their new homeland.",
+          "Very few Ash’a openly dare to question Aurora or her commandments or Aurora’s place as a god. Those that do swiftly find the Shadar-kai darkening their doorstep."
         ]
       },
       {
@@ -48,16 +64,16 @@
         ]
       },
       {
-        "name": "Cling to Life",
+        "name": "Children of Miira",
         "entries": [
-          "When you make a death saving throw and roll 16 or higher, you regain 1 hit point."
+          "You know the druidcraft cantrip. Furthermore, if you have the Spellcasting or the Pact Magic class feature, the spells on the table below are added to the spell list of your spellcasting class."
         ],
         "type": "entries"
       },
       {
-        "name": "Inescapable Death",
+        "name": "Cling to Life",
         "entries": [
-          "You know the chill touch cantrip. When you hit a target with an attack roll and deal necrotic damage, you ignore the target's resistance to that damage."
+          "When you make a death saving throw and roll 16 or higher, you regain 1 hit point."
         ],
         "type": "entries"
       }
@@ -94,7 +110,8 @@
         "name": "Description",
         "type": "entries",
         "entries": [
-          "I am from the Fractured Sea."
+          "The Nyx are divided into two tribes: sea faring islanders and the nomadic gypsies. Both hail from the Fractured Sea, Nyxen tend to be bulky, pale skin with curly hair. These humans are deeply passionate people at their best and blood-curdling warriors at their worst. Their communities are faithful purveyors of the arts with strong familial ties.",
+          "Nyxen tribes were first to lose their ancestral home, Arxyk, to the invading elves and the still contaminated land fuels ancenstral resentment even now."
         ]
       },
       {
@@ -158,7 +175,8 @@
         "name": "Description",
         "type": "entries",
         "entries": [
-          "I am from the deserts of Medun."
+          "Amenmaatra, capital of Egress and famed Gateway to the South is said to be the birthplace of the Siiq - a desertfolk spread across all four major deserts.",
+          "Tribal Siiq are proud warriors that thrive on trade through steep taxes to travelers between north and south Meridian."
         ]
       },
       {
@@ -222,7 +240,7 @@
         "name": "Description",
         "type": "entries",
         "entries": [
-          "I am from Meridian's western shores."
+          "With sun-kissed skin and green eyes, Thesians pride themselves in being the most civilized of the human cultures - trading mysticsm and folklore for innovation and invention. After the fall of the elven empire, Thesians and high elves came together along Meridian's western shores to construct Polythesis - Meridian's first democracy."
         ]
       },
       {
