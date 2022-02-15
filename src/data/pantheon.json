@@ -22,7 +22,7 @@
         "description": [
           "Miira is the Great Goddess of Meridian, Mother of Men, and the Warrior Who Awaits the Inevitable End.",
           "Miira represents the unknowable and knowledge that should not be known.",
-          "Miira fled Meridian for paradise when man committed the Original Sin, perverting Her gift of magic in an act of hubris and damaging the barrier between the Bloodlands and the material plane in the process. Her followers work to make both themselves, and the world, worthy enough for Her return."
+          "Miira fled Meridian for paradise when man committed the Original Sin, perverting Her gift of magic in an act of hubris and damaging the barrier between the Bloodlands and the material plane in the process. Her worshippers work to make both themselves, and the world, worthy enough for Her return."
         ]
       },
       {
@@ -34,14 +34,16 @@
       },
       { "domain": ["Life", "Light", "Peace"] },
       {
-        "astrology": [
+        "sign": [
           {
             "name": "The Bow",
+            "state": "There is no lead moon because the moons are in a fully balanced alignment.",
             "description": "All seraphs align for the birth of the famed ones.",
             "traits": "Bows are admired, successful, and sexual."
           },
           {
             "name": "The Lance",
+            "state": "There is no lead moon because Pandem covers potential alignment.",
             "description": "Fate offers you a simple life.",
             "traits": "Lances are simple, carefree, and generous."
           }
@@ -81,7 +83,7 @@
       },
       { "domain": ["Arcana", "Knowledge", "Nature"] },
       {
-        "astrology": {
+        "sign": {
           "name": "The Kunai",
           "description": "Very social and generous, you aspire to bring peace into the world.",
           "traits": "Kunai are fair, intelligent and timid."
@@ -117,7 +119,7 @@
       },
       { "domain": ["Death", "Grave", "Order"] },
       {
-        "astrology": {
+        "sign": {
           "name": "The Flail",
           "description": "You have unyeilding respect for hierarchy and a natural inclination towards leadership.",
           "traits": "Flails are conservative, authoritarian, and often extreme in their beliefs."
@@ -153,13 +155,13 @@
       },
       { "domain": ["Trickery", "Twilight", "Knowledge"] },
       {
-        "astrology": {
+        "sign": {
           "name": "The Knife",
           "description": "You have all the skill, but none of the work ethic.",
           "traits": "Knives are cunning yet too often wind up living as artists or beggars."
         }
       },
-      { "organizations": "." },
+      { "organizations": "Catamaran" },
       { "language": "draconic" },
       { "holiday": "renewal" }
     ]
@@ -180,7 +182,7 @@
       {
         "description": [
           "The tempest dragon Nassenti is 'Mistress of the Fractured Sea' and custodian of the natural.",
-          "Closely tide to the elemental forces, Nassenti is the mother of primordials and it is under her wrath that the world may be created, destroyed, or reborn."
+          "Closely tide to the elemental forces, Nassenti is the mother of primordials and it is under her wrath that the world may be created, destroyed, and reborn."
         ]
       },
       {
@@ -188,13 +190,13 @@
       },
       { "domain": ["Grave", "Nature", "Tempest"] },
       {
-        "astrology": {
+        "sign": {
           "name": "The Chain",
           "description": "Master of diplomacy and seduction, you effortlessly bend others to your will often without intending to.",
           "traits": "Chains are agile, warm, and opportunistic."
         }
       },
-      { "organizations": "." },
+      { "organizations": "Circle of the Savage" },
       { "language": "draconic" },
       { "holiday": "renewal" }
     ]
@@ -224,13 +226,13 @@
       },
       { "domain": ["Forge", "Trickery", "War"] },
       {
-        "astrology": {
+        "sign": {
           "name": "The Glaive",
           "description": "You are a hardworking traditionalist of a composed nature.",
           "traits": "Glaives are loyal, prudent, selfless and secure in themselves."
         }
       },
-      { "organizations": "." },
+      { "organizations": "Zyrese Knights" },
       { "language": "draconic" },
       { "holiday": "renewal" }
     ]
@@ -263,7 +265,7 @@
       },
       { "domain": ["Light", "Order", "Peace"] },
       {
-        "astrology": {
+        "sign": {
           "name": "The Peasant Club",
           "description": "You inspire confidence despite sentimentality.",
           "traits": "Clubs are robust, yet honest and serene. They make for natural priests and confidants."
@@ -297,7 +299,7 @@
       },
       { "domain": ["Death", "Forge", "War"] },
       {
-        "astrology": {
+        "sign": {
           "name": "The Scimitar",
           "description": "You hold a high opinion of yourself but protective of those you care for. You have a firm understanding of right and wrong.",
           "traits": "While haughty, self-centered, and superior, Scimitars are also extremely heroic."
@@ -315,7 +317,7 @@
     "rank": "archfey",
     "entries": [
       {
-        "description": ["."]
+        "description": ["The god-Queen of Ash'ahla."]
       },
       {
         "tenants": ["."]
@@ -341,6 +343,7 @@
       {
         "tenants": ["."]
       },
+      { "alias": ["Pallid King"] },
       { "domain": ["Arcana", "Death"] },
       { "language": "celestial" },
       { "holiday": "." }
@@ -360,7 +363,6 @@
       {
         "tenants": ["."]
       },
-      { "alias": ["Pallid King"] },
       { "domain": ["Order", "Trickery"] },
       { "language": "celestial" },
       { "holiday": "." }
@@ -576,7 +578,7 @@
       {
         "tenants": ["."]
       },
-      { "domain": ["Knowledge", "", ""] },
+      { "domain": ["Knowledge"] },
       { "language": "celestial" },
       { "holiday": "." }
     ]
@@ -638,14 +640,6 @@
       {
         "tenants": [""]
       },
-      { "domain": ["", "", ""] },
-      {
-        "astrology": {
-          "name": "",
-          "description": "",
-          "traits": ""
-        }
-      },
       { "organizations": "" },
       { "language": "abyssal" }
     ]
@@ -668,14 +662,6 @@
       },
       {
         "tenants": [""]
-      },
-      { "domain": ["", "", ""] },
-      {
-        "astrology": {
-          "name": "",
-          "description": "",
-          "traits": ""
-        }
       },
       { "organizations": "" },
       { "language": "abyssal" }
@@ -700,14 +686,6 @@
       {
         "tenants": [""]
       },
-      { "domain": ["", "", ""] },
-      {
-        "astrology": {
-          "name": "",
-          "description": "",
-          "traits": ""
-        }
-      },
       { "organizations": "" },
       { "language": "abyssal" }
     ]
@@ -730,14 +708,6 @@
       },
       {
         "tenants": [""]
-      },
-      { "domain": ["", "", ""] },
-      {
-        "astrology": {
-          "name": "",
-          "description": "",
-          "traits": ""
-        }
       },
       { "organizations": "" },
       { "language": "abyssal" }
@@ -762,14 +732,6 @@
       {
         "tenants": [""]
       },
-      { "domain": ["", "", ""] },
-      {
-        "astrology": {
-          "name": "",
-          "description": "",
-          "traits": ""
-        }
-      },
       { "organizations": "" },
       { "language": "abyssal" }
     ]
@@ -792,14 +754,6 @@
       },
       {
         "tenants": [""]
-      },
-      { "domain": ["", "", ""] },
-      {
-        "astrology": {
-          "name": "",
-          "description": "",
-          "traits": ""
-        }
       },
       { "organizations": "" },
       { "language": "abyssal" }
@@ -824,14 +778,6 @@
       {
         "tenants": [""]
       },
-      { "domain": ["", "", ""] },
-      {
-        "astrology": {
-          "name": "",
-          "description": "",
-          "traits": ""
-        }
-      },
       { "organizations": "" },
       { "language": "abyssal" }
     ]
@@ -854,14 +800,6 @@
       },
       {
         "tenants": [""]
-      },
-      { "domain": ["", "", ""] },
-      {
-        "astrology": {
-          "name": "",
-          "description": "",
-          "traits": ""
-        }
       },
       { "organizations": "" },
       { "language": "abyssal" }
@@ -886,14 +824,6 @@
       {
         "tenants": [""]
       },
-      { "domain": ["", "", ""] },
-      {
-        "astrology": {
-          "name": "",
-          "description": "",
-          "traits": ""
-        }
-      },
       { "organizations": "" },
       { "language": "abyssal" }
     ]
@@ -917,14 +847,6 @@
       {
         "tenants": [""]
       },
-      { "domain": ["", "", ""] },
-      {
-        "astrology": {
-          "name": "",
-          "description": "",
-          "traits": ""
-        }
-      },
       { "organizations": "" },
       { "language": "abyssal" }
     ]
@@ -947,14 +869,6 @@
       },
       {
         "tenants": [""]
-      },
-      { "domain": ["", "", ""] },
-      {
-        "astrology": {
-          "name": "",
-          "description": "",
-          "traits": ""
-        }
       },
       { "organizations": "" },
       { "language": "abyssal" }
@@ -980,13 +894,6 @@
         "tenants": [""]
       },
       { "domain": ["", "", ""] },
-      {
-        "astrology": {
-          "name": "",
-          "description": "",
-          "traits": ""
-        }
-      },
       { "organizations": "" },
       { "language": "abyssal" }
     ]
@@ -1009,14 +916,6 @@
       },
       {
         "tenants": [""]
-      },
-      { "domain": ["", "", ""] },
-      {
-        "astrology": {
-          "name": "",
-          "description": "",
-          "traits": ""
-        }
       },
       { "organizations": "" },
       { "language": "abyssal" }
