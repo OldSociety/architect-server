@@ -1,12 +1,30 @@
 const races = require('../data/races.json')
+const nations = require('../data/nations.json')
+const pantheon = require('../data/pantheon.json')
+const backgrounds = require('../data/5eBackgrounds/backgrounds.json')
 
 // NPM TEST files
 
-// THREE TIMES THREE is a starter test to ensure Jest is properly working.
-describe('The race array length', () => {
+// Ensure new data isn't added unintentionally.
+describe('Array length check', () => {
   test('should be 24', () => {
     const expected = 24
     expect(races.length).toBe(expected)
+  })
+
+  test('should be 10', () => {
+    const expected = 10
+    expect(nations.length).toBe(expected)
+  })
+
+  test('should be 37', () => {
+    const expected = 37
+    expect(pantheon.length).toBe(expected)
+  })
+
+  test('should be 106', () => {
+    const expected = 106
+    expect(backgrounds.length).toBe(expected)
   })
 })
 
@@ -40,9 +58,10 @@ describe('type check', () => {
   })
 })
 
-describe('The race array length', () => {
-    test('should be 24', () => {
-      const expected = Object.values(races).isNot("")
-      expect(Object.values(races)).toBe(expected)
-    })
+describe('All object values', () => {
+    test("should be filled", () => {
+        var n = null
+        expect(n).toBeNull()
+        expect(Object.values(races)).not.toBeNull
+      })
   })
