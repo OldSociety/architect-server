@@ -1,18 +1,10 @@
-const express = require('express')
-const cors = require('cors')
+require('dotenv').config()
 
-const app = express()
-const router = express.Router()
-const PORT = process.env.PORT || 5000
+const { PORT = 5000 } = process.env
+const knex = require('./db/connection')
 
-router.get('/', cors(), (req, res) => {
-  res.json({ message: 'Hello Heroku!' })
-})
-
-app.use('/', router)
-app.listen(PORT, () => {
-  console.log(`Server running on ${PORT} `)
-})
+const app = require('./app')
+const listener = () => console.log(`Listening on Port ${PORT}!`)
 
 knex.migrate
   .latest()
@@ -21,5 +13,3 @@ knex.migrate
     app.listen(PORT, listener)
   })
   .catch(console.error)
-
-module.exports = app
