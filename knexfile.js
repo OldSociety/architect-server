@@ -7,6 +7,14 @@ const {
 } = process.env;
 
 module.exports = {
+  heroku: {
+    client: 'pg',
+    connection: process.env.DATABASE_URL,
+    migrations: {
+      directory: "migrations",
+      tableName: "migrations"
+    }
+  },
   development: {
     client: "postgresql",
     connection: DATABASE_URL,
