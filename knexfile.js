@@ -1,4 +1,5 @@
 if (process.env.USER) require("dotenv").config();
+require('dotenv').config({path: 'path_to_env_file'});
 
 const path = require("path");
 
@@ -9,10 +10,15 @@ const {
 module.exports = {
   heroku: {
     client: 'pg',
-    connection: process.env.DATABASE_URL,
+    connection: {
+      host: process.env.DB_HOST,
+      user: process.env.DB_USER,
+      password: process.env.DB_PASS,
+      database: process.env.DB_NAME
+    },
     migrations: {
-      directory: "migrations",
-      tableName: "migrations"
+      directory: "knex_migrations",
+      tableName: "knex_migrations"
     }
   },
   development: {
