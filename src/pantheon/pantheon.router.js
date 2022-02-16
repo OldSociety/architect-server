@@ -1,5 +1,5 @@
 const router = require("express").Router()
-const controller = require("./moons.controller")
+const controller = require("./pantheon.controller")
 const methodNotAllowed = require("../errors/methodNotAllowed")
 
 const cors = require("cors")
