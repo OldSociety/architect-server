@@ -1,6 +1,6 @@
 require('dotenv').config()
 
-const { PORT = 9000 } = process.env
+const { PORT = 8080 } = process.env
 const knex = require('./db/connection')
 
 const app = require('./app')
