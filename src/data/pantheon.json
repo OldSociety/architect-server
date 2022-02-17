@@ -21,7 +21,8 @@
       {
         "description": [
           "Miira is the Great Goddess of Meridian, Mother of Men, and the Warrior Who Awaits the Inevitable End.",
-          "Miira represents the unknowable and what should not be known."
+          "Miira represents the unknowable and knowledge that should not be known.",
+          "Miira fled Meridian for paradise when man committed the Original Sin, perverting Her gift of magic in an act of hubris and damaging the barrier between the Bloodlands and the material plane in the process. Her worshippers work to make both themselves, and the world, worthy enough for Her return."
         ]
       },
       {
@@ -33,14 +34,16 @@
       },
       { "domain": ["Life", "Light", "Peace"] },
       {
-        "astrology": [
+        "sign": [
           {
             "name": "The Bow",
-            "description": "All Seraphs align for the birth of the famed ones.",
+            "state": "There is no lead moon because the moons are in a fully balanced alignment.",
+            "description": "All seraphs align for the birth of the famed ones.",
             "traits": "Bows are admired, successful, and sexual."
           },
           {
             "name": "The Lance",
+            "state": "There is no lead moon because Pandem covers potential alignment.",
             "description": "Fate offers you a simple life.",
             "traits": "Lances are simple, carefree, and generous."
           }
@@ -80,7 +83,7 @@
       },
       { "domain": ["Arcana", "Knowledge", "Nature"] },
       {
-        "astrology": {
+        "sign": {
           "name": "The Kunai",
           "description": "Very social and generous, you aspire to bring peace into the world.",
           "traits": "Kunai are fair, intelligent and timid."
@@ -116,7 +119,7 @@
       },
       { "domain": ["Death", "Grave", "Order"] },
       {
-        "astrology": {
+        "sign": {
           "name": "The Flail",
           "description": "You have unyeilding respect for hierarchy and a natural inclination towards leadership.",
           "traits": "Flails are conservative, authoritarian, and often extreme in their beliefs."
@@ -152,13 +155,13 @@
       },
       { "domain": ["Trickery", "Twilight", "Knowledge"] },
       {
-        "astrology": {
+        "sign": {
           "name": "The Knife",
           "description": "You have all the skill, but none of the work ethic.",
-          "traits": "Knives are cunning but often wind up living as artists or beggars."
+          "traits": "Knives are cunning yet too often wind up living as artists or beggars."
         }
       },
-      { "organizations": "." },
+      { "organizations": "Catamaran" },
       { "language": "draconic" },
       { "holiday": "renewal" }
     ]
@@ -177,21 +180,23 @@
     ],
     "entries": [
       {
-        "description": ["The tempest dragon Nassenti is 'Mistress of the Fractured Sea' and custodian of the natural.",
-        "Closely tide to the elemental forces, Nassenti is the mother of primordials and it is under her wrath that the world may be created, destroyed, or reborn."]
+        "description": [
+          "The tempest dragon Nassenti is 'Mistress of the Fractured Sea' and custodian of the natural.",
+          "Closely tide to the elemental forces, Nassenti is the mother of primordials and it is under her wrath that the world may be created, destroyed, and reborn."
+        ]
       },
       {
         "tenants": ["Nature offers no mercy, no forgiveness, no salvation."]
       },
       { "domain": ["Grave", "Nature", "Tempest"] },
       {
-        "astrology": {
+        "sign": {
           "name": "The Chain",
           "description": "Master of diplomacy and seduction, you effortlessly bend others to your will often without intending to.",
           "traits": "Chains are agile, warm, and opportunistic."
         }
       },
-      { "organizations": "." },
+      { "organizations": "Circle of the Savage" },
       { "language": "draconic" },
       { "holiday": "renewal" }
     ]
@@ -213,20 +218,21 @@
         "description": [
           "Zyry is inspiration personified and patron of art and invention.",
           "Before the arrival of the elves, Zyrese knights were golden warriors and famed inventors. Their blend of early science and magic paved the way for the first developing nations.",
-        "Towards the end of that age, the Zyrese army was largest in the world and dominated over the majority of the Severed Hand and Pumicestone Mountains."]
+          "Towards the end of that age, the Zyrese army was largest in the world and dominated over the majority of the Severed Hand and Pumicestone Mountains."
+        ]
       },
       {
         "tenants": ["Follow your muse."]
       },
       { "domain": ["Forge", "Trickery", "War"] },
       {
-        "astrology": {
+        "sign": {
           "name": "The Glaive",
           "description": "You are a hardworking traditionalist of a composed nature.",
           "traits": "Glaives are loyal, prudent, selfless and secure in themselves."
         }
       },
-      { "organizations": "." },
+      { "organizations": "Zyrese Knights" },
       { "language": "draconic" },
       { "holiday": "renewal" }
     ]
@@ -253,11 +259,13 @@
         ]
       },
       {
-        "tenants": ["Stand against devils wherever they arise and show no mercy to whom they lend their power."]
+        "tenants": [
+          "Stand against devils wherever they arise and show no mercy to whom they lend their power."
+        ]
       },
       { "domain": ["Light", "Order", "Peace"] },
       {
-        "astrology": {
+        "sign": {
           "name": "The Peasant Club",
           "description": "You inspire confidence despite sentimentality.",
           "traits": "Clubs are robust, yet honest and serene. They make for natural priests and confidants."
@@ -282,14 +290,16 @@
     ],
     "entries": [
       {
-        "description": ["The blood dragon Oth-orleth is custodian of the material plane and patron of nobility."]
+        "description": [
+          "The blood dragon Oth-orleth is custodian of the material plane and patron of nobility."
+        ]
       },
       {
         "tenants": ["."]
       },
       { "domain": ["Death", "Forge", "War"] },
       {
-        "astrology": {
+        "sign": {
           "name": "The Scimitar",
           "description": "You hold a high opinion of yourself but protective of those you care for. You have a firm understanding of right and wrong.",
           "traits": "While haughty, self-centered, and superior, Scimitars are also extremely heroic."
@@ -307,31 +317,15 @@
     "rank": "archfey",
     "entries": [
       {
-        "description": [
-          "Larimar is the arcane dragon of premonition, and the protector of witches and their secret arts.",
-          "At the creation of the universe, Larimar descended from Paradise and foresaw the Inevitable End.",
-          "They taught man how to cast spells and work magic.",
-          "Larimese priests were once prophets to the ancient world, advisors of king who helped shape the destiny of the ancient world. In the modern era, they are mostly regulated to protecting places of power and hiding away the most forbidden arcane secrets."
-        ]
+        "description": ["The god-Queen of Ash'ahla."]
       },
       {
-        "tenants": [
-          "Protect Meridian from exploitation and destruction.",
-          "Slay abomination in every form.",
-          "Exist in harmony with one another."
-        ]
+        "tenants": ["."]
       },
-      { "domain": ["Arcana", "Knowledge", "Trickery"] },
-      {
-        "astrology": {
-          "name": "The Kunai",
-          "description": "Very social and generous, you aspire to bring peace into the world.",
-          "traits": "Kunai are fair, intelligent and timid."
-        }
-      },
-      { "organizations": "Watchers of the Wild" },
-      { "language": "draconic" },
-      { "holiday": "renewal" }
+      { "domain": ["Life", "Nature", "Trickery"] },
+      { "organizations": "Ash'a" },
+      { "language": "Ash'a" },
+      { "holiday": "." }
     ]
   },
   {
@@ -341,12 +335,19 @@
     "rank": "Elven Lord",
     "entries": [
       {
-        "description": ""
-      }
-    ],
-    "language": "celestial",
-    "domain": ["dead", "undeath"],
-    "tenents": ["Be an elf."]
+        "description": [
+          "The Pallid King is the final face of the Nobility. When the rest of the Nobility separated themselves from death, the Abiosis leaned towards the afterlife to become the very first undead and the only, true Lich.",
+          "Countless elves have attempted to follow the Abiosis' path over the years, and every few millennia or so there comes along a lich just skilled enough to unravel the first of the Abiosis' unique (and often profane) wisdoms."
+        ]
+      },
+      {
+        "tenants": ["."]
+      },
+      { "alias": ["Pallid King"] },
+      { "domain": ["Arcana", "Death"] },
+      { "language": "celestial" },
+      { "holiday": "." }
+    ]
   },
   {
     "id": 11,
@@ -355,12 +356,17 @@
     "rank": "Elven Lord",
     "entries": [
       {
-        "description": ""
-      }
-    ],
-    "language": "celestial",
-    "domain": ["dead", "undeath"],
-    "tenents": ["Be an elf."]
+        "description": [
+          "Guardian of the Nobility, the Abnegation protects the secret of Elven ascension from individuals unprepared for the responsibilities of their kind. They are patient but steadfast in their duties."
+        ]
+      },
+      {
+        "tenants": ["."]
+      },
+      { "domain": ["Order", "Trickery"] },
+      { "language": "celestial" },
+      { "holiday": "." }
+    ]
   },
   {
     "id": 12,
@@ -369,12 +375,17 @@
     "rank": "Elven Lord",
     "entries": [
       {
-        "description": ""
-      }
-    ],
-    "language": "celestial",
-    "domain": ["dead", "undeath"],
-    "tenents": ["Be an elf."]
+        "description": [
+          "First of their kind, the Abominate discovered the secret to immortality and ascended their peers. But with that power, the Abominate declared dominance over all species of all worlds. If not for the Ephemeron, the universe would be enslaved. They represent the seduction of absolute power."
+        ]
+      },
+      {
+        "tenants": ["."]
+      },
+      { "domain": ["Death", "War"] },
+      { "language": "celestial" },
+      { "holiday": "." }
+    ]
   },
   {
     "id": 13,
@@ -383,12 +394,18 @@
     "rank": "Elven Lord",
     "entries": [
       {
-        "description": ""
-      }
-    ],
-    "language": "celestial",
-    "domain": ["dead", "undeath"],
-    "tenents": ["Be an elf."]
+        "description": [
+          "The Countless Lord who designed the 'Intended Equation', a mathematical constant used in the creation of all artificial life. This lord represents a person’s innate responsibility of divine inheritance; in other words, creating new forms of life."
+        ]
+      },
+      {
+        "tenants": ["."]
+      },
+      { "alias": ["Countless Lord"] },
+      { "domain": ["Knowledge", "Life"] },
+      { "language": "celestial" },
+      { "holiday": "." }
+    ]
   },
   {
     "id": 14,
@@ -397,12 +414,24 @@
     "rank": "Elven Lord",
     "entries": [
       {
-        "description": ""
-      }
-    ],
-    "language": "celestial",
-    "domain": ["dead", "undeath"],
-    "tenents": ["Be an elf."]
+        "description": [
+          "The Collusion is known as the Twice-Crossed One, First son of Nobility, and Future’s Bane. The Collusion was once the Abnegation’s only heir before foreseeing all futures. The infinite eventualities stemming from the present’s endless possible decisions came all at once and shattered the Collusion. The experience divided them into two opposing personas that continue to compete for dominance. One part resolve and another resignation, the Collusion personifies the collective identity of the elves as a race and the threat of misguided judgement."
+        ]
+      },
+      {
+        "tenants": ["."]
+      },
+      {
+        "alias": [
+          "Twice-Crossed One",
+          "First son of Nobility",
+          ["Future's Bane"]
+        ]
+      },
+      { "domain": ["Arcana", "Peace"] },
+      { "language": "celestial" },
+      { "holiday": "." }
+    ]
   },
   {
     "id": 15,
@@ -411,12 +440,17 @@
     "rank": "Elven Lord",
     "entries": [
       {
-        "description": ""
-      }
-    ],
-    "language": "celestial",
-    "domain": ["dead", "undeath"],
-    "tenents": ["Be an elf."]
+        "description": [
+          "The Noble Laws maintain the balance of power between the Elven Lords. Uniting them under the banner of a singular goal, the Conformity crafted the universal laws that all modern life must follow."
+        ]
+      },
+      {
+        "tenants": ["."]
+      },
+      { "domain": ["Knowledge", "Order"] },
+      { "language": "celestial" },
+      { "holiday": "." }
+    ]
   },
   {
     "id": 16,
@@ -425,12 +459,17 @@
     "rank": "Elven Lord",
     "entries": [
       {
-        "description": ""
-      }
-    ],
-    "language": "celestial",
-    "domain": ["dead", "undeath"],
-    "tenents": ["Be an elf."]
+        "description": [
+          "A single being divided into two, Kú (like the letter ‘Q’) and Kwé (kway) are simultaneously star-crossed lovers and fierce rivals. These two, equal yet opposing, forces use the entire universe as their game board. The stories of their exploits and the lengths the Diarchy have gone to impress each other, often at the cost of the mortal world, are woven into the most famous elven love stories and songs of all time."
+        ]
+      },
+      {
+        "tenants": ["."]
+      },
+      { "domain": ["Peace", "War"] },
+      { "language": "celestial" },
+      { "holiday": "." }
+    ]
   },
   {
     "id": 17,
@@ -439,12 +478,17 @@
     "rank": "Elven Lord",
     "entries": [
       {
-        "description": ""
-      }
-    ],
-    "language": "celestial",
-    "domain": ["dead", "undeath"],
-    "tenents": ["Be an elf."]
+        "description": [
+          "The Dissonance took the whole of elven knowledge and assembled the Noble Libraries. Simultaneously, they invented both the ancient elven language and advanced mathematics before gifting them to the lower races. Although Meridian’s elves lost such knowledge during their empire’s collapse, the Dissonance promises they will eventually reclaim their inheritance."
+        ]
+      },
+      {
+        "tenants": ["."]
+      },
+      { "domain": ["Knowledge", "Twilight"] },
+      { "language": "celestial" },
+      { "holiday": "." }
+    ]
   },
   {
     "id": 18,
@@ -453,12 +497,15 @@
     "rank": "Elven Lord",
     "entries": [
       {
-        "description": ""
-      }
-    ],
-    "language": "celestial",
-    "domain": ["dead", "undeath"],
-    "tenents": ["Be an elf."]
+        "description": ["."]
+      },
+      {
+        "tenants": ["."]
+      },
+      { "domain": ["Order", "Peace"] },
+      { "language": "celestial" },
+      { "holiday": "." }
+    ]
   },
   {
     "id": 19,
@@ -467,12 +514,17 @@
     "rank": "Elven Lord",
     "entries": [
       {
-        "description": ""
-      }
-    ],
-    "language": "celestial",
-    "domain": ["dead", "undeath"],
-    "tenents": ["Be an elf."]
+        "description": [
+          ": Stalking the emptiness of space, the Fathomless consumes dying worlds and repurposes it for the further expansion of the universe. The threat of the Fathomless drives the necessity of the elves to prosper and reclaim their glorious place among the stars."
+        ]
+      },
+      {
+        "tenants": ["."]
+      },
+      { "domain": ["Grave", "Tempest"] },
+      { "language": "celestial" },
+      { "holiday": "." }
+    ]
   },
   {
     "id": 20,
@@ -481,12 +533,17 @@
     "rank": "Elven Lord",
     "entries": [
       {
-        "description": ""
-      }
-    ],
-    "language": "celestial",
-    "domain": ["dead", "undeath"],
-    "tenents": ["Be an elf."]
+        "description": [
+          "The Incandescent rose into the ranks of Nobility by wandering into a burning star, pulling it apart and studying its inner secrets. For unknown reasons, they create and destroy whole solar systems as they see fit. "
+        ]
+      },
+      {
+        "tenants": ["."]
+      },
+      { "domain": ["Light", "Tempest"] },
+      { "language": "celestial" },
+      { "holiday": "." }
+    ]
   },
   {
     "id": 21,
@@ -495,12 +552,17 @@
     "rank": "Elven Lord",
     "entries": [
       {
-        "description": ""
-      }
-    ],
-    "language": "celestial",
-    "domain": ["dead", "undeath"],
-    "tenents": ["Be an elf."]
+        "description": [
+          "While the Abominate was the first to fall from grace, they were far from the last. The Obscene broke the rules of reality by bending space and time. The consequences for their arrogance were steep and they exist as a warning for where elven hubris leads."
+        ]
+      },
+      {
+        "tenants": ["."]
+      },
+      { "domain": ["Trickery", "War"] },
+      { "language": "celestial" },
+      { "holiday": "." }
+    ]
   },
   {
     "id": 22,
@@ -509,12 +571,17 @@
     "rank": "Elven Lord",
     "entries": [
       {
-        "description": ""
-      }
-    ],
-    "language": "celestial",
-    "domain": ["dead", "undeath"],
-    "tenents": ["Be an elf."]
+        "description": [
+          "Within this Elven Lord is destiny written. Although fate is mostly mutable, changing with the tides made by great elven heroes, the great ascension of all elves to Nobility one day is guaranteed."
+        ]
+      },
+      {
+        "tenants": ["."]
+      },
+      { "domain": ["Knowledge"] },
+      { "language": "celestial" },
+      { "holiday": "." }
+    ]
   },
   {
     "id": 23,
@@ -523,12 +590,17 @@
     "rank": "Elven Lord",
     "entries": [
       {
-        "description": ""
-      }
-    ],
-    "language": "celestial",
-    "domain": ["dead", "undeath"],
-    "tenents": ["Be an elf."]
+        "description": [
+          "Of all the Nobility, only the Verity remembers the fragility of mortality and the heartbreak of losing loved ones. While forbidden by the Noble Laws to interfere directly with mortal affairs, the Verity inspires elven prodigies, encouraging their tireless work towards immortality."
+        ]
+      },
+      {
+        "tenants": ["."]
+      },
+      { "domain": ["Forge", "Knowledge"] },
+      { "language": "celestial" },
+      { "holiday": "." }
+    ]
   },
   {
     "id": 24,
@@ -537,12 +609,17 @@
     "rank": "Elven Lord",
     "entries": [
       {
-        "description": ""
-      }
-    ],
-    "language": "celestial",
-    "domain": ["dead", "undeath"],
-    "tenents": ["Be an elf."]
+        "description": [
+          "The Vulnerary is invoked to cure the deadliest diseases, even though they are associated with bringing them about in the first place. Also known as Mercy, the Vulnerary is illness personified and demands proof of worthiness before daring to interfere in nature’s work."
+        ]
+      },
+      {
+        "tenants": ["."]
+      },
+      { "domain": ["Death", "Life"] },
+      { "language": "celestial" },
+      { "holiday": "." }
+    ]
   },
   {
     "id": 25,
@@ -558,22 +635,10 @@
     ],
     "entries": [
       {
-        "description": [
-          ""
-        ]
+        "description": [""]
       },
       {
-        "tenants": [
-          ""
-        ]
-      },
-      { "domain": ["", "", ""] },
-      {
-        "astrology": {
-          "name": "",
-          "description": "",
-          "traits": ""
-        }
+        "tenants": [""]
       },
       { "organizations": "" },
       { "language": "abyssal" }
@@ -593,22 +658,10 @@
     ],
     "entries": [
       {
-        "description": [
-          ""
-        ]
+        "description": [""]
       },
       {
-        "tenants": [
-          ""
-        ]
-      },
-      { "domain": ["", "", ""] },
-      {
-        "astrology": {
-          "name": "",
-          "description": "",
-          "traits": ""
-        }
+        "tenants": [""]
       },
       { "organizations": "" },
       { "language": "abyssal" }
@@ -628,22 +681,10 @@
     ],
     "entries": [
       {
-        "description": [
-          ""
-        ]
+        "description": [""]
       },
       {
-        "tenants": [
-          ""
-        ]
-      },
-      { "domain": ["", "", ""] },
-      {
-        "astrology": {
-          "name": "",
-          "description": "",
-          "traits": ""
-        }
+        "tenants": [""]
       },
       { "organizations": "" },
       { "language": "abyssal" }
@@ -663,22 +704,10 @@
     ],
     "entries": [
       {
-        "description": [
-          ""
-        ]
+        "description": [""]
       },
       {
-        "tenants": [
-          ""
-        ]
-      },
-      { "domain": ["", "", ""] },
-      {
-        "astrology": {
-          "name": "",
-          "description": "",
-          "traits": ""
-        }
+        "tenants": [""]
       },
       { "organizations": "" },
       { "language": "abyssal" }
@@ -698,22 +727,10 @@
     ],
     "entries": [
       {
-        "description": [
-          ""
-        ]
+        "description": [""]
       },
       {
-        "tenants": [
-          ""
-        ]
-      },
-      { "domain": ["", "", ""] },
-      {
-        "astrology": {
-          "name": "",
-          "description": "",
-          "traits": ""
-        }
+        "tenants": [""]
       },
       { "organizations": "" },
       { "language": "abyssal" }
@@ -733,22 +750,10 @@
     ],
     "entries": [
       {
-        "description": [
-          ""
-        ]
+        "description": [""]
       },
       {
-        "tenants": [
-          ""
-        ]
-      },
-      { "domain": ["", "", ""] },
-      {
-        "astrology": {
-          "name": "",
-          "description": "",
-          "traits": ""
-        }
+        "tenants": [""]
       },
       { "organizations": "" },
       { "language": "abyssal" }
@@ -768,22 +773,10 @@
     ],
     "entries": [
       {
-        "description": [
-          ""
-        ]
+        "description": [""]
       },
       {
-        "tenants": [
-          ""
-        ]
-      },
-      { "domain": ["", "", ""] },
-      {
-        "astrology": {
-          "name": "",
-          "description": "",
-          "traits": ""
-        }
+        "tenants": [""]
       },
       { "organizations": "" },
       { "language": "abyssal" }
@@ -803,22 +796,10 @@
     ],
     "entries": [
       {
-        "description": [
-          ""
-        ]
+        "description": [""]
       },
       {
-        "tenants": [
-          ""
-        ]
-      },
-      { "domain": ["", "", ""] },
-      {
-        "astrology": {
-          "name": "",
-          "description": "",
-          "traits": ""
-        }
+        "tenants": [""]
       },
       { "organizations": "" },
       { "language": "abyssal" }
@@ -838,22 +819,10 @@
     ],
     "entries": [
       {
-        "description": [
-          ""
-        ]
+        "description": [""]
       },
       {
-        "tenants": [
-          ""
-        ]
-      },
-      { "domain": ["", "", ""] },
-      {
-        "astrology": {
-          "name": "",
-          "description": "",
-          "traits": ""
-        }
+        "tenants": [""]
       },
       { "organizations": "" },
       { "language": "abyssal" }
@@ -873,22 +842,10 @@
     ],
     "entries": [
       {
-        "description": [
-          ""
-        ]
+        "description": [""]
       },
       {
-        "tenants": [
-          ""
-        ]
-      },
-      { "domain": ["", "", ""] },
-      {
-        "astrology": {
-          "name": "",
-          "description": "",
-          "traits": ""
-        }
+        "tenants": [""]
       },
       { "organizations": "" },
       { "language": "abyssal" }
@@ -908,22 +865,10 @@
     ],
     "entries": [
       {
-        "description": [
-          ""
-        ]
+        "description": [""]
       },
       {
-        "tenants": [
-          ""
-        ]
-      },
-      { "domain": ["", "", ""] },
-      {
-        "astrology": {
-          "name": "",
-          "description": "",
-          "traits": ""
-        }
+        "tenants": [""]
       },
       { "organizations": "" },
       { "language": "abyssal" }
@@ -943,23 +888,12 @@
     ],
     "entries": [
       {
-        "description": [
-          ""
-        ]
+        "description": [""]
       },
       {
-        "tenants": [
-          ""
-        ]
+        "tenants": [""]
       },
       { "domain": ["", "", ""] },
-      {
-        "astrology": {
-          "name": "",
-          "description": "",
-          "traits": ""
-        }
-      },
       { "organizations": "" },
       { "language": "abyssal" }
     ]
@@ -978,22 +912,10 @@
     ],
     "entries": [
       {
-        "description": [
-          ""
-        ]
+        "description": [""]
       },
       {
-        "tenants": [
-          ""
-        ]
-      },
-      { "domain": ["", "", ""] },
-      {
-        "astrology": {
-          "name": "",
-          "description": "",
-          "traits": ""
-        }
+        "tenants": [""]
       },
       { "organizations": "" },
       { "language": "abyssal" }
