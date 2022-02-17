@@ -545,7 +545,7 @@
     "tenents": ["Be an elf."]
   },
   {
-    "id": 0,
+    "id": 25,
     "name": "Vedigo",
     "religion": ["Vestige"],
     "rank": "Archdemon",
@@ -580,7 +580,7 @@
     ]
   },
   {
-    "id": 0,
+    "id": 26,
     "name": "Angeres",
     "religion": ["Vestige"],
     "rank": "Archdemon",
@@ -615,7 +615,7 @@
     ]
   },
   {
-    "id": 0,
+    "id": 27,
     "name": "Imdugud",
     "religion": ["Vestige"],
     "rank": "Archdemon",
@@ -650,7 +650,7 @@
     ]
   },
   {
-    "id": 0,
+    "id": 28,
     "name": "Nintura",
     "religion": ["Vestige"],
     "rank": "Archdemon",
@@ -685,7 +685,7 @@
     ]
   },
   {
-    "id": 0,
+    "id": 29,
     "name": "Ordog",
     "religion": ["Vestige"],
     "rank": "Archdemon",
@@ -720,7 +720,7 @@
     ]
   },
   {
-    "id": 0,
+    "id": 30,
     "name": "Suanggi",
     "religion": ["Vestige"],
     "rank": "Archdemon",
@@ -755,7 +755,7 @@
     ]
   },
   {
-    "id": 0,
+    "id": 31,
     "name": "Rusalka",
     "religion": ["Vestige"],
     "rank": "Archdemon",
@@ -790,7 +790,7 @@
     ]
   },
   {
-    "id": 0,
+    "id": 32,
     "name": "Medijal",
     "religion": ["Vestige"],
     "rank": "Archdemon",
@@ -825,7 +825,7 @@
     ]
   },
   {
-    "id": 0,
+    "id": 33,
     "name": "Kronkalli",
     "religion": ["Vestige"],
     "rank": "Archdemon",
@@ -860,7 +860,7 @@
     ]
   },
   {
-    "id": 0,
+    "id": 34,
     "name": "Dzoavac",
     "religion": ["Vestige"],
     "rank": "Archdemon",
@@ -895,7 +895,7 @@
     ]
   },
   {
-    "id": 0,
+    "id": 35,
     "name": "Esheth",
     "religion": ["Vestige"],
     "rank": "Archdemon",
@@ -930,7 +930,7 @@
     ]
   },
   {
-    "id": 0,
+    "id": 36,
     "name": "Cimeis",
     "religion": ["Vestige"],
     "rank": "Archdemon",
@@ -965,7 +965,7 @@
     ]
   },
   {
-    "id": 0,
+    "id": 37,
     "name": "Bokavac",
     "religion": ["Vestige"],
     "rank": "Archdemon",
