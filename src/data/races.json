@@ -1121,12 +1121,14 @@
       {
         "name": "Age",
         "type": "entries",
-        "entries": ["Furborn mature and age at about the same rate as humans."]
+        "entries": [
+          "Scaleborn mature slower than humans do, reaching maturity around age 30. Their life span is typically 100 years, with some living to age 150."
+        ]
       },
       {
         "name": "Size",
         "entries": [
-          "Prideborn are typically over 6 feet tall, with some standing over 7 feet. Your size is Medium."
+          "Scaleborn are typically over 6 feet tall, with some standing over 7 feet. Your size is Medium."
         ],
         "type": "entries"
       },
@@ -1522,8 +1524,8 @@
     "size": ["M"],
     "raceName": "Skyborn",
     "speed": {
-      "walk": 20,
-      "fly": 50
+      "walk": 30,
+      "fly": 30
     },
     "sanity": 19,
     "ability": [

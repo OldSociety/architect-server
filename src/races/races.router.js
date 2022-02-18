@@ -5,7 +5,7 @@ const cors = require("cors")
 
 router.use(cors());
 
-// router.route("/:racesId").get(controller.read).all(methodNotAllowed)
+router.route("/:racesId").get(controller.read).all(methodNotAllowed)
 router.route("/").get(cors(), controller.list).all(methodNotAllowed)
 
 module.exports = router;
