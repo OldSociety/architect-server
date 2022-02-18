@@ -1915,13 +1915,20 @@
       {
         "name": "Elven Tech",
         "entries": [
-          "As an artificial race, you do not study a spell book or cast spells. Instead, you work with your tools and create the specialized items you'll use to produce your spell-like effects. You are unable to use potions and scrolls but not from utilizing other advanced tech."
+          "As an artificial race, you do not study a spell book nor cast spells and/or other magical effects. Instead, you work with your tools and create the specialized items you'll use to produce your spell-like effects. You are unable to use magical consumables, such as potions and scrolls, but not from utilizing other advanced tech."
         ],
         "type": "entries"
       },
       {
+        "name": "Automated Healing",
+        "entries": ["Your artificial body has supernatural healing capabilities.", 
+          "If you have 0 hit points at the start of your turn, you can regain hit points equal to your character level plus your proficiency bonus.",
+          "You can activate this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."],
+        "type": "entries"
+      },
+      {
         "type": "entries",
-        "name": "Constructed Resilience",
+        "name": "Artificial Nature",
         "entries": [
           "You were created to have remarkable fortitude, represented by the following benefits:",
           {
@@ -1930,7 +1937,7 @@
               "You have advantage on saving throws against being {@condition poisoned}, and you have resistance to poison damage.",
               "You don't need to eat, drink, or breathe.",
               "You are immune to disease.",
-              "You don't need to sleep, and magic can't put you to sleep."
+              "You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in an inactive, motionless state, during which you retain consciousness."
             ]
           }
         ]
@@ -1947,13 +1954,6 @@
         "name": "Artificial Intelligence",
         "entries": ["You have advantage on all Wisdom saving throws."],
         "type": "entries"
-      },
-      {
-        "type": "entries",
-        "name": "Sentry's Rest",
-        "entries": [
-          "When you take a long rest, you spend at least 6 hours in an inactive, motionless state, instead of sleeping. In this state, you appear inert, but you aren't {@condition unconscious}."
-        ]
       }
     ]
   }
