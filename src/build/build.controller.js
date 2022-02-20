@@ -1,4 +1,4 @@
-const welcome = require('../data/welcome.json')
+const welcome = require('../db/welcome.json')
 
 function read(req, res, next) {
   res.json({ data: welcome })

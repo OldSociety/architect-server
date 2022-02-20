@@ -1,4 +1,4 @@
-const pantheon = require('../data/pantheon.json')
+const pantheon = require('../db/pantheon.json')
 
 function read(req, res, next) {
   res.json({ data: pantheon })

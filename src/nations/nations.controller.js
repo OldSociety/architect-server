@@ -1,4 +1,4 @@
-const nations = require('../data/nations.json')
+const nations = require('../db/nations.json')
 
 function read(req, res, next) {
   res.json({ data: nations })
