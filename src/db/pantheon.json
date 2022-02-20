@@ -626,16 +626,9 @@
     "name": "Vedigo",
     "religion": ["Vestige"],
     "rank": "Archdemon",
-    "sphere": [
-      {
-        "type": "",
-        "color": "",
-        "description": ""
-      }
-    ],
     "entries": [
       {
-        "description": [""]
+        "description": ["Lord of Vestiges, Vedigo is depicted as a dragon-like creature with the head of an alligator and a gorilla-like chest and arms."]
       },
       {
         "tenants": [""]
@@ -649,13 +642,6 @@
     "name": "Angeres",
     "religion": ["Vestige"],
     "rank": "Archdemon",
-    "sphere": [
-      {
-        "type": "",
-        "color": "",
-        "description": ""
-      }
-    ],
     "entries": [
       {
         "description": [""]
@@ -672,13 +658,6 @@
     "name": "Imdugud",
     "religion": ["Vestige"],
     "rank": "Archdemon",
-    "sphere": [
-      {
-        "type": "",
-        "color": "",
-        "description": ""
-      }
-    ],
     "entries": [
       {
         "description": [""]
@@ -695,13 +674,6 @@
     "name": "Nintura",
     "religion": ["Vestige"],
     "rank": "Archdemon",
-    "sphere": [
-      {
-        "type": "",
-        "color": "",
-        "description": ""
-      }
-    ],
     "entries": [
       {
         "description": [""]
@@ -718,13 +690,6 @@
     "name": "Ordog",
     "religion": ["Vestige"],
     "rank": "Archdemon",
-    "sphere": [
-      {
-        "type": "",
-        "color": "",
-        "description": ""
-      }
-    ],
     "entries": [
       {
         "description": [""]
@@ -741,16 +706,11 @@
     "name": "Suanggi",
     "religion": ["Vestige"],
     "rank": "Archdemon",
-    "sphere": [
-      {
-        "type": "",
-        "color": "",
-        "description": ""
-      }
-    ],
     "entries": [
       {
-        "description": [""]
+        "description": ["Patron of evil witch cults, the vampiric Vestige Suanggi (soo-ahn-gee) is the perverter of Miira's sacred magic. The Vestige tempts his followers with their vast library of profane knowledge hidden somewhere on the material plane. The Skin Library is a vast cavern with countless corpses strung like cattle from end to end. Suanggi uses the inside of these corpses' skin as his infamous spellbooks.",
+          "Unlike other Vestiges, Suanggi prefers to direct their cults personally. To accomplish this, the Vestige targets young children, possessing their bodies with their (or their underling's) spirits.",
+          "Suanggi has a myriad of forms, their most common depiction is a hurricane-size swarm of various insects that feed on both blood and organs. Children possessed by Suanggi are easily identified during autopsy, as their organs are feasted upon and eventually replaced by hordes of horrifying insects."]
       },
       {
         "tenants": [""]
@@ -764,16 +724,11 @@
     "name": "Rusalka",
     "religion": ["Vestige"],
     "rank": "Archdemon",
-    "sphere": [
-      {
-        "type": "",
-        "color": "",
-        "description": ""
-      }
-    ],
     "entries": [
       {
-        "description": [""]
+        "description": ["Rusalka is the Vestige of Prophesy and Lord of False Confessions. He is depicted as the smallest of his kind standing only 60 feet tall with the body of a spide, the color of deep sea, with seven faces in place of eyes that constantly slide across his face.",
+          "Rusalka answers the prayers of selfish men, giving them positions of power where they can do the most harm to society. His followers rarely realize that while his predictions are always true, Rusalka withholds the full picture, leading to their inevitable ruin. In exchange for his power, the Vestige demands constant offerings of gold and blood sacrifice.",
+        "Rusalka rules over 80 demonic generals under his command."]
       },
       {
         "tenants": [""]
@@ -787,16 +742,11 @@
     "name": "Medijal",
     "religion": ["Vestige"],
     "rank": "Archdemon",
-    "sphere": [
-      {
-        "type": "",
-        "color": "",
-        "description": ""
-      }
-    ],
     "entries": [
       {
-        "description": [""]
+        "description": ["Vestige of extreme greed and kleptomania, Medijal exists to gather and horde anything it doesn't already possible, both material and immaterial. Due to its nature, Medijal suffers from an eternal hunger, looking to satisfy a craving that can never be satisfied.",
+          "Medijal is an elogated reptile-like creature with clawed human-hands and a lengthy neck. Their human-like face is covered by a wooden mask with horns, a shaggy mane, and two large golden earrings.",
+        "Cults of Medijal arise when groups crave for that which is purposefully withheld. For instance, a tribe's secret ritual might be kept from the hands of the public out of fear and self-destruction. THe foolhearty may unknowingly (or knowingly) ask Medijal to grant them access, unwittingly handing that same power to the Vestige who eventually destroys both and keeps the secret power for itself."]
       },
       {
         "tenants": [""]
