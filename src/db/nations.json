@@ -13,7 +13,7 @@
       "ruler": "none",
       "government": "none",
       "nationality": "I bow to no king. (Whitepine)",
-      "description": ""
+      "description": " Whitepine remains mostly unexplored, unsettled and unconquered. Its active volcano threatens to erupt with regular tremors. Its lush forests are filled with deadly monstrosities and terrifying abominations. Throughout history, fantastical tales have been told of Whitepine’s talking dragons, great demon generals and human tribes with the power to walk through the Grey Halls at will. There is no proof to any of these claims and with even the most powerful divination unable to pierce its mysterious veil, there may never be."
     },
     {
       "id": 3,
@@ -21,7 +21,7 @@
       "ruler": "Red Horde",
       "government": "theocracy",
       "nationality": "Uru",
-      "description": ""
+      "description": "Birthplace of the Stoneborn, to some the mountainous wastelands of Uruban are a stain to an otherwise idyllic world. But in truth, the Uru were constructing cities while the rest of Meridian were rediscovering fire after the fall of the elves."
     },
     {
       "id": 4,
@@ -29,15 +29,15 @@
       "ruler": "god-Queen Aurora",
       "government": "theocracy",
       "nationality": "Ash'a",
-      "description": ""
+      "description": "No ruler is more beloved than the god-Queen Aurora of Ash'ahla, who's self-proclaimed divine heritage has awarded her the most powerful religious army in the world. The people of Ash'ahla are fiercely protective of their homeland and are currently celebration a cultural and magical renaissance. The island nation is ripe with all manner of exotic flora and fauna which are said to offer up their many secrets to those with the wisdom to listen."
     },
     {
       "id": 5,
       "name": "Egress",
-      "ruler": "King Adahn",
+      "ruler": "Emperor Adahn",
       "government": "constitutional monarchy",
       "nationality": "Egressian",
-      "description": ""
+      "description": "Gateway to the South, Egress was liberated from the Zemeri empire in the Great Gate War a century ago. It is now ruled by the Siiq Emperor Adahn Nabateen from the capital city Amenmaatra. Emperor Nabateen has brought a new era of prosperity to his people through facilitating open trade through the Scarlet Delegate"
     },
     {
       "id": 6,
@@ -45,7 +45,7 @@
       "ruler": "none",
       "government": "none",
       "nationality": "I bow to no king. (Medina)",
-      "description": ""
+      "description": "Home to the largest mountain ranges in Meridian, Medun is plentiful in the most valuable of minerals, including gold, silver, platinum and mithril. Medun is loosely controlled by Leosian navies and for years, Leo’s attempt to stamp out the nation's historically Exclusionist cult, but the sheer wealth of its churches line Fairec pockets and keep Leos in power."
     },
     {
       "id": 7,
@@ -53,7 +53,7 @@
       "ruler": "none",
       "government": "none",
       "nationality": "I bow to no king. (Medun)",
-      "description": ""
+      "description": "Legends tell of the Synod, five elven kings of this heartland who betrayed their own, using used legendary relics from the forgotten elven homeland to stop the primal elementals that obliterated the elven empire. Ruled by a coalition of twelve Siiq tribes known as the Scarlet Delegate. Its current Clan King, Kateri, claims to be in possession of one of those ancient weapons: Tlaloc (t-lay-lock) the Storm's Eye. A lance so powerful it is said to strike down even the oldest dragons."
     },
     {
       "id": 8,
@@ -61,7 +61,7 @@
       "ruler": "King Karaji V",
       "government": "absolute monarchy",
       "nationality": "Karaji",
-      "description": ""
+      "description": "Liberated from Zemér during the Great Gate War against Fairbourne, Karaj still conforms to many Zeméri traditions with only surface level differences. Their Prideborn king, Karaji, is fiercely competitive with the Zeméri king, Kirill. Unfortunately, for all his bluster, Karaji has been unable to stamp out corruption even in his own court, never mind bring order in the own nation. Without a strong arm to bring its outlaws to heel, Karaj is a haven known as 'Smuggler's Paradise'."
     },
     {
       "id": 9,
@@ -69,7 +69,7 @@
       "ruler": "King Jared",
       "government": "absolute monarchy",
       "nationality": "Zeméri",
-      "description": ""
+      "description": "Leading scientific research throughout Meridian, the Zeméri empire extended across all the south before into the Great Gate War against King Leos broke the nation into three parts. A century has passed and only recently has the elven King Kirill been able to broker peace with its remaining city-states. To achieve this, King Kirill has invested heavily in the use of Marksmen agents to stamp out any sign of uprising against him."
     },
     {
       "id": 10,
@@ -77,7 +77,7 @@
       "ruler": "city-states",
       "government": "feudalism",
       "nationality": "Senekan",
-      "description": ""
+      "description": "With tropical forests and flourishing agriculture, Seneka is a plentiful nation that remains neutral in international affairs. Recently, Queen Sovereign Bernice Savara, was deposed and Seneka's five city-states run the nation as equals."
     }
 
 ]
