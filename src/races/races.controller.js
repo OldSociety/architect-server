@@ -1,4 +1,4 @@
-const races = require('../db/races.json')
+const races = require('../db/01-races.json')
 const asyncErrorBoundary = require("../errors/asyncErrorBoundary");
 
 async function read(req, res, next) {
