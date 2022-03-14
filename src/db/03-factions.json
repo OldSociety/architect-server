@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "name": "Ephemeron",
+    "entries": [
+      [
+        [
+          "The Ephemeron Academy of Elven Technology - better known as the Ephemeron (Eff-ehm-err-in) - is an Egressian institution that pioneers the reclamation of lost/forgotten elven technology with the ultimate goal of resurrecting the advanced science of ancient elves. It is a professional and academic organization, located throughout southern Meridian (nations south of Egress).",
+          "Established during the early days of the Zemeri Empire in the Egressian capital, Amenmaatra, by then- Sergeant-in-arms Iric Cimeros, the Ephemeron was the world’s military research institute. Today, the Ephemeron is politically neutral and provides its services publicly to both world leaders and common masses alike.",
+          "Along with its public services, its international charter specifies that the Ephemeron is responsible for building detailed lists of known elven technology, both ancient and modern. They provide states with the names, residencies, and political status of their proprietors. Yet, the Ephemeron itself does not include a policing body and cannot themselves enforce these laws.",
+          "The Ephemeron is funded through private and government contracts to explore newly discovered ruins, along with the sale of common modern technology, and fees for training talented artificers in advance study. As a research institution, the Ephemeron also serves as a museum of sorts. The College of Arbitration in Amenmaatra stores and protects relics, especially those found to be potentially dangerous, from the general public."
+        ]
+      ],
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": ""
+        },
+        "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
+      },
+      {
+        "name": "Goals",
+        "entries": [
+          "Rediscovering the technology of the ancient elves is as much a scientific pursuit as it is a religious one. According to followers of the Nobility, without proving their worth, the Fathomless will come to Meridian bringing about the apocalypse. While non-believers are often skeptical of this ancient threat, others believe that through human-elven cooperation, there will finally be peace across Meridian."
+        ]
+      },
+      {
+        "name": "Relationships",
+        "entries": [
+          "The Ephemeron’s grasp on elven technology and its mission to protect and preserve bring the organization in regular conflict with other factions. Settlements built around elven ruins quickly strip and sell the structures for parts, destroying any chance the Ephemeron might have had to further their studies.",
+          "While the churches of Miira are a constant rival for Meridian’s faithful, it is the Ash’a worshippers that are the Ephemeron’s biggest threat. With the god-Queen Aurora’s declaration that elven technology is Meridian’s great evil, tensions have risen towards a breaking point between the two factions. Only the Ephemeron’s current Conservator, Heleran Lorren, and his collective influence with southern governments keep Aurora’s faithful from initiating open conflict."
+        ]
+      },
+      {
+        "name": "Figures of Interest",
+        "entries": [
+          "These figures are major members of the Ephemeron.",
+          {
+            "name": "Principal Conservator Heleran",
+            "entries": [
+              "High Elf",
+              "A famed explorer, Heleran departed his already distinguished post at the College to explore the many unmapped parts of Meridian. In his later years, Master Heleran is dedicated to the absolute preservation of all elven ruins across Meridian. While his influence has swayed many southern rulers, he has yet to find common ground between King Leos nor the god-Queen Aurora."
+            ]
+          },
+          {
+            "name": "First Preserver Thurl Eldrick",
+            "entries": [
+              "Dark Elf",
+              "Zealous in their career path, Thurl is serious about his position in the Ephemeron. Thurl encourages local enforcement (guard captain, crown soldiers, etc...) to enforce local laws regarding elven ruins and artifacts. While the Conservator frowns on violent solutions, Thurl will call upon sell swords or adventurers to settle matters when the need arises."
+            ]
+          },
+          {
+            "name": "First Proctor Gale Merenfire",
+            "entries": [
+              "Moon Elf",
+              "Internal disputes between lower leaders of the Ephemeron area settled by proctors stationed through Meridian. It is Gale’s responsibility to ensure that all proctors adjudicate the Ephemeron’s bylaws fairly and honestly. The most severe disputes or punishments are brought to trial before the Second Proctor who determines a final ruling between both parties. Gale is responsible for reviewing all cases before the Second Proctor and can overturn rulings as he deems necessary."
+            ]
+          },
+          {
+            "name": "Second Proctor Emrik Merenfire",
+            "entries": [
+              "Moon Half-elf",
+              "While on the field, Gale’s son has none of his father’s famed restraint. His duties require Emrick to travel between colleges and outposts throughout Meridian, reviewing the reports of every official. When angered, Emrik acts on impulse, trusting his gut in dealing with task set before him. This has led to multiple controversies over the years, publicly embarrassing both his father and the Curator. Conversely, Emrick is regarded as a fair and well-deliberated judge. In the last 10 years that he has held the position, no ruling has ever been questioned or overturned by the First Proctor."
+            ]
+          },
+          {
+            "name": "First Curator Selynia Marris",
+            "entries": [
+              "Moon Elf",
+              "Selynia maintains detailed records of every elven relic ever recovered and delivered into the Ephemeron’s vaults. Overseeing an army of researchers, scientists, artificers and diviners, Selynia is deeply proud of her work and the respect she's earned among her all- male peers. Calm, quiet and curious, she is determined to add diversity into the Ephemeron’s hierarchy that she believes is too chained to its now ancient traditions."
+            ]
+          },
+          {
+            "name": "First Guardian Nirian Redtail",
+            "entries": [
+              "Prideborn",
+              "While the Ephemeron does not have a policing force to deal with lawbreakers outside its walls, it does have soldiers ready to take up arms against the Ephemeron’s enemies. Nirian is the head commander of the Guardians, responsible for protecting their identities from even their peers. Guardians are trained to maintain mundane positions beside lower ranking officials to protect both the guardians and the secrets they possess – especially the location of Ephemeron’s legendary armory."
+            ]
+          },
+          {
+            "name": "Principal Messenger Zaltarish Círdan",
+            "entries": [
+              "Moon Elf",
+              "Nearing 185 years old, Zaltarish is by all accounts the oldest moon elf alive. Despite his slowly failing faculties, he still commands universal respect among the Ephemeron. He is tasked with being the face of the Conservator and his meritocracy. Recently, more and more miscommunications are arising between the missives sent and the messages delivered, though Zaltarish refuses to accept the blame."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
