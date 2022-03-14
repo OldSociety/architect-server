@@ -5,7 +5,14 @@
     "nationality": "Fairec",
     "ruler": "King Leos VII",
     "government": "absolute monarchy",
-    "capital": [{ "name": "Tourngait", "size": "large", "racials": "human" }],
+    "capital": [
+      {
+        "name": "Tourngait",
+        "size": "large",
+        "racials": "human",
+        "entries": ["This is the description of the capital."]
+      }
+    ],
     "description": "When King Leos VII took the throne more than 80 years ago, he promised a united nation that could fend off the Bloodlands finally. While some see him as a tyrant, countless others swear that without his ruthless, steadfast leadership to protect them - the world as they know it would finally end."
   },
   {
@@ -23,7 +30,14 @@
     "nationality": "Uru",
     "ruler": "Red Horde",
     "government": "theocracy",
-    "capital": [{ "name": "Shalath", "size": "medium", "racials": "stoneborn" }],
+    "capital": [
+      {
+        "name": "Shalath",
+        "size": "medium",
+        "racials": "stoneborn",
+        "entries": ["This is the description of the capital."]
+      }
+    ],
     "description": "Birthplace of the Stoneborn, to some the mountainous wastelands of Uruban are a stain to an otherwise idyllic world. But in truth, the Uru were constructing cities while the rest of Meridian were rediscovering fire after the fall of the elves."
   },
   {
@@ -32,7 +46,14 @@
     "nationality": "Ash'a",
     "ruler": "god-Queen Aurora",
     "government": "theocracy",
-    "capital": [{ "name": "", "size": "small", "racials": "" }],
+    "capital": [
+      {
+        "name": "Anamerel",
+        "size": "small",
+        "racials": "fey",
+        "entries": ["This is the description of the capital."]
+      }
+    ],
     "description": "No ruler is more beloved than the god-Queen Aurora of Ash'ahla, who's self-proclaimed divine heritage has awarded her the most powerful religious army in the world. The people of Ash'ahla are fiercely protective of their homeland and are currently celebration a cultural and magical renaissance. The island nation is ripe with all manner of exotic flora and fauna which are said to offer up their many secrets to those with the wisdom to listen."
   },
   {
@@ -41,7 +62,14 @@
     "nationality": "Egressian",
     "ruler": "Emperor Adahn",
     "government": "constitutional monarchy",
-    "capital": [{ "name": "Amenmaatra", "size": "large", "racials": "human" }],
+    "capital": [
+      {
+        "name": "Amenmaatra",
+        "size": "large",
+        "racials": "human",
+        "entries": ["This is the description of the capital."]
+      }
+    ],
     "description": "Gateway to the South, Egress was liberated from the Zemeri empire in the Great Gate War a century ago. It is now ruled by the Siiq Emperor Adahn Nabateen from the capital city Amenmaatra. Emperor Nabateen has brought a new era of prosperity to his people through facilitating open trade through the Scarlet Delegate"
   },
   {
@@ -68,7 +96,14 @@
     "nationality": "Karaji",
     "ruler": "King Karaji V",
     "government": "absolute monarchy",
-    "capital": [{ "name": "Taj'aruhn", "size": "large", "racials": "" }],
+    "capital": [
+      {
+        "name": "Taj'aruhn",
+        "size": "large",
+        "racials": "furborn",
+        "entries": ["This is the description of the capital."]
+      }
+    ],
     "description": "Liberated from Zemér during the Great Gate War against Fairbourne, Karaj still conforms to many Zeméri traditions with only surface level differences. Their Prideborn king, Karaji, is fiercely competitive with the Zeméri king, Kirill. Unfortunately, for all his bluster, Karaji has been unable to stamp out corruption even in his own court, never mind bring order in the own nation. Without a strong arm to bring its outlaws to heel, Karaj is a haven known as 'Smuggler's Paradise'."
   },
   {
@@ -77,7 +112,14 @@
     "nationality": "Zeméri",
     "ruler": "King Jared",
     "government": "absolute monarchy",
-    "capital": [{ "name": "Alboran", "size": "large", "racials": "elves" }],
+    "capital": [
+      {
+        "name": "Alboran",
+        "size": "large",
+        "racials": "elves",
+        "entries": ["This is the description of the capital."]
+      }
+    ],
     "description": "Leading scientific research throughout Meridian, the Zeméri empire extended across all the south before into the Great Gate War against King Leos broke the nation into three parts. A century has passed and only recently has the elven King Kirill been able to broker peace with its remaining city-states. To achieve this, King Kirill has invested heavily in the use of Marksmen agents to stamp out any sign of uprising against him."
   },
   {
@@ -86,7 +128,14 @@
     "nationality": "Senekan",
     "ruler": "city-states",
     "government": "feudalism",
-    "capital": [{ "name": "", "size": "", "racials": "" }],
+    "capital": [
+      {
+        "name": "Gale Serene",
+        "size": "large",
+        "racials": "elves",
+        "entries": ["This is the description of the capital."]
+      }
+    ],
     "description": "With tropical forests and flourishing agriculture, Seneka is a plentiful nation that remains neutral in international affairs. Recently, Queen Sovereign Bernice Savara, was deposed and Seneka's five city-states run the nation as equals."
   }
 ]
