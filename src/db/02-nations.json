@@ -1,6 +1,17 @@
 [
   {
     "id": 1,
+    "name": "Arxyk",
+    "nationality": "I bow to no king. (Whitepine)",
+    "ruler": "none",
+    "government": "none",
+    "description": [
+      "Aryxk (pronounced “air-ekk”) is the homeland of the Nyx. Once the island was just like Ash’ahla, lush with magic, but it was devasted by arrival of the elves. For generations, they stripped the land of its resources and forced the human Nyx from their homelands. Only after the end of the elven empire did Nyxen barbarians return, only to find the forests bare and its magic lost.",
+      "The remaining wild folk have long endured the slow death of their homeland. Only a thin peace treaty between Fairbourne and Aryxk has kept the threat of genocide at bay. Yet, recently, rumor spreads of a powerful force uniting the Nyxen Rival Clans once again under a single banner, threatening a bloody war once more."
+    ]
+  },
+  {
+    "id": 2,
     "name": "Fairbourne",
     "nationality": "Fairec",
     "ruler": "King Leos VII",
@@ -13,10 +24,13 @@
         "entries": ["This is the description of the capital."]
       }
     ],
-    "description": "When King Leos VII took the throne more than 80 years ago, he promised a united nation that could fend off the Bloodlands finally. While some see him as a tyrant, countless others swear that without his ruthless, steadfast leadership to protect them - the world as they know it would finally end."
+    "description": [
+      "When King Leos VII took the throne more than 80 years ago, he promised a united nation that could fend off both raiders and the hellish horrors of the Bloodlands. While some see him as a tyrant, countless others swear that without his ruthless, steadfast leadership to protect them - the world as they know it would finally end.",
+      "Technologically, Fairbourne may seem like a backward place that has yet to accept the comforts of a modern world. Instead its citizens celebrate the old ways or what little is known of them. "
+    ]
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "Whitepine",
     "nationality": "I bow to no king. (Whitepine)",
     "ruler": "none",
@@ -27,7 +41,7 @@
     ]
   },
   {
-    "id": 3,
+    "id": 4,
     "name": "Uruban",
     "nationality": "Uru",
     "ruler": "Red Horde",
@@ -49,7 +63,7 @@
     ]
   },
   {
-    "id": 4,
+    "id": 5,
     "name": "Ash'ahla",
     "nationality": "Ash'a",
     "ruler": "god-Queen Aurora",
@@ -70,7 +84,7 @@
     ]
   },
   {
-    "id": 5,
+    "id": 6,
     "name": "Egress",
     "nationality": "Egressian",
     "ruler": "Emperor Adahn",
@@ -86,7 +100,7 @@
     "description": "Gateway to the South, Egress was liberated from the Zemeri empire in the Great Gate War a century ago. It is now ruled by the Siiq Emperor Adahn Nabateen from the capital city Amenmaatra. Emperor Nabateen has brought a new era of prosperity to his people through facilitating open trade through the Scarlet Delegate"
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "Medina",
     "ruler": "none",
     "government": "none",
@@ -94,7 +108,7 @@
     "description": "Home to the largest mountain ranges in Meridian, Medun is plentiful in the most valuable of minerals, including gold, silver, platinum and mithril. Medun is loosely controlled by Leosian navies and for years, Leo’s attempt to stamp out the nation's historically Exclusionist cult, but the sheer wealth of its churches line Fairec pockets and keep Leos in power."
   },
   {
-    "id": 7,
+    "id": 8,
     "name": "Medun",
     "ruler": "none",
     "government": "none",
@@ -102,7 +116,7 @@
     "description": "Legends tell of the Synod, five elven kings of this heartland who betrayed their own, using used legendary relics from the forgotten elven homeland to stop the primal elementals that obliterated the elven empire. Ruled by a coalition of twelve Siiq tribes known as the Scarlet Delegate. Its current Clan King, Kateri, claims to be in possession of one of those ancient weapons: Tlaloc (t-lay-lock) the Storm's Eye. A lance so powerful it is said to strike down even the oldest dragons."
   },
   {
-    "id": 8,
+    "id": 9,
     "name": "Karaj",
     "nationality": "Karaji",
     "ruler": "King Karaji V",
@@ -126,7 +140,7 @@
     ]
   },
   {
-    "id": 9,
+    "id": 10,
     "name": "Zemér",
     "nationality": "Zeméri",
     "ruler": "King Jared",
@@ -144,7 +158,7 @@
     "description": "Leading scientific research throughout Meridian, the Zeméri empire extended across all the south before into the Great Gate War against King Leos broke the nation into three parts. A century has passed and only recently has the elven King Kirill been able to broker peace with its remaining city-states. To achieve this, King Kirill has invested heavily in the use of Marksmen agents to stamp out any sign of uprising against him."
   },
   {
-    "id": 10,
+    "id": 11,
     "name": "Seneka",
     "nationality": "Senekan",
     "ruler": "city-states",
