@@ -21,7 +21,10 @@
         "name": "Tourngait",
         "size": "large",
         "racials": "human",
-        "entries": ["This is the description of the capital."]
+        "entries": [
+          "When the Rival clans began their raids on the loosely united towns and hamlets of the north, the woodworker Vendren Leos took up arms and repelled the invaders. Under his leadership and quick wit, the conquering empire was born.",
+          "When the young nation's capital, New Polythesis, fell generations later, it sparked a militaristic revolution that continues to this day. Ruling from the city of Tourngait, Leos pushes new, advanced weapons combined with devastating war magics, out of a generational paranoia of future attacks from enemies they see lurking in all directions."
+        ]
       }
     ],
     "description": [
@@ -36,7 +39,7 @@
     "ruler": "none",
     "government": "none",
     "description": [
-      " Whitepine remains mostly unexplored, unsettled and unconquered. Its active volcano threatens to erupt with regular tremors. Its lush forests are filled with deadly monstrosities and terrifying abominations.",
+      "Whitepine remains mostly unexplored, unsettled and unconquered. Its active volcano threatens to erupt with regular tremors. Its lush forests are filled with deadly monstrosities and terrifying abominations.",
       "Throughout history, fantastical tales have been told of Whitepine’s talking dragons, great demon generals and human tribes with the power to walk through the Grey Halls at will. There is no proof to any of these claims and with even the most powerful divination unable to pierce its mysterious veil, there may never be."
     ]
   },
@@ -73,7 +76,10 @@
         "name": "Anamerel",
         "size": "small",
         "racials": "fey",
-        "entries": ["This is the description of the capital."]
+        "entries": [
+          "Anamerel itself is quite legendary with so much to behold. Since the dawn of Ash'ahla, innumerous great works have been crafted here; inspired by fey muses. There are the silver temples of Anamerel, the Forenoon Tombs, the infamous Alpenglow, and, of course, Aurora's Lumin Tower at the heart of it all.",
+          "With an estimated population of 5000, this modest city is considered one of the great wonders of the world."
+        ]
       }
     ],
     "description": [
@@ -94,10 +100,13 @@
         "name": "Amenmaatra",
         "size": "large",
         "racials": "human",
-        "entries": ["This is the description of the capital."]
+        "entries": [
+          "Established nearly 400 years after the end of the primordial wars, Amenmaatra was the first great civilization to rise up from the ashes and is hailed as the crown jewel of Meridina. Protected by treacherous mountains to the east and the Infernal Gulf to the west, Amenmaatra thrives as the only gateway between the northern and southern nations.",
+          "For all its glory, the city is ruled by martial law and a strict caste system, generals, and war heroes as the ruling class. Men, women and unic live segregated in this predominately Siiq society with family members often living apart from their cross-gendered spouses and siblings. While visitors do not have to follow these customs, disrespecting rules publicly comes with dire consequences."
+        ]
       }
     ],
-    "description": "Gateway to the South, Egress was liberated from the Zemeri empire in the Great Gate War a century ago. It is now ruled by the Siiq Emperor Adahn Nabateen from the capital city Amenmaatra. Emperor Nabateen has brought a new era of prosperity to his people through facilitating open trade through the Scarlet Delegate"
+    "description": "Gateway to the South, Egress was liberated from the Zemeri empire in the Great Gate War a century ago. It is now ruled by the Siiq Emperor Adahn Nabateen from the capital city Amenmaatra. Emperor Nabateen has brought a new era of prosperity to his people through facilitating open trade through the Scarlet Delegate."
   },
   {
     "id": 7,
