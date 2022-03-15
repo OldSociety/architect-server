@@ -1,6 +1,17 @@
 [
   {
     "id": 1,
+    "name": "Arxyk",
+    "nationality": "I bow to no king. (Whitepine)",
+    "ruler": "none",
+    "government": "none",
+    "description": [
+      "Aryxk (pronounced “air-ekk”) is the homeland of the Nyx. Once the island was just like Ash’ahla, lush with magic, but it was devasted by arrival of the elves. For generations, they stripped the land of its resources and forced the human Nyx from their homelands. Only after the end of the elven empire did Nyxen barbarians return, only to find the forests bare and its magic lost.",
+      "The remaining wild folk have long endured the slow death of their homeland. Only a thin peace treaty between Fairbourne and Aryxk has kept the threat of genocide at bay. Yet, recently, rumor spreads of a powerful force uniting the Nyxen Rival Clans once again under a single banner, threatening a bloody war once more."
+    ]
+  },
+  {
+    "id": 2,
     "name": "Fairbourne",
     "nationality": "Fairec",
     "ruler": "King Leos VII",
@@ -10,22 +21,30 @@
         "name": "Tourngait",
         "size": "large",
         "racials": "human",
-        "entries": ["This is the description of the capital."]
+        "entries": [
+          "When the Rival clans began their raids on the loosely united towns and hamlets of the north, the woodworker Vendren Leos took up arms and repelled the invaders. Under his leadership and quick wit, the conquering empire was born.",
+          "When the young nation's capital, New Polythesis, fell generations later, it sparked a militaristic revolution that continues to this day. Ruling from the city of Tourngait, Leos pushes new, advanced weapons combined with devastating war magics, out of a generational paranoia of future attacks from enemies they see lurking in all directions."
+        ]
       }
     ],
-    "description": "When King Leos VII took the throne more than 80 years ago, he promised a united nation that could fend off the Bloodlands finally. While some see him as a tyrant, countless others swear that without his ruthless, steadfast leadership to protect them - the world as they know it would finally end."
+    "description": [
+      "When King Leos VII took the throne more than 80 years ago, he promised a united nation that could fend off both raiders and the hellish horrors of the Bloodlands. While some see him as a tyrant, countless others swear that without his ruthless, steadfast leadership to protect them - the world as they know it would finally end.",
+      "Technologically, Fairbourne may seem like a backward place that has yet to accept the comforts of a modern world. Instead its citizens celebrate the old ways or what little is known of them. "
+    ]
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "Whitepine",
     "nationality": "I bow to no king. (Whitepine)",
     "ruler": "none",
     "government": "none",
-    "capital": "none",
-    "description": " Whitepine remains mostly unexplored, unsettled and unconquered. Its active volcano threatens to erupt with regular tremors. Its lush forests are filled with deadly monstrosities and terrifying abominations. Throughout history, fantastical tales have been told of Whitepine’s talking dragons, great demon generals and human tribes with the power to walk through the Grey Halls at will. There is no proof to any of these claims and with even the most powerful divination unable to pierce its mysterious veil, there may never be."
+    "description": [
+      "Whitepine remains mostly unexplored, unsettled and unconquered. Its active volcano threatens to erupt with regular tremors. Its lush forests are filled with deadly monstrosities and terrifying abominations.",
+      "Throughout history, fantastical tales have been told of Whitepine’s talking dragons, great demon generals and human tribes with the power to walk through the Grey Halls at will. There is no proof to any of these claims and with even the most powerful divination unable to pierce its mysterious veil, there may never be."
+    ]
   },
   {
-    "id": 3,
+    "id": 4,
     "name": "Uruban",
     "nationality": "Uru",
     "ruler": "Red Horde",
@@ -35,13 +54,19 @@
         "name": "Shalath",
         "size": "medium",
         "racials": "stoneborn",
-        "entries": ["This is the description of the capital."]
+        "entries": [
+          "Uruban’s capital is the oldest surviving settlement in the world. Throughout its long history, Shalath has been destroyed countless times, succumbing to horrific natural disasters and endless wars.",
+          "Yet, due to its symbolic importance as the historical birthplace of Tsin-sol, Shalath forever returns to prominence. In modern times, Shalath is controlled and protected by the Red Horde, a powerful collection of Uru nations under the single holy banner of Udreth-sol."
+        ]
       }
     ],
-    "description": "Birthplace of the Stoneborn, to some the mountainous wastelands of Uruban are a stain to an otherwise idyllic world. But in truth, the Uru were constructing cities while the rest of Meridian were rediscovering fire after the fall of the elves."
+    "description": [
+      "To many the mountainous wastelands of Uruban are a scar to an otherwise idyllic world. Even before the Collapse destroyed the nations heart, humans avoided the steep mountain ranges and even the first elves were unable to bring the nation to heel.",
+      "Only the Stoneborn, with their unique biology and traditional understanding of Uruban, make this perilous, unforgiving land their home."
+    ]
   },
   {
-    "id": 4,
+    "id": 5,
     "name": "Ash'ahla",
     "nationality": "Ash'a",
     "ruler": "god-Queen Aurora",
@@ -51,13 +76,21 @@
         "name": "Anamerel",
         "size": "small",
         "racials": "fey",
-        "entries": ["This is the description of the capital."]
+        "entries": [
+          "Anamerel itself is quite legendary with so much to behold. Since the dawn of Ash'ahla, innumerous great works have been crafted here; inspired by fey muses. There are the silver temples of Anamerel, the Forenoon Tombs, the infamous Alpenglow, and, of course, Aurora's Lumin Tower at the heart of it all.",
+          "With an estimated population of 5000, this modest city is considered one of the great wonders of the world."
+        ]
       }
     ],
-    "description": "No ruler is more beloved than the god-Queen Aurora of Ash'ahla, who's self-proclaimed divine heritage has awarded her the most powerful religious army in the world. The people of Ash'ahla are fiercely protective of their homeland and are currently celebration a cultural and magical renaissance. The island nation is ripe with all manner of exotic flora and fauna which are said to offer up their many secrets to those with the wisdom to listen."
+    "description": [
+      "No ruler is more beloved than the god-Queen Aurora of Ash'ahla, whose self-proclaimed divine heritage has awarded her the most powerful religious army in the world. Ash’ahla overflows with magic. Those who wander its enchanted roads discover miracles and wonders unlike anything else in the world.",
+      "Glorious castles perch on mountain spires that rise to the starry heavens. Bold travelers board vessels in summer and exit the next night into winter. Fairies anoint the dew drops on morning flowers, and in the evening, satyrs play their gentle pipes to lull the world to sleep.",
+      "Yet for all its dreamlike splendor, Ash’ahla is perilous to outsiders and those unfamiliar with its own, strange laws. Here wicked hags place everlasting curses on their enemies, change mortals into toads and blacken the moon in their flight across the midnight sky. Capricious fey play careless games with mortal lives. And underground caverns might sprawl the length of the world above.",
+      "Those who are drawn to this realm of enchantment and danger must take care because the wonders and horrors of Ash’ahla share the same shade."
+    ]
   },
   {
-    "id": 5,
+    "id": 6,
     "name": "Egress",
     "nationality": "Egressian",
     "ruler": "Emperor Adahn",
@@ -67,31 +100,32 @@
         "name": "Amenmaatra",
         "size": "large",
         "racials": "human",
-        "entries": ["This is the description of the capital."]
+        "entries": [
+          "Established nearly 400 years after the end of the primordial wars, Amenmaatra was the first great civilization to rise up from the ashes and is hailed as the crown jewel of Meridina. Protected by treacherous mountains to the east and the Infernal Gulf to the west, Amenmaatra thrives as the only gateway between the northern and southern nations.",
+          "For all its glory, the city is ruled by martial law and a strict caste system, generals, and war heroes as the ruling class. Men, women and unic live segregated in this predominately Siiq society with family members often living apart from their cross-gendered spouses and siblings. While visitors do not have to follow these customs, disrespecting rules publicly comes with dire consequences."
+        ]
       }
     ],
-    "description": "Gateway to the South, Egress was liberated from the Zemeri empire in the Great Gate War a century ago. It is now ruled by the Siiq Emperor Adahn Nabateen from the capital city Amenmaatra. Emperor Nabateen has brought a new era of prosperity to his people through facilitating open trade through the Scarlet Delegate"
+    "description": "Gateway to the South, Egress was liberated from the Zemeri empire in the Great Gate War a century ago. It is now ruled by the Siiq Emperor Adahn Nabateen from the capital city Amenmaatra. Emperor Nabateen has brought a new era of prosperity to his people through facilitating open trade through the Scarlet Delegate."
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "Medina",
     "ruler": "none",
     "government": "none",
     "nationality": "I bow to no king. (Medina)",
-    "capital": "none",
     "description": "Home to the largest mountain ranges in Meridian, Medun is plentiful in the most valuable of minerals, including gold, silver, platinum and mithril. Medun is loosely controlled by Leosian navies and for years, Leo’s attempt to stamp out the nation's historically Exclusionist cult, but the sheer wealth of its churches line Fairec pockets and keep Leos in power."
   },
   {
-    "id": 7,
+    "id": 8,
     "name": "Medun",
     "ruler": "none",
     "government": "none",
     "nationality": "I bow to no king. (Medun)",
-    "capital": "none",
     "description": "Legends tell of the Synod, five elven kings of this heartland who betrayed their own, using used legendary relics from the forgotten elven homeland to stop the primal elementals that obliterated the elven empire. Ruled by a coalition of twelve Siiq tribes known as the Scarlet Delegate. Its current Clan King, Kateri, claims to be in possession of one of those ancient weapons: Tlaloc (t-lay-lock) the Storm's Eye. A lance so powerful it is said to strike down even the oldest dragons."
   },
   {
-    "id": 8,
+    "id": 9,
     "name": "Karaj",
     "nationality": "Karaji",
     "ruler": "King Karaji V",
@@ -101,13 +135,21 @@
         "name": "Taj'aruhn",
         "size": "large",
         "racials": "furborn",
-        "entries": ["This is the description of the capital."]
+        "entries": [
+          "Once the capital of the great Zeméri empire The center of the world for many of its citizens. The city is the political, economic, religious and cultural capital of Karaj. Yet, even the most hardened warriors watch their steps here, where gold is king.",
+          "It’s reputation for being a rough place, with crime and opportunity walk hand in hand, and where anything can be bought, sold, or seized at swordpoint. If something can be given a price, it’s for sale somewhere in the city.",
+          "Drugs and poisons sit on shelves alongside tinctures and remedies. While elven wonders, tomes of magic and believable counterfeits can be found throughout the city’s stalls. For all its shadows and dark dealings, the city holds great opportunity for those with passion, cleverness and more than a little luck."
+        ]
       }
     ],
-    "description": "Liberated from Zemér during the Great Gate War against Fairbourne, Karaj still conforms to many Zeméri traditions with only surface level differences. Their Prideborn king, Karaji, is fiercely competitive with the Zeméri king, Kirill. Unfortunately, for all his bluster, Karaji has been unable to stamp out corruption even in his own court, never mind bring order in the own nation. Without a strong arm to bring its outlaws to heel, Karaj is a haven known as 'Smuggler's Paradise'."
+    "description": [
+      "Liberated from Zemér during the Great Gate War against Fairbourne, Karaj still conforms to many Zeméri traditions with only surface level differences. Their Prideborn king, Karaji II, is no politician.",
+      "His self-imposed competition with Zemér’s Black Prince is a huge distraction to the daily needs of his people. Worse still, for all his bluster, Karaji has been unable to stamp out corruption even in his own court, never mind bring order to the new nation.",
+      "Without a strong arm to bring its outlaws to heel, Karaj is a haven known as 'Smuggler's Paradise'. In his incompetence, the Synagogue has entrenched itself becoming the true seat of wealth and power in the nation."
+    ]
   },
   {
-    "id": 9,
+    "id": 10,
     "name": "Zemér",
     "nationality": "Zeméri",
     "ruler": "King Jared",
@@ -117,13 +159,15 @@
         "name": "Alboran",
         "size": "large",
         "racials": "elves",
-        "entries": ["This is the description of the capital."]
+        "entries": [
+          "Until recently, Zemér paved the way forward in scientific research throughout Meridian, its capital, Alboran, a shining reminder of elven ingenuity."
+        ]
       }
     ],
     "description": "Leading scientific research throughout Meridian, the Zeméri empire extended across all the south before into the Great Gate War against King Leos broke the nation into three parts. A century has passed and only recently has the elven King Kirill been able to broker peace with its remaining city-states. To achieve this, King Kirill has invested heavily in the use of Marksmen agents to stamp out any sign of uprising against him."
   },
   {
-    "id": 10,
+    "id": 11,
     "name": "Seneka",
     "nationality": "Senekan",
     "ruler": "city-states",
@@ -133,9 +177,15 @@
         "name": "Gale Serene",
         "size": "large",
         "racials": "elves",
-        "entries": ["This is the description of the capital."]
+        "entries": [
+          "Gale Serene was the official capital under its former-queen, but suffered wide-spread social unrest has following a decade worth of political, economic and moral decline. While it remains, a powerful cosmopolitan built around an Imperial age wood elf citadel, “the Hroa” (roh-ah), only time will tell if its return to krytocracy (government of judges) will bring it back to glory."
+        ]
       }
     ],
-    "description": "With tropical forests and flourishing agriculture, Seneka is a plentiful nation that remains neutral in international affairs. Recently, Queen Sovereign Bernice Savara, was deposed and Seneka's five city-states run the nation as equals."
+    "description": [
+      "With tropical forests and flourishing agriculture, Seneka is a plentiful nation that remains neutral in international affairs. As a collection of city-states, each has its own laws, military and form of currency, while still maintaining a unified cultural identity as a nation.",
+      "Many states have differing ranks of citizenship leading to longstanding struggles for political equity with first-class citizens. A substantial number of noncitizens (minors, resident aliens and occasionally slaves) also reside throughout Seneka.",
+      "Navigating the local laws and customs of each state is a necessary challenge for merchants and pilgrims alike, because what might be completely acceptable in one state can be considered taboo or down-right unlawful in another. There is no exemption for ignorance."
+    ]
   }
 ]
