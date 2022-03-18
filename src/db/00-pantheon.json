@@ -28,7 +28,7 @@
       {
         "tenants": [
           "Protect Meridian from exploitation and destruction.",
-          "Slay abomination in every form.",
+          "Slay foul and unnatural abomination in any form they take.",
           "Exist in harmony with one another."
         ]
       },
@@ -340,13 +340,9 @@
           "Countless elves have attempted to follow the Abiosis' path over the years, and every few millennia or so there comes along a lich just skilled enough to unravel the first of the Abiosis' unique (and often profane) wisdoms."
         ]
       },
-      {
-        "tenants": ["."]
-      },
       { "alias": ["Pallid King"] },
       { "domain": ["Arcana", "Death"] },
-      { "language": "celestial" },
-      { "holiday": "." }
+      { "language": "celestial" }
     ]
   },
   {
@@ -360,12 +356,8 @@
           "Guardian of the Nobility, the Abnegation protects the secret of Elven ascension from individuals unprepared for the responsibilities of their kind. They are patient but steadfast in their duties."
         ]
       },
-      {
-        "tenants": ["."]
-      },
       { "domain": ["Order", "Trickery"] },
-      { "language": "celestial" },
-      { "holiday": "." }
+      { "language": "celestial" }
     ]
   },
   {
@@ -379,12 +371,8 @@
           "First of their kind, the Abominate discovered the secret to immortality and ascended their peers. But with that power, the Abominate declared dominance over all species of all worlds. If not for the Ephemeron, the universe would be enslaved. They represent the seduction of absolute power."
         ]
       },
-      {
-        "tenants": ["."]
-      },
       { "domain": ["Death", "War"] },
-      { "language": "celestial" },
-      { "holiday": "." }
+      { "language": "celestial" }
     ]
   },
   {
@@ -398,13 +386,9 @@
           "The Countless Lord who designed the 'Intended Equation', a mathematical constant used in the creation of all artificial life. This lord represents a person’s innate responsibility of divine inheritance; in other words, creating new forms of life."
         ]
       },
-      {
-        "tenants": ["."]
-      },
       { "alias": ["Countless Lord"] },
       { "domain": ["Knowledge", "Life"] },
-      { "language": "celestial" },
-      { "holiday": "." }
+      { "language": "celestial" }
     ]
   },
   {
@@ -419,9 +403,6 @@
         ]
       },
       {
-        "tenants": ["."]
-      },
-      {
         "alias": [
           "Twice-Crossed One",
           "First son of Nobility",
@@ -429,8 +410,7 @@
         ]
       },
       { "domain": ["Arcana", "Peace"] },
-      { "language": "celestial" },
-      { "holiday": "." }
+      { "language": "celestial" }
     ]
   },
   {
@@ -444,12 +424,8 @@
           "The Noble Laws maintain the balance of power between the Elven Lords. Uniting them under the banner of a singular goal, the Conformity crafted the universal laws that all modern life must follow."
         ]
       },
-      {
-        "tenants": ["."]
-      },
       { "domain": ["Knowledge", "Order"] },
-      { "language": "celestial" },
-      { "holiday": "." }
+      { "language": "celestial" }
     ]
   },
   {
@@ -460,15 +436,11 @@
     "entries": [
       {
         "description": [
-          "A single being divided into two, Kú (like the letter ‘Q’) and Kwé (kway) are simultaneously star-crossed lovers and fierce rivals. These two, equal yet opposing, forces use the entire universe as their game board. The stories of their exploits and the lengths the Diarchy have gone to impress each other, often at the cost of the mortal world, are woven into the most famous elven love stories and songs of all time."
+          "A single being divided into two, Kú (pronounced ‘Q’) and Kwé (kway) are simultaneously star-crossed lovers and fierce rivals. These two, equal yet opposing, forces use the entire universe as their game board. The stories of their exploits and the lengths the Diarchy have gone to impress each other, often at the cost of the mortal world, are woven into the most famous elven love stories and songs of all time."
         ]
       },
-      {
-        "tenants": ["."]
-      },
       { "domain": ["Peace", "War"] },
-      { "language": "celestial" },
-      { "holiday": "." }
+      { "language": "celestial" }
     ]
   },
   {
@@ -482,12 +454,8 @@
           "The Dissonance took the whole of elven knowledge and assembled the Noble Libraries. Simultaneously, they invented both the ancient elven language and advanced mathematics before gifting them to the lower races. Although Meridian’s elves lost such knowledge during their empire’s collapse, the Dissonance promises they will eventually reclaim their inheritance."
         ]
       },
-      {
-        "tenants": ["."]
-      },
       { "domain": ["Knowledge", "Twilight"] },
-      { "language": "celestial" },
-      { "holiday": "." }
+      { "language": "celestial" }
     ]
   },
   {
@@ -497,14 +465,12 @@
     "rank": "Elven Lord",
     "entries": [
       {
-        "description": ["The Ephemeron fought back the Abominate as it threatened the autonomy of other races across the universe. The Ephemeron’s form and astounding powers defy standard classification, and for all intents and purposes, the Ephemeron rules as King of the Nobility. After the Abominates defeat and imprisonment across the stars, the Ephemeron paved the way for the other Elven Lords to ascend, forming the foundations of evolution and writing the pattern on which divine right was written. "]
-      },
-      {
-        "tenants": ["."]
+        "description": [
+          "The Ephemeron fought back the Abominate as it threatened the autonomy of other races across the universe. The Ephemeron’s form and astounding powers defy standard classification, and for all intents and purposes, the Ephemeron rules as King of the Nobility. After the Abominates defeat and imprisonment across the stars, the Ephemeron paved the way for the other Elven Lords to ascend, forming the foundations of evolution and writing the pattern on which divine right was written. "
+        ]
       },
       { "domain": ["Order", "Peace"] },
-      { "language": "celestial" },
-      { "holiday": "." }
+      { "language": "celestial" }
     ]
   },
   {
@@ -518,12 +484,8 @@
           ": Stalking the emptiness of space, the Fathomless consumes dying worlds and repurposes it for the further expansion of the universe. The threat of the Fathomless drives the necessity of the elves to prosper and reclaim their glorious place among the stars."
         ]
       },
-      {
-        "tenants": ["."]
-      },
       { "domain": ["Grave", "Tempest"] },
-      { "language": "celestial" },
-      { "holiday": "." }
+      { "language": "celestial" }
     ]
   },
   {
@@ -537,12 +499,8 @@
           "The Incandescent rose into the ranks of Nobility by wandering into a burning star, pulling it apart and studying its inner secrets. For unknown reasons, they create and destroy whole solar systems as they see fit. "
         ]
       },
-      {
-        "tenants": ["."]
-      },
       { "domain": ["Light", "Tempest"] },
-      { "language": "celestial" },
-      { "holiday": "." }
+      { "language": "celestial" }
     ]
   },
   {
@@ -556,12 +514,8 @@
           "While the Abominate was the first to fall from grace, they were far from the last. The Obscene broke the rules of reality by bending space and time. The consequences for their arrogance were steep and they exist as a warning for where elven hubris leads."
         ]
       },
-      {
-        "tenants": ["."]
-      },
       { "domain": ["Trickery", "War"] },
-      { "language": "celestial" },
-      { "holiday": "." }
+      { "language": "celestial" }
     ]
   },
   {
@@ -575,12 +529,8 @@
           "Within this Elven Lord is destiny written. Although fate is mostly mutable, changing with the tides made by great elven heroes, the great ascension of all elves to Nobility one day is guaranteed."
         ]
       },
-      {
-        "tenants": ["."]
-      },
       { "domain": ["Knowledge"] },
-      { "language": "celestial" },
-      { "holiday": "." }
+      { "language": "celestial" }
     ]
   },
   {
@@ -594,12 +544,8 @@
           "Of all the Nobility, only the Verity remembers the fragility of mortality and the heartbreak of losing loved ones. While forbidden by the Noble Laws to interfere directly with mortal affairs, the Verity inspires elven prodigies, encouraging their tireless work towards immortality."
         ]
       },
-      {
-        "tenants": ["."]
-      },
       { "domain": ["Forge", "Knowledge"] },
-      { "language": "celestial" },
-      { "holiday": "." }
+      { "language": "celestial" }
     ]
   },
   {
@@ -613,12 +559,8 @@
           "The Vulnerary is invoked to cure the deadliest diseases, even though they are associated with bringing them about in the first place. Also known as Mercy, the Vulnerary is illness personified and demands proof of worthiness before daring to interfere in nature’s work."
         ]
       },
-      {
-        "tenants": ["."]
-      },
       { "domain": ["Death", "Life"] },
-      { "language": "celestial" },
-      { "holiday": "." }
+      { "language": "celestial" }
     ]
   },
   {
@@ -628,10 +570,14 @@
     "rank": "Archdemon",
     "entries": [
       {
-        "description": ["Lord of Vestiges, Vedigo is depicted as a dragon-like creature with the head of an alligator and a gorilla-like chest and arms."]
+        "description": [
+          "Lord of Vestiges, Vedigo is the Ironic King. His petitioners see themselves as .is depicted as a dragon-like creature with the head of an alligator and a gorilla-like chest and arms."
+        ]
       },
       {
-        "tenants": [""]
+        "tenants": [
+          "You deserve everything you get, so ensure you get everything you deserve."
+        ]
       },
       { "organizations": "" },
       { "language": "abyssal" }
@@ -644,7 +590,7 @@
     "rank": "Archdemon",
     "entries": [
       {
-        "description": [""]
+        "description": ["Pain"]
       },
       {
         "tenants": [""]
@@ -679,7 +625,7 @@
         "description": [""]
       },
       {
-        "tenants": [""]
+        "tenants": ["Hunger and Hunt."]
       },
       { "organizations": "" },
       { "language": "abyssal" }
@@ -695,7 +641,7 @@
         "description": [""]
       },
       {
-        "tenants": [""]
+        "tenants": ["Redemption for the fallen at a price."]
       },
       { "organizations": "" },
       { "language": "abyssal" }
@@ -708,12 +654,14 @@
     "rank": "Archdemon",
     "entries": [
       {
-        "description": ["Patron of evil witch cults, the vampiric Vestige Suanggi (soo-ahn-gee) is the perverter of Miira's sacred magic. The Vestige tempts his followers with their vast library of profane knowledge hidden somewhere on the material plane. The Skin Library is a vast cavern with countless corpses strung like cattle from end to end. Suanggi uses the inside of these corpses' skin as his infamous spellbooks.",
+        "description": [
+          "Patron of evil witch cults, the vampiric Vestige Suanggi (soo-ahn-gee) is the perverter of Miira's sacred magic. The Vestige tempts his followers with their vast library of profane knowledge hidden somewhere on the material plane. The Skin Library is a vast cavern with countless corpses strung like cattle from end to end. Suanggi uses the inside of these corpses' skin as his infamous spellbooks.",
           "Unlike other Vestiges, Suanggi prefers to direct their cults personally. To accomplish this, the Vestige targets young children, possessing their bodies with their (or their underling's) spirits.",
-          "Suanggi has a myriad of forms, their most common depiction is a hurricane-size swarm of various insects that feed on both blood and organs. Children possessed by Suanggi are easily identified during autopsy, as their organs are feasted upon and eventually replaced by hordes of horrifying insects."]
+          "Suanggi has a myriad of forms, their most common depiction is a hurricane-size swarm of various insects that feed on both blood and organs. Children possessed by Suanggi are easily identified during autopsy, as their organs are feasted upon and eventually replaced by hordes of horrifying insects."
+        ]
       },
       {
-        "tenants": [""]
+        "tenants": ["Profane magic."]
       },
       { "organizations": "" },
       { "language": "abyssal" }
@@ -726,12 +674,16 @@
     "rank": "Archdemon",
     "entries": [
       {
-        "description": ["Rusalka is the Vestige of Prophesy and Lord of False Confessions. He is depicted as the smallest of his kind standing only 60 feet tall with the body of a spide, the color of deep sea, with seven faces in place of eyes that constantly slide across his face.",
+        "description": [
+          "Rusalka is the Vestige of Prophesy and Lord of False Confessions. He is depicted as the smallest of his kind standing only 60 feet tall with the body of a spide, the color of deep sea, with seven faces in place of eyes that constantly slide across his face.",
           "Rusalka answers the prayers of selfish men, giving them positions of power where they can do the most harm to society. His followers rarely realize that while his predictions are always true, Rusalka withholds the full picture, leading to their inevitable ruin. In exchange for his power, the Vestige demands constant offerings of gold and blood sacrifice.",
-        "Rusalka rules over 80 demonic generals under his command."]
+          "Rusalka rules over 80 demonic generals under his command."
+        ]
       },
       {
-        "tenants": [""]
+        "tenants": [
+          "The value of secrets cannot be overstated. In exchange for power, I only ask you pledge yourself to seek the lost lore I desire."
+        ]
       },
       { "organizations": "" },
       { "language": "abyssal" }
@@ -744,12 +696,16 @@
     "rank": "Archdemon",
     "entries": [
       {
-        "description": ["Vestige of extreme greed and kleptomania, Medijal exists to gather and horde anything it doesn't already possible, both material and immaterial. Due to its nature, Medijal suffers from an eternal hunger, looking to satisfy a craving that can never be satisfied.",
+        "description": [
+          "Vestige of extreme greed and kleptomania, Medijal exists to gather and horde anything it doesn't already possible, both material and immaterial. Due to its nature, Medijal suffers from an eternal hunger, looking to satisfy a craving that can never be satisfied.",
           "Medijal is an elogated reptile-like creature with clawed human-hands and a lengthy neck. Their human-like face is covered by a wooden mask with horns, a shaggy mane, and two large golden earrings.",
-        "Cults of Medijal arise when groups crave for that which is purposefully withheld. For instance, a tribe's secret ritual might be kept from the hands of the public out of fear and self-destruction. THe foolhearty may unknowingly (or knowingly) ask Medijal to grant them access, unwittingly handing that same power to the Vestige who eventually destroys both and keeps the secret power for itself."]
+          "Cults of Medijal arise when groups crave for that which is purposefully withheld. For instance, a tribe's secret ritual might be kept from the hands of the public out of fear and self-destruction. THe foolhearty may unknowingly (or knowingly) ask Medijal to grant them access, unwittingly handing that same power to the Vestige who eventually destroys both and keeps the secret power for itself."
+        ]
       },
       {
-        "tenants": [""]
+        "tenants": [
+          "Take what you desire. Those without cunning are unworthy of any domain they inherit."
+        ]
       },
       { "organizations": "" },
       { "language": "abyssal" }
@@ -760,16 +716,9 @@
     "name": "Kronkalli",
     "religion": ["Vestige"],
     "rank": "Archdemon",
-    "sphere": [
-      {
-        "type": "",
-        "color": "",
-        "description": ""
-      }
-    ],
     "entries": [
       {
-        "description": [""]
+        "description": ["Illusion and deception."]
       },
       {
         "tenants": [""]
@@ -783,16 +732,9 @@
     "name": "Dzoavac",
     "religion": ["Vestige"],
     "rank": "Archdemon",
-    "sphere": [
-      {
-        "type": "",
-        "color": "",
-        "description": ""
-      }
-    ],
     "entries": [
       {
-        "description": [""]
+        "description": ["Instill fear in my enemies."]
       },
       {
         "tenants": [""]
@@ -806,16 +748,9 @@
     "name": "Esheth",
     "religion": ["Vestige"],
     "rank": "Archdemon",
-    "sphere": [
-      {
-        "type": "",
-        "color": "",
-        "description": ""
-      }
-    ],
     "entries": [
       {
-        "description": [""]
+        "description": ["Death and decay."]
       },
       {
         "tenants": [""]
@@ -829,21 +764,13 @@
     "name": "Cimeis",
     "religion": ["Vestige"],
     "rank": "Archdemon",
-    "sphere": [
-      {
-        "type": "",
-        "color": "",
-        "description": ""
-      }
-    ],
     "entries": [
       {
         "description": [""]
       },
       {
-        "tenants": [""]
+        "tenants": ["Beauty and submission."]
       },
-      { "domain": ["", "", ""] },
       { "organizations": "" },
       { "language": "abyssal" }
     ]
@@ -853,19 +780,12 @@
     "name": "Bokavac",
     "religion": ["Vestige"],
     "rank": "Archdemon",
-    "sphere": [
-      {
-        "type": "",
-        "color": "",
-        "description": ""
-      }
-    ],
     "entries": [
       {
         "description": [""]
       },
       {
-        "tenants": [""]
+        "tenants": ["Hate and vengeance."]
       },
       { "organizations": "" },
       { "language": "abyssal" }

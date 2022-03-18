@@ -1,7 +1,1028 @@
 [
   {
     "id": 1,
+    "name": "Conjunction",
+    "type": ["arcane"],
+    "entries": [
+      [["", "", "", ""]],
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": ""
+        },
+        "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
+      },
+      {
+        "name": "Goals",
+        "entries": [""]
+      },
+      {
+        "name": "Relationships",
+        "entries": ["", ""]
+      },
+      {
+        "name": "",
+        "entries": [
+          "",
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Scarlet Delegate",
+    "type": ["mercantile"],
+    "entries": [
+      [
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": ""
+        },
+        "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
+      },
+      {
+        "name": "Goals",
+        "entries": [
+          ""
+        ]
+      },
+      {
+        "name": "Relationships",
+        "entries": [
+          "",
+          ""
+        ]
+      },
+      {
+        "name": "",
+        "entries": [
+          "",
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Verdel Den",
+    "type": ["criminal", "mercantile"],
+    "entries": [
+      [
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": ""
+        },
+        "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
+      },
+      {
+        "name": "Goals",
+        "entries": [
+          ""
+        ]
+      },
+      {
+        "name": "Relationships",
+        "entries": [
+          "",
+          ""
+        ]
+      },
+      {
+        "name": "",
+        "entries": [
+          "",
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Lineage",
+    "type": ["noble"],
+    "entries": [
+      [
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": ""
+        },
+        "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
+      },
+      {
+        "name": "Goals",
+        "entries": [
+          ""
+        ]
+      },
+      {
+        "name": "Relationships",
+        "entries": [
+          "",
+          ""
+        ]
+      },
+      {
+        "name": "",
+        "entries": [
+          "",
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Prideborn Clans",
+    "type": ["noble"],
+    "entries": [
+      [
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": ""
+        },
+        "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
+      },
+      {
+        "name": "Goals",
+        "entries": [
+          ""
+        ]
+      },
+      {
+        "name": "Relationships",
+        "entries": [
+          "",
+          ""
+        ]
+      },
+      {
+        "name": "",
+        "entries": [
+          "",
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Red Horde",
+    "type": ["religious"],
+    "entries": [
+      [["", "", "", ""]],
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": ""
+        },
+        "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
+      },
+      {
+        "name": "Goals",
+        "entries": [""]
+      },
+      {
+        "name": "Relationships",
+        "entries": ["", ""]
+      },
+      {
+        "name": "",
+        "entries": [
+          "",
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Synagogue",
+    "type": ["religious", "criminal"],
+    "entries": [
+      [["", "", "", ""]],
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": ""
+        },
+        "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
+      },
+      {
+        "name": "Goals",
+        "entries": [""]
+      },
+      {
+        "name": "Relationships",
+        "entries": ["", ""]
+      },
+      {
+        "name": "",
+        "entries": [
+          "",
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Scarbacks",
+    "type": ["religious"],
+    "entries": [
+      [["", "", "", ""]],
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": ""
+        },
+        "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
+      },
+      {
+        "name": "Goals",
+        "entries": [""]
+      },
+      {
+        "name": "Relationships",
+        "entries": ["", ""]
+      },
+      {
+        "name": "",
+        "entries": [
+          "",
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Exclusionists",
+    "type": ["religious"],
+    "entries": [
+      [
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": ""
+        },
+        "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
+      },
+      {
+        "name": "Goals",
+        "entries": [
+          ""
+        ]
+      },
+      {
+        "name": "Relationships",
+        "entries": [
+          "",
+          ""
+        ]
+      },
+      {
+        "name": "",
+        "entries": [
+          "",
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Church of Nobility",
+    "type": ["religious"],
+    "entries": [
+      [["", "", "", ""]],
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": ""
+        },
+        "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
+      },
+      {
+        "name": "Goals",
+        "entries": [""]
+      },
+      {
+        "name": "Relationships",
+        "entries": ["", ""]
+      },
+      {
+        "name": "",
+        "entries": [
+          "",
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Red Horde",
+    "type": ["religious"],
+    "entries": [
+      [["", "", "", ""]],
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": ""
+        },
+        "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
+      },
+      {
+        "name": "Goals",
+        "entries": [""]
+      },
+      {
+        "name": "Priests of Ash'a",
+        "entries": ["", ""]
+      },
+      {
+        "name": "",
+        "entries": [
+          "",
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Watchers of the Wild",
+    "type": ["religious"],
+    "entries": [
+      [["", "", "", ""]],
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": ""
+        },
+        "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
+      },
+      {
+        "name": "Goals",
+        "entries": [""]
+      },
+      {
+        "name": "Relationships",
+        "entries": ["", ""]
+      },
+      {
+        "name": "",
+        "entries": [
+          "",
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
     "name": "Ephemeron",
+    "type": ["science"],
     "entries": [
       [
         [
@@ -39,52 +1060,144 @@
           "These figures are major members of the Ephemeron.",
           {
             "name": "Principal Conservator Heleran",
-            "entries": [
-              "High Elf",
-              "A famed explorer, Heleran departed his already distinguished post at the College to explore the many unmapped parts of Meridian. In his later years, Master Heleran is dedicated to the absolute preservation of all elven ruins across Meridian. While his influence has swayed many southern rulers, he has yet to find common ground between King Leos nor the god-Queen Aurora."
-            ]
+            "entries": {
+              "race": "High Elf",
+              "description": "A famed explorer, Heleran departed his already distinguished post at the College to explore the many unmapped parts of Meridian. In his later years, Master Heleran is dedicated to the absolute preservation of all elven ruins across Meridian. While his influence has swayed many southern rulers, he has yet to find common ground between King Leos nor the god-Queen Aurora."
+            }
           },
           {
             "name": "First Preserver Thurl Eldrick",
-            "entries": [
-              "Dark Elf",
-              "Zealous in their career path, Thurl is serious about his position in the Ephemeron. Thurl encourages local enforcement (guard captain, crown soldiers, etc...) to enforce local laws regarding elven ruins and artifacts. While the Conservator frowns on violent solutions, Thurl will call upon sell swords or adventurers to settle matters when the need arises."
-            ]
+            "entries": {
+              "race": "Dark Elf",
+              "description": "Zealous in their career path, Thurl is serious about his position in the Ephemeron. Thurl encourages local enforcement (guard captain, crown soldiers, etc...) to enforce local laws regarding elven ruins and artifacts. While the Conservator frowns on violent solutions, Thurl will call upon sell swords or adventurers to settle matters when the need arises."
+            }
           },
           {
             "name": "First Proctor Gale Merenfire",
-            "entries": [
-              "Moon Elf",
-              "Internal disputes between lower leaders of the Ephemeron area settled by proctors stationed through Meridian. It is Gale’s responsibility to ensure that all proctors adjudicate the Ephemeron’s bylaws fairly and honestly. The most severe disputes or punishments are brought to trial before the Second Proctor who determines a final ruling between both parties. Gale is responsible for reviewing all cases before the Second Proctor and can overturn rulings as he deems necessary."
-            ]
+            "entries": {
+              "race": "Moon Elf",
+              "description": "Internal disputes between lower leaders of the Ephemeron area settled by proctors stationed through Meridian. It is Gale’s responsibility to ensure that all proctors adjudicate the Ephemeron’s bylaws fairly and honestly. The most severe disputes or punishments are brought to trial before the Second Proctor who determines a final ruling between both parties. Gale is responsible for reviewing all cases before the Second Proctor and can overturn rulings as he deems necessary."
+            }
           },
           {
             "name": "Second Proctor Emrik Merenfire",
-            "entries": [
-              "Moon Half-elf",
-              "While on the field, Gale’s son has none of his father’s famed restraint. His duties require Emrick to travel between colleges and outposts throughout Meridian, reviewing the reports of every official. When angered, Emrik acts on impulse, trusting his gut in dealing with task set before him. This has led to multiple controversies over the years, publicly embarrassing both his father and the Curator. Conversely, Emrick is regarded as a fair and well-deliberated judge. In the last 10 years that he has held the position, no ruling has ever been questioned or overturned by the First Proctor."
-            ]
+            "entries": {
+              "race": "Moon Half-elf",
+              "description": "While on the field, Gale’s son has none of his father’s famed restraint. His duties require Emrick to travel between colleges and outposts throughout Meridian, reviewing the reports of every official. When angered, Emrik acts on impulse, trusting his gut in dealing with task set before him. This has led to multiple controversies over the years, publicly embarrassing both his father and the Curator. Conversely, Emrick is regarded as a fair and well-deliberated judge. In the last 10 years that he has held the position, no ruling has ever been questioned or overturned by the First Proctor."
+            }
           },
           {
             "name": "First Curator Selynia Marris",
-            "entries": [
-              "Moon Elf",
-              "Selynia maintains detailed records of every elven relic ever recovered and delivered into the Ephemeron’s vaults. Overseeing an army of researchers, scientists, artificers and diviners, Selynia is deeply proud of her work and the respect she's earned among her all- male peers. Calm, quiet and curious, she is determined to add diversity into the Ephemeron’s hierarchy that she believes is too chained to its now ancient traditions."
-            ]
+            "entries": {
+              "race": "Moon Elf",
+              "description": "Selynia maintains detailed records of every elven relic ever recovered and delivered into the Ephemeron’s vaults. Overseeing an army of researchers, scientists, artificers and diviners, Selynia is deeply proud of her work and the respect she's earned among her all- male peers. Calm, quiet and curious, she is determined to add diversity into the Ephemeron’s hierarchy that she believes is too chained to its now ancient traditions."
+            }
           },
           {
             "name": "First Guardian Nirian Redtail",
-            "entries": [
-              "Prideborn",
-              "While the Ephemeron does not have a policing force to deal with lawbreakers outside its walls, it does have soldiers ready to take up arms against the Ephemeron’s enemies. Nirian is the head commander of the Guardians, responsible for protecting their identities from even their peers. Guardians are trained to maintain mundane positions beside lower ranking officials to protect both the guardians and the secrets they possess – especially the location of Ephemeron’s legendary armory."
-            ]
+            "entries": {
+              "race": "Prideborn",
+              "description": "While the Ephemeron does not have a policing force to deal with lawbreakers outside its walls, it does have soldiers ready to take up arms against the Ephemeron’s enemies. Nirian is the head commander of the Guardians, responsible for protecting their identities from even their peers. Guardians are trained to maintain mundane positions beside lower ranking officials to protect both the guardians and the secrets they possess – especially the location of Ephemeron’s legendary armory."
+            }
           },
           {
             "name": "Principal Messenger Zaltarish Círdan",
-            "entries": [
-              "Moon Elf",
-              "Nearing 185 years old, Zaltarish is by all accounts the oldest moon elf alive. Despite his slowly failing faculties, he still commands universal respect among the Ephemeron. He is tasked with being the face of the Conservator and his meritocracy. Recently, more and more miscommunications are arising between the missives sent and the messages delivered, though Zaltarish refuses to accept the blame."
-            ]
+            "entries": {
+              "race": "Moon Elf",
+              "description": "Nearing 185 years old, Zaltarish is by all accounts the oldest moon elf alive. Despite his slowly failing faculties, he still commands universal respect among the Ephemeron. He is tasked with being the face of the Conservator and his meritocracy. Recently, more and more miscommunications are arising between the missives sent and the messages delivered, though Zaltarish refuses to accept the blame."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "The Puzzles",
+    "type": ["religious"],
+    "entries": [
+      [
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": ""
+        },
+        "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
+      },
+      {
+        "name": "Goals",
+        "entries": [
+          ""
+        ]
+      },
+      {
+        "name": "Relationships",
+        "entries": [
+          "",
+          ""
+        ]
+      },
+      {
+        "name": "",
+        "entries": [
+          "",
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
           }
         ]
       }
