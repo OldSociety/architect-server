@@ -1114,7 +1114,99 @@
   {
     "id": 14,
     "name": "The Puzzles",
-    "type": ["religious"],
+    "type": ["science"],
+    "entries": [
+      [
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": ""
+        },
+        "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
+      },
+      {
+        "name": "Goals",
+        "entries": [
+          ""
+        ]
+      },
+      {
+        "name": "Relationships",
+        "entries": [
+          "",
+          ""
+        ]
+      },
+      {
+        "name": "",
+        "entries": [
+          "",
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Fragment",
+    "type": ["science", "criminal"],
     "entries": [
       [
         [
