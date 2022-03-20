@@ -84,14 +84,7 @@
     "name": "Scarlet Delegate",
     "type": ["mercantile"],
     "entries": [
-      [
-        [
-          "",
-          "",
-          "",
-          ""
-        ]
-      ],
+      [["", "", "", ""]],
       {
         "type": "image",
         "href": {
@@ -103,16 +96,11 @@
       },
       {
         "name": "Goals",
-        "entries": [
-          ""
-        ]
+        "entries": [""]
       },
       {
         "name": "Relationships",
-        "entries": [
-          "",
-          ""
-        ]
+        "entries": ["", ""]
       },
       {
         "name": "",
@@ -175,282 +163,6 @@
     "id": 3,
     "name": "Verdel Den",
     "type": ["criminal", "mercantile"],
-    "entries": [
-      [
-        [
-          "",
-          "",
-          "",
-          ""
-        ]
-      ],
-      {
-        "type": "image",
-        "href": {
-          "type": "external",
-          "url": ""
-        },
-        "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
-        "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
-      },
-      {
-        "name": "Goals",
-        "entries": [
-          ""
-        ]
-      },
-      {
-        "name": "Relationships",
-        "entries": [
-          "",
-          ""
-        ]
-      },
-      {
-        "name": "",
-        "entries": [
-          "",
-          {
-            "name": "",
-            "entries": {
-              "race": "",
-              "description": ""
-            }
-          },
-          {
-            "name": "",
-            "entries": {
-              "race": "",
-              "description": ""
-            }
-          },
-          {
-            "name": "",
-            "entries": {
-              "race": "",
-              "description": ""
-            }
-          },
-          {
-            "name": "",
-            "entries": {
-              "race": "",
-              "description": ""
-            }
-          },
-          {
-            "name": "",
-            "entries": {
-              "race": "",
-              "description": ""
-            }
-          },
-          {
-            "name": "",
-            "entries": {
-              "race": "",
-              "description": ""
-            }
-          },
-          {
-            "name": "",
-            "entries": {
-              "race": "",
-              "description": ""
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "name": "Lineage",
-    "type": ["noble"],
-    "entries": [
-      [
-        [
-          "",
-          "",
-          "",
-          ""
-        ]
-      ],
-      {
-        "type": "image",
-        "href": {
-          "type": "external",
-          "url": ""
-        },
-        "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
-        "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
-      },
-      {
-        "name": "Goals",
-        "entries": [
-          ""
-        ]
-      },
-      {
-        "name": "Relationships",
-        "entries": [
-          "",
-          ""
-        ]
-      },
-      {
-        "name": "",
-        "entries": [
-          "",
-          {
-            "name": "",
-            "entries": {
-              "race": "",
-              "description": ""
-            }
-          },
-          {
-            "name": "",
-            "entries": {
-              "race": "",
-              "description": ""
-            }
-          },
-          {
-            "name": "",
-            "entries": {
-              "race": "",
-              "description": ""
-            }
-          },
-          {
-            "name": "",
-            "entries": {
-              "race": "",
-              "description": ""
-            }
-          },
-          {
-            "name": "",
-            "entries": {
-              "race": "",
-              "description": ""
-            }
-          },
-          {
-            "name": "",
-            "entries": {
-              "race": "",
-              "description": ""
-            }
-          },
-          {
-            "name": "",
-            "entries": {
-              "race": "",
-              "description": ""
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 5,
-    "name": "Prideborn Clans",
-    "type": ["noble"],
-    "entries": [
-      [
-        [
-          "",
-          "",
-          "",
-          ""
-        ]
-      ],
-      {
-        "type": "image",
-        "href": {
-          "type": "external",
-          "url": ""
-        },
-        "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
-        "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
-      },
-      {
-        "name": "Goals",
-        "entries": [
-          ""
-        ]
-      },
-      {
-        "name": "Relationships",
-        "entries": [
-          "",
-          ""
-        ]
-      },
-      {
-        "name": "",
-        "entries": [
-          "",
-          {
-            "name": "",
-            "entries": {
-              "race": "",
-              "description": ""
-            }
-          },
-          {
-            "name": "",
-            "entries": {
-              "race": "",
-              "description": ""
-            }
-          },
-          {
-            "name": "",
-            "entries": {
-              "race": "",
-              "description": ""
-            }
-          },
-          {
-            "name": "",
-            "entries": {
-              "race": "",
-              "description": ""
-            }
-          },
-          {
-            "name": "",
-            "entries": {
-              "race": "",
-              "description": ""
-            }
-          },
-          {
-            "name": "",
-            "entries": {
-              "race": "",
-              "description": ""
-            }
-          },
-          {
-            "name": "",
-            "entries": {
-              "race": "",
-              "description": ""
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 6,
-    "name": "Red Horde",
-    "type": ["religious"],
     "entries": [
       [["", "", "", ""]],
       {
@@ -521,6 +233,249 @@
             "entries": {
               "race": "",
               "description": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Lineage",
+    "type": ["noble"],
+    "entries": [
+      [["", "", "", ""]],
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": ""
+        },
+        "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
+      },
+      {
+        "name": "Goals",
+        "entries": [""]
+      },
+      {
+        "name": "Relationships",
+        "entries": ["", ""]
+      },
+      {
+        "name": "",
+        "entries": [
+          "",
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Prideborn Clans",
+    "type": ["noble"],
+    "entries": [
+      [["", "", "", ""]],
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": ""
+        },
+        "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
+      },
+      {
+        "name": "Goals",
+        "entries": [""]
+      },
+      {
+        "name": "Relationships",
+        "entries": ["", ""]
+      },
+      {
+        "name": "",
+        "entries": [
+          "",
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          },
+          {
+            "name": "",
+            "entries": {
+              "race": "",
+              "description": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Red Horde",
+    "type": ["religious"],
+    "entries": [
+      [
+        "The Red Horde rules Uruban's mountainous wastelands uniting hundreds of Uru communities under a single black banner. As a theological hegemony, the Horde is the head religious and political body within the region. Under the guidance of its Night Blood priests, they have established a culture and religion based solely on the worship and reverence of Udreth-sol, Seraph of death and the afterlife.",
+        "The Horde operates from Uruban's monastery capital at the heart of the empire, Shalath. Here the First Prophet along with his First Council (including the Ministers of the Masses, Minister of Works, and the Minister of War) rule as the final political and religious authority in Uruban. Serving as the final judgement, their decisions are guided by Tsin-sol's 'Validation' - an Arcanum-Uru document which serves as both the Red Horde's Supreme Law and Holy Bible.",
+        "Outside of Shalath, five Prophets and their council rule over the lesser monasteries of Udreth-sol. Each temple is charged with protecting a Labyrinth sanctum, the subterranean prison for Uruban's undead and one of the Six Promises (holy relics of the first emperor).",
+        "Every 10th Bloody Sun, the Prophets must complete a Trial of Ascension, where they are sent down into the Labyrinth and must find their way back to the surface unharmed - a sign that the Prophet remains in good standing with Udreth-sol. Secretly, the Ascension is steeped with political bribes, blackmail, and the use of necromancy to ensure the power remains within the powerful.",
+        "Citizens of the Red Horde live in strict religious, warrior, and worker castes. At the top of the hierarchal pyramid are Night Blood priests who serve as the de facto heads of church and state. Beneath them serve non-Night Blood priests charged with maintaining both temples and the daily lives of their citizens.",
+        "Next, the warrior caste is the foundation of the Red Horde's constantly growing war-machine. Led by their Imperial Commandment (the highest-ranking officer), the Horde's military is divided between its army and its 'Death born', a special force made up of powerful priests, paladins, and necromancers.",
+        "Lastly, the working caste includes everyone from merchants to tradesmen to guild craftsman. Every member of the Horde is employed to fulfill a service within the community. Service for salvation is the main motivation for the entire population, under threat of imprisonment, banishment, and death.",
+        "Personal vendettas are not tolerated by the horde, though many past conflicts are secretly driven by them. While promoting collective salvation and civic duty, the Horde’s working caste has absolutely no political representation and relies on their priests to fulfill their basic needs and yet are expected to conform to the theocratic rule of law of their homeland."
+      ],
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": ""
+        },
+        "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
+      },
+      {
+        "name": "Goals",
+        "entries": [
+          "Despite its vast power, there are still many communities throughout Uruban that have rejected the Horde's call for unity - fearing an erasure of local faiths and traditions. This is unacceptable to the Prophets who have spent years waging a campaign of complete dominance. Tribes and communities that reject the faith are eventually taken by force.",
+          "Those that pledge their allegiance to the prophets exchange their freedoms for the protection and salvation of the Horde. Forced to suddenly live a new way of life, eventually the tribe's unique culture and history is inevitably erased. This provides the Horde with new skills and resources to be exploited as their empire continues to grow, without the threat of rebellion."
+        ]
+      },
+      {
+        "name": "Relationships",
+        "entries": [
+          "There have been many failed invasions into Uruban over the centuries. Even the elves found it impracticable to bring the harsh wastelands, and even harsher Stoneborn, to heel. Conquerors like Leos have long dreamed of a united north under their rule, but no army has yet succeeded in crossing its ranges, let alone lay siege to its capital.",
+          "At the same time, without a standing navy nor the resources to send their armies internationally, the Horde's power remains contained within Uruban's borders. Internally, conflicts between the Prophets are unheard of and any occasional uprising resisting the Horde are easily quelled."
+        ]
+      },
+      {
+        "name": "",
+        "entries": [
+          "",
+          {
+            "name": "First Prophet Asantis Uvani",
+            "entries": {
+              "race": "Nightblood",
+              "description": [
+                "Asantis is a wise and respected leader surviving three Ascensions. His cunning has brought dozens of communities into the Horde without the need for violence. Having long overseen the steady growth of his people, Asantis has recently turned his eye toward the city of Massanon, “the Eighth Sin.”",
+                "As the only elven city to be successfully constructed in Uruban, Massanon is believed to be inhabited by ancient dark elves who survived the destruction of the Elven Empire by making pacts with fiends. Asantis sees the elimination of Massanon's demon possessed as his destined path towards salvation."
+              ]
+            }
+          },
+          {
+            "name": "Felara Brerayne, Prophet of the Masses",
+            "entries": {
+              "race": "Nightblood",
+              "description": [
+                "One of the most recognized Council members among the people, Felara's duties only require that she meet their basic needs of the Horde, providing enough that her people can successfully serve in kind. But Felara has spent her political life trying to bring the technological advancements that southern Meridian enjoys to Uruban.",
+                "These include civil technologies like steam powered showers and year-round irrigation. While she has only delivered on a handful of these promises, she already enjoys both the love and respect of the Horde and the wealth that comes with it."
+              ]
+            }
+          },
+          {
+            "name": "Elynea Dradas, Prophet of Works",
+            "entries": {
+              "race": "Nightblood",
+              "description": [
+                "Elynea is a no-nonsense administrator helming all efforts to maintain the Horde's monasteries and religious traditions while simultaneously expanding economic and cultural growth.",
+                "This requires a deft hand that no other Councilman can provide. Whether its excavating Stoneborn ruins for important pre-elven relics, preparing country-wide holy day festivals, enforcing the country's borders, or sending soldiers to track and capture rare creatures to expand international trade, Elynea ingeniously oversees countless echelons of government heads single-handedly."
+              ]
+            }
+          },
+          {
+            "name": "Guldris Romori, Prophet of War",
+            "entries": {
+              "race": "Nightblood",
+              "description": "The Prophet of War is every bit of the scrutinous hard ass that his soldiers rumor him to be. As the direct line of communication between the First Prophet and the Imperial Commandment, he is responsible for ensuring that all military operations fall in line with the Red Horde's faith. Guldris is ambitious and has spent his life cultivating as many connections as possible throughout the Horde, trading favors to ensure he gets whatever he desires."
             }
           }
         ]
@@ -692,14 +647,7 @@
     "name": "Exclusionists",
     "type": ["religious"],
     "entries": [
-      [
-        [
-          "",
-          "",
-          "",
-          ""
-        ]
-      ],
+      [["", "", "", ""]],
       {
         "type": "image",
         "href": {
@@ -711,16 +659,11 @@
       },
       {
         "name": "Goals",
-        "entries": [
-          ""
-        ]
+        "entries": [""]
       },
       {
         "name": "Relationships",
-        "entries": [
-          "",
-          ""
-        ]
+        "entries": ["", ""]
       },
       {
         "name": "",
@@ -1116,14 +1059,7 @@
     "name": "The Puzzles",
     "type": ["science"],
     "entries": [
-      [
-        [
-          "",
-          "",
-          "",
-          ""
-        ]
-      ],
+      [["", "", "", ""]],
       {
         "type": "image",
         "href": {
@@ -1135,16 +1071,11 @@
       },
       {
         "name": "Goals",
-        "entries": [
-          ""
-        ]
+        "entries": [""]
       },
       {
         "name": "Relationships",
-        "entries": [
-          "",
-          ""
-        ]
+        "entries": ["", ""]
       },
       {
         "name": "",
@@ -1208,14 +1139,7 @@
     "name": "Fragment",
     "type": ["science", "criminal"],
     "entries": [
-      [
-        [
-          "",
-          "",
-          "",
-          ""
-        ]
-      ],
+      [["", "", "", ""]],
       {
         "type": "image",
         "href": {
@@ -1227,16 +1151,11 @@
       },
       {
         "name": "Goals",
-        "entries": [
-          ""
-        ]
+        "entries": [""]
       },
       {
         "name": "Relationships",
-        "entries": [
-          "",
-          ""
-        ]
+        "entries": ["", ""]
       },
       {
         "name": "",
