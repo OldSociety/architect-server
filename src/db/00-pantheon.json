@@ -63,14 +63,7 @@
         "type": "moon",
         "color": "green",
         "description": "Named after the Seraph of arcana and prophecy, the small green moon is barely a dot in the night sky.",
-        "image": {
-          "href": {
-            "type": "external",
-            "url": "https://toppng.com/uploads/thumbnail/planet-png-11553974494cp6plbs0e2.png"
-          },
-          "title": "EXAMPLE: Blue Moon <br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
-          "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
-        }
+        "image": "https://toppng.com/uploads/thumbnail/planet-png-11553974494cp6plbs0e2.png"
       }
     ],
     "entries": [
