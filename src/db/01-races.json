@@ -50,6 +50,15 @@
         ]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/736x/d3/21/08/d32108b42bff8a91e65ea74d0e1e131f.jpg"
+        },
+        "title": "EXAMPLE: Ash'a Druid<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
+        "altText": "EXAMPLE: An Ash'a druid casting flame."
+      },
+      {
         "name": "Age",
         "type": "entries",
         "entries": [
@@ -115,6 +124,15 @@
         ]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://tse1.mm.bing.net/th?id=OIP.ebImFeJAht6Kr_G6oK0VxwHaLZ&pid=Api"
+        },
+        "title": "EXAMPLE: Ash'a Druid<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
+        "altText": "EXAMPLE: An Ash'a druid casting flame."
+      },
+      {
         "name": "Age",
         "type": "entries",
         "entries": [
@@ -178,6 +196,15 @@
           "Amenmaatra, capital of Egress and famed Gateway to the South is said to be the birthplace of the Siiq - a desertfolk spread across all four major deserts.",
           "Tribal Siiq are proud warriors that thrive on trade through steep taxes to travelers between north and south Meridian."
         ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/5b/4d/05/5b4d053d5559ca2fc2aebec3dab2b162.jpg"
+        },
+        "title": "EXAMPLE: Ash'a Druid<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
+        "altText": "EXAMPLE: An Ash'a druid casting flame."
       },
       {
         "name": "Age",
@@ -266,6 +293,15 @@
         ]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://tse3.mm.bing.net/th?id=OIP.gDIlVaZ-ZqFpQKG2B9nHhAHaPg&pid=Api"
+        },
+        "title": "",
+        "altText": ""
+      },
+      {
         "name": "Age",
         "type": "entries",
         "entries": [
@@ -347,6 +383,15 @@
         "entries": ["I am."]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/73/ca/81/73ca818762f4b48e979ad33f70582a59.jpg"
+        },
+        "title": "",
+        "altText": ""
+      },
+      {
         "name": "Age",
         "type": "entries",
         "entries": [
@@ -426,6 +471,15 @@
         "entries": ["I am."]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/5f/c7/7a/5fc77a2a1a420eba332c61ab54c42b4d.jpg"
+        },
+        "title": "",
+        "altText": ""
+      },
+      {
         "name": "Age",
         "type": "entries",
         "entries": [
@@ -502,6 +556,15 @@
         "name": "Description",
         "type": "entries",
         "entries": ["I am."]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/736x/40/80/4e/40804efabb3236dc23fbdc5514641786--female-elf-half-elf.jpg"
+        },
+        "title": "",
+        "altText": ""
       },
       {
         "name": "Age",
@@ -608,6 +671,15 @@
         "entries": ["I am."]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/1e/df/f8/1edff86c888b7bd411a54cdfc0e6e418.jpg"
+        },
+        "title": "",
+        "altText": ""
+      },
+      {
         "name": "Age",
         "type": "entries",
         "entries": [
@@ -695,6 +767,15 @@
         "name": "Description",
         "type": "entries",
         "entries": ["I am."]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/33/b5/4c/33b54cc7e95b664e1c4bd52b410a9e1d.jpg"
+        },
+        "title": "",
+        "altText": ""
       },
       {
         "name": "Age",
@@ -810,6 +891,15 @@
         "entries": ["I am."]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/01/02/03/01020325d360f632dc6746a7ca5f09a2.jpg"
+        },
+        "title": "",
+        "altText": ""
+      },
+      {
         "name": "Age",
         "type": "entries",
         "entries": [
@@ -913,6 +1003,15 @@
         "entries": ["While their houses are less established than Pride houses, the Lynx are still very much a proactive part of Furborn society. Their agility, stealth and ability to climb even vertical surfaces make them prime candidates for many unscrupulous trades. Lynx houses are extremely secretive about their family alliances, preferring to remain flexible for opportunities to increase their own standing."]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+        },
+        "title": "",
+        "altText": ""
+      },
+      {
         "name": "Age",
         "type": "entries",
         "entries": ["Furborn mature and age at about the same rate as humans."]
@@ -977,6 +1076,15 @@
         "name": "Description",
         "type": "entries",
         "entries": ["Members of the Pride have features like lions, tigers and other large felines. Their physicality helped them establish the strongest Noble Houses over the years, especially during the reign of the Zeméri empire. Pride members are expected to contribute to their family name at all costs with the penalty of shame being banishment and even death."]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/736x/5f/5a/19/5f5a19b622f02c9fdf93d191a6d1873c.jpg"
+        },
+        "title": "",
+        "altText": ""
       },
       {
         "name": "Age",
@@ -1049,6 +1157,15 @@
         "entries": ["Snakeskin Scaleborn are less identifiable than their Lizard-like cousins. With only patches of clear flesh-colored scales and thin tendrils for hair that is easily hidden disguised, Snakeskin Scaleborn will often pass for human. The reference to being “Snakes” does not refer to any relation to snakes, but instead refers to an old racial insult; “snake” as in untrustworthy or deceitful. Like Lizardskin Scaleborn, they are also driven by self-mastery, using their natural cunning and intellect to master whatever skill interests them. "]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/22/f5/6f/22f56f204cfb2664d6d5dc9f26f13f30.jpg"
+        },
+        "title": "",
+        "altText": ""
+      },
+      {
         "name": "Age",
         "type": "entries",
         "entries": [
@@ -1117,6 +1234,15 @@
         "name": "Description",
         "type": "entries",
         "entries": ["Lizardskin Scaleborn are Lizardskin humanoids with thick hides and powerful builds. Lizardskin Scaleborn excel in physical prowess and may spend their considerable life spans find and mastering in as many fighting styles as they can – pushing their bodies to the absolute limit. Many find work as soldiers and athletes, though a rare few will focus on intellectual and creative arts to distinguish themselves from others of their kind. Despite these attempts, even the most restrained Lizardskin Scaleborn are quick to temper and ferocious in battle."]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/04/63/17/0463179d27da5a43af2e68efaa206102.jpg"
+        },
+        "title": "",
+        "altText": ""
       },
       {
         "name": "Age",
@@ -1201,6 +1327,15 @@
         "name": "Description",
         "type": "entries",
         "entries": ["Seaborn, also known as Naga, are rarely seen among surface dwellers. Their alien physiology only allows for a few Naga to live on land, isolating Naga society from the rest of the world. Although they are the most mysterious race, it is common knowledge that they are fierce enemies of the sea elves."]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/736x/92/e2/63/92e263f9e97b7c508d2d063377988763.jpg"
+        },
+        "title": "",
+        "altText": ""
       },
       {
         "name": "Age",
@@ -1309,6 +1444,15 @@
         "entries": ["I am."]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/474x/d2/67/69/d26769aefd2e728d8c6963a2f5559b79.jpg"
+        },
+        "title": "",
+        "altText": ""
+      },
+      {
         "name": "Age",
         "type": "entries",
         "entries": [
@@ -1379,6 +1523,15 @@
         "name": "Description",
         "type": "entries",
         "entries": ["With hard pale skin and dense muscles, even the smallest Stoneborn towers over most other races. They are generally a tribal people who prefer keeping their traditions apart from outsiders. Yet, as time passes and generations become more connected to the outside world, increasingly Stoneborn have found roles as ambassadors to their people."]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/60/b0/6f/60b06fe3330d0a2500e74ec26256062c.png"
+        },
+        "title": "",
+        "altText": ""
       },
       {
         "name": "Age",
@@ -1459,6 +1612,15 @@
         "name": "Description",
         "type": "entries",
         "entries": ["Nightbloods have always been revered as holy priests in Uruban. As children and without a choice, they are sent away to join the Death Cleric cloisters far removed from the rest of the world. Not all Nightbloods choose to accept their path and escape into hiding, keeping their blood hidden from the world."]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/474x/ee/90/37/ee903705e5ddd777b1724cc74394e708--concept-art.jpg"
+        },
+        "title": "",
+        "altText": ""
       },
       {
         "name": "Age",
@@ -1550,6 +1712,15 @@
         "entries": ["Wren are a commonly found flying throughout in the Stonewood Valiant and other the mountain regions in Meridian. While many choose to live their entire lives as a part of the Stonewood nation, protected from the outside world, others leave to find work as scouts and mercenaries, using their aerial advantage over their enemies."]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/736x/50/f9/99/50f999975ee108d30f58773bbfb3e12a.jpg"
+        },
+        "title": "",
+        "altText": ""
+      },
+      {
         "name": "Age",
         "type": "entries",
         "entries": [
@@ -1606,6 +1777,15 @@
         "name": "Description",
         "type": "entries",
         "entries": ["Born without wings, Blackwren are ostracized from traditional society. This inferiority can drive Blackwren towards proving themselves in unexpected ways. Blackwren thrive in the outskirts of society where they can use their overlooked status to make a name for themselves in the most unexpected places."]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/8e/ef/fb/8eeffb996ad1a35d348fefa3d51b2664.png"
+        },
+        "title": "",
+        "altText": ""
       },
       {
         "name": "Age",
@@ -1676,6 +1856,15 @@
         "entries": ["Soldiers from a forgotten age, the Marksmen are technologically enhanced humanoids forged and controlled by an ancient elven construct known only as the Authority. Generation I Marksmen are built for endurance."]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/d4/a8/71/d4a871bcf4c220d1655d07fa55b04e28.jpg"
+        },
+        "title": "",
+        "altText": ""
+      },
+      {
         "name": "Age",
         "type": "entries",
         "entries": [
@@ -1743,6 +1932,15 @@
         "name": "Description",
         "type": "entries",
         "entries": ["Soldiers from a forgotten age, the Marksmen are technologically enhanced humanoids forged and controlled by an ancient elven construct known only as the Authority. Generation II Marksmen are built for power."]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/af/09/13/af091392a0cea69b9ae719a8e0e11737.jpg"
+        },
+        "title": "",
+        "altText": ""
       },
       {
         "name": "Age",
@@ -1823,6 +2021,15 @@
         "entries": ["Soldiers from a forgotten age, the Marksmen are technologically enhanced humanoids forged and controlled by an ancient elven construct known only as the Authority. Generation III Markmen are known as mage-slayers."]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/736x/32/ac/c6/32acc69c8b8e51264b3a4b96947253bd.jpg"
+        },
+        "title": "",
+        "altText": ""
+      },
+      {
         "name": "Age",
         "type": "entries",
         "entries": [
@@ -1894,6 +2101,15 @@
         "name": "Description",
         "type": "entries",
         "entries": ["Unlike Marksmen who sacrifice both their memories and biology for technological enhancements, the Unmarked are entirely artificial. No one knows which of the elves designed the Unmarked or released them into the world, but they are unlike all other races on Meridian. While their range of emotion may be limited, the Unmarked have an endless capacity for growth and are slowly evolving in new and unimaginable ways."]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/eb/48/1e/eb481ea18f680e17d96c630a83a6c10f.jpg"
+        },
+        "title": "",
+        "altText": ""
       },
       {
         "name": "Age",
