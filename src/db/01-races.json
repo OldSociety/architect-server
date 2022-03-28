@@ -380,7 +380,7 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["I am."]
+        "entries": ["Also known as Sun kin, High Elves are the most common elves in Meridian. They have tanned skin and dark features like wood elves, though tend to be taller and slenderer. High elves are deeply ingrained in the world compared to the other elves, holding positions of political and economic power throughout the world, especially in Thesian society."]
       },
       {
         "type": "image",
@@ -468,7 +468,7 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["I am."]
+        "entries": ["With a talent for engineering, Amechisil (meaning literally `moon elf`) or Mech for short, hold themselves to high esteem and even higher expectations. Most commonly found in the southern nations, where their natural gifts for engineering and logic are appreciated, moon elves have a long history of segregation even from other elves. Moon elves are unmistakable for their fair skin, blond hair, and ethereal features (which are almost cliché)."]
       },
       {
         "type": "image",
@@ -555,7 +555,7 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["I am."]
+        "entries": ["Easily recognizable by their intricate birthmarks, woods elves are most found in the south, where they use harness biotechnology for a variety of purposes, such as healing, natural construction, and yes… genetic testing. Their methods have been condemned frequently for questionable ethics. Wood elf technology is a staple of Furborn weapons, armor and daily lifestyle."]
       },
       {
         "type": "image",
@@ -668,7 +668,7 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["I am."]
+        "entries": ["With near black skin and beaded eyes, dark elves are the most religious of elves – keeping reverence to the Elven Lords. While common enough throughout the world, dark elves are commonly found in religious sanctuaries high in the mountains left to their own holy devices."]
       },
       {
         "type": "image",
@@ -766,7 +766,10 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["I am."]
+        "entries": [
+          "When the elves first arrived at Meridian, their inability to procreate led them down many ethically questionable paths to survival. One such path, cloning, unintentionally bred the sea elves. Sea elves, called so because of their translucent gel-like skin, are a genetically unstable, hermaphroditic subspecies capable of both sexual and asexual reproduction. Most sea elves reproduce through self-cloning, but there are rare occasions when they cross with other mates.",
+          "Mating with another elven subspecies always yields sea-elf offspring, while half sea-elves come from human-elf relations."
+        ]
       },
       {
         "type": "image",
@@ -888,7 +891,7 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["I am."]
+        "entries": ["It took countless years and experiments for the dying star elves to successfully breed with humans and create the first half-elves. Their success saved their people, half-elves are now the second dominate race in the world, after humans."]
       },
       {
         "type": "image",
@@ -1000,7 +1003,9 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["While their houses are less established than Pride houses, the Lynx are still very much a proactive part of Furborn society. Their agility, stealth and ability to climb even vertical surfaces make them prime candidates for many unscrupulous trades. Lynx houses are extremely secretive about their family alliances, preferring to remain flexible for opportunities to increase their own standing."]
+        "entries": [
+          "While their houses are less established than Pride houses, the Lynx are still very much a proactive part of Furborn society. Their agility, stealth and ability to climb even vertical surfaces make them prime candidates for many unscrupulous trades. Lynx houses are extremely secretive about their family alliances, preferring to remain flexible for opportunities to increase their own standing."
+        ]
       },
       {
         "type": "image",
@@ -1075,7 +1080,9 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["Members of the Pride have features like lions, tigers and other large felines. Their physicality helped them establish the strongest Noble Houses over the years, especially during the reign of the Zeméri empire. Pride members are expected to contribute to their family name at all costs with the penalty of shame being banishment and even death."]
+        "entries": [
+          "Members of the Pride have features like lions, tigers and other large felines. Their physicality helped them establish the strongest Noble Houses over the years, especially during the reign of the Zeméri empire. Pride members are expected to contribute to their family name at all costs with the penalty of shame being banishment and even death."
+        ]
       },
       {
         "type": "image",
@@ -1154,7 +1161,9 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["Snakeskin Scaleborn are less identifiable than their Lizard-like cousins. With only patches of clear flesh-colored scales and thin tendrils for hair that is easily hidden disguised, Snakeskin Scaleborn will often pass for human. The reference to being “Snakes” does not refer to any relation to snakes, but instead refers to an old racial insult; “snake” as in untrustworthy or deceitful. Like Lizardskin Scaleborn, they are also driven by self-mastery, using their natural cunning and intellect to master whatever skill interests them. "]
+        "entries": [
+          "Snakeskin Scaleborn are less identifiable than their Lizard-like cousins. With only patches of clear flesh-colored scales and thin tendrils for hair that is easily hidden disguised, Snakeskin Scaleborn will often pass for human. The reference to being “Snakes” does not refer to any relation to snakes, but instead refers to an old racial insult; “snake” as in untrustworthy or deceitful. Like Lizardskin Scaleborn, they are also driven by self-mastery, using their natural cunning and intellect to master whatever skill interests them. "
+        ]
       },
       {
         "type": "image",
@@ -1233,7 +1242,9 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["Lizardskin Scaleborn are Lizardskin humanoids with thick hides and powerful builds. Lizardskin Scaleborn excel in physical prowess and may spend their considerable life spans find and mastering in as many fighting styles as they can – pushing their bodies to the absolute limit. Many find work as soldiers and athletes, though a rare few will focus on intellectual and creative arts to distinguish themselves from others of their kind. Despite these attempts, even the most restrained Lizardskin Scaleborn are quick to temper and ferocious in battle."]
+        "entries": [
+          "Lizardskin Scaleborn are Lizardskin humanoids with thick hides and powerful builds. Lizardskin Scaleborn excel in physical prowess and may spend their considerable life spans find and mastering in as many fighting styles as they can – pushing their bodies to the absolute limit. Many find work as soldiers and athletes, though a rare few will focus on intellectual and creative arts to distinguish themselves from others of their kind. Despite these attempts, even the most restrained Lizardskin Scaleborn are quick to temper and ferocious in battle."
+        ]
       },
       {
         "type": "image",
@@ -1326,7 +1337,9 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["Seaborn, also known as Naga, are rarely seen among surface dwellers. Their alien physiology only allows for a few Naga to live on land, isolating Naga society from the rest of the world. Although they are the most mysterious race, it is common knowledge that they are fierce enemies of the sea elves."]
+        "entries": [
+          "Seaborn, also known as Naga, are rarely seen among surface dwellers. Their alien physiology only allows for a few Naga to live on land, isolating Naga society from the rest of the world. Although they are the most mysterious race, it is common knowledge that they are fierce enemies of the sea elves."
+        ]
       },
       {
         "type": "image",
@@ -1522,7 +1535,9 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["With hard pale skin and dense muscles, even the smallest Stoneborn towers over most other races. They are generally a tribal people who prefer keeping their traditions apart from outsiders. Yet, as time passes and generations become more connected to the outside world, increasingly Stoneborn have found roles as ambassadors to their people."]
+        "entries": [
+          "With hard pale skin and dense muscles, even the smallest Stoneborn towers over most other races. They are generally a tribal people who prefer keeping their traditions apart from outsiders. Yet, as time passes and generations become more connected to the outside world, increasingly Stoneborn have found roles as ambassadors to their people."
+        ]
       },
       {
         "type": "image",
@@ -1611,7 +1626,9 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["Nightbloods have always been revered as holy priests in Uruban. As children and without a choice, they are sent away to join the Death Cleric cloisters far removed from the rest of the world. Not all Nightbloods choose to accept their path and escape into hiding, keeping their blood hidden from the world."]
+        "entries": [
+          "Nightbloods have always been revered as holy priests in Uruban. As children and without a choice, they are sent away to join the Death Cleric cloisters far removed from the rest of the world. Not all Nightbloods choose to accept their path and escape into hiding, keeping their blood hidden from the world."
+        ]
       },
       {
         "type": "image",
@@ -1709,7 +1726,9 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["Wren are a commonly found flying throughout in the Stonewood Valiant and other the mountain regions in Meridian. While many choose to live their entire lives as a part of the Stonewood nation, protected from the outside world, others leave to find work as scouts and mercenaries, using their aerial advantage over their enemies."]
+        "entries": [
+          "Wren are a commonly found flying throughout in the Stonewood Valiant and other the mountain regions in Meridian. While many choose to live their entire lives as a part of the Stonewood nation, protected from the outside world, others leave to find work as scouts and mercenaries, using their aerial advantage over their enemies."
+        ]
       },
       {
         "type": "image",
@@ -1776,7 +1795,9 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["Born without wings, Blackwren are ostracized from traditional society. This inferiority can drive Blackwren towards proving themselves in unexpected ways. Blackwren thrive in the outskirts of society where they can use their overlooked status to make a name for themselves in the most unexpected places."]
+        "entries": [
+          "Born without wings, Blackwren are ostracized from traditional society. This inferiority can drive Blackwren towards proving themselves in unexpected ways. Blackwren thrive in the outskirts of society where they can use their overlooked status to make a name for themselves in the most unexpected places."
+        ]
       },
       {
         "type": "image",
@@ -1853,7 +1874,9 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["Soldiers from a forgotten age, the Marksmen are technologically enhanced humanoids forged and controlled by an ancient elven construct known only as the Authority. Generation I Marksmen are built for endurance."]
+        "entries": [
+          "Soldiers from a forgotten age, the Marksmen are technologically enhanced humanoids forged and controlled by an ancient elven construct known only as the Authority. Generation I Marksmen are built for endurance."
+        ]
       },
       {
         "type": "image",
@@ -1931,7 +1954,9 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["Soldiers from a forgotten age, the Marksmen are technologically enhanced humanoids forged and controlled by an ancient elven construct known only as the Authority. Generation II Marksmen are built for power."]
+        "entries": [
+          "Soldiers from a forgotten age, the Marksmen are technologically enhanced humanoids forged and controlled by an ancient elven construct known only as the Authority. Generation II Marksmen are built for power."
+        ]
       },
       {
         "type": "image",
@@ -2018,7 +2043,9 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["Soldiers from a forgotten age, the Marksmen are technologically enhanced humanoids forged and controlled by an ancient elven construct known only as the Authority. Generation III Markmen are known as mage-slayers."]
+        "entries": [
+          "Soldiers from a forgotten age, the Marksmen are technologically enhanced humanoids forged and controlled by an ancient elven construct known only as the Authority. Generation III Markmen are known as mage-slayers."
+        ]
       },
       {
         "type": "image",
@@ -2100,7 +2127,9 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["Unlike Marksmen who sacrifice both their memories and biology for technological enhancements, the Unmarked are entirely artificial. No one knows which of the elves designed the Unmarked or released them into the world, but they are unlike all other races on Meridian. While their range of emotion may be limited, the Unmarked have an endless capacity for growth and are slowly evolving in new and unimaginable ways."]
+        "entries": [
+          "Unlike Marksmen who sacrifice both their memories and biology for technological enhancements, the Unmarked are entirely artificial. No one knows which of the elves designed the Unmarked or released them into the world, but they are unlike all other races on Meridian. While their range of emotion may be limited, the Unmarked have an endless capacity for growth and are slowly evolving in new and unimaginable ways."
+        ]
       },
       {
         "type": "image",
@@ -2139,9 +2168,11 @@
       },
       {
         "name": "Automated Healing",
-        "entries": ["Your artificial body has supernatural healing capabilities.", 
+        "entries": [
+          "Your artificial body has supernatural healing capabilities.",
           "If you have 0 hit points at the start of your turn, you can regain hit points equal to your character level plus your proficiency bonus.",
-          "You can activate this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."],
+          "You can activate this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+        ],
         "type": "entries"
       },
       {
