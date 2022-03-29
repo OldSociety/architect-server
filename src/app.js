@@ -6,6 +6,7 @@ const racesRouter = require("./races/races.router.js");
 const buildRouter = require("./build/build.router.js");
 const pantheonRouter = require("./pantheon/pantheon.router.js");
 const nationsRouter = require("./nations/nations.router.js");
+const historyRouter = require("./history/history.router.js");
 const errorHandler = require("./errors/errorHandler");
 const notFound = require("./errors/notFound");
 const cors = require("cors");
@@ -28,6 +29,7 @@ app.use("/races", racesRouter); // Note: app.use
 app.use("/pantheon", pantheonRouter);
 app.use("/nations", nationsRouter);
 app.use("/build", buildRouter);
+app.use("/history", historyRouter);
 
 //Error handling
 app.use(notFound);
