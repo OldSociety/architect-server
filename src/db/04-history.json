@@ -1,80 +1,38 @@
 [
   {
     "title": "AGE OF MAN",
-    "cardTitle": "Dunkirk",
-    "url": "",
+    "cardTitle": "Meridian Before Time",
     "cardSubtitle": "Men of the British Expeditionary Force (BEF) wade out to..",
-    "cardDetailedText": "",
-    "media": {
-      "type": "IMAGE",
-      "source": {
-        "url": "'http://someurl/image.jpg'"
-      }
-    }
+    "cardDetailedText": ""
   },
   {
     "title": "",
     "cardTitle": "Original Sin",
-    "url": "",
     "cardSubtitle": "Men of the British Expeditionary Force (BEF) wade out to..",
-    "cardDetailedText": "hello hello hello",
-    "media": {
-      "type": "IMAGE",
-      "source": {
-        "url": "'http://someurl/image.jpg'"
-      }
-    }
+    "cardDetailedText": "hello hello hello"
   },
   {
     "title": "PRE-IMPERIAL ERA",
     "cardTitle": "Dunkirk",
-    "url": "",
     "cardSubtitle": "Men of the British Expeditionary Force (BEF) wade out to..",
-    "cardDetailedText": "hello hello hello",
-    "media": {
-      "type": "IMAGE",
-      "source": {
-        "url": "'http://someurl/image.jpg'"
-      }
-    }
+    "cardDetailedText": "hello hello hello"
   },
   {
     "title": "IMPERIAL ERA",
     "cardTitle": "Dunkirk",
-    "url": "",
     "cardSubtitle": "Men of the British Expeditionary Force (BEF) wade out to..",
-    "cardDetailedText": "hello hello hello",
-    "media": {
-      "type": "IMAGE",
-      "source": {
-        "url": "'http://someurl/image.jpg'"
-      }
-    }
+    "cardDetailedText": "hello hello hello"
   },
   {
     "title": "POST-IMPERIAL ERA",
     "cardTitle": "Dunkirk",
-    "url": "",
     "cardSubtitle": "Men of the British Expeditionary Force (BEF) wade out to..",
-    "cardDetailedText": "hello hello hello",
-    "media": {
-      "type": "IMAGE",
-      "source": {
-        "url": "'http://someurl/image.jpg'"
-      }
-    }
+    "cardDetailedText": "hello hello hello"
   },
   {
     "title": "MODERN ERA",
     "cardTitle": "Dunkirk",
-    "url": "",
     "cardSubtitle": "Men of the British Expeditionary Force (BEF) wade out to..",
-    "cardDetailedText": "hello hello hello",
-    "media": {
-      "type": "IMAGE",
-      "source": {
-        "url": "'http://someurl/image.jpg'"
-      }
-    }
+    "cardDetailedText": "hello hello hello"
   }
 ]
