@@ -39,7 +39,7 @@
         }
       }
     ],
-    "traits": [
+    "entries": [
       {
         "name": "Description",
         "type": "entries",
