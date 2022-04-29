@@ -1,4 +1,5 @@
-const nations = require('../db/00-nations.json')
+const nations = require('../db/02-nations.json')
+const asyncErrorBoundary = require("../errors/asyncErrorBoundary");
 
 async function nationExists(req, res, next) {
   const { nationId } = req.params
@@ -14,7 +15,7 @@ async function nationExists(req, res, next) {
 }
 
 function read(req, res, next) {
-  res.json({ data: nations })
+  res.json({ data: res.locals.nation })
 }
 
 function list(req, res, next) {

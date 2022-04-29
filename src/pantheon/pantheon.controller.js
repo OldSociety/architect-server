@@ -1,4 +1,5 @@
-const pantheon = require('../db/00-pantheon.json')
+const pantheons = require('../db/00-pantheon.json')
+const asyncErrorBoundary = require("../errors/asyncErrorBoundary");
 
 async function pantheonExists(req, res, next) {
   const { pantheonId } = req.params
@@ -14,11 +15,11 @@ async function pantheonExists(req, res, next) {
 }
 
 function read(req, res, next) {
-  res.json({ data: pantheon })
+  res.json({ data: res.locals.pantheon })
 }
 
 function list(req, res, next) {
-  res.json({ data: pantheon })
+  res.json({ data: pantheons })
 }
 
 module.exports = {
