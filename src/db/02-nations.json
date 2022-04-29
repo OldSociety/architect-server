@@ -72,6 +72,17 @@
     "description": [
       "Whitepine remains mostly unexplored, unsettled and unconquered. Its active volcano threatens to erupt with regular tremors. Its lush forests are filled with deadly monstrosities and terrifying abominations.",
       "Throughout history, fantastical tales have been told of Whitepine’s talking dragons, great demon generals and human tribes with the power to walk through the Grey Halls at will. There is no proof to any of these claims and with even the most powerful divination unable to pierce its mysterious veil, there may never be."
+    ],
+    "entries": [
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/eb/48/1e/eb481ea18f680e17d96c630a83a6c10f.jpg"
+        },
+        "title": "",
+        "altText": ""
+      }
     ]
   },
   {
