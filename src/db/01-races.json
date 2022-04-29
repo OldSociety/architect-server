@@ -2185,7 +2185,7 @@
       {
         "type": "entries",
         "name": "Creature Type",
-        "entries": ["You are a Construct."]
+        "entries": ["You are a Construct. You are also considered a humanoid for any prerequisite or effect that requires you to be a humanoid."]
       },
       {
         "name": "Elven Tech",
