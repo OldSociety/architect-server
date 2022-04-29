@@ -73,6 +73,13 @@
         ]
       },
       {
+        "type": "entries",
+        "name": "Skill Versatility",
+        "entries": [
+          "You gain proficiency in any skill of your choice."
+        ]
+      },
+      {
         "name": "Children of Miira",
         "entries": [
           "You know the druidcraft cantrip. Furthermore, if you have the Spellcasting or the Pact Magic class feature, the spells on the table below are added to the spell list of your spellcasting class."
@@ -147,6 +154,13 @@
         ]
       },
       {
+        "type": "entries",
+        "name": "Skill Versatility",
+        "entries": [
+          "You gain proficiency in any skill of your choice."
+        ]
+      },
+      {
         "name": "Savage Blow",
         "entries": [
           "As a bonus action, when you hit a creature with a melee weapon attack, you can force the creature to succeed on a constitution saving throw or have their speed reduced to 0 until the end of their next turn. If the target fails by 5 or more, they are instead stunned for the same duration. The save DC for this attack is 10 + your proficiency bonus. Once you use this trait, you cannot do so again until you finish a long rest."
@@ -218,6 +232,13 @@
         "type": "entries",
         "entries": [
           "Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Skill Versatility",
+        "entries": [
+          "You gain proficiency in any skill of your choice."
         ]
       },
       {
@@ -313,6 +334,13 @@
         "type": "entries",
         "entries": [
           "Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Skill Versatility",
+        "entries": [
+          "You gain proficiency in any skill of your choice."
         ]
       },
       {
@@ -914,6 +942,13 @@
         "name": "Size",
         "entries": [
           "Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Skill Versatility",
+        "entries": [
+          "You gain proficiency in two skills of your choice."
         ]
       },
       {
@@ -1821,6 +1856,13 @@
           "Blackwren stand from 4 to 5 feet tall, but their bodies are slender and their bones are partially hollow to facilitate their flight. Your size is Small or Medium and you choose the size when you select this race."
         ],
         "type": "entries"
+      },
+      {
+        "type": "entries",
+        "name": "Skill Versatility",
+        "entries": [
+          "You gain proficiency in two skills of your choice."
+        ]
       },
       {
         "name": "Ambusher",
