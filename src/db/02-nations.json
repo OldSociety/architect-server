@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "name": "Arxyk (“air-ek”)",
+    "name": "Arxyk",
     "nationality": "I bow to no king. (Whitepine)",
     "ruler": "none",
     "government": "none",
     "description": [
-      "Arxyk is the homeland of the Nyx. Once the island was just like Ash’ahla, lush with magic, but it was devasted by arrival of the elves. For generations, they stripped the land of its resources and forced the human Nyx from their homelands. Only after the end of the elven empire did Nyxen barbarians return, only to find the forests bare and its magic lost.",
+      "Arxyk (“air-ekk”) is the homeland of the Nyx. Once the island was just like Ash’ahla, lush with magic, but it was devasted by arrival of the elves. For generations, they stripped the land of its resources and forced the human Nyx from their homelands. Only after the end of the elven empire did Nyxen barbarians return, only to find the forests bare and its magic lost.",
       "The remaining wild folk have long endured the slow death of their homeland. Only a thin peace treaty between Fairbourne and Aryxk has kept the threat of genocide at bay. Yet, recently, rumor spreads of a powerful force uniting the Nyxen Rival Clans once again under a single banner, threatening a bloody war once more."
     ],
     "entries": [
@@ -170,7 +170,7 @@
         ]
       }
     ],
-    "description": "Gateway to the South, Egress was liberated from the Zemeri empire in the Great Gate War a century ago. It is now ruled by the Siiq Emperor Adahn Nabateen from the capital city Amenmaatra. Emperor Nabateen has brought a new era of prosperity to his people through facilitating open trade through the Scarlet Delegate.",
+    "description": ["Gateway to the South, Egress was liberated from the Zemeri empire in the Great Gate War a century ago. It is now ruled by the Siiq Emperor Adahn Nabateen from the capital city Amenmaatra. Emperor Nabateen has brought a new era of prosperity to his people through facilitating open trade through the Scarlet Delegate."],
     "entries": [
       {
         "type": "image",
@@ -189,7 +189,7 @@
     "ruler": "none",
     "government": "none",
     "nationality": "I bow to no king. (Medina)",
-    "description": "Home to the largest mountain ranges in Meridian, Medun is plentiful in the most valuable of minerals, including gold, silver, platinum and mithril. Medun is loosely controlled by Leosian navies and for years, Leo’s attempt to stamp out the nation's historically Exclusionist cult, but the sheer wealth of its churches line Fairec pockets and keep Leos in power.",
+    "description": ["Home to the largest mountain ranges in Meridian, Medun is plentiful in the most valuable of minerals, including gold, silver, platinum and mithril. Medun is loosely controlled by Leosian navies and for years, Leo’s attempt to stamp out the nation's historically Exclusionist cult, but the sheer wealth of its churches line Fairec pockets and keep Leos in power."],
     "entries": [
       {
         "type": "image",
@@ -208,7 +208,7 @@
     "ruler": "none",
     "government": "none",
     "nationality": "I bow to no king. (Medun)",
-    "description": "Legends tell of the Synod, five elven kings of this heartland who betrayed their own, using used legendary relics from the forgotten elven homeland to stop the primal elementals that obliterated the elven empire. Ruled by a coalition of twelve Siiq tribes known as the Scarlet Delegate. Its current Clan King, Kateri, claims to be in possession of one of those ancient weapons: Tlaloc (t-lay-lock) the Storm's Eye. A lance so powerful it is said to strike down even the oldest dragons.",
+    "description": ["Legends tell of the Synod, five elven kings of this heartland who betrayed their own, using used legendary relics from the forgotten elven homeland to stop the primal elementals that obliterated the elven empire. Ruled by a coalition of twelve Siiq tribes known as the Scarlet Delegate. Its current Clan King, Kateri, claims to be in possession of one of those ancient weapons: Tlaloc (t-lay-lock) the Storm's Eye. A lance so powerful it is said to strike down even the oldest dragons."],
     "entries": [
       {
         "type": "image",
@@ -272,7 +272,7 @@
         ]
       }
     ],
-    "description": "Leading scientific research throughout Meridian, the Zeméri empire extended across all the south before into the Great Gate War against King Leos broke the nation into three parts. A century has passed and only recently has the elven King Kirill been able to broker peace with its remaining city-states. To achieve this, King Kirill has invested heavily in the use of Marksmen agents to stamp out any sign of uprising against him.",
+    "description": ["Leading scientific research throughout Meridian, the Zeméri empire extended across all the south before into the Great Gate War against King Leos broke the nation into three parts. A century has passed and only recently has the elven King Kirill been able to broker peace with its remaining city-states. To achieve this, King Kirill has invested heavily in the use of Marksmen agents to stamp out any sign of uprising against him."],
     "entries": [
       {
         "type": "image",
