@@ -1704,7 +1704,7 @@
     "raceName": "Skyborn",
     "speed": {
       "walk": 30,
-      "fly": 30
+      "fly": true
     },
     "sanity": 19,
     "ability": [
@@ -1902,13 +1902,6 @@
         "type": "entries"
       },
       {
-        "name": "Elven Tech",
-        "entries": [
-          "As an artificial race, you do not study a spell book or cast spells. Instead, you work with your tools and create the specialized items you'll use to produce your spell-like effects. You are unable to use potions and scrolls but not from utilizing other advanced tech."
-        ],
-        "type": "entries"
-      },
-      {
         "type": "entries",
         "name": "Constructed Resilience",
         "entries": [
@@ -2071,13 +2064,6 @@
         "type": "entries"
       },
       {
-        "name": "Elven Tech",
-        "entries": [
-          "As an artificial race, you do not study a spell book or cast spells. Instead, you work with your tools and create the specialized items you'll use to produce your spell-like effects. You are unable to use potions and scrolls but not from utilizing other advanced tech."
-        ],
-        "type": "entries"
-      },
-      {
         "type": "entries",
         "name": "Magician's Judge",
         "entries": [
@@ -2183,10 +2169,22 @@
           {
             "type": "list",
             "items": [
-              "You have advantage on saving throws against being {@condition poisoned}, and you have resistance to poison damage.",
-              "You don't need to eat, drink, or breathe.",
-              "You are immune to disease.",
-              "You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in an inactive, motionless state, during which you retain consciousness."
+              {
+                "name": "",
+                "entry": "You have advantage on saving throws against being {@condition poisoned}, and you have resistance to poison damage."
+              },
+              {
+                "name": "",
+                "entry": "You don't need to eat, drink, or breathe."
+              },
+              {
+                "name": "",
+                "entry": "You are immune to disease."
+              },
+              {
+                "name": "",
+                "entry": "You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 6 hours if you spend those hours in an inactive, motionless state, during which you retain consciousness."
+              }
             ]
           }
         ]
