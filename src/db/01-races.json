@@ -55,8 +55,8 @@
           "type": "external",
           "url": "https://i.pinimg.com/736x/d3/21/08/d32108b42bff8a91e65ea74d0e1e131f.jpg"
         },
-        "title": "EXAMPLE: Ash'a Druid<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
-        "altText": "EXAMPLE: An Ash'a druid casting flame."
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: ALTERNATE TEXT."
       },
       {
         "name": "Age",
@@ -70,6 +70,13 @@
         "name": "Size",
         "entries": [
           "Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Skill Versatility",
+        "entries": [
+          "You gain proficiency in any skill of your choice."
         ]
       },
       {
@@ -129,8 +136,8 @@
           "type": "external",
           "url": "https://tse1.mm.bing.net/th?id=OIP.ebImFeJAht6Kr_G6oK0VxwHaLZ&pid=Api"
         },
-        "title": "EXAMPLE: Ash'a Druid<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
-        "altText": "EXAMPLE: An Ash'a druid casting flame."
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "name": "Age",
@@ -144,6 +151,13 @@
         "type": "entries",
         "entries": [
           "Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Skill Versatility",
+        "entries": [
+          "You gain proficiency in any skill of your choice."
         ]
       },
       {
@@ -203,8 +217,8 @@
           "type": "external",
           "url": "https://i.pinimg.com/originals/5b/4d/05/5b4d053d5559ca2fc2aebec3dab2b162.jpg"
         },
-        "title": "EXAMPLE: Ash'a Druid<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
-        "altText": "EXAMPLE: An Ash'a druid casting flame."
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "name": "Age",
@@ -218,6 +232,13 @@
         "type": "entries",
         "entries": [
           "Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Skill Versatility",
+        "entries": [
+          "You gain proficiency in any skill of your choice."
         ]
       },
       {
@@ -298,8 +319,8 @@
           "type": "external",
           "url": "https://tse3.mm.bing.net/th?id=OIP.gDIlVaZ-ZqFpQKG2B9nHhAHaPg&pid=Api"
         },
-        "title": "",
-        "altText": ""
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "name": "Age",
@@ -316,6 +337,13 @@
         ]
       },
       {
+        "type": "entries",
+        "name": "Skill Versatility",
+        "entries": [
+          "You gain proficiency in any skill of your choice."
+        ]
+      },
+      {
         "name": "Lucky",
         "entries": [
           "When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll."
@@ -325,7 +353,7 @@
       {
         "name": "Silver Tongue",
         "entries": [
-          "You have mastered the art of persuasion. If you fail a persuasion or deception check, as long as the creature that can hear you and the two you share the same language, you can choose to succeed instead. Once you use this trait, you cannot do so again until you finish a long rest."
+          "As a Thesian, you are naturally gifted in the art of persuasion. If you fail a persuasion or deception check to influence another creature, as long as that creature can hear and understand you, you can choose to succeed instead. Once you use this trait, you cannot do so again until you finish a long rest."
         ],
         "type": "entries"
       }
@@ -356,10 +384,10 @@
     ],
     "weaponProficiencies": [
       {
-        "longsword|phb": true,
-        "shortsword|phb": true,
-        "longbow|phb": true,
-        "shortbow|phb": true
+        "longsword": true,
+        "shortsword": true,
+        "longbow": true,
+        "shortbow": true
       }
     ],
     "additionalSpells": [
@@ -380,7 +408,7 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["Also known as Sun kin, High Elves are the most common elves in Meridian. They have tanned skin and dark features like wood elves, though tend to be taller and slenderer. High elves are deeply ingrained in the world compared to the other elves, holding positions of political and economic power throughout the world, especially in Thesian society."]
+        "entries": ["Also known as Sun-kin, High Elves are the most common elves in Meridian. They have tanned skin and dark features like wood elves, though tend to be taller and slenderer. High elves are deeply ingrained in the world compared to the other elves, holding positions of political and economic power throughout the world, especially in Thesian society."]
       },
       {
         "type": "image",
@@ -388,8 +416,8 @@
           "type": "external",
           "url": "https://i.pinimg.com/originals/73/ca/81/73ca818762f4b48e979ad33f70582a59.jpg"
         },
-        "title": "",
-        "altText": ""
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "name": "Age",
@@ -420,14 +448,14 @@
       {
         "name": "Elf Weapon Training",
         "entries": [
-          "You have proficiency with the {@item longsword|phb}, {@item shortsword|phb}, {@item shortbow|phb}, and {@item longbow|phb}."
+          "You have proficiency with the {@item longsword}, {@item shortsword}, {@item shortbow}, and {@item longbow}."
         ],
         "type": "entries"
       },
       {
         "name": "Cantrip",
         "entries": [
-          "You know one {@filter cantrip of your choice from the wizard spell list|spells|level=0|class=Wizard}. Intelligence is your spellcasting ability for it."
+          "You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it."
         ],
         "type": "entries"
       },
@@ -476,8 +504,8 @@
           "type": "external",
           "url": "https://i.pinimg.com/originals/5f/c7/7a/5fc77a2a1a420eba332c61ab54c42b4d.jpg"
         },
-        "title": "",
-        "altText": ""
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "name": "Age",
@@ -515,7 +543,7 @@
       {
         "name": "Industrial Legacy",
         "entries": [
-          "You know the {@spell mending} cantrip. Once you reach 3rd level, you can cast the {@spell identify} spell once with this trait, and you regain the ability to do so when you finish a long rest. Once you reach 5th level, you can cast the {@spell unseen servant} spell once with this trait, and you regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
+          "You know the {@spell mending} cantrip. Once you reach 3rd level, you can cast the {@spell identify} spell once with this trait with the necessary material components, and you regain the ability to do so when you finish a long rest. Once you reach 5th level, you can cast the {@spell unseen servant} spell once with this trait, and you regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
         ],
         "type": "entries"
       }
@@ -546,9 +574,9 @@
     ],
     "weaponProficiencies": [
       {
-        "rapier|phb": true,
-        "shortsword|phb": true,
-        "hand crossbow|phb": true
+        "rapier": true,
+        "shortsword": true,
+        "hand crossbow": true
       }
     ],
     "entries": [
@@ -563,8 +591,8 @@
           "type": "external",
           "url": "https://i.pinimg.com/736x/40/80/4e/40804efabb3236dc23fbdc5514641786--female-elf-half-elf.jpg"
         },
-        "title": "",
-        "altText": ""
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "name": "Age",
@@ -595,7 +623,7 @@
       {
         "name": "Elf Weapon Training",
         "entries": [
-          "You have proficiency with the {@item longsword|phb}, {@item shortsword|phb}, {@item shortbow|phb}, and {@item longbow|phb}."
+          "You have proficiency with the {@item longsword}, {@item shortsword}, {@item shortbow}, and {@item longbow}."
         ],
         "type": "entries"
       },
@@ -639,9 +667,9 @@
     ],
     "weaponProficiencies": [
       {
-        "rapier|phb": true,
-        "shortsword|phb": true,
-        "hand crossbow|phb": true
+        "rapier": true,
+        "shortsword": true,
+        "hand crossbow": true
       }
     ],
     "additionalSpells": [
@@ -676,8 +704,8 @@
           "type": "external",
           "url": "https://i.pinimg.com/originals/1e/df/f8/1edff86c888b7bd411a54cdfc0e6e418.jpg"
         },
-        "title": "",
-        "altText": ""
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "name": "Age",
@@ -732,7 +760,7 @@
       {
         "name": "Elven Weapon Training",
         "entries": [
-          "You have proficiency with {@item rapier|phb|rapiers}, {@item shortsword|phb|shortswords}, and {@item hand crossbow|phb|hand crossbows}."
+          "You have proficiency with {@item rapier}, {@item shortsword}, and {@item hand crossbow}."
         ],
         "type": "entries"
       }
@@ -777,8 +805,8 @@
           "type": "external",
           "url": "https://i.pinimg.com/originals/33/b5/4c/33b54cc7e95b664e1c4bd52b410a9e1d.jpg"
         },
-        "title": "",
-        "altText": ""
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "name": "Age",
@@ -899,8 +927,8 @@
           "type": "external",
           "url": "https://i.pinimg.com/originals/01/02/03/01020325d360f632dc6746a7ca5f09a2.jpg"
         },
-        "title": "",
-        "altText": ""
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "name": "Age",
@@ -914,6 +942,13 @@
         "name": "Size",
         "entries": [
           "Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Skill Versatility",
+        "entries": [
+          "You gain proficiency in two skills of your choice."
         ]
       },
       {
@@ -1013,8 +1048,8 @@
           "type": "external",
           "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
         },
-        "title": "",
-        "altText": ""
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "name": "Age",
@@ -1704,7 +1739,7 @@
     "raceName": "Skyborn",
     "speed": {
       "walk": 30,
-      "fly": 30
+      "fly": true
     },
     "sanity": 19,
     "ability": [
@@ -1823,6 +1858,13 @@
         "type": "entries"
       },
       {
+        "type": "entries",
+        "name": "Skill Versatility",
+        "entries": [
+          "You gain proficiency in two skills of your choice."
+        ]
+      },
+      {
         "name": "Ambusher",
         "entries": [
           "In the first round of a combat, you have advantage on attack rolls against any creature who is surprised."
@@ -1898,13 +1940,6 @@
         "name": "Size",
         "entries": [
           "Most Marksmen stand between 5 and 6½ feet tall. Build is affected by your subrace. Your size is Medium."
-        ],
-        "type": "entries"
-      },
-      {
-        "name": "Elven Tech",
-        "entries": [
-          "As an artificial race, you do not study a spell book or cast spells. Instead, you work with your tools and create the specialized items you'll use to produce your spell-like effects. You are unable to use potions and scrolls but not from utilizing other advanced tech."
         ],
         "type": "entries"
       },
@@ -2071,13 +2106,6 @@
         "type": "entries"
       },
       {
-        "name": "Elven Tech",
-        "entries": [
-          "As an artificial race, you do not study a spell book or cast spells. Instead, you work with your tools and create the specialized items you'll use to produce your spell-like effects. You are unable to use potions and scrolls but not from utilizing other advanced tech."
-        ],
-        "type": "entries"
-      },
-      {
         "type": "entries",
         "name": "Magician's Judge",
         "entries": [
@@ -2157,7 +2185,7 @@
       {
         "type": "entries",
         "name": "Creature Type",
-        "entries": ["You are a Construct."]
+        "entries": ["You are a Construct. You are also considered a humanoid for any prerequisite or effect that requires you to be a humanoid."]
       },
       {
         "name": "Elven Tech",
@@ -2183,10 +2211,22 @@
           {
             "type": "list",
             "items": [
-              "You have advantage on saving throws against being {@condition poisoned}, and you have resistance to poison damage.",
-              "You don't need to eat, drink, or breathe.",
-              "You are immune to disease.",
-              "You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in an inactive, motionless state, during which you retain consciousness."
+              {
+                "name": "",
+                "entry": "You have advantage on saving throws against being {@condition poisoned}, and you have resistance to poison damage."
+              },
+              {
+                "name": "",
+                "entry": "You don't need to eat, drink, or breathe."
+              },
+              {
+                "name": "",
+                "entry": "You are immune to disease."
+              },
+              {
+                "name": "",
+                "entry": "You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 6 hours if you spend those hours in an inactive, motionless state, during which you retain consciousness."
+              }
             ]
           }
         ]
