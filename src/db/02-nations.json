@@ -8,6 +8,17 @@
     "description": [
       "Aryxk (pronounced “air-ekk”) is the homeland of the Nyx. Once the island was just like Ash’ahla, lush with magic, but it was devasted by arrival of the elves. For generations, they stripped the land of its resources and forced the human Nyx from their homelands. Only after the end of the elven empire did Nyxen barbarians return, only to find the forests bare and its magic lost.",
       "The remaining wild folk have long endured the slow death of their homeland. Only a thin peace treaty between Fairbourne and Aryxk has kept the threat of genocide at bay. Yet, recently, rumor spreads of a powerful force uniting the Nyxen Rival Clans once again under a single banner, threatening a bloody war once more."
+    ],
+    "entries": [
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://images.pexels.com/photos/1933239/pexels-photo-1933239.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        "title": "Aurora Borealis",
+        "altText": "Aurora Borealis"
+      }
     ]
   },
   {
@@ -23,13 +34,33 @@
         "racials": "human",
         "entries": [
           "When the Rival clans began their raids on the loosely united towns and hamlets of the north, the woodworker Vendren Leos took up arms and repelled the invaders. Under his leadership and quick wit, the conquering empire was born.",
-          "When the young nation's capital, New Polythesis, fell generations later, it sparked a militaristic revolution that continues to this day. Ruling from the city of Tourngait, Leos pushes new, advanced weapons combined with devastating war magics, out of a generational paranoia of future attacks from enemies they see lurking in all directions."
+          "When the young nation's capital, New Polythesis, fell generations later, it sparked a militaristic revolution that continues to this day. Ruling from the city of Tourngait, Leos pushes new, advanced weapons combined with devastating war magics, out of a generational paranoia of future attacks from enemies they see lurking in all directions.",
+          {
+            "type": "image",
+            "href": {
+              "type": "external",
+              "url": "https://i.pinimg.com/originals/eb/48/1e/eb481ea18f680e17d96c630a83a6c10f.jpg"
+            },
+            "title": "",
+            "altText": ""
+          }
         ]
       }
     ],
     "description": [
       "When King Leos VII took the throne more than 80 years ago, he promised a united nation that could fend off both raiders and the hellish horrors of the Bloodlands. While some see him as a tyrant, countless others swear that without his ruthless, steadfast leadership to protect them - the world as they know it would finally end.",
       "Technologically, Fairbourne may seem like a backward place that has yet to accept the comforts of a modern world. Instead its citizens celebrate the old ways or what little is known of them. "
+    ],
+    "entries": [
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/eb/48/1e/eb481ea18f680e17d96c630a83a6c10f.jpg"
+        },
+        "title": "",
+        "altText": ""
+      }
     ]
   },
   {
@@ -63,6 +94,17 @@
     "description": [
       "To many the mountainous wastelands of Uruban are a scar to an otherwise idyllic world. Even before the Collapse destroyed the nations heart, humans avoided the steep mountain ranges and even the first elves were unable to bring the nation to heel.",
       "Only the Stoneborn, with their unique biology and traditional understanding of Uruban, make this perilous, unforgiving land their home."
+    ],
+    "entries": [
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/eb/48/1e/eb481ea18f680e17d96c630a83a6c10f.jpg"
+        },
+        "title": "",
+        "altText": ""
+      }
     ]
   },
   {
@@ -87,6 +129,17 @@
       "Glorious castles perch on mountain spires that rise to the starry heavens. Bold travelers board vessels in summer and exit the next night into winter. Fairies anoint the dew drops on morning flowers, and in the evening, satyrs play their gentle pipes to lull the world to sleep.",
       "Yet for all its dreamlike splendor, Ash’ahla is perilous to outsiders and those unfamiliar with its own, strange laws. Here wicked hags place everlasting curses on their enemies, change mortals into toads and blacken the moon in their flight across the midnight sky. Capricious fey play careless games with mortal lives. And underground caverns might sprawl the length of the world above.",
       "Those who are drawn to this realm of enchantment and danger must take care because the wonders and horrors of Ash’ahla share the same shade."
+    ],
+    "entries": [
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/eb/48/1e/eb481ea18f680e17d96c630a83a6c10f.jpg"
+        },
+        "title": "",
+        "altText": ""
+      }
     ]
   },
   {
@@ -106,7 +159,18 @@
         ]
       }
     ],
-    "description": "Gateway to the South, Egress was liberated from the Zemeri empire in the Great Gate War a century ago. It is now ruled by the Siiq Emperor Adahn Nabateen from the capital city Amenmaatra. Emperor Nabateen has brought a new era of prosperity to his people through facilitating open trade through the Scarlet Delegate."
+    "description": "Gateway to the South, Egress was liberated from the Zemeri empire in the Great Gate War a century ago. It is now ruled by the Siiq Emperor Adahn Nabateen from the capital city Amenmaatra. Emperor Nabateen has brought a new era of prosperity to his people through facilitating open trade through the Scarlet Delegate.",
+    "entries": [
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/eb/48/1e/eb481ea18f680e17d96c630a83a6c10f.jpg"
+        },
+        "title": "",
+        "altText": ""
+      }
+    ]
   },
   {
     "id": 7,
@@ -114,7 +178,18 @@
     "ruler": "none",
     "government": "none",
     "nationality": "I bow to no king. (Medina)",
-    "description": "Home to the largest mountain ranges in Meridian, Medun is plentiful in the most valuable of minerals, including gold, silver, platinum and mithril. Medun is loosely controlled by Leosian navies and for years, Leo’s attempt to stamp out the nation's historically Exclusionist cult, but the sheer wealth of its churches line Fairec pockets and keep Leos in power."
+    "description": "Home to the largest mountain ranges in Meridian, Medun is plentiful in the most valuable of minerals, including gold, silver, platinum and mithril. Medun is loosely controlled by Leosian navies and for years, Leo’s attempt to stamp out the nation's historically Exclusionist cult, but the sheer wealth of its churches line Fairec pockets and keep Leos in power.",
+    "entries": [
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/eb/48/1e/eb481ea18f680e17d96c630a83a6c10f.jpg"
+        },
+        "title": "",
+        "altText": ""
+      }
+    ]
   },
   {
     "id": 8,
@@ -122,7 +197,18 @@
     "ruler": "none",
     "government": "none",
     "nationality": "I bow to no king. (Medun)",
-    "description": "Legends tell of the Synod, five elven kings of this heartland who betrayed their own, using used legendary relics from the forgotten elven homeland to stop the primal elementals that obliterated the elven empire. Ruled by a coalition of twelve Siiq tribes known as the Scarlet Delegate. Its current Clan King, Kateri, claims to be in possession of one of those ancient weapons: Tlaloc (t-lay-lock) the Storm's Eye. A lance so powerful it is said to strike down even the oldest dragons."
+    "description": "Legends tell of the Synod, five elven kings of this heartland who betrayed their own, using used legendary relics from the forgotten elven homeland to stop the primal elementals that obliterated the elven empire. Ruled by a coalition of twelve Siiq tribes known as the Scarlet Delegate. Its current Clan King, Kateri, claims to be in possession of one of those ancient weapons: Tlaloc (t-lay-lock) the Storm's Eye. A lance so powerful it is said to strike down even the oldest dragons.",
+    "entries": [
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/eb/48/1e/eb481ea18f680e17d96c630a83a6c10f.jpg"
+        },
+        "title": "",
+        "altText": ""
+      }
+    ]
   },
   {
     "id": 9,
@@ -146,6 +232,17 @@
       "Liberated from Zemér during the Great Gate War against Fairbourne, Karaj still conforms to many Zeméri traditions with only surface level differences. Their Prideborn king, Karaji II, is no politician.",
       "His self-imposed competition with Zemér’s Black Prince is a huge distraction to the daily needs of his people. Worse still, for all his bluster, Karaji has been unable to stamp out corruption even in his own court, never mind bring order to the new nation.",
       "Without a strong arm to bring its outlaws to heel, Karaj is a haven known as 'Smuggler's Paradise'. In his incompetence, the Synagogue has entrenched itself becoming the true seat of wealth and power in the nation."
+    ],
+    "entries": [
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/eb/48/1e/eb481ea18f680e17d96c630a83a6c10f.jpg"
+        },
+        "title": "",
+        "altText": ""
+      }
     ]
   },
   {
@@ -164,7 +261,18 @@
         ]
       }
     ],
-    "description": "Leading scientific research throughout Meridian, the Zeméri empire extended across all the south before into the Great Gate War against King Leos broke the nation into three parts. A century has passed and only recently has the elven King Kirill been able to broker peace with its remaining city-states. To achieve this, King Kirill has invested heavily in the use of Marksmen agents to stamp out any sign of uprising against him."
+    "description": "Leading scientific research throughout Meridian, the Zeméri empire extended across all the south before into the Great Gate War against King Leos broke the nation into three parts. A century has passed and only recently has the elven King Kirill been able to broker peace with its remaining city-states. To achieve this, King Kirill has invested heavily in the use of Marksmen agents to stamp out any sign of uprising against him.",
+    "entries": [
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/eb/48/1e/eb481ea18f680e17d96c630a83a6c10f.jpg"
+        },
+        "title": "",
+        "altText": ""
+      }
+    ]
   },
   {
     "id": 11,
@@ -186,6 +294,17 @@
       "With tropical forests and flourishing agriculture, Seneka is a plentiful nation that remains neutral in international affairs. As a collection of city-states, each has its own laws, military and form of currency, while still maintaining a unified cultural identity as a nation.",
       "Many states have differing ranks of citizenship leading to longstanding struggles for political equity with first-class citizens. A substantial number of noncitizens (minors, resident aliens and occasionally slaves) also reside throughout Seneka.",
       "Navigating the local laws and customs of each state is a necessary challenge for merchants and pilgrims alike, because what might be completely acceptable in one state can be considered taboo or down-right unlawful in another. There is no exemption for ignorance."
+    ],
+    "entries": [
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/eb/48/1e/eb481ea18f680e17d96c630a83a6c10f.jpg"
+        },
+        "title": "",
+        "altText": ""
+      }
     ]
   }
 ]
