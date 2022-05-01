@@ -1,4 +1,4 @@
-const factions = require('../db/02-factions.json')
+const factions = require('../db/03-factions.json')
 const asyncErrorBoundary = require("../errors/asyncErrorBoundary");
 
 async function factionExists(req, res, next) {
