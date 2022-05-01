@@ -6,6 +6,7 @@ const racesRouter = require("./races/races.router.js");
 const buildRouter = require("./build/build.router.js");
 const pantheonRouter = require("./pantheon/pantheon.router.js");
 const nationsRouter = require("./nations/nations.router.js");
+const factionsRouter = require("./factions/factions.router.js");
 const historyRouter = require("./history/history.router.js");
 const errorHandler = require("./errors/errorHandler");
 const notFound = require("./errors/notFound");
@@ -27,7 +28,8 @@ app.use(morgan("dev")) //A small logging program to replace Logger printing in t
 //app.use("/")
 app.use("/races", racesRouter); // Note: app.use
 app.use("/pantheon", pantheonRouter);
-app.use("/nations", nationsRouter);
+app.use("/nations", nationsRouter)
+app.use("/factions", factionsRouter);
 app.use("/build", buildRouter);
 app.use("/history", historyRouter);
 
