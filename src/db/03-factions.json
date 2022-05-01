@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "The Conjunction",
-    "type": ["arcane"],
+    "type": ["Arcane"],
     "entries": [
       [["", "", "", ""]],
       {
@@ -82,7 +82,7 @@
   {
     "id": 2,
     "name": "Scarlet Delegate",
-    "type": ["mercantile"],
+    "type": ["Mercantile"],
     "entries": [
       [["", "", "", ""]],
       {
@@ -162,7 +162,7 @@
   {
     "id": 3,
     "name": "Verdel Den",
-    "type": ["criminal", "mercantile"],
+    "type": ["Criminal", "Mercantile"],
     "entries": [
       [["", "", "", ""]],
       {
@@ -242,7 +242,7 @@
   {
     "id": 4,
     "name": "Lineage",
-    "type": ["noble"],
+    "type": ["Noble"],
     "entries": [
       [["", "", "", ""]],
       {
@@ -322,7 +322,7 @@
   {
     "id": 5,
     "name": "Prideborn Clans",
-    "type": ["noble"],
+    "type": ["Noble"],
     "entries": [
       [["", "", "", ""]],
       {
@@ -402,7 +402,7 @@
   {
     "id": 6,
     "name": "Red Horde",
-    "type": ["religious"],
+    "type": ["Religious"],
     "entries": [
       [
         "The Red Horde rules Uruban's mountainous wastelands uniting hundreds of Uru communities under a single black banner. As a theological hegemony, the Horde is the head religious and political body within the region. Under the guidance of its Night Blood priests, they have established a culture and religion based solely on the worship and reverence of Udreth-sol, Seraph of death and the afterlife.",
@@ -485,7 +485,7 @@
   {
     "id": 7,
     "name": "Synagogue",
-    "type": ["religious", "criminal"],
+    "type": ["Religious", "Criminal"],
     "entries": [
       [["", "", "", ""]],
       {
@@ -565,7 +565,7 @@
   {
     "id": 8,
     "name": "Scarbacks",
-    "type": ["religious"],
+    "type": ["Religious"],
     "entries": [
       [["", "", "", ""]],
       {
@@ -645,7 +645,7 @@
   {
     "id": 9,
     "name": "Exclusionists",
-    "type": ["religious"],
+    "type": ["Religious"],
     "entries": [
       [["", "", "", ""]],
       {
@@ -725,7 +725,7 @@
   {
     "id": 10,
     "name": "Church of Nobility",
-    "type": ["religious"],
+    "type": ["Religious"],
     "entries": [
       [["", "", "", ""]],
       {
@@ -805,7 +805,7 @@
   {
     "id": 11,
     "name": "Red Horde",
-    "type": ["religious"],
+    "type": ["Religious"],
     "entries": [
       [["", "", "", ""]],
       {
@@ -885,7 +885,7 @@
   {
     "id": 12,
     "name": "Watchers of the Wild",
-    "type": ["religious"],
+    "type": ["Religious"],
     "entries": [
       [["", "", "", ""]],
       {
@@ -1137,7 +1137,7 @@
   {
     "id": 15,
     "name": "Fragment",
-    "type": ["science", "criminal"],
+    "type": ["science", "Criminal"],
     "entries": [
       [["", "", "", ""]],
       {
