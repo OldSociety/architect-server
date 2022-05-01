@@ -252,15 +252,15 @@
         "name": "War Hero",
         "type": "entries",
         "entries": [
-          "You can use this trait to take the {@action Help} action as a bonus action, and you can do so a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest.",
-          "Starting at 3rd level, choose one of the options below each time you take the {@action Help} action with this trait:",
+          "You can use this trait to take the Help action as a bonus action, and you can do so a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest.",
+          "Starting at 3rd level, choose one of the options below each time you take the Help action with this trait:",
           {
             "type": "list",
             "items": [
               {
                 "type": "item",
                 "name": "Hospitality",
-                "entry": "You and the creature you help each gain a number of temporary hit points equal to {@dice 1d6} plus your proficiency bonus."
+                "entry": "You and the creature you help each gain a number of temporary hit points equal to 1d6 plus your proficiency bonus."
               },
               {
                 "type": "item",
@@ -435,20 +435,20 @@
       },
       {
         "name": "Keen Senses",
-        "entries": ["You have proficiency in the {@skill Perception} skill."],
+        "entries": ["You have proficiency in the Perception skill."],
         "type": "entries"
       },
       {
         "name": "Elven Ancestry",
         "entries": [
-          "You have advantage on saving throws against being {@condition charmed}, and magic can't put you to sleep."
+          "You have advantage on saving throws against being charmed, and magic can't put you to sleep."
         ],
         "type": "entries"
       },
       {
         "name": "Elf Weapon Training",
         "entries": [
-          "You have proficiency with the {@item longsword}, {@item shortsword}, {@item shortbow}, and {@item longbow}."
+          "You have proficiency with the longsword, shortsword, shortbow, and longbow."
         ],
         "type": "entries"
       },
@@ -523,27 +523,27 @@
       },
       {
         "name": "Keen Senses",
-        "entries": ["You have proficiency in the {@skill Perception} skill."],
+        "entries": ["You have proficiency in the Perception skill."],
         "type": "entries"
       },
       {
         "name": "Elven Ancestry",
         "entries": [
-          "You have advantage on saving throws against being {@condition charmed}, and magic can't put you to sleep."
+          "You have advantage on saving throws against being charmed, and magic can't put you to sleep."
         ],
         "type": "entries"
       },
       {
         "name": "Incisive Sense",
         "entries": [
-          "You have proficiency in the {@skill Investigation} skill."
+          "You have proficiency in the Investigation skill."
         ],
         "type": "entries"
       },
       {
         "name": "Industrial Legacy",
         "entries": [
-          "You know the {@spell mending} cantrip. Once you reach 3rd level, you can cast the {@spell identify} spell once with this trait with the necessary material components, and you regain the ability to do so when you finish a long rest. Once you reach 5th level, you can cast the {@spell unseen servant} spell once with this trait, and you regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
+          "You know the mending cantrip. Once you reach 3rd level, you can cast the identify spell once with this trait with the necessary material components, and you regain the ability to do so when you finish a long rest. Once you reach 5th level, you can cast the unseen servant spell once with this trait, and you regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
         ],
         "type": "entries"
       }
@@ -610,20 +610,20 @@
       },
       {
         "name": "Keen Senses",
-        "entries": ["You have proficiency in the {@skill Perception} skill."],
+        "entries": ["You have proficiency in the Perception skill."],
         "type": "entries"
       },
       {
         "name": "Elven Ancestry",
         "entries": [
-          "You have advantage on saving throws against being {@condition charmed}, and magic can't put you to sleep."
+          "You have advantage on saving throws against being charmed, and magic can't put you to sleep."
         ],
         "type": "entries"
       },
       {
         "name": "Elf Weapon Training",
         "entries": [
-          "You have proficiency with the {@item longsword}, {@item shortsword}, {@item shortbow}, and {@item longbow}."
+          "You have proficiency with the longsword, shortsword, shortbow, and longbow."
         ],
         "type": "entries"
       },
@@ -723,13 +723,13 @@
       },
       {
         "name": "Keen Senses",
-        "entries": ["You have proficiency in the {@skill Perception} skill."],
+        "entries": ["You have proficiency in the Perception skill."],
         "type": "entries"
       },
       {
         "name": "Elven Ancestry",
         "entries": [
-          "You have advantage on saving throws against being {@condition charmed}, and magic can't put you to sleep."
+          "You have advantage on saving throws against being charmed, and magic can't put you to sleep."
         ],
         "type": "entries"
       },
@@ -746,21 +746,21 @@
       {
         "name": "Light Sensitivity",
         "entries": [
-          "You have disadvantage on Wisdom ({@skill Perception}) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+          "You have disadvantage on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
         ],
         "type": "entries"
       },
       {
         "name": "Dark Magic",
         "entries": [
-          "You know the {@spell dancing lights} cantrip. When you reach 3rd level, you can cast the {@spell faerie fire} spell once with this trait; you regain the ability to cast it when you finish a long rest. When you reach 5th level, you can also cast the {@spell darkness} spell once per day with this trait; you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells."
+          "You know the dancing lights cantrip. When you reach 3rd level, you can cast the faerie fire spell once with this trait; you regain the ability to cast it when you finish a long rest. When you reach 5th level, you can also cast the darkness spell once per day with this trait; you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells."
         ],
         "type": "entries"
       },
       {
         "name": "Elven Weapon Training",
         "entries": [
-          "You have proficiency with {@item rapier}, {@item shortsword}, and {@item hand crossbow}."
+          "You have proficiency with rapier, shortsword, and hand crossbow."
         ],
         "type": "entries"
       }
@@ -824,13 +824,13 @@
       },
       {
         "name": "Keen Senses",
-        "entries": ["You have proficiency in the {@skill Perception} skill."],
+        "entries": ["You have proficiency in the Perception skill."],
         "type": "entries"
       },
       {
         "name": "Elven Ancestry",
         "entries": [
-          "You have advantage on saving throws against being {@condition charmed}, and magic can't put you to sleep."
+          "You have advantage on saving throws against being charmed, and magic can't put you to sleep."
         ],
         "type": "entries"
       },
@@ -954,7 +954,7 @@
       {
         "name": "Elven Ancestry",
         "entries": [
-          "You have advantage on saving throws against being {@condition charmed}, and magic can't put you to sleep."
+          "You have advantage on saving throws against being charmed, and magic can't put you to sleep."
         ],
         "type": "entries"
       },
@@ -972,11 +972,11 @@
                 "colLabels": ["Spell Level", "Spells"],
                 "colStyles": ["col-2 text-center", "col-10"],
                 "rows": [
-                  ["1st", "{@spell beast bond}, {@spell detect magic}"],
-                  ["2nd", "{@spell augury}, {@spell beast sense}"],
-                  ["3rd", "{@spell glyph of warding}, {@spell magic circle}"],
-                  ["4th", "{@spell aura of life}, {@spell summon elemental}"],
-                  ["5th", "{@spell summon draconic spirit}"]
+                  ["1st", "beast bond, detect magic"],
+                  ["2nd", "augury, beast sense"],
+                  ["3rd", "glyph of warding, magic circle"],
+                  ["4th", "aura of life, summon elemental"],
+                  ["5th", "summon draconic spirit"]
                 ]
               }
             ],
@@ -1066,7 +1066,7 @@
       {
         "name": "Cat's Talents",
         "entries": [
-          "You have proficiency in the {@skill Perception} and {@skill Stealth} skills."
+          "You have proficiency in the Perception and Stealth skills."
         ],
         "type": "entries"
       },
@@ -1164,7 +1164,7 @@
       {
         "name": "Hunter's Instincts",
         "entries": [
-          "You have proficiency in one of the following skills of your choice: {@skill Athletics}, {@skill Intimidation}, {@skill Perception}, or {@skill Survival}."
+          "You have proficiency in one of the following skills of your choice: Athletics, Intimidation, Perception, or Survival."
         ],
         "type": "entries"
       }
@@ -1319,7 +1319,7 @@
       {
         "name": "Hunter's Instincts",
         "entries": [
-          "You have proficiency in one of the following skills of your choice: {@skill Athletics}, {@skill Intimidation}, {@skill Perception}, or {@skill Survival}."
+          "You have proficiency in one of the following skills of your choice: Athletics, Intimidation, Perception, or Survival."
         ],
         "type": "entries"
       },
@@ -1416,7 +1416,7 @@
       {
         "name": "Light Sensitivity",
         "entries": [
-          "You have disadvantage on Wisdom ({@skill Perception}) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+          "You have disadvantage on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
         ],
         "type": "entries"
       },
@@ -1529,7 +1529,7 @@
       {
         "name": "Control Air and Water",
         "entries": [
-          "You can cast {@spell fog cloud} with this trait. Starting at 3rd level, you can cast the {@spell gust of wind} spell with this trait. Starting at 5th level, you can also cast the {@spell water walk} spell with it. Once you cast any of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have of the appropriate level.",
+          "You can cast fog cloud with this trait. Starting at 3rd level, you can cast the gust of wind spell with this trait. Starting at 5th level, you can also cast the water walk spell with it. Once you cast any of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have of the appropriate level.",
           "Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race)."
         ],
         "type": "entries"
@@ -1599,7 +1599,7 @@
       },
       {
         "name": "Natural Athlete",
-        "entries": ["You have proficiency in the {@skill Athletics} skill."],
+        "entries": ["You have proficiency in the Athletics skill."],
         "type": "entries"
       },
       {
@@ -1798,7 +1798,7 @@
       {
         "name": "Hawkeyed",
         "entries": [
-          "You have proficiency in the {@skill Perception} skill. In addition, attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls."
+          "You have proficiency in the Perception skill. In addition, attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls."
         ],
         "type": "entries"
       }
@@ -1947,7 +1947,7 @@
         "type": "entries",
         "name": "Constructed Resilience",
         "entries": [
-          "You were created to have remarkable fortitude and have advantage on saving throws against being {@condition poisoned}, and you have resistance to poison damage."
+          "You were created to have remarkable fortitude and have advantage on saving throws against being poisoned, and you have resistance to poison damage."
         ]
       },
       {
@@ -2027,7 +2027,7 @@
         "type": "entries",
         "name": "Concussion Beam",
         "entries": [
-          "When you take the {@action Attack} action, you can replace one of your attacks with a blast of energy from your arm in a 30-foot line that is 5 feet wide. Each creature in the area must make a Dexterity saving throw against a DC equal to 8 + your Constitution modifier + your proficiency bonus. A creature takes {@dice 2d8} damage of the type associated with your Elemental Configuration on a failed save, and half as much damage on a successful one. This damage increases by {@dice 1d8} when you reach 5th level ({@dice 3d8}), 11th level ({@dice 4d8}), and 17th level ({@dice 5d8}).",
+          "When you take the Attack action, you can replace one of your attacks with a blast of energy from your arm in a 30-foot line that is 5 feet wide. Each creature in the area must make a Dexterity saving throw against a DC equal to 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d8 damage of the type associated with your Elemental Configuration on a failed save, and half as much damage on a successful one. This damage increases by 1d8 when you reach 5th level (3d8), 11th level (4d8), and 17th level (5d8).",
           "You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
         ]
       },
@@ -2109,7 +2109,7 @@
         "type": "entries",
         "name": "Magician's Judge",
         "entries": [
-          " You know the true strike cantrip. Once you reach 3rd level, you can cast the {@spell silence} spell as a 2nd-level spell; you must finish a long rest in order to cast the spell again using this trait. Once you reach 5th level, you can also cast the {@spell dispel magic} spell; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells."
+          " You know the true strike cantrip. Once you reach 3rd level, you can cast the silence spell as a 2nd-level spell; you must finish a long rest in order to cast the spell again using this trait. Once you reach 5th level, you can also cast the dispel magic spell; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells."
         ]
       },
       {
@@ -2213,7 +2213,7 @@
             "items": [
               {
                 "name": "",
-                "entry": "You have advantage on saving throws against being {@condition poisoned}, and you have resistance to poison damage."
+                "entry": "You have advantage on saving throws against being poisoned, and you have resistance to poison damage."
               },
               {
                 "name": "",
@@ -2234,8 +2234,8 @@
       {
         "name": "Tireless Precision",
         "entries": [
-          "You are proficient in one of the following skills of your choice: {@skill Arcana}, {@skill History}, {@skill Investigation}, {@skill Medicine}, {@skill Performance}, or {@skill Sleight of Hand}.  You are also proficient with one tool of your choice.",
-          "Whenever you make an ability check with the chosen skill or tool, roll a {@dice d4} and add the number rolled to the check's total."
+          "You are proficient in one of the following skills of your choice: Arcana, History, Investigation, Medicine, Performance, or Sleight of Hand.  You are also proficient with one tool of your choice.",
+          "Whenever you make an ability check with the chosen skill or tool, roll a d4 and add the number rolled to the check's total."
         ],
         "type": "entries"
       },
