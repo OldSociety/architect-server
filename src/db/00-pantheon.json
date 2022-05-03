@@ -26,6 +26,15 @@
         ]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://www.deviantart.com/jasonengle/art/The-Faceless-652570938"
+        },
+        "title": "The Faceless<br>Art Credit: {@link Jason Engle|https://www.jaestudio.com/}",
+        "altText": "Faceless Goddess"
+      },
+      {
         "tenants": [
           "Protect Meridian from exploitation and destruction.",
           "Slay foul and unnatural abomination in any form they take.",
@@ -76,6 +85,15 @@
         ]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
+      {
         "tenants": [
           "Protect Meridian from exploitation and destruction.",
           "Slay abomination in every form.",
@@ -113,6 +131,15 @@
         "description": [
           "Udreth-sol judges the weight of one's soul and, if found worthy, guides them safely through the Gray Halls into Miira's Paradise. The unworthy are left to purgatory, wandering the long path path to redemption."
         ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "tenants": [
@@ -154,6 +181,15 @@
         ]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/44/cc/53/44cc53343fb813c6fe1fda7c355f58dc.jpg"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
+      {
         "tenants": ["Life is for the living, so live fully and without shame."]
       },
       { "domain": ["Trickery", "Twilight", "Knowledge"] },
@@ -188,6 +224,15 @@
           "The tempest dragon Nassenti is 'Mistress of the Fractured Sea' and custodian of the natural.",
           "Closely tide to the elemental forces, Nassenti is the mother of primordials and it is under her wrath that the world may be created, destroyed, and reborn."
         ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/c6/00/55/c60055b684045d60e1a8fed3f9669304.jpg"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "tenants": ["Nature offers no mercy, no forgiveness, no salvation."]
@@ -225,6 +270,15 @@
           "Before the arrival of the elves, Zyrese knights were golden warriors and famed inventors. Their blend of early science and magic paved the way for the first developing nations.",
           "Towards the end of that age, the Zyrese army was largest in the world and dominated over the majority of the Severed Hand and Pumicestone Mountains."
         ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://static.wixstatic.com/media/055706_74bd0ecffcee4ba9bff5b6bca929779e.jpg/v1/fill/w_577,h_795,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/055706_74bd0ecffcee4ba9bff5b6bca929779e.jpg"
+        },
+        "title": "Sovereign Dragon<br>Art Credit: {@link Jason Engle|http://www.jaestudio.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "tenants": ["Follow your muse."]
@@ -265,6 +319,24 @@
         ]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
+      {
         "tenants": [
           "Stand against devils wherever they arise and show no mercy to whom they lend their power."
         ]
@@ -302,6 +374,15 @@
         ]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
+      {
         "tenants": ["."]
       },
       { "domain": ["Death", "Forge", "War"] },
@@ -327,6 +408,15 @@
         "description": ["The god-Queen of Ash'ahla."]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
+      {
         "tenants": ["."]
       },
       { "domain": ["Life", "Nature", "Trickery"] },
@@ -347,6 +437,15 @@
           "Countless elves have attempted to follow the Abiosis' path over the years, and every few millennia or so there comes along a lich just skilled enough to unravel the first of the Abiosis' unique (and often profane) wisdoms."
         ]
       },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
       { "alias": ["Pallid King"] },
       { "domain": ["Arcana", "Death"] },
       { "language": "celestial" }
@@ -363,6 +462,15 @@
           "Guardian of the Nobility, the Abnegation protects the secret of Elven ascension from individuals unprepared for the responsibilities of their kind. They are patient but steadfast in their duties."
         ]
       },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
       { "domain": ["Order", "Trickery"] },
       { "language": "celestial" }
     ]
@@ -377,6 +485,15 @@
         "description": [
           "First of their kind, the Abominate discovered the secret to immortality and ascended their peers. But with that power, the Abominate declared dominance over all species of all worlds. If not for the Ephemeron, the universe would be enslaved. They represent the seduction of absolute power."
         ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       { "domain": ["Death", "War"] },
       { "language": "celestial" }
@@ -393,6 +510,15 @@
           "The Countless Lord who designed the 'Intended Equation', a mathematical constant used in the creation of all artificial life. This lord represents a person’s innate responsibility of divine inheritance; in other words, creating new forms of life."
         ]
       },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
       { "alias": ["Countless Lord"] },
       { "domain": ["Knowledge", "Life"] },
       { "language": "celestial" }
@@ -408,6 +534,15 @@
         "description": [
           "The Collusion is known as the Twice-Crossed One, First son of Nobility, and Future’s Bane. The Collusion was once the Abnegation’s only heir before foreseeing all futures. The infinite eventualities stemming from the present’s endless possible decisions came all at once and shattered the Collusion. The experience divided them into two opposing personas that continue to compete for dominance. One part resolve and another resignation, the Collusion personifies the collective identity of the elves as a race and the threat of misguided judgement."
         ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "alias": [
@@ -431,6 +566,15 @@
           "The Noble Laws maintain the balance of power between the Elven Lords. Uniting them under the banner of a singular goal, the Conformity crafted the universal laws that all modern life must follow."
         ]
       },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
       { "domain": ["Knowledge", "Order"] },
       { "language": "celestial" }
     ]
@@ -445,6 +589,15 @@
         "description": [
           "A single being divided into two, Kú (pronounced ‘Q’) and Kwé (kway) are simultaneously star-crossed lovers and fierce rivals. These two, equal yet opposing, forces use the entire universe as their game board. The stories of their exploits and the lengths the Diarchy have gone to impress each other, often at the cost of the mortal world, are woven into the most famous elven love stories and songs of all time."
         ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       { "domain": ["Peace", "War"] },
       { "language": "celestial" }
@@ -461,6 +614,15 @@
           "The Dissonance took the whole of elven knowledge and assembled the Noble Libraries. Simultaneously, they invented both the ancient elven language and advanced mathematics before gifting them to the lower races. Although Meridian’s elves lost such knowledge during their empire’s collapse, the Dissonance promises they will eventually reclaim their inheritance."
         ]
       },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
       { "domain": ["Knowledge", "Twilight"] },
       { "language": "celestial" }
     ]
@@ -475,6 +637,15 @@
         "description": [
           "The Ephemeron fought back the Abominate as it threatened the autonomy of other races across the universe. The Ephemeron’s form and astounding powers defy standard classification, and for all intents and purposes, the Ephemeron rules as King of the Nobility. After the Abominates defeat and imprisonment across the stars, the Ephemeron paved the way for the other Elven Lords to ascend, forming the foundations of evolution and writing the pattern on which divine right was written. "
         ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       { "domain": ["Order", "Peace"] },
       { "language": "celestial" }
@@ -491,6 +662,15 @@
           ": Stalking the emptiness of space, the Fathomless consumes dying worlds and repurposes it for the further expansion of the universe. The threat of the Fathomless drives the necessity of the elves to prosper and reclaim their glorious place among the stars."
         ]
       },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
       { "domain": ["Grave", "Tempest"] },
       { "language": "celestial" }
     ]
@@ -505,6 +685,15 @@
         "description": [
           "The Incandescent rose into the ranks of Nobility by wandering into a burning star, pulling it apart and studying its inner secrets. For unknown reasons, they create and destroy whole solar systems as they see fit. "
         ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       { "domain": ["Light", "Tempest"] },
       { "language": "celestial" }
@@ -521,6 +710,15 @@
           "While the Abominate was the first to fall from grace, they were far from the last. The Obscene broke the rules of reality by bending space and time. The consequences for their arrogance were steep and they exist as a warning for where elven hubris leads."
         ]
       },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
       { "domain": ["Trickery", "War"] },
       { "language": "celestial" }
     ]
@@ -535,6 +733,15 @@
         "description": [
           "Within this Elven Lord is destiny written. Although fate is mostly mutable, changing with the tides made by great elven heroes, the great ascension of all elves to Nobility one day is guaranteed."
         ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       { "domain": ["Knowledge"] },
       { "language": "celestial" }
@@ -551,6 +758,15 @@
           "Of all the Nobility, only the Verity remembers the fragility of mortality and the heartbreak of losing loved ones. While forbidden by the Noble Laws to interfere directly with mortal affairs, the Verity inspires elven prodigies, encouraging their tireless work towards immortality."
         ]
       },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
       { "domain": ["Forge", "Knowledge"] },
       { "language": "celestial" }
     ]
@@ -566,6 +782,15 @@
           "The Vulnerary is invoked to cure the deadliest diseases, even though they are associated with bringing them about in the first place. Also known as Mercy, the Vulnerary is illness personified and demands proof of worthiness before daring to interfere in nature’s work."
         ]
       },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
       { "domain": ["Death", "Life"] },
       { "language": "celestial" }
     ]
@@ -580,6 +805,15 @@
         "description": [
           "Lord of Vestiges, Vedigo is the Ironic King. His petitioners see themselves as .is depicted as a dragon-like creature with the head of an alligator and a gorilla-like chest and arms."
         ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "tenants": [
@@ -600,6 +834,15 @@
         "description": ["Pain"]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
+      {
         "tenants": [""]
       },
       { "organizations": "" },
@@ -614,6 +857,15 @@
     "entries": [
       {
         "description": [""]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "tenants": [""]
@@ -632,6 +884,15 @@
         "description": [""]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
+      {
         "tenants": ["Hunger and Hunt."]
       },
       { "organizations": "" },
@@ -646,6 +907,15 @@
     "entries": [
       {
         "description": [""]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "tenants": ["Redemption for the fallen at a price."]
@@ -668,6 +938,15 @@
         ]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
+      {
         "tenants": ["Profane magic."]
       },
       { "organizations": "" },
@@ -686,6 +965,15 @@
           "Rusalka answers the prayers of selfish men, giving them positions of power where they can do the most harm to society. His followers rarely realize that while his predictions are always true, Rusalka withholds the full picture, leading to their inevitable ruin. In exchange for his power, the Vestige demands constant offerings of gold and blood sacrifice.",
           "Rusalka rules over 80 demonic generals under his command."
         ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "tenants": [
@@ -710,6 +998,15 @@
         ]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
+      {
         "tenants": [
           "Take what you desire. Those without cunning are unworthy of any domain they inherit."
         ]
@@ -728,6 +1025,15 @@
         "description": ["Illusion and deception."]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
+      {
         "tenants": [""]
       },
       { "organizations": "" },
@@ -742,6 +1048,15 @@
     "entries": [
       {
         "description": ["Instill fear in my enemies."]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "tenants": [""]
@@ -760,6 +1075,15 @@
         "description": ["Death and decay."]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
+      {
         "tenants": [""]
       },
       { "organizations": "" },
@@ -776,6 +1100,15 @@
         "description": [""]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
+      {
         "tenants": ["Beauty and submission."]
       },
       { "organizations": "" },
@@ -790,6 +1123,15 @@
     "entries": [
       {
         "description": [""]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "tenants": ["Hate and vengeance."]
