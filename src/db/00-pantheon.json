@@ -29,7 +29,7 @@
         "type": "image",
         "href": {
           "type": "external",
-          "url": "https://www.deviantart.com/jasonengle/art/The-Faceless-652570938"
+          "url": "https://static.wixstatic.com/media/055706_e704d7f6a8fc4f26bcbf20c02afb7365~mv2.jpg/v1/fill/w_505,h_758,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/055706_e704d7f6a8fc4f26bcbf20c02afb7365~mv2.jpg"
         },
         "title": "The Faceless<br>Art Credit: {@link Jason Engle|https://www.jaestudio.com/}",
         "altText": "Faceless Goddess"
@@ -88,7 +88,7 @@
         "type": "image",
         "href": {
           "type": "external",
-          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+          "url": "https://i.pinimg.com/originals/47/20/5e/47205eaf0cbdcef038dac2e812b49fba.jpg"
         },
         "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
         "altText": "EXAMPLE: AltText"
@@ -136,7 +136,7 @@
         "type": "image",
         "href": {
           "type": "external",
-          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+          "url": "https://i.pinimg.com/originals/8a/f5/b6/8af5b6f2486b0a68416e06acbedef7dc.jpg"
         },
         "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
         "altText": "EXAMPLE: AltText"
@@ -322,7 +322,7 @@
         "type": "image",
         "href": {
           "type": "external",
-          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+          "url": "https://i.pinimg.com/originals/23/de/d9/23ded91053ccd1d7cd2e939f3480c03b.jpg"
         },
         "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
         "altText": "EXAMPLE: AltText"
@@ -377,7 +377,7 @@
         "type": "image",
         "href": {
           "type": "external",
-          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+          "url": "https://i.pinimg.com/originals/5c/dc/f4/5cdcf4725eb254eca7d83ef514d0d588.jpg"
         },
         "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
         "altText": "EXAMPLE: AltText"
@@ -411,9 +411,9 @@
         "type": "image",
         "href": {
           "type": "external",
-          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+          "url": "https://i.pinimg.com/originals/8b/57/11/8b57111c6befcbf92a4bcf76091c08d3.png"
         },
-        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link Sam hogg|http://www.artofsamhogg.com/}",
         "altText": "EXAMPLE: AltText"
       },
       {
