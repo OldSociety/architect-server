@@ -803,16 +803,16 @@
     "entries": [
       {
         "description": [
-          "Lord of Vestiges, Vedigo is the Ironic King. His petitioners see themselves as .is depicted as a dragon-like creature with the head of an alligator and a gorilla-like chest and arms."
+          "Lord of Vestiges, Vedigo is the Ironic King. His petitioners see themselves as his depicted as a dragon-like creature with the head of an alligator and a gorilla-like chest and arms."
         ]
       },
       {
         "type": "image",
         "href": {
           "type": "external",
-          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+          "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/43ebe86a-38b9-4b7f-a6ac-c9442e874c7e/da30gle-64a0f53d-5235-4ed5-8810-3b11ba0eec44.png/v1/fill/w_766,h_1044,q_70,strp/ammit_by_kipine_da30gle-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTIyNyIsInBhdGgiOiJcL2ZcLzQzZWJlODZhLTM4YjktNGI3Zi1hNmFjLWM5NDQyZTg3NGM3ZVwvZGEzMGdsZS02NGEwZjUzZC01MjM1LTRlZDUtODgxMC0zYjExYmEwZWVjNDQucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.7q5N-9oqpRAci7coP-Tr8GoeJ8gBbww4dfzevB9ypc8"
         },
-        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "title": "Ammit<br>Art Credit: {@link Kipine|http://kipine.deviantart.com/}",
         "altText": "EXAMPLE: AltText"
       },
       {
@@ -837,7 +837,7 @@
         "type": "image",
         "href": {
           "type": "external",
-          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+          "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/43ebe86a-38b9-4b7f-a6ac-c9442e874c7e/db2ipml-572752b8-d067-4315-bfe3-6e5b5bf5712c.png/v1/fill/w_983,h_813,q_70,strp/beetle_dragon_by_kipine_db2ipml-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODI3IiwicGF0aCI6IlwvZlwvNDNlYmU4NmEtMzhiOS00YjdmLWE2YWMtYzk0NDJlODc0YzdlXC9kYjJpcG1sLTU3Mjc1MmI4LWQwNjctNDMxNS1iZmUzLTZlNWI1YmY1NzEyYy5wbmciLCJ3aWR0aCI6Ijw9MTAwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.DYzNqawfVYvc5P10y9s17RjbN16WcoIF8owf2oVFUcs"
         },
         "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
         "altText": "EXAMPLE: AltText"
@@ -862,7 +862,7 @@
         "type": "image",
         "href": {
           "type": "external",
-          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+          "url": "https://s-media-cache-ak0.pinimg.com/736x/b0/69/db/b069db633b20d83fce1d30a832fda9a4.jpg"
         },
         "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
         "altText": "EXAMPLE: AltText"
@@ -887,9 +887,9 @@
         "type": "image",
         "href": {
           "type": "external",
-          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+          "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c6a322e3-a8de-47ce-b671-78b9b999571e/d9diqwg-deafecbd-3478-455b-abdd-8eb46a170e74.jpg/v1/fill/w_758,h_1054,q_70,strp/the_spider_by_fenghuazhongg_d9diqwg-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTcwMCIsInBhdGgiOiJcL2ZcL2M2YTMyMmUzLWE4ZGUtNDdjZS1iNjcxLTc4YjliOTk5NTcxZVwvZDlkaXF3Zy1kZWFmZWNiZC0zNDc4LTQ1NWItYWJkZC04ZWI0NmExNzBlNzQuanBnIiwid2lkdGgiOiI8PTEyMjIifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.oCtmVmCO63vJKqPK_wKZuJmb8MPDhq53ORoLuQS3s7w"
         },
-        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "title": "THE SPIDER<br>Art Credit: {@link FENGHUA ZHONGG|http://www.lofcg.com//}",
         "altText": "EXAMPLE: AltText"
       },
       {
@@ -912,9 +912,9 @@
         "type": "image",
         "href": {
           "type": "external",
-          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+          "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c6a322e3-a8de-47ce-b671-78b9b999571e/dbtbi5k-e9c55ee5-2ddc-4f7e-9e2c-526363fb228f.jpg/v1/fill/w_932,h_858,q_70,strp/monster_by_fenghuazhongg_dbtbi5k-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTc2OCIsInBhdGgiOiJcL2ZcL2M2YTMyMmUzLWE4ZGUtNDdjZS1iNjcxLTc4YjliOTk5NTcxZVwvZGJ0Ymk1ay1lOWM1NWVlNS0yZGRjLTRmN2UtOWUyYy01MjYzNjNmYjIyOGYuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.LC4ewYz0_JLhAnRM77E0a5lKmT0BdOoOM4jO8U9Vud4"
         },
-        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "title": "MONSTER<br>Art Credit: {@link FENGHUA ZHONGG|http://www.lofcg.com//}",
         "altText": "EXAMPLE: AltText"
       },
       {
@@ -941,9 +941,9 @@
         "type": "image",
         "href": {
           "type": "external",
-          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+          "url": "https://cdna.artstation.com/p/assets/images/images/038/267/346/large/pedro-sena-1234.jpg?1622631206"
         },
-        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "title": "MALEVOLENT THOUGHTS OF A HASTENED EXTINCTION<br>Art Credit: {@link PEDRO SENA|https://lordigan.artstation.com/}",
         "altText": "EXAMPLE: AltText"
       },
       {
@@ -961,7 +961,7 @@
     "entries": [
       {
         "description": [
-          "Rusalka is the Vestige of Prophesy and Lord of False Confessions. He is depicted as the smallest of his kind standing only 60 feet tall with the body of a spide, the color of deep sea, with seven faces in place of eyes that constantly slide across his face.",
+          "Rusalka is the Vestige of Prophesy and Lord of False Confessions. He is depicted as the smallest of his kind standing only 60 feet tall with the body of a spider, the color of deep sea, with seven faces in place of eyes that constantly slide across his face.",
           "Rusalka answers the prayers of selfish men, giving them positions of power where they can do the most harm to society. His followers rarely realize that while his predictions are always true, Rusalka withholds the full picture, leading to their inevitable ruin. In exchange for his power, the Vestige demands constant offerings of gold and blood sacrifice.",
           "Rusalka rules over 80 demonic generals under his command."
         ]
@@ -970,9 +970,9 @@
         "type": "image",
         "href": {
           "type": "external",
-          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+          "url": "https://cdnb.artstation.com/p/assets/images/images/032/948/049/large/lorenzo-mastroianni-koschey.jpg?1607963203"
         },
-        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "title": "KOSCHEY<br>Art Credit: {@link LORENZO MASTOIANNI|https://lorenzomastroianni.artstation.com/}",
         "altText": "EXAMPLE: AltText"
       },
       {
@@ -1001,9 +1001,9 @@
         "type": "image",
         "href": {
           "type": "external",
-          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+          "url": "https://cdna.artstation.com/p/assets/images/images/028/612/894/large/yun-yang-tan-popobawa-front.jpg?1594971054"
         },
-        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "title": "AFRICAN DEMON<br>Art Credit: {@link YUN YANG TAN|https://whywhytan.artstation.com/}",
         "altText": "EXAMPLE: AltText"
       },
       {
@@ -1028,9 +1028,9 @@
         "type": "image",
         "href": {
           "type": "external",
-          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+          "url": "https://cdna.artstation.com/p/assets/images/images/012/740/496/large/asya-yordanova-edno.jpg?1536262098"
         },
-        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "title": "EDNO<br>Art Credit: {@link ASYA YORDANOVA|https://asya_yordanova.artstation.com/}",
         "altText": "EXAMPLE: AltText"
       },
       {
@@ -1053,9 +1053,9 @@
         "type": "image",
         "href": {
           "type": "external",
-          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+          "url": "https://cdnb.artstation.com/p/assets/images/images/025/287/209/large/brian-valeza-ada.jpg?1585300065"
         },
-        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "title": "ADA, NATURES MALICE<br>Art Credit: {@link BRIAN VALEZA|https://tots.artstation.com/}",
         "altText": "EXAMPLE: AltText"
       },
       {
@@ -1078,7 +1078,7 @@
         "type": "image",
         "href": {
           "type": "external",
-          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+          "url": "https://i.pinimg.com/736x/ca/e4/89/cae489ef4060f9280de1f02ce33d3b5b.jpg"
         },
         "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
         "altText": "EXAMPLE: AltText"
@@ -1103,9 +1103,9 @@
         "type": "image",
         "href": {
           "type": "external",
-          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+          "url": "https://cdnb.artstation.com/p/assets/images/images/001/070/473/large/sabbas-apterus-saint2w.jpg?1443927364"
         },
-        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "title": "FOREVER BURNING HEART<br>Art Credit: {@link PETER POLACH|https://apterus.artstation.com/}",
         "altText": "EXAMPLE: AltText"
       },
       {
@@ -1128,9 +1128,9 @@
         "type": "image",
         "href": {
           "type": "external",
-          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+          "url": "https://cdna.artstation.com/p/assets/images/images/005/999/512/large/pedro-sena-balance-creature.jpg?1495300506"
         },
-        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "title": "BALANCE CREATURE<br>Art Credit: {@link PEDRO SENA|https://lordigan.artstation.com/}",
         "altText": "EXAMPLE: AltText"
       },
       {
