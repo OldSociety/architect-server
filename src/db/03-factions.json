@@ -244,7 +244,15 @@
     "name": "Lineage",
     "type": ["Noble"],
     "entries": [
-      [["", "", "", ""]],
+      [
+        [
+          "The Rosewhite curse began when the Zeméri Emperor Khyrell Nerisys presented a particularly temperamental fey, Spring Duchess Rosewhite, with a most unflattering portrait. In a rage, Nerisys and his court were trapped in Rosewhite’s portrait for 20 long years. When the fey curse finally ended, Nerisys’ empire was in shambles and under siege by a myriad of forces.",
+          "In response, the Lineage was born. Non-imperial princes, those born of royal blood but with no claim to the throne, were offered a place as feudal lords, forever changing the previous political and social structure of Zemér. The new court renounced their princely titles in exchange for territorial privileges, court status, and power not previously accessible to indirect members of the imperial line. They were given new family names, branded beneath their left eye, as a symbol of their status. And with this change, central state power fell into the hands of Nerisys’ loyal blood relatives.",
+          "These matriarchically elven houses pass their titles hereditarily, daughter to daughter, and only to full elves. But to prevent lineages from dying out, both illegitimate daughters and family members adopted from collateral family branches (distant cousins) are acceptable heirs. While there is no ban against marrying a human, it does bring notoriety in elven society and all claim to the title is forfeit.",
+          "Benefits of being Lineage include seating in the Imperial Court, possession of Imperial relics and garb, a national mourning period after death, the life-long protection of the Trust (military police), the opportunity to marry into the Imperial family, and the most prestigious education in the nation.",
+          "After the direct Lineage, there is a “second Lineage” constituted by powerful Nobility priests, persons who’ve made distinguished contributions to the nation (knights, famed artists, etc...), and those who have paid heavy financial contributions to the crown. The second Lineage is not branded beneath their eyes, are considered a lower political class than direct Lineage, and have only a fraction of the benefits of the Lineage’s noble status."
+        ]
+      ],
       {
         "type": "image",
         "href": {
@@ -256,63 +264,98 @@
       },
       {
         "name": "Goals",
-        "entries": [""]
+        "entries": [
+          "After the fall of the Zeméri empire during the Great Gate Wars, six out of the elven Lineage families found their territories now placed in Karaj and Seneka. The divide led to an “Agreement between Kings”, where these families could keep their titles and loyalty to the Zeméri king, along with their usual taxes, but must pay a new hefty tax to the respective rulers of their lands.",
+          "The new arrangement has instilled growing animosity between the crowns and the elven nobles. Quietly, the Lineage families use their resources to gather enough power to change the terms of Agreement between Kings, whether through diplomacy or by force."
+        ]
       },
       {
         "name": "Relationships",
-        "entries": ["", ""]
+        "entries": [
+          "The Lineage relies on their relationship and trade between the three nations to maintain their power while the financial strain of their dual taxes weighs on them. For the most part, with help from the Synagogue, they have succeeded. ",
+          "As their loyalty wanes toward the royal families, the Lineage works in secret against the interest of the crowns. These attacks grow bolder every day and unless substantial changes are made, rumors abound that it is only a matter of time before things turn violent."
+        ]
       },
       {
-        "name": "",
+        "name": "Lineage Families",
         "entries": [
-          "",
+          "The Eleven Lineage families take their names from plants significant to elven culture. These names have changed over the years, most recently after the fall of the empire, but their status in the Lineage has not.",
+          "Today, families with territories in Zemer are named after flowers, those in Karaj are trees, and the lone Seneka family, Athulas, shares its name with a most famous herb.",
           {
-            "name": "",
+            "name": "Alfirin",
             "entries": {
-              "race": "",
-              "description": ""
+              "race": "Moon",
+              "description": "Named after a white bell-like flower grown on graves, the family descends from famed knights and politicians. Their Lineage Mother serves publicly as a Dragon’s Heir of the Synagogue."
             }
           },
           {
-            "name": "",
+            "name": "Athulas",
             "entries": {
-              "race": "",
-              "description": ""
+              "race": "High",
+              "description": "Sharing the name with “King’s Foil”, a healing herb, the Seneka ambassador's family is gluttonous and over-eager. Their wealth depends on both vast casinos and ethically questionable banks."
             }
           },
           {
-            "name": "",
+            "name": "Culumalda",
             "entries": {
-              "race": "",
-              "description": ""
+              "race": "Wood",
+              "description": "A yellow-blossom tree, this Karaji family’s debt is forever growing. They are rumors that the pirate that plagues their naval trade routes are part of a coordinated attack on their family."
             }
           },
           {
-            "name": "",
+            "name": "Elanor",
             "entries": {
-              "race": "",
-              "description": ""
+              "race": "Moon",
+              "description": "Gold star-shaped flowers, Elanor is head by the Crown Chamberlian, providing the family with more direct access to King Jared than any other family."
             }
           },
           {
-            "name": "",
+            "name": "Lairelossë",
             "entries": {
-              "race": "",
-              "description": ""
+              "race": "High",
+              "description": "Fragrant summer trees, the Lairelossë is a pillar of education running the only three universities across the southern nations."
             }
           },
           {
-            "name": "",
+            "name": "Lissuin",
             "entries": {
-              "race": "",
-              "description": ""
+              "race": "Dark",
+              "description": "A fragrant flower known to ease the heart, their wealth stems from the construction and repair of temples and fortresses."
             }
           },
           {
-            "name": "",
+            "name": "Nephredil",
             "entries": {
-              "race": "",
-              "description": ""
+              "race": "Moon",
+              "description": "Small white flowers also known as “Snow drops”, led by another of the Synagogue’s Dragon’s Heir, is can trace its noble roots further than any other. They are not afraid to show their pride."
+            }
+          },
+          {
+            "name": "Oiolaire",
+            "entries": {
+              "race": "Moon",
+              "description": ": A glossy leaf tree with large fragrant flowers, with two powerful members – a Master of Blood for the Synagogue and a general of the Zeméri army – Oiolaire is untouchable. Their enemies find themselves flayed, drowned and strung across the sides of their warships."
+            }
+          },
+          {
+            "name": "Seregon",
+            "entries": {
+              "race": "Wood",
+              "description": "Blood-red flowers, the Seregon family keeps a low profile. While there are rumors of unsanctioned experimentation on the Lesser Races, from forced vampiric infections to illegal genetic manipulation using ancient tech, there is no proof that such accusations are founded."
+            }
+          },
+          {
+            "name": "Taniquelasse",
+            "entries": {
+              "race": "Wood",
+              "description": "A uniquely mysterious tree that has been long extinct, the Karaji family is notorious for their political and military push on southern wildfolk – driving the remaining tribes north."
+            }
+          },
+          {
+            "name": "Yavannamíre",
+            "entries": {
+              "race": "Dark",
+              "description": " A scarlet-fruit tree, the Ambassador of Karaj has no time for folly. Their Lineage Mother demands complete formality to everyone under her banner and places great emphasis on family duty over all else."
             }
           }
         ]
