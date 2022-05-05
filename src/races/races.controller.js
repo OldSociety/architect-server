@@ -1,8 +1,8 @@
 const races = require('../db/01-races.json')
-const asyncErrorBoundary = require("../errors/asyncErrorBoundary");
+const asyncErrorBoundary = require('../errors/asyncErrorBoundary')
 
 async function read(req, res, next) {
-  res.json({ data: res.locals.race });
+  res.json({ data: res.locals.race })
 }
 
 async function raceExists(req, res, next) {
@@ -14,7 +14,7 @@ async function raceExists(req, res, next) {
   }
   next({
     status: 404,
-    message: `Paste id not found: ${raceId}`,
+    message: `Race id not found: ${raceId}`,
   })
 }
 

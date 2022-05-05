@@ -50,6 +50,15 @@
         ]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/736x/d3/21/08/d32108b42bff8a91e65ea74d0e1e131f.jpg"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: ALTERNATE TEXT."
+      },
+      {
         "name": "Age",
         "type": "entries",
         "entries": [
@@ -61,6 +70,13 @@
         "name": "Size",
         "entries": [
           "Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Skill Versatility",
+        "entries": [
+          "You gain proficiency in any skill of your choice."
         ]
       },
       {
@@ -115,6 +131,15 @@
         ]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://tse1.mm.bing.net/th?id=OIP.ebImFeJAht6Kr_G6oK0VxwHaLZ&pid=Api"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
+      {
         "name": "Age",
         "type": "entries",
         "entries": [
@@ -126,6 +151,13 @@
         "type": "entries",
         "entries": [
           "Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium."
+        ]
+      },
+      {
+        "type": "entries",
+        "name": "Skill Versatility",
+        "entries": [
+          "You gain proficiency in any skill of your choice."
         ]
       },
       {
@@ -180,6 +212,15 @@
         ]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/5b/4d/05/5b4d053d5559ca2fc2aebec3dab2b162.jpg"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
+      {
         "name": "Age",
         "type": "entries",
         "entries": [
@@ -194,6 +235,13 @@
         ]
       },
       {
+        "type": "entries",
+        "name": "Skill Versatility",
+        "entries": [
+          "You gain proficiency in any skill of your choice."
+        ]
+      },
+      {
         "name": "Ambusher",
         "entries": [
           "On your first turn in combat, your movement doesn't provoke opportunity attacks, and you have advantage on attack rolls against creatures who have not yet acted."
@@ -204,15 +252,15 @@
         "name": "War Hero",
         "type": "entries",
         "entries": [
-          "You can use this trait to take the {@action Help} action as a bonus action, and you can do so a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest.",
-          "Starting at 3rd level, choose one of the options below each time you take the {@action Help} action with this trait:",
+          "You can use this trait to take the Help action as a bonus action, and you can do so a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest.",
+          "Starting at 3rd level, choose one of the options below each time you take the Help action with this trait:",
           {
             "type": "list",
             "items": [
               {
                 "type": "item",
                 "name": "Hospitality",
-                "entry": "You and the creature you help each gain a number of temporary hit points equal to {@dice 1d6} plus your proficiency bonus."
+                "entry": "You and the creature you help each gain a number of temporary hit points equal to 1d6 plus your proficiency bonus."
               },
               {
                 "type": "item",
@@ -266,6 +314,15 @@
         ]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://tse3.mm.bing.net/th?id=OIP.gDIlVaZ-ZqFpQKG2B9nHhAHaPg&pid=Api"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
+      {
         "name": "Age",
         "type": "entries",
         "entries": [
@@ -280,6 +337,13 @@
         ]
       },
       {
+        "type": "entries",
+        "name": "Skill Versatility",
+        "entries": [
+          "You gain proficiency in any skill of your choice."
+        ]
+      },
+      {
         "name": "Lucky",
         "entries": [
           "When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll."
@@ -289,7 +353,7 @@
       {
         "name": "Silver Tongue",
         "entries": [
-          "You have mastered the art of persuasion. If you fail a persuasion or deception check, as long as the creature that can hear you and the two you share the same language, you can choose to succeed instead. Once you use this trait, you cannot do so again until you finish a long rest."
+          "As a Thesian, you are naturally gifted in the art of persuasion. If you fail a persuasion or deception check to influence another creature, as long as that creature can hear and understand you, you can choose to succeed instead. Once you use this trait, you cannot do so again until you finish a long rest."
         ],
         "type": "entries"
       }
@@ -320,10 +384,10 @@
     ],
     "weaponProficiencies": [
       {
-        "longsword|phb": true,
-        "shortsword|phb": true,
-        "longbow|phb": true,
-        "shortbow|phb": true
+        "longsword": true,
+        "shortsword": true,
+        "longbow": true,
+        "shortbow": true
       }
     ],
     "additionalSpells": [
@@ -344,7 +408,16 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["I am."]
+        "entries": ["Also known as Sun-kin, High Elves are the most common elves in Meridian. They have tanned skin and dark features like wood elves, though tend to be taller and slenderer. High elves are deeply ingrained in the world compared to the other elves, holding positions of political and economic power throughout the world, especially in Thesian society."]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/73/ca/81/73ca818762f4b48e979ad33f70582a59.jpg"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "name": "Age",
@@ -362,27 +435,27 @@
       },
       {
         "name": "Keen Senses",
-        "entries": ["You have proficiency in the {@skill Perception} skill."],
+        "entries": ["You have proficiency in the Perception skill."],
         "type": "entries"
       },
       {
         "name": "Elven Ancestry",
         "entries": [
-          "You have advantage on saving throws against being {@condition charmed}, and magic can't put you to sleep."
+          "You have advantage on saving throws against being charmed, and magic can't put you to sleep."
         ],
         "type": "entries"
       },
       {
         "name": "Elf Weapon Training",
         "entries": [
-          "You have proficiency with the {@item longsword|phb}, {@item shortsword|phb}, {@item shortbow|phb}, and {@item longbow|phb}."
+          "You have proficiency with the longsword, shortsword, shortbow, and longbow."
         ],
         "type": "entries"
       },
       {
         "name": "Cantrip",
         "entries": [
-          "You know one {@filter cantrip of your choice from the wizard spell list|spells|level=0|class=Wizard}. Intelligence is your spellcasting ability for it."
+          "You know one cantrip of your choice from the wizard spell list. Intelligence is your spellcasting ability for it."
         ],
         "type": "entries"
       },
@@ -423,7 +496,16 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["I am."]
+        "entries": ["With a talent for engineering, Amechisil (meaning literally `moon elf`) or Mech for short, hold themselves to high esteem and even higher expectations. Most commonly found in the southern nations, where their natural gifts for engineering and logic are appreciated, moon elves have a long history of segregation even from other elves. Moon elves are unmistakable for their fair skin, blond hair, and ethereal features (which are almost cliché)."]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/5f/c7/7a/5fc77a2a1a420eba332c61ab54c42b4d.jpg"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "name": "Age",
@@ -441,27 +523,27 @@
       },
       {
         "name": "Keen Senses",
-        "entries": ["You have proficiency in the {@skill Perception} skill."],
+        "entries": ["You have proficiency in the Perception skill."],
         "type": "entries"
       },
       {
         "name": "Elven Ancestry",
         "entries": [
-          "You have advantage on saving throws against being {@condition charmed}, and magic can't put you to sleep."
+          "You have advantage on saving throws against being charmed, and magic can't put you to sleep."
         ],
         "type": "entries"
       },
       {
         "name": "Incisive Sense",
         "entries": [
-          "You have proficiency in the {@skill Investigation} skill."
+          "You have proficiency in the Investigation skill."
         ],
         "type": "entries"
       },
       {
         "name": "Industrial Legacy",
         "entries": [
-          "You know the {@spell mending} cantrip. Once you reach 3rd level, you can cast the {@spell identify} spell once with this trait, and you regain the ability to do so when you finish a long rest. Once you reach 5th level, you can cast the {@spell unseen servant} spell once with this trait, and you regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
+          "You know the mending cantrip. Once you reach 3rd level, you can cast the identify spell once with this trait with the necessary material components, and you regain the ability to do so when you finish a long rest. Once you reach 5th level, you can cast the unseen servant spell once with this trait, and you regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
         ],
         "type": "entries"
       }
@@ -492,16 +574,25 @@
     ],
     "weaponProficiencies": [
       {
-        "rapier|phb": true,
-        "shortsword|phb": true,
-        "hand crossbow|phb": true
+        "rapier": true,
+        "shortsword": true,
+        "hand crossbow": true
       }
     ],
     "entries": [
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["I am."]
+        "entries": ["Easily recognizable by their intricate birthmarks, woods elves are most found in the south, where they use harness biotechnology for a variety of purposes, such as healing, natural construction, and yes… genetic testing. Their methods have been condemned frequently for questionable ethics. Wood elf technology is a staple of Furborn weapons, armor and daily lifestyle."]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/736x/40/80/4e/40804efabb3236dc23fbdc5514641786--female-elf-half-elf.jpg"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "name": "Age",
@@ -519,20 +610,20 @@
       },
       {
         "name": "Keen Senses",
-        "entries": ["You have proficiency in the {@skill Perception} skill."],
+        "entries": ["You have proficiency in the Perception skill."],
         "type": "entries"
       },
       {
         "name": "Elven Ancestry",
         "entries": [
-          "You have advantage on saving throws against being {@condition charmed}, and magic can't put you to sleep."
+          "You have advantage on saving throws against being charmed, and magic can't put you to sleep."
         ],
         "type": "entries"
       },
       {
         "name": "Elf Weapon Training",
         "entries": [
-          "You have proficiency with the {@item longsword|phb}, {@item shortsword|phb}, {@item shortbow|phb}, and {@item longbow|phb}."
+          "You have proficiency with the longsword, shortsword, shortbow, and longbow."
         ],
         "type": "entries"
       },
@@ -576,9 +667,9 @@
     ],
     "weaponProficiencies": [
       {
-        "rapier|phb": true,
-        "shortsword|phb": true,
-        "hand crossbow|phb": true
+        "rapier": true,
+        "shortsword": true,
+        "hand crossbow": true
       }
     ],
     "additionalSpells": [
@@ -605,7 +696,16 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["I am."]
+        "entries": ["With near black skin and beaded eyes, dark elves are the most religious of elves – keeping reverence to the Elven Lords. While common enough throughout the world, dark elves are commonly found in religious sanctuaries high in the mountains left to their own holy devices."]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/1e/df/f8/1edff86c888b7bd411a54cdfc0e6e418.jpg"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "name": "Age",
@@ -623,13 +723,13 @@
       },
       {
         "name": "Keen Senses",
-        "entries": ["You have proficiency in the {@skill Perception} skill."],
+        "entries": ["You have proficiency in the Perception skill."],
         "type": "entries"
       },
       {
         "name": "Elven Ancestry",
         "entries": [
-          "You have advantage on saving throws against being {@condition charmed}, and magic can't put you to sleep."
+          "You have advantage on saving throws against being charmed, and magic can't put you to sleep."
         ],
         "type": "entries"
       },
@@ -646,21 +746,21 @@
       {
         "name": "Light Sensitivity",
         "entries": [
-          "You have disadvantage on Wisdom ({@skill Perception}) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+          "You have disadvantage on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
         ],
         "type": "entries"
       },
       {
         "name": "Dark Magic",
         "entries": [
-          "You know the {@spell dancing lights} cantrip. When you reach 3rd level, you can cast the {@spell faerie fire} spell once with this trait; you regain the ability to cast it when you finish a long rest. When you reach 5th level, you can also cast the {@spell darkness} spell once per day with this trait; you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells."
+          "You know the dancing lights cantrip. When you reach 3rd level, you can cast the faerie fire spell once with this trait; you regain the ability to cast it when you finish a long rest. When you reach 5th level, you can also cast the darkness spell once per day with this trait; you regain the ability to cast it when you finish a long rest. Charisma is your spellcasting ability for these spells."
         ],
         "type": "entries"
       },
       {
         "name": "Elven Weapon Training",
         "entries": [
-          "You have proficiency with {@item rapier|phb|rapiers}, {@item shortsword|phb|shortswords}, and {@item hand crossbow|phb|hand crossbows}."
+          "You have proficiency with rapier, shortsword, and hand crossbow."
         ],
         "type": "entries"
       }
@@ -694,7 +794,19 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["I am."]
+        "entries": [
+          "When the elves first arrived at Meridian, their inability to procreate led them down many ethically questionable paths to survival. One such path, cloning, unintentionally bred the sea elves. Sea elves, called so because of their translucent gel-like skin, are a genetically unstable, hermaphroditic subspecies capable of both sexual and asexual reproduction. Most sea elves reproduce through self-cloning, but there are rare occasions when they cross with other mates.",
+          "Mating with another elven subspecies always yields sea-elf offspring, while half sea-elves come from human-elf relations."
+        ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/33/b5/4c/33b54cc7e95b664e1c4bd52b410a9e1d.jpg"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "name": "Age",
@@ -712,13 +824,13 @@
       },
       {
         "name": "Keen Senses",
-        "entries": ["You have proficiency in the {@skill Perception} skill."],
+        "entries": ["You have proficiency in the Perception skill."],
         "type": "entries"
       },
       {
         "name": "Elven Ancestry",
         "entries": [
-          "You have advantage on saving throws against being {@condition charmed}, and magic can't put you to sleep."
+          "You have advantage on saving throws against being charmed, and magic can't put you to sleep."
         ],
         "type": "entries"
       },
@@ -807,7 +919,16 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["I am."]
+        "entries": ["It took countless years and experiments for the dying star elves to successfully breed with humans and create the first half-elves. Their success saved their people, half-elves are now the second dominate race in the world, after humans."]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/01/02/03/01020325d360f632dc6746a7ca5f09a2.jpg"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "name": "Age",
@@ -824,9 +945,16 @@
         ]
       },
       {
+        "type": "entries",
+        "name": "Skill Versatility",
+        "entries": [
+          "You gain proficiency in two skills of your choice."
+        ]
+      },
+      {
         "name": "Elven Ancestry",
         "entries": [
-          "You have advantage on saving throws against being {@condition charmed}, and magic can't put you to sleep."
+          "You have advantage on saving throws against being charmed, and magic can't put you to sleep."
         ],
         "type": "entries"
       },
@@ -844,11 +972,11 @@
                 "colLabels": ["Spell Level", "Spells"],
                 "colStyles": ["col-2 text-center", "col-10"],
                 "rows": [
-                  ["1st", "{@spell beast bond}, {@spell detect magic}"],
-                  ["2nd", "{@spell augury}, {@spell beast sense}"],
-                  ["3rd", "{@spell glyph of warding}, {@spell magic circle}"],
-                  ["4th", "{@spell aura of life}, {@spell summon elemental}"],
-                  ["5th", "{@spell summon draconic spirit}"]
+                  ["1st", "beast bond, detect magic"],
+                  ["2nd", "augury, beast sense"],
+                  ["3rd", "glyph of warding, magic circle"],
+                  ["4th", "aura of life, summon elemental"],
+                  ["5th", "summon draconic spirit"]
                 ]
               }
             ],
@@ -910,7 +1038,18 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["While their houses are less established than Pride houses, the Lynx are still very much a proactive part of Furborn society. Their agility, stealth and ability to climb even vertical surfaces make them prime candidates for many unscrupulous trades. Lynx houses are extremely secretive about their family alliances, preferring to remain flexible for opportunities to increase their own standing."]
+        "entries": [
+          "While their houses are less established than Pride houses, the Lynx are still very much a proactive part of Furborn society. Their agility, stealth and ability to climb even vertical surfaces make them prime candidates for many unscrupulous trades. Lynx houses are extremely secretive about their family alliances, preferring to remain flexible for opportunities to increase their own standing."
+        ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/ff/6e/bc/ff6ebc3f35da034484bafdfd96d0ec92.png"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "name": "Age",
@@ -927,7 +1066,7 @@
       {
         "name": "Cat's Talents",
         "entries": [
-          "You have proficiency in the {@skill Perception} and {@skill Stealth} skills."
+          "You have proficiency in the Perception and Stealth skills."
         ],
         "type": "entries"
       },
@@ -976,7 +1115,18 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["Members of the Pride have features like lions, tigers and other large felines. Their physicality helped them establish the strongest Noble Houses over the years, especially during the reign of the Zeméri empire. Pride members are expected to contribute to their family name at all costs with the penalty of shame being banishment and even death."]
+        "entries": [
+          "Members of the Pride have features like lions, tigers and other large felines. Their physicality helped them establish the strongest Noble Houses over the years, especially during the reign of the Zeméri empire. Pride members are expected to contribute to their family name at all costs with the penalty of shame being banishment and even death."
+        ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/736x/5f/5a/19/5f5a19b622f02c9fdf93d191a6d1873c.jpg"
+        },
+        "title": "",
+        "altText": ""
       },
       {
         "name": "Age",
@@ -1014,7 +1164,7 @@
       {
         "name": "Hunter's Instincts",
         "entries": [
-          "You have proficiency in one of the following skills of your choice: {@skill Athletics}, {@skill Intimidation}, {@skill Perception}, or {@skill Survival}."
+          "You have proficiency in one of the following skills of your choice: Athletics, Intimidation, Perception, or Survival."
         ],
         "type": "entries"
       }
@@ -1046,7 +1196,18 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["Snakeskin Scaleborn are less identifiable than their Lizard-like cousins. With only patches of clear flesh-colored scales and thin tendrils for hair that is easily hidden disguised, Snakeskin Scaleborn will often pass for human. The reference to being “Snakes” does not refer to any relation to snakes, but instead refers to an old racial insult; “snake” as in untrustworthy or deceitful. Like Lizardskin Scaleborn, they are also driven by self-mastery, using their natural cunning and intellect to master whatever skill interests them. "]
+        "entries": [
+          "Snakeskin Scaleborn are less identifiable than their Lizard-like cousins. With only patches of clear flesh-colored scales and thin tendrils for hair that is easily hidden disguised, Snakeskin Scaleborn will often pass for human. The reference to being “Snakes” does not refer to any relation to snakes, but instead refers to an old racial insult; “snake” as in untrustworthy or deceitful. Like Lizardskin Scaleborn, they are also driven by self-mastery, using their natural cunning and intellect to master whatever skill interests them. "
+        ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/22/f5/6f/22f56f204cfb2664d6d5dc9f26f13f30.jpg"
+        },
+        "title": "",
+        "altText": ""
       },
       {
         "name": "Age",
@@ -1116,7 +1277,18 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["Lizardskin Scaleborn are Lizardskin humanoids with thick hides and powerful builds. Lizardskin Scaleborn excel in physical prowess and may spend their considerable life spans find and mastering in as many fighting styles as they can – pushing their bodies to the absolute limit. Many find work as soldiers and athletes, though a rare few will focus on intellectual and creative arts to distinguish themselves from others of their kind. Despite these attempts, even the most restrained Lizardskin Scaleborn are quick to temper and ferocious in battle."]
+        "entries": [
+          "Lizardskin Scaleborn are Lizardskin humanoids with thick hides and powerful builds. Lizardskin Scaleborn excel in physical prowess and may spend their considerable life spans find and mastering in as many fighting styles as they can – pushing their bodies to the absolute limit. Many find work as soldiers and athletes, though a rare few will focus on intellectual and creative arts to distinguish themselves from others of their kind. Despite these attempts, even the most restrained Lizardskin Scaleborn are quick to temper and ferocious in battle."
+        ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/04/63/17/0463179d27da5a43af2e68efaa206102.jpg"
+        },
+        "title": "",
+        "altText": ""
       },
       {
         "name": "Age",
@@ -1147,7 +1319,7 @@
       {
         "name": "Hunter's Instincts",
         "entries": [
-          "You have proficiency in one of the following skills of your choice: {@skill Athletics}, {@skill Intimidation}, {@skill Perception}, or {@skill Survival}."
+          "You have proficiency in one of the following skills of your choice: Athletics, Intimidation, Perception, or Survival."
         ],
         "type": "entries"
       },
@@ -1200,7 +1372,18 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["Seaborn, also known as Naga, are rarely seen among surface dwellers. Their alien physiology only allows for a few Naga to live on land, isolating Naga society from the rest of the world. Although they are the most mysterious race, it is common knowledge that they are fierce enemies of the sea elves."]
+        "entries": [
+          "Seaborn, also known as Naga, are rarely seen among surface dwellers. Their alien physiology only allows for a few Naga to live on land, isolating Naga society from the rest of the world. Although they are the most mysterious race, it is common knowledge that they are fierce enemies of the sea elves."
+        ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/736x/92/e2/63/92e263f9e97b7c508d2d063377988763.jpg"
+        },
+        "title": "",
+        "altText": ""
       },
       {
         "name": "Age",
@@ -1233,7 +1416,7 @@
       {
         "name": "Light Sensitivity",
         "entries": [
-          "You have disadvantage on Wisdom ({@skill Perception}) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
+          "You have disadvantage on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight."
         ],
         "type": "entries"
       },
@@ -1309,6 +1492,15 @@
         "entries": ["I am."]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/474x/d2/67/69/d26769aefd2e728d8c6963a2f5559b79.jpg"
+        },
+        "title": "",
+        "altText": ""
+      },
+      {
         "name": "Age",
         "type": "entries",
         "entries": [
@@ -1337,7 +1529,7 @@
       {
         "name": "Control Air and Water",
         "entries": [
-          "You can cast {@spell fog cloud} with this trait. Starting at 3rd level, you can cast the {@spell gust of wind} spell with this trait. Starting at 5th level, you can also cast the {@spell water walk} spell with it. Once you cast any of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have of the appropriate level.",
+          "You can cast fog cloud with this trait. Starting at 3rd level, you can cast the gust of wind spell with this trait. Starting at 5th level, you can also cast the water walk spell with it. Once you cast any of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have of the appropriate level.",
           "Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race)."
         ],
         "type": "entries"
@@ -1378,7 +1570,18 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["With hard pale skin and dense muscles, even the smallest Stoneborn towers over most other races. They are generally a tribal people who prefer keeping their traditions apart from outsiders. Yet, as time passes and generations become more connected to the outside world, increasingly Stoneborn have found roles as ambassadors to their people."]
+        "entries": [
+          "With hard pale skin and dense muscles, even the smallest Stoneborn towers over most other races. They are generally a tribal people who prefer keeping their traditions apart from outsiders. Yet, as time passes and generations become more connected to the outside world, increasingly Stoneborn have found roles as ambassadors to their people."
+        ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/60/b0/6f/60b06fe3330d0a2500e74ec26256062c.png"
+        },
+        "title": "",
+        "altText": ""
       },
       {
         "name": "Age",
@@ -1396,7 +1599,7 @@
       },
       {
         "name": "Natural Athlete",
-        "entries": ["You have proficiency in the {@skill Athletics} skill."],
+        "entries": ["You have proficiency in the Athletics skill."],
         "type": "entries"
       },
       {
@@ -1458,7 +1661,18 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["Nightbloods have always been revered as holy priests in Uruban. As children and without a choice, they are sent away to join the Death Cleric cloisters far removed from the rest of the world. Not all Nightbloods choose to accept their path and escape into hiding, keeping their blood hidden from the world."]
+        "entries": [
+          "Nightbloods have always been revered as holy priests in Uruban. As children and without a choice, they are sent away to join the Death Cleric cloisters far removed from the rest of the world. Not all Nightbloods choose to accept their path and escape into hiding, keeping their blood hidden from the world."
+        ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/474x/ee/90/37/ee903705e5ddd777b1724cc74394e708--concept-art.jpg"
+        },
+        "title": "",
+        "altText": ""
       },
       {
         "name": "Age",
@@ -1525,7 +1739,7 @@
     "raceName": "Skyborn",
     "speed": {
       "walk": 30,
-      "fly": 30
+      "fly": true
     },
     "sanity": 19,
     "ability": [
@@ -1547,7 +1761,18 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["Wren are a commonly found flying throughout in the Stonewood Valiant and other the mountain regions in Meridian. While many choose to live their entire lives as a part of the Stonewood nation, protected from the outside world, others leave to find work as scouts and mercenaries, using their aerial advantage over their enemies."]
+        "entries": [
+          "Wren are a commonly found flying throughout in the Stonewood Valiant and other the mountain regions in Meridian. While many choose to live their entire lives as a part of the Stonewood nation, protected from the outside world, others leave to find work as scouts and mercenaries, using their aerial advantage over their enemies."
+        ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/736x/50/f9/99/50f999975ee108d30f58773bbfb3e12a.jpg"
+        },
+        "title": "",
+        "altText": ""
       },
       {
         "name": "Age",
@@ -1573,7 +1798,7 @@
       {
         "name": "Hawkeyed",
         "entries": [
-          "You have proficiency in the {@skill Perception} skill. In addition, attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls."
+          "You have proficiency in the Perception skill. In addition, attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls."
         ],
         "type": "entries"
       }
@@ -1605,7 +1830,18 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["Born without wings, Blackwren are ostracized from traditional society. This inferiority can drive Blackwren towards proving themselves in unexpected ways. Blackwren thrive in the outskirts of society where they can use their overlooked status to make a name for themselves in the most unexpected places."]
+        "entries": [
+          "Born without wings, Blackwren are ostracized from traditional society. This inferiority can drive Blackwren towards proving themselves in unexpected ways. Blackwren thrive in the outskirts of society where they can use their overlooked status to make a name for themselves in the most unexpected places."
+        ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/8e/ef/fb/8eeffb996ad1a35d348fefa3d51b2664.png"
+        },
+        "title": "",
+        "altText": ""
       },
       {
         "name": "Age",
@@ -1620,6 +1856,13 @@
           "Blackwren stand from 4 to 5 feet tall, but their bodies are slender and their bones are partially hollow to facilitate their flight. Your size is Small or Medium and you choose the size when you select this race."
         ],
         "type": "entries"
+      },
+      {
+        "type": "entries",
+        "name": "Skill Versatility",
+        "entries": [
+          "You gain proficiency in two skills of your choice."
+        ]
       },
       {
         "name": "Ambusher",
@@ -1673,7 +1916,18 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["Soldiers from a forgotten age, the Marksmen are technologically enhanced humanoids forged and controlled by an ancient elven construct known only as the Authority. Generation I Marksmen are built for endurance."]
+        "entries": [
+          "Soldiers from a forgotten age, the Marksmen are technologically enhanced humanoids forged and controlled by an ancient elven construct known only as the Authority. Generation I Marksmen are built for endurance."
+        ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/d4/a8/71/d4a871bcf4c220d1655d07fa55b04e28.jpg"
+        },
+        "title": "",
+        "altText": ""
       },
       {
         "name": "Age",
@@ -1690,17 +1944,10 @@
         "type": "entries"
       },
       {
-        "name": "Elven Tech",
-        "entries": [
-          "As an artificial race, you do not study a spell book or cast spells. Instead, you work with your tools and create the specialized items you'll use to produce your spell-like effects. You are unable to use potions and scrolls but not from utilizing other advanced tech."
-        ],
-        "type": "entries"
-      },
-      {
         "type": "entries",
         "name": "Constructed Resilience",
         "entries": [
-          "You were created to have remarkable fortitude and have advantage on saving throws against being {@condition poisoned}, and you have resistance to poison damage."
+          "You were created to have remarkable fortitude and have advantage on saving throws against being poisoned, and you have resistance to poison damage."
         ]
       },
       {
@@ -1742,7 +1989,18 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["Soldiers from a forgotten age, the Marksmen are technologically enhanced humanoids forged and controlled by an ancient elven construct known only as the Authority. Generation II Marksmen are built for power."]
+        "entries": [
+          "Soldiers from a forgotten age, the Marksmen are technologically enhanced humanoids forged and controlled by an ancient elven construct known only as the Authority. Generation II Marksmen are built for power."
+        ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/af/09/13/af091392a0cea69b9ae719a8e0e11737.jpg"
+        },
+        "title": "",
+        "altText": ""
       },
       {
         "name": "Age",
@@ -1769,7 +2027,7 @@
         "type": "entries",
         "name": "Concussion Beam",
         "entries": [
-          "When you take the {@action Attack} action, you can replace one of your attacks with a blast of energy from your arm in a 30-foot line that is 5 feet wide. Each creature in the area must make a Dexterity saving throw against a DC equal to 8 + your Constitution modifier + your proficiency bonus. A creature takes {@dice 2d8} damage of the type associated with your Elemental Configuration on a failed save, and half as much damage on a successful one. This damage increases by {@dice 1d8} when you reach 5th level ({@dice 3d8}), 11th level ({@dice 4d8}), and 17th level ({@dice 5d8}).",
+          "When you take the Attack action, you can replace one of your attacks with a blast of energy from your arm in a 30-foot line that is 5 feet wide. Each creature in the area must make a Dexterity saving throw against a DC equal to 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d8 damage of the type associated with your Elemental Configuration on a failed save, and half as much damage on a successful one. This damage increases by 1d8 when you reach 5th level (3d8), 11th level (4d8), and 17th level (5d8).",
           "You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
         ]
       },
@@ -1812,7 +2070,7 @@
         },
         "ability": "cha",
         "known": {
-          "1": ["true strike#c"]
+          "1": ["true strike"]
         }
       }
     ],
@@ -1820,7 +2078,18 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["Soldiers from a forgotten age, the Marksmen are technologically enhanced humanoids forged and controlled by an ancient elven construct known only as the Authority. Generation III Markmen are known as mage-slayers."]
+        "entries": [
+          "Soldiers from a forgotten age, the Marksmen are technologically enhanced humanoids forged and controlled by an ancient elven construct known only as the Authority. Generation III Markmen are known as mage-slayers."
+        ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/736x/32/ac/c6/32acc69c8b8e51264b3a4b96947253bd.jpg"
+        },
+        "title": "",
+        "altText": ""
       },
       {
         "name": "Age",
@@ -1837,17 +2106,10 @@
         "type": "entries"
       },
       {
-        "name": "Elven Tech",
-        "entries": [
-          "As an artificial race, you do not study a spell book or cast spells. Instead, you work with your tools and create the specialized items you'll use to produce your spell-like effects. You are unable to use potions and scrolls but not from utilizing other advanced tech."
-        ],
-        "type": "entries"
-      },
-      {
         "type": "entries",
         "name": "Magician's Judge",
         "entries": [
-          " You know the true strike cantrip. Once you reach 3rd level, you can cast the {@spell silence} spell as a 2nd-level spell; you must finish a long rest in order to cast the spell again using this trait. Once you reach 5th level, you can also cast the {@spell dispel magic} spell; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells."
+          " You know the true strike cantrip. Once you reach 3rd level, you can cast the silence spell as a 2nd-level spell; you must finish a long rest in order to cast the spell again using this trait. Once you reach 5th level, you can also cast the dispel magic spell; you must finish a long rest in order to cast the spell again using this trait. Charisma is your spellcasting ability for these spells."
         ]
       },
       {
@@ -1893,7 +2155,18 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["Unlike Marksmen who sacrifice both their memories and biology for technological enhancements, the Unmarked are entirely artificial. No one knows which of the elves designed the Unmarked or released them into the world, but they are unlike all other races on Meridian. While their range of emotion may be limited, the Unmarked have an endless capacity for growth and are slowly evolving in new and unimaginable ways."]
+        "entries": [
+          "Unlike Marksmen who sacrifice both their memories and biology for technological enhancements, the Unmarked are entirely artificial. No one knows which of the elves designed the Unmarked or released them into the world, but they are unlike all other races on Meridian. While their range of emotion may be limited, the Unmarked have an endless capacity for growth and are slowly evolving in new and unimaginable ways."
+        ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/eb/48/1e/eb481ea18f680e17d96c630a83a6c10f.jpg"
+        },
+        "title": "",
+        "altText": ""
       },
       {
         "name": "Age",
@@ -1912,7 +2185,7 @@
       {
         "type": "entries",
         "name": "Creature Type",
-        "entries": ["You are a Construct."]
+        "entries": ["You are a Construct. You are also considered a humanoid for any prerequisite or effect that requires you to be a humanoid."]
       },
       {
         "name": "Elven Tech",
@@ -1923,9 +2196,11 @@
       },
       {
         "name": "Automated Healing",
-        "entries": ["Your artificial body has supernatural healing capabilities.", 
+        "entries": [
+          "Your artificial body has supernatural healing capabilities.",
           "If you have 0 hit points at the start of your turn, you can regain hit points equal to your character level plus your proficiency bonus.",
-          "You can activate this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."],
+          "You can activate this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+        ],
         "type": "entries"
       },
       {
@@ -1936,10 +2211,22 @@
           {
             "type": "list",
             "items": [
-              "You have advantage on saving throws against being {@condition poisoned}, and you have resistance to poison damage.",
-              "You don't need to eat, drink, or breathe.",
-              "You are immune to disease.",
-              "You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in an inactive, motionless state, during which you retain consciousness."
+              {
+                "name": "",
+                "entry": "You have advantage on saving throws against being poisoned, and you have resistance to poison damage."
+              },
+              {
+                "name": "",
+                "entry": "You don't need to eat, drink, or breathe."
+              },
+              {
+                "name": "",
+                "entry": "You are immune to disease."
+              },
+              {
+                "name": "",
+                "entry": "You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 6 hours if you spend those hours in an inactive, motionless state, during which you retain consciousness."
+              }
             ]
           }
         ]
@@ -1947,8 +2234,8 @@
       {
         "name": "Tireless Precision",
         "entries": [
-          "You are proficient in one of the following skills of your choice: {@skill Arcana}, {@skill History}, {@skill Investigation}, {@skill Medicine}, {@skill Performance}, or {@skill Sleight of Hand}.  You are also proficient with one tool of your choice.",
-          "Whenever you make an ability check with the chosen skill or tool, roll a {@dice d4} and add the number rolled to the check's total."
+          "You are proficient in one of the following skills of your choice: Arcana, History, Investigation, Medicine, Performance, or Sleight of Hand.  You are also proficient with one tool of your choice.",
+          "Whenever you make an ability check with the chosen skill or tool, roll a d4 and add the number rolled to the check's total."
         ],
         "type": "entries"
       },

@@ -26,6 +26,15 @@
         ]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://static.wixstatic.com/media/055706_e704d7f6a8fc4f26bcbf20c02afb7365~mv2.jpg/v1/fill/w_505,h_758,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/055706_e704d7f6a8fc4f26bcbf20c02afb7365~mv2.jpg"
+        },
+        "title": "The Faceless<br>Art Credit: {@link Jason Engle|https://www.jaestudio.com/}",
+        "altText": "Faceless Goddess"
+      },
+      {
         "tenants": [
           "Protect Meridian from exploitation and destruction.",
           "Slay foul and unnatural abomination in any form they take.",
@@ -62,7 +71,8 @@
       {
         "type": "moon",
         "color": "green",
-        "description": "Named after the Seraph of arcana and prophecy, the small green moon is barely a dot in the night sky."
+        "description": "Named after the Seraph of arcana and prophecy, the small green moon is barely a dot in the night sky.",
+        "image": "https://www.vhv.rs/file/max/5/50472_green-planet-png.png"
       }
     ],
     "entries": [
@@ -73,6 +83,15 @@
           "They taught man how to cast spells and work magic.",
           "Larimese priests were once prophets to the ancient world, advisors of king who helped shape the destiny of the ancient world. In the modern era, they are mostly regulated to protecting places of power and hiding away the most forbidden arcane secrets."
         ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/47/20/5e/47205eaf0cbdcef038dac2e812b49fba.jpg"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "tenants": [
@@ -103,7 +122,8 @@
       {
         "type": "moon",
         "color": "grey",
-        "description": "Udreth-sol is both Seraph of the afterlife and the largest moon surrounding Pandem. Udreth-Sol is only visible during the day, standing out like a dark grey scar across an otherwise blue sky."
+        "description": "Udreth-sol is both Seraph of the afterlife and the largest moon surrounding Pandem. Udreth-Sol is only visible during the day, standing out like a dark grey scar across an otherwise blue sky.",
+        "image": "https://webstockreview.net/images/mars-clipart-backround-17.png"
       }
     ],
     "entries": [
@@ -111,6 +131,15 @@
         "description": [
           "Udreth-sol judges the weight of one's soul and, if found worthy, guides them safely through the Gray Halls into Miira's Paradise. The unworthy are left to purgatory, wandering the long path path to redemption."
         ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/8a/f5/b6/8af5b6f2486b0a68416e06acbedef7dc.jpg"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "tenants": [
@@ -139,7 +168,8 @@
       {
         "type": "moon",
         "color": "white",
-        "description": "Pan-shi is the Seraph of debauchery who favors the outcasts of society. Its moon is easily mistaken to its sister moon, Sen-Shi, as they share equal color and size. The two white moons have opposing orbits and never appear together."
+        "description": "Pan-shi is the Seraph of debauchery who favors the outcasts of society. Its moon is easily mistaken to its sister moon, Sen-Shi, as they share equal color and size. The two white moons have opposing orbits and never appear together.",
+        "image": "https://space-facts.com/wp-content/uploads/venus-transparent.png"
       }
     ],
     "entries": [
@@ -149,6 +179,15 @@
           "Pan-shi's commandments come with powerful conviction, deep sorrow, or tremendous joy. Their visions are dramatic and are mercurial at best.",
           "Only Pan-shi's holiest followers can see through the false visions and find holy truth."
         ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/44/cc/53/44cc53343fb813c6fe1fda7c355f58dc.jpg"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "tenants": ["Life is for the living, so live fully and without shame."]
@@ -175,7 +214,8 @@
       {
         "type": "moon",
         "color": "blue",
-        "description": "This blue moon has 3 visible rings that form a halo in the night sky. It is ruled by the Seraph of the Tempest, known for nature's duality as both nurturer and unforgiving wrath."
+        "description": "This blue moon has 3 visible rings that form a halo in the night sky. It is ruled by the Seraph of the Tempest, known for nature's duality as both nurturer and unforgiving wrath.",
+        "image": "https://toppng.com/uploads/thumbnail/planet-png-11553974494cp6plbs0e2.png"
       }
     ],
     "entries": [
@@ -184,6 +224,15 @@
           "The tempest dragon Nassenti is 'Mistress of the Fractured Sea' and custodian of the natural.",
           "Closely tide to the elemental forces, Nassenti is the mother of primordials and it is under her wrath that the world may be created, destroyed, and reborn."
         ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/c6/00/55/c60055b684045d60e1a8fed3f9669304.jpg"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "tenants": ["Nature offers no mercy, no forgiveness, no salvation."]
@@ -210,7 +259,8 @@
       {
         "type": "moon",
         "color": "gold",
-        "description": "Half the size of Udreth-Sol, yet still larger than the rest, Zyry's moon has a warm yellow light which halos the moon at night. As Seraph of aspiration and invention, Zyry is said to inspire the great works of artistry"
+        "description": "Half the size of Udreth-Sol, yet still larger than the rest, Zyry's moon has a warm yellow light which halos the moon at night. As Seraph of aspiration and invention, Zyry is said to inspire the great works of artistry",
+        "image": "https://s3.amazonaws.com/user-media.venngage.com/416890-daae0b35b0a79ed0364f67100c864cb8.png"
       }
     ],
     "entries": [
@@ -220,6 +270,15 @@
           "Before the arrival of the elves, Zyrese knights were golden warriors and famed inventors. Their blend of early science and magic paved the way for the first developing nations.",
           "Towards the end of that age, the Zyrese army was largest in the world and dominated over the majority of the Severed Hand and Pumicestone Mountains."
         ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://static.wixstatic.com/media/055706_74bd0ecffcee4ba9bff5b6bca929779e.jpg/v1/fill/w_577,h_795,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/055706_74bd0ecffcee4ba9bff5b6bca929779e.jpg"
+        },
+        "title": "Sovereign Dragon<br>Art Credit: {@link Jason Engle|http://www.jaestudio.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "tenants": ["Follow your muse."]
@@ -246,7 +305,8 @@
       {
         "type": "moon",
         "color": "white",
-        "description": "Twin Seraph to Pan-shi, Sen-shi is both Seraph of light and defender against the Bloodlands. Likewise, it's moon is identical to Pan-Shi, but when gazed upon carefully, has surface patterns opposite of those across Pan-Shi."
+        "description": "Twin Seraph to Pan-shi, Sen-shi is both Seraph of light and defender against the Bloodlands. Likewise, it's moon is identical to Pan-Shi, but when gazed upon carefully, has surface patterns opposite of those across Pan-Shi.",
+        "image": "https://space-facts.com/wp-content/uploads/venus-transparent.png"
       }
     ],
     "entries": [
@@ -257,6 +317,24 @@
           "Sen-shi is seen as a being of pure rationality, regardless of the sitaution, they view the world with calm detatchment and logical reasoning.",
           "Their followers are known to be patient since Sen-shi's intervention in mortal affairs is measured and always with great assurance."
         ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/23/de/d9/23ded91053ccd1d7cd2e939f3480c03b.jpg"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": ""
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "tenants": [
@@ -285,7 +363,8 @@
       {
         "type": "moon",
         "color": "red",
-        "description": "This small red moon is easily identifiable in the night sky, except when Veris, Meridian's red sun rises. Its Seraph of War revels in battle and blesses the continued bloodlines of his most favored warriors."
+        "description": "This small red moon is easily identifiable in the night sky, except when Veris, Meridian's red sun rises. Its Seraph of War revels in battle and blesses the continued bloodlines of his most favored warriors.",
+        "image": "https://clipground.com/images/mars-clipart-transparent-6.png"
       }
     ],
     "entries": [
@@ -293,6 +372,15 @@
         "description": [
           "The blood dragon Oth-orleth is custodian of the material plane and patron of nobility."
         ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/5c/dc/f4/5cdcf4725eb254eca7d83ef514d0d588.jpg"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "tenants": ["."]
@@ -320,6 +408,15 @@
         "description": ["The god-Queen of Ash'ahla."]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/8b/57/11/8b57111c6befcbf92a4bcf76091c08d3.png"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link Sam hogg|http://www.artofsamhogg.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
+      {
         "tenants": ["."]
       },
       { "domain": ["Life", "Nature", "Trickery"] },
@@ -340,6 +437,15 @@
           "Countless elves have attempted to follow the Abiosis' path over the years, and every few millennia or so there comes along a lich just skilled enough to unravel the first of the Abiosis' unique (and often profane) wisdoms."
         ]
       },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": ""
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
       { "alias": ["Pallid King"] },
       { "domain": ["Arcana", "Death"] },
       { "language": "celestial" }
@@ -356,6 +462,15 @@
           "Guardian of the Nobility, the Abnegation protects the secret of Elven ascension from individuals unprepared for the responsibilities of their kind. They are patient but steadfast in their duties."
         ]
       },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": ""
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
       { "domain": ["Order", "Trickery"] },
       { "language": "celestial" }
     ]
@@ -370,6 +485,15 @@
         "description": [
           "First of their kind, the Abominate discovered the secret to immortality and ascended their peers. But with that power, the Abominate declared dominance over all species of all worlds. If not for the Ephemeron, the universe would be enslaved. They represent the seduction of absolute power."
         ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": ""
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       { "domain": ["Death", "War"] },
       { "language": "celestial" }
@@ -386,6 +510,15 @@
           "The Countless Lord who designed the 'Intended Equation', a mathematical constant used in the creation of all artificial life. This lord represents a person’s innate responsibility of divine inheritance; in other words, creating new forms of life."
         ]
       },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": ""
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
       { "alias": ["Countless Lord"] },
       { "domain": ["Knowledge", "Life"] },
       { "language": "celestial" }
@@ -401,6 +534,15 @@
         "description": [
           "The Collusion is known as the Twice-Crossed One, First son of Nobility, and Future’s Bane. The Collusion was once the Abnegation’s only heir before foreseeing all futures. The infinite eventualities stemming from the present’s endless possible decisions came all at once and shattered the Collusion. The experience divided them into two opposing personas that continue to compete for dominance. One part resolve and another resignation, the Collusion personifies the collective identity of the elves as a race and the threat of misguided judgement."
         ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": ""
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "alias": [
@@ -424,6 +566,15 @@
           "The Noble Laws maintain the balance of power between the Elven Lords. Uniting them under the banner of a singular goal, the Conformity crafted the universal laws that all modern life must follow."
         ]
       },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": ""
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
       { "domain": ["Knowledge", "Order"] },
       { "language": "celestial" }
     ]
@@ -438,6 +589,15 @@
         "description": [
           "A single being divided into two, Kú (pronounced ‘Q’) and Kwé (kway) are simultaneously star-crossed lovers and fierce rivals. These two, equal yet opposing, forces use the entire universe as their game board. The stories of their exploits and the lengths the Diarchy have gone to impress each other, often at the cost of the mortal world, are woven into the most famous elven love stories and songs of all time."
         ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": ""
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       { "domain": ["Peace", "War"] },
       { "language": "celestial" }
@@ -454,6 +614,15 @@
           "The Dissonance took the whole of elven knowledge and assembled the Noble Libraries. Simultaneously, they invented both the ancient elven language and advanced mathematics before gifting them to the lower races. Although Meridian’s elves lost such knowledge during their empire’s collapse, the Dissonance promises they will eventually reclaim their inheritance."
         ]
       },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": ""
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
       { "domain": ["Knowledge", "Twilight"] },
       { "language": "celestial" }
     ]
@@ -468,6 +637,15 @@
         "description": [
           "The Ephemeron fought back the Abominate as it threatened the autonomy of other races across the universe. The Ephemeron’s form and astounding powers defy standard classification, and for all intents and purposes, the Ephemeron rules as King of the Nobility. After the Abominates defeat and imprisonment across the stars, the Ephemeron paved the way for the other Elven Lords to ascend, forming the foundations of evolution and writing the pattern on which divine right was written. "
         ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": ""
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       { "domain": ["Order", "Peace"] },
       { "language": "celestial" }
@@ -484,6 +662,15 @@
           ": Stalking the emptiness of space, the Fathomless consumes dying worlds and repurposes it for the further expansion of the universe. The threat of the Fathomless drives the necessity of the elves to prosper and reclaim their glorious place among the stars."
         ]
       },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": ""
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
       { "domain": ["Grave", "Tempest"] },
       { "language": "celestial" }
     ]
@@ -498,6 +685,15 @@
         "description": [
           "The Incandescent rose into the ranks of Nobility by wandering into a burning star, pulling it apart and studying its inner secrets. For unknown reasons, they create and destroy whole solar systems as they see fit. "
         ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": ""
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       { "domain": ["Light", "Tempest"] },
       { "language": "celestial" }
@@ -514,6 +710,15 @@
           "While the Abominate was the first to fall from grace, they were far from the last. The Obscene broke the rules of reality by bending space and time. The consequences for their arrogance were steep and they exist as a warning for where elven hubris leads."
         ]
       },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": ""
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
       { "domain": ["Trickery", "War"] },
       { "language": "celestial" }
     ]
@@ -528,6 +733,15 @@
         "description": [
           "Within this Elven Lord is destiny written. Although fate is mostly mutable, changing with the tides made by great elven heroes, the great ascension of all elves to Nobility one day is guaranteed."
         ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": ""
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       { "domain": ["Knowledge"] },
       { "language": "celestial" }
@@ -544,6 +758,15 @@
           "Of all the Nobility, only the Verity remembers the fragility of mortality and the heartbreak of losing loved ones. While forbidden by the Noble Laws to interfere directly with mortal affairs, the Verity inspires elven prodigies, encouraging their tireless work towards immortality."
         ]
       },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": ""
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
       { "domain": ["Forge", "Knowledge"] },
       { "language": "celestial" }
     ]
@@ -559,6 +782,15 @@
           "The Vulnerary is invoked to cure the deadliest diseases, even though they are associated with bringing them about in the first place. Also known as Mercy, the Vulnerary is illness personified and demands proof of worthiness before daring to interfere in nature’s work."
         ]
       },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": ""
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
       { "domain": ["Death", "Life"] },
       { "language": "celestial" }
     ]
@@ -571,8 +803,17 @@
     "entries": [
       {
         "description": [
-          "Lord of Vestiges, Vedigo is the Ironic King. His petitioners see themselves as .is depicted as a dragon-like creature with the head of an alligator and a gorilla-like chest and arms."
+          "Lord of Vestiges, Vedigo is the Ironic King. His petitioners see themselves as his depicted as a dragon-like creature with the head of an alligator and a gorilla-like chest and arms."
         ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/43ebe86a-38b9-4b7f-a6ac-c9442e874c7e/da30gle-64a0f53d-5235-4ed5-8810-3b11ba0eec44.png/v1/fill/w_766,h_1044,q_70,strp/ammit_by_kipine_da30gle-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTIyNyIsInBhdGgiOiJcL2ZcLzQzZWJlODZhLTM4YjktNGI3Zi1hNmFjLWM5NDQyZTg3NGM3ZVwvZGEzMGdsZS02NGEwZjUzZC01MjM1LTRlZDUtODgxMC0zYjExYmEwZWVjNDQucG5nIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.7q5N-9oqpRAci7coP-Tr8GoeJ8gBbww4dfzevB9ypc8"
+        },
+        "title": "Ammit<br>Art Credit: {@link Kipine|http://kipine.deviantart.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "tenants": [
@@ -593,6 +834,15 @@
         "description": ["Pain"]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/43ebe86a-38b9-4b7f-a6ac-c9442e874c7e/db2ipml-572752b8-d067-4315-bfe3-6e5b5bf5712c.png/v1/fill/w_983,h_813,q_70,strp/beetle_dragon_by_kipine_db2ipml-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODI3IiwicGF0aCI6IlwvZlwvNDNlYmU4NmEtMzhiOS00YjdmLWE2YWMtYzk0NDJlODc0YzdlXC9kYjJpcG1sLTU3Mjc1MmI4LWQwNjctNDMxNS1iZmUzLTZlNWI1YmY1NzEyYy5wbmciLCJ3aWR0aCI6Ijw9MTAwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.DYzNqawfVYvc5P10y9s17RjbN16WcoIF8owf2oVFUcs"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
+      {
         "tenants": [""]
       },
       { "organizations": "" },
@@ -607,6 +857,15 @@
     "entries": [
       {
         "description": [""]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://s-media-cache-ak0.pinimg.com/736x/b0/69/db/b069db633b20d83fce1d30a832fda9a4.jpg"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "tenants": [""]
@@ -625,6 +884,15 @@
         "description": [""]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c6a322e3-a8de-47ce-b671-78b9b999571e/d9diqwg-deafecbd-3478-455b-abdd-8eb46a170e74.jpg/v1/fill/w_758,h_1054,q_70,strp/the_spider_by_fenghuazhongg_d9diqwg-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTcwMCIsInBhdGgiOiJcL2ZcL2M2YTMyMmUzLWE4ZGUtNDdjZS1iNjcxLTc4YjliOTk5NTcxZVwvZDlkaXF3Zy1kZWFmZWNiZC0zNDc4LTQ1NWItYWJkZC04ZWI0NmExNzBlNzQuanBnIiwid2lkdGgiOiI8PTEyMjIifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.oCtmVmCO63vJKqPK_wKZuJmb8MPDhq53ORoLuQS3s7w"
+        },
+        "title": "THE SPIDER<br>Art Credit: {@link FENGHUA ZHONGG|http://www.lofcg.com//}",
+        "altText": "EXAMPLE: AltText"
+      },
+      {
         "tenants": ["Hunger and Hunt."]
       },
       { "organizations": "" },
@@ -639,6 +907,15 @@
     "entries": [
       {
         "description": [""]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c6a322e3-a8de-47ce-b671-78b9b999571e/dbtbi5k-e9c55ee5-2ddc-4f7e-9e2c-526363fb228f.jpg/v1/fill/w_932,h_858,q_70,strp/monster_by_fenghuazhongg_dbtbi5k-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTc2OCIsInBhdGgiOiJcL2ZcL2M2YTMyMmUzLWE4ZGUtNDdjZS1iNjcxLTc4YjliOTk5NTcxZVwvZGJ0Ymk1ay1lOWM1NWVlNS0yZGRjLTRmN2UtOWUyYy01MjYzNjNmYjIyOGYuanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.LC4ewYz0_JLhAnRM77E0a5lKmT0BdOoOM4jO8U9Vud4"
+        },
+        "title": "MONSTER<br>Art Credit: {@link FENGHUA ZHONGG|http://www.lofcg.com//}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "tenants": ["Redemption for the fallen at a price."]
@@ -661,6 +938,15 @@
         ]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://cdna.artstation.com/p/assets/images/images/038/267/346/large/pedro-sena-1234.jpg?1622631206"
+        },
+        "title": "MALEVOLENT THOUGHTS OF A HASTENED EXTINCTION<br>Art Credit: {@link PEDRO SENA|https://lordigan.artstation.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
+      {
         "tenants": ["Profane magic."]
       },
       { "organizations": "" },
@@ -675,10 +961,19 @@
     "entries": [
       {
         "description": [
-          "Rusalka is the Vestige of Prophesy and Lord of False Confessions. He is depicted as the smallest of his kind standing only 60 feet tall with the body of a spide, the color of deep sea, with seven faces in place of eyes that constantly slide across his face.",
+          "Rusalka is the Vestige of Prophesy and Lord of False Confessions. He is depicted as the smallest of his kind standing only 60 feet tall with the body of a spider, the color of deep sea, with seven faces in place of eyes that constantly slide across his face.",
           "Rusalka answers the prayers of selfish men, giving them positions of power where they can do the most harm to society. His followers rarely realize that while his predictions are always true, Rusalka withholds the full picture, leading to their inevitable ruin. In exchange for his power, the Vestige demands constant offerings of gold and blood sacrifice.",
           "Rusalka rules over 80 demonic generals under his command."
         ]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://cdnb.artstation.com/p/assets/images/images/032/948/049/large/lorenzo-mastroianni-koschey.jpg?1607963203"
+        },
+        "title": "KOSCHEY<br>Art Credit: {@link LORENZO MASTOIANNI|https://lorenzomastroianni.artstation.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "tenants": [
@@ -703,6 +998,15 @@
         ]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://cdna.artstation.com/p/assets/images/images/028/612/894/large/yun-yang-tan-popobawa-front.jpg?1594971054"
+        },
+        "title": "AFRICAN DEMON<br>Art Credit: {@link YUN YANG TAN|https://whywhytan.artstation.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
+      {
         "tenants": [
           "Take what you desire. Those without cunning are unworthy of any domain they inherit."
         ]
@@ -721,6 +1025,15 @@
         "description": ["Illusion and deception."]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://cdna.artstation.com/p/assets/images/images/012/740/496/large/asya-yordanova-edno.jpg?1536262098"
+        },
+        "title": "EDNO<br>Art Credit: {@link ASYA YORDANOVA|https://asya_yordanova.artstation.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
+      {
         "tenants": [""]
       },
       { "organizations": "" },
@@ -735,6 +1048,15 @@
     "entries": [
       {
         "description": ["Instill fear in my enemies."]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://cdnb.artstation.com/p/assets/images/images/025/287/209/large/brian-valeza-ada.jpg?1585300065"
+        },
+        "title": "ADA, NATURES MALICE<br>Art Credit: {@link BRIAN VALEZA|https://tots.artstation.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "tenants": [""]
@@ -753,6 +1075,15 @@
         "description": ["Death and decay."]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/736x/ca/e4/89/cae489ef4060f9280de1f02ce33d3b5b.jpg"
+        },
+        "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
+      {
         "tenants": [""]
       },
       { "organizations": "" },
@@ -769,6 +1100,15 @@
         "description": [""]
       },
       {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://cdnb.artstation.com/p/assets/images/images/001/070/473/large/sabbas-apterus-saint2w.jpg?1443927364"
+        },
+        "title": "FOREVER BURNING HEART<br>Art Credit: {@link PETER POLACH|https://apterus.artstation.com/}",
+        "altText": "EXAMPLE: AltText"
+      },
+      {
         "tenants": ["Beauty and submission."]
       },
       { "organizations": "" },
@@ -783,6 +1123,15 @@
     "entries": [
       {
         "description": [""]
+      },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://cdna.artstation.com/p/assets/images/images/005/999/512/large/pedro-sena-balance-creature.jpg?1495300506"
+        },
+        "title": "BALANCE CREATURE<br>Art Credit: {@link PEDRO SENA|https://lordigan.artstation.com/}",
+        "altText": "EXAMPLE: AltText"
       },
       {
         "tenants": ["Hate and vengeance."]
