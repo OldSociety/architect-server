@@ -1373,7 +1373,7 @@
         "name": "Description",
         "type": "entries",
         "entries": [
-          "Seaborn, also known as Naga, are rarely seen among surface dwellers. Their alien physiology only allows for a few Naga to live on land, isolating Naga society from the rest of the world. Although they are the most mysterious race, it is common knowledge that they are fierce enemies of the sea elves."
+          "Naga are deep sea dwellers who live in complex cave systems in the deepest crevices of the open sea. Naga are skilled physical warriors who defend their communities, also known as 'Beacons', from deep sea abberations. are rarely seen among surface dwellers. Their alien physiology only allows for a few Naga to live on land, isolating Naga society from the rest of the world. Although they are the most mysterious race, it is common knowledge that they are fierce enemies of the sea elves."
         ]
       },
       {
@@ -1489,7 +1489,7 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["I am."]
+        "entries": ["Sigri live in coastal caves or underground springs close to shore. Unlike Naga, they do on occasion interact with landwalkers, but rarely for anything other than trade. Many Sigri are natural druids and use their gifts to protect and keep balance in the natural world."]
       },
       {
         "type": "image",
@@ -2190,7 +2190,7 @@
       {
         "name": "Elven Tech",
         "entries": [
-          "As an artificial race, you do not study a spell book nor cast spells and/or other magical effects. Instead, you work with your tools and create the specialized items you'll use to produce your spell-like effects. You are unable to use magical consumables, such as potions and scrolls, but not from utilizing other advanced tech."
+          "As an artificial race, you do not study a spell book nor cast spells and/or other magical effects. Instead, you work with your tools and create the specialized items you'll use to produce your spell-like effects. You are unable to use magical consumables, such as potions and scrolls, but not from utilizing mithril artifices that produce the similar effects."
         ],
         "type": "entries"
       },
