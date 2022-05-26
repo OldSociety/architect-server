@@ -1,5 +1,60 @@
 [
   {
+    "type": "bestiary",
+    "name": "Aberrations",
+    "description": ""
+  },
+  {
+    "type": "bestiary",
+    "name": "Bloodied",
+    "description": ""
+  },
+  {
+    "type": "bestiary",
+    "name": "Celestials",
+    "description": ""
+  },
+  {
+    "type": "bestiary",
+    "name": "Constructs",
+    "description": ""
+  },
+  {
+    "type": "bestiary",
+    "name": "Demons",
+    "description": ""
+  },
+  {
+    "type": "bestiary",
+    "name": "Dragons",
+    "description": ""
+  },
+  {
+    "type": "bestiary",
+    "name": "Elemental",
+    "description": ""
+  },
+  {
+    "type": "bestiary",
+    "name": "Fey",
+    "description": ""
+  },
+  {
+    "type": "bestiary",
+    "name": "Monstrosities",
+    "description": ""
+  },
+  {
+    "type": "bestiary",
+    "name": "Corporeal Undead",
+    "description": ""
+  },
+  {
+    "type": "bestiary",
+    "name": "Spectral Undead",
+    "description": ""
+  },
+  {
     "type": "language",
     "name": "Arcanum",
     "description": "The verbal components of arcane casters (most magical classes). Formal arcanum was the first human language, with 221 letters - one for every day of the year - it is extremely intricate and famously difficult to master.",
@@ -19,7 +74,7 @@
   {
     "type": "language",
     "name": "Draconic",
-    "description": "The language of clerics, paladins, and other practicioners of the human religion Solace. It is believed to be the language of Miira’s Dragons (other dragons are not known to speak or understand any language including draconic) and is the verbal component for these spellcasters.",
+    "description": "The language of clerics, paladins, and other practitioners of the human religion Solace. It is believed to be the language of Miira’s Dragons (other dragons are not known to speak or understand any language including draconic) and is the verbal component for these spellcasters.",
     "exotic": true
   },
   {
@@ -34,7 +89,7 @@
   {
     "type": "language",
     "name": "Ancient Elvish",
-    "description": "The language of the star elves when they first arrived on Meridian. It is highly complex language, with a three-dimenisional script that has so far been impossible to decipher, even through magical means. It cannot be learned and there are no surviving users of this highly complex, mathematical language.",
+    "description": "The language of the star elves when they first arrived on Meridian. It is highly complex language, with a three-dimensional script that has so far been impossible to decipher, even through magical means. It cannot be learned and there are no surviving users of this highly complex, mathematical language.",
     "exotic": true
   },
   {
@@ -67,7 +122,7 @@
     "type": "language",
     "name": "Thieves' Cant",
     "description": [
-      "While not common among professional criminal organizations, this secret language is common among smaller thieves’ guilds and petty criminals. Since its words have no universal meaning, varying wildly by region, any magical means of decyphering cant is useless.",
+      "While not common among professional criminal organizations, this secret language is common among smaller thieves’ guilds and petty criminals. Since its words have no universal meaning, varying wildly by region, any magical means of deciphering cant is useless.",
       "Someone proficient in thieves' cant might break its code (with a successful investigation check)."
     ],
     "exotic": true
