@@ -332,7 +332,7 @@
             "name": "Oiolaire",
             "entries": {
               "race": "Moon",
-              "description": ": A glossy leaf tree with large fragrant flowers, with two powerful members, a Master of Blood for the Synagogue and a general of the Zeméri army – Oiolaire is untouchable. Their enemies find themselves flayed, drowned and strung across the sides of their warships."
+              "description": ": A glossy leaf tree with large fragrant flowers, with two powerful members, a Master of Blood for the Synagogue and a general of the Zeméri army, Oiolaire is untouchable. Their enemies find themselves flayed, drowned and strung across the sides of their warships."
             }
           },
           {
@@ -346,7 +346,7 @@
             "name": "Taniquelasse",
             "entries": {
               "race": "Wood",
-              "description": "A uniquely mysterious tree that has been long extinct, the Karaji family is notorious for their political and military push on southern wild folk – driving the remaining tribes north."
+              "description": "A uniquely mysterious tree that has been long extinct, the Karaji family is notorious for their political and military push on southern wild folk, driving the remaining tribes north."
             }
           },
           {
@@ -447,7 +447,7 @@
     "entries": [
       [
         "The Red Horde rules Uruban's mountainous wastelands uniting hundreds of Uru communities under a single black banner. As a theological hegemony, the Horde is the head religious and political body within the region. Under the guidance of its Night Blood priests, they have established a culture and religion based solely on the worship and reverence of Udreth-sol, Seraph of death and the afterlife.",
-        "The Horde operates from Uruban's monastery capital at the heart of the empire, Shalath. Here the First Prophet along with his First Council (including the Ministers of the Masses, Minister of Works, and the Minister of War) rule as the final political and religious authority in Uruban. Serving as the final judgement, their decisions are guided by Tsin-sol's 'Validation',an Arcanum-Uru document which serves as both the Red Horde's Supreme Law and Holy Bible.",
+        "The Horde operates from Uruban's monastery capital at the heart of the empire, Shalath. Here the First Prophet along with his First Council (including the Ministers of the Masses, Minister of Works, and the Minister of War) rule as the final political and religious authority in Uruban. Serving as the final judgement, their decisions are guided by Tsin-sol's 'Validation', an Arcanum-Uru document which serves as both the Red Horde's Supreme Law and Holy Bible.",
         "Outside of Shalath, five Prophets and their council rule over the lesser monasteries of Udreth-sol. Each temple is charged with protecting a Labyrinth sanctum, the subterranean prison for Uruban's undead and one of the Six Promises (holy relics of the first emperor).",
         "Every 10th Bloody Sun, the Prophets must complete a Trial of Ascension, where they are sent down into the Labyrinth and must find their way back to the surface unharmed, a sign that the Prophet remains in good standing with Udreth-sol. Secretly, the Ascension is steeped with political bribes, blackmail, and the use of necromancy to ensure the power remains within the powerful.",
         "Citizens of the Red Horde live in strict religious, warrior, and worker castes. At the top of the hierarchal pyramid are Night Blood priests who serve as the de facto heads of church and state. Beneath them serve non-Night Blood priests charged with maintaining both temples and the daily lives of their citizens.",
@@ -467,7 +467,7 @@
       {
         "name": "Goals",
         "entries": [
-          "Despite its vast power, there are still many communities throughout Uruban that have rejected the Horde's call for unity,fearing an erasure of local faiths and traditions. This is unacceptable to the Prophets who have spent years waging a campaign of complete dominance. Tribes and communities that reject the faith are eventually taken by force.",
+          "Despite its vast power, there are still many communities throughout Uruban that have rejected the Horde's call for unity, fearing an erasure of local faiths and traditions. This is unacceptable to the Prophets who have spent years waging a campaign of complete dominance. Tribes and communities that reject the faith are eventually taken by force.",
           "Those that pledge their allegiance to the prophets exchange their freedoms for the protection and salvation of the Horde. Forced to suddenly live a new way of life, eventually the tribe's unique culture and history is inevitably erased. This provides the Horde with new skills and resources to be exploited as their empire continues to grow, without the threat of rebellion."
         ]
       },
@@ -1010,8 +1010,8 @@
     "entries": [
       [
         [
-          "The Ephemeron Academy of Elven Technology, better known as the Ephemeron (Eff-ehm-err-in),is an Egressian institution that pioneers the reclamation of lost/forgotten elven technology with the ultimate goal of resurrecting the advanced science of ancient elves. It is a professional and academic organization, located throughout southern Meridian (nations south of Egress).",
-          "Established during the early days of the Zemeri Empire in the Egressian capital, Amenmaatra, by then- Sergeant-in-arms Iric Cimeros, the Ephemeron was the world’s military research institute. Today, the Ephemeron is politically neutral and provides its services publicly to both world leaders and common masses alike.",
+          "The Ephemeron Academy of Elven Technology, better known as the Ephemeron (Eff-ehm-err-in), is an Egressian institution that pioneers the reclamation of lost/forgotten elven technology with the ultimate goal of resurrecting the advanced science of ancient elves. It is a professional and academic organization, located throughout southern Meridian (nations south of Egress).",
+          "Established during the early days of the Zemeri Empire in the Egressian capital, Amenmaatra, by then-Sergeant-in-arms Iric Cimeros, the Ephemeron was the world’s military research institute. Today, the Ephemeron is politically neutral and provides its services publicly to both world leaders and common masses alike.",
           "Along with its public services, its international charter specifies that the Ephemeron is responsible for building detailed lists of known elven technology, both ancient and modern. They provide states with the names, residencies, and political status of their proprietors. Yet, the Ephemeron itself does not include a policing body and cannot themselves enforce these laws.",
           "The Ephemeron is funded through private and government contracts to explore newly discovered ruins, along with the sale of common modern technology, and fees for training talented artificers in advance study. As a research institution, the Ephemeron also serves as a museum of sorts. The College of Arbitration in Amenmaatra stores and protects relics, especially those found to be potentially dangerous, from the general public."
         ]
@@ -1074,7 +1074,7 @@
             "name": "First Curator Selynia Marris",
             "entries": {
               "race": "Moon Elf",
-              "description": "Selynia maintains detailed records of every elven relic ever recovered and delivered into the Ephemeron’s vaults. Overseeing an army of researchers, scientists, artificers and diviners, Selynia is deeply proud of her work and the respect she's earned among her all- male peers. Calm, quiet and curious, she is determined to add diversity into the Ephemeron’s hierarchy that she believes is too chained to its now ancient traditions."
+              "description": "Selynia maintains detailed records of every elven relic ever recovered and delivered into the Ephemeron’s vaults. Overseeing an army of researchers, scientists, artificers and diviners, Selynia is deeply proud of her work and the respect she's earned among her all-male peers. Calm, quiet and curious, she is determined to add diversity into the Ephemeron’s hierarchy that she believes is too chained to its now ancient traditions."
             }
           },
           {
