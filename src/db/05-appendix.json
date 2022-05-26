@@ -16,14 +16,14 @@
   {
     "type": "bestiary",
     "name": "Celestials",
-    "description": ""
+    "description": "Like fey, celestials are wonderous, magical creatures native to Meridian. Yet, unlike fey, celestials (also known as Empyrean) exist primarily within the Gray Halls as supreme beings far removed from mortal struggles or plights. It is difficult, if not impossible, to quantify the upper limits of their demigod-like power."
   },
   {
     "type": "bestiary",
     "name": "Constructs",
     "description": [
-      "Created by elves, constructs were an integral part of their ancient society. The constructs brought to Meridian were exceedingly complex. But without the endless supply of energy of their home world, the elves eventually invented less sophisticated forms of artificial life.",
-      "As time passed and their empire fell, only the most basic recipes for constructs survived. Modern constructs are made from various types of physical materials including: mithril scrapped from elven ruins, crystals cores from hunted down earth elementals, and even the skin, limbs and bones of beasts and/or monstrosities."
+      "Created by elves, mithral constructs were an integral part of ancient society. But without the endless supply of energy of their home world, the elves were eventually forced to invent less sophisticated forms of artificial life.",
+      "As time passed and their empire fell, only the most basic recipes for constructs survived. Modern constructs are made from various types of physical materials including: mithral scrapped from elven ruins, crystals cores from hunted down earth elementals, and even the skin, limbs and bones of beasts and/or monstrosities."
     ]
   },
   {
@@ -47,7 +47,7 @@
   {
     "type": "bestiary",
     "name": "Elemental",
-    "description": "Elementals are mindless matter brought to life by a spell or even Meridian's natural magic. Elementals, including the mountain sized Primordials who ended the elven empire, are forces of nature that never tire, never question orders, and threaten all civilization equally."
+    "description": "Elementals are mindless matter brought to life by a spell or Meridian's natural energies. Elementals, including the mountain-sized Primordials who ended the elven empire, are incredible forces of nature that never tire, never question orders, and threaten all civilization equally."
   },
   {
     "type": "bestiary",
@@ -155,5 +155,28 @@
     "type": "language",
     "name": "Zeméri",
     "description": "The national language of Karaj, Zemér and Seneka; the three nations that once made up the now defunct Zeméri empire."
-  }
+  },
+  {
+    "type": "technology",
+    "name": "artifice",
+      "description": "Artifices are resin-powered devices designed to create one-time short-term effects that duplicate the effects of potions, scrolls, and similar magic items. These don’t take the form of actual elixirs or spells on paper, but they have the same effect. "
+  },
+  {
+    "type": "technology",
+    "name": "charges",
+    "description": "Mithral items that have charges are limited in their use. Unlike in other settings, these charges do not replenish automatically. Instead, an item’s owner must secure resin and refill the item to replenish its charges. As long as normal resin supplies are available, refilling an item is no problem. A major principle of the Ephemeron is ensuring that resin is fairly distributed among its citizens. Mithral consumables cannot be recharged in this manner."
+  },
+  {
+    "type": "technology",
+    "name": "mithral",
+    "description": "An alien metal that came to Meridian with the star elves. Mithral comes in two forms. In its most solid state, the silvery-white metal is nearly unbreakable and is able to channel vast amounts of energy without consequence. Then, under just the right circumstances (pressure, temperature, timing and other factors) mithral turns semi-liquid - turning black and taking on new properties."
+  },
+  {
+    "type": "technology",
+    "name": "resin",
+    "description": " Resin is an artificially created plasma that powers all elven technology. Radioactive and chemically unstable, the modern era could not begin until the process for recreating resin was recovered. Manufacturing resin is highly complex and can only be done under extreme conditions, such as near-volcanic temperature levels. As such, resin is the most valuable substance in the world."
+  },
+  {    "type": "technology",
+    "name": "materials",
+    "description": "Each piece of mithral technology requires four separate components to function. The first is resin which acts as a power source. Then, it needs a crystal core to contain the resin and maintain power regulation. Next, an artifice uses a semi-liquid mithral weave that works in tandem with the core to process and store pre-programmed information or instructions. Finally, the artifice requires mithral plating to work as outer shell and frame."}
 ]
