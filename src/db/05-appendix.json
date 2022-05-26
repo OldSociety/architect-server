@@ -1,0 +1,85 @@
+[
+  {
+    "type": "language",
+    "name": "Arcanum",
+    "description": "The verbal components of arcane casters (most magical classes). Formal arcanum was the first human language, with 221 letters - one for every day of the year - it is extremely intricate and famously difficult to master.",
+    "exotic": true
+  },
+  {
+    "type": "language",
+    "name": "Ash'a",
+    "description": "The national language of Ash’ahla, understood by many druids and nearly all fey."
+  },
+  {
+    "type": "language",
+    "name": "Celestial",
+    "description": "The language of clerics, paladins, and priests who follow the Church of Nobility. It is also the verbal component of these spellcasters.",
+    "exotic": true
+  },
+  {
+    "type": "language",
+    "name": "Draconic",
+    "description": "The language of clerics, paladins, and other practicioners of the human religion Solace. It is believed to be the language of Miira’s Dragons (other dragons are not known to speak or understand any language including draconic) and is the verbal component for these spellcasters.",
+    "exotic": true
+  },
+  {
+    "type": "language",
+    "name": "Druidic",
+    "description": [
+      "The magical language of druids. The spoken version of this language is used exclusively as the verbal components in druidic spell craft.",
+      "The written language is a near impossible language to decrypt by non-druids as it uses the environment as part of written components; such as floral arrangements, star positions, druid crafted engravings and secret knowledge."
+    ],
+    "exotic": true
+  },
+  {
+    "type": "language",
+    "name": "Ancient Elvish",
+    "description": "The language of the star elves when they first arrived on Meridian. It is highly complex language, with a three-dimenisional script that has so far been impossible to decipher, even through magical means. It cannot be learned and there are no surviving users of this highly complex, mathematical language.",
+    "exotic": true
+  },
+  {
+    "type": "language",
+    "name": "Modern Elvish",
+    "description": "A constructed language believed to be invented by post-Imperial half-elves. It has very little in common with ancient elvish."
+  },
+  {
+    "type": "language",
+    "name": "Fairec",
+    "description": "The language of Fairbourne, quickly overtaking Merdi as the world's most popular language."
+  },
+  {
+    "type": "language",
+    "name": "Infernal",
+    "description": "A collection of characters created by Vestige cultists. Infernal has no phonetic components. It is a secret language, like thieves cant, with no universal cypher and immune to magical decryptions. Only those proficient in infernal have enough familiarity with the characters to potential decrypt an infernal script (with a successful investigation check).",
+    "exotic": true
+  },
+  {
+    "type": "language",
+    "name": "Merdi",
+    "description": "A common language cobbled together for trade and political uses. It is understood by most citizens of Meridian, especially those working in international affairs."
+  },
+  {
+    "type": "language",
+    "name": "Siiq",
+    "description": "An ancient language originally used by desert dwellers. It has remained largely unchanged over time."
+  },
+  {
+    "type": "language",
+    "name": "Thieves' Cant",
+    "description": [
+      "While not common among professional criminal organizations, this secret language is common among smaller thieves’ guilds and petty criminals. Since its words have no universal meaning, varying wildly by region, any magical means of decyphering cant is useless.",
+      "Someone proficient in thieves' cant might break its code (with a successful investigation check)."
+    ],
+    "exotic": true
+  },
+  {
+    "type": "language",
+    "name": "Uru",
+    "description": "An ancient language originating in Uruban. Rarely used by even Stoneborn outside of their northern homeland."
+  },
+  {
+    "type": "language",
+    "name": "Zeméri",
+    "description": "The national language of Karaj, Zemér and Seneka; the three nations that once made up the now defunct Zeméri empire."
+  }
+]
