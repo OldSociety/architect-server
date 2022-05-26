@@ -159,7 +159,7 @@
   {
     "type": "technology",
     "name": "artifice",
-      "description": "Artifices are resin-powered devices designed to create one-time short-term effects that duplicate the effects of potions, scrolls, and similar magic items. These don’t take the form of actual elixirs or spells on paper, but they have the same effect. "
+    "description": "Artifices are resin-powered devices designed to create one-time short-term effects that duplicate the effects of potions, scrolls, and similar magic items. These don’t take the form of actual elixirs or spells on paper, but they have the same effect. "
   },
   {
     "type": "technology",
@@ -176,7 +176,9 @@
     "name": "resin",
     "description": " Resin is an artificially created plasma that powers all elven technology. Radioactive and chemically unstable, the modern era could not begin until the process for recreating resin was recovered. Manufacturing resin is highly complex and can only be done under extreme conditions, such as near-volcanic temperature levels. As such, resin is the most valuable substance in the world."
   },
-  {    "type": "technology",
+  {
+    "type": "technology",
     "name": "materials",
-    "description": "Mithral technology requires four separate components to function. The first is resin which acts as a power source. Then, it needs a crystal core to contain the resin and maintain power regulation. Next, an artifice uses a semi-liquid mithral weave that works in tandem with the core to process and store pre-programmed information or instructions. Finally, the artifice requires mithral plating to work as outer shell and frame."}
+    "description": "Mithral technology requires four separate components to function. The first is resin which acts as a power source. Then, it needs a crystal core to contain the resin and maintain power regulation. Next, an artifice uses a semi-liquid mithral weave that works in tandem with the core to process and store pre-programmed information or instructions. Finally, the artifice requires mithral plating to work as outer shell and frame."
+  }
 ]
