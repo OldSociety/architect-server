@@ -178,5 +178,5 @@
   },
   {    "type": "technology",
     "name": "materials",
-    "description": "Each piece of mithral technology requires four separate components to function. The first is resin which acts as a power source. Then, it needs a crystal core to contain the resin and maintain power regulation. Next, an artifice uses a semi-liquid mithral weave that works in tandem with the core to process and store pre-programmed information or instructions. Finally, the artifice requires mithral plating to work as outer shell and frame."}
+    "description": "Mithral technology requires four separate components to function. The first is resin which acts as a power source. Then, it needs a crystal core to contain the resin and maintain power regulation. Next, an artifice uses a semi-liquid mithral weave that works in tandem with the core to process and store pre-programmed information or instructions. Finally, the artifice requires mithral plating to work as outer shell and frame."}
 ]
