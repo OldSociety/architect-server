@@ -2,76 +2,209 @@
   {
     "type": "bestiary",
     "name": "Aberrations",
-    "description": "Like elves, aberrations are truly alien beings from a distant place among the stars. Their unnatural presence on Meridian distorts reality and can shatter minds. Aberrations are hunters that have sought out the elves over millenia and are intent to draw their ancient masters to this new world."
+    "entries": [
+      [
+        "Like elves, aberrations are truly alien beings from a distant place among the stars. Their unnatural presence on Meridian distorts reality and can shatter minds. Aberrations are hunters that have sought out the elves over millenia and are intent to draw their ancient masters to this new world."
+      ],
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/f1/26/0d/f1260dd0bc277fd2d8383832fbfd3ee4.jpg"
+        },
+        "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its center atop an oblong blue and purple magical holy symbol."
+      }
+    ]
   },
   {
     "type": "bestiary",
     "name": "Bloodied",
-    "description": [
-      "Demons are not the only threat to mortals that the Bloodlands pose. Its chaotic energy sometimes flows through portals infecting the physical world in bizarre and horrible ways. When this energy encounters a humanoid, it can drive the person insane, an act known as becoming 'Bloodied'.",
-      "The Bloodied are self-mutilating creatures known to peel back parts of their skin and savagely engage in horrifying acts of rape, torture, and cannibalism.",
-      "They are hardened by their insanity, unable to feel pain or sympathy and are driven by instinct. Unlike possession, where the victim can be saved by intervention and exorcism: there is no coming back from this descent into madness."
+    "entries": [
+      [
+        "Demons are not the only threat to mortals that the Bloodlands pose. Its chaotic energy sometimes flows through portals infecting the physical world in bizarre and horrible ways. When this energy encounters a humanoid, it can drive the person insane, an act known as becoming 'Bloodied'.",
+        "The Bloodied are self-mutilating creatures known to peel back parts of their skin and savagely engage in horrifying acts of rape, torture, and cannibalism.",
+        "They are hardened by their insanity, unable to feel pain or sympathy and are driven by instinct. Unlike possession, where the victim can be saved by intervention and exorcism: there is no coming back from this descent into madness."
+      ],
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/f1/26/0d/f1260dd0bc277fd2d8383832fbfd3ee4.jpg"
+        },
+        "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its center atop an oblong blue and purple magical holy symbol."
+      }
     ]
   },
   {
     "type": "bestiary",
     "name": "Celestials",
-    "description": "Like fey, celestials are wonderous, magical creatures native to Meridian. Yet, unlike fey, celestials (also known as Empyrean) exist primarily within the Gray Halls as supreme beings far removed from mortal struggles or plights. It is difficult, if not impossible, to quantify the upper limits of their demigod-like power."
+    "entries": [
+      [
+        "Like fey, celestials are wonderous, magical creatures native to Meridian. Yet, unlike fey, celestials (also known as Empyrean) exist primarily within the Gray Halls as supreme beings far removed from mortal struggles or plights. It is difficult, if not impossible, to quantify the upper limits of their demigod-like power."
+      ],
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/f1/26/0d/f1260dd0bc277fd2d8383832fbfd3ee4.jpg"
+        },
+        "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its center atop an oblong blue and purple magical holy symbol."
+      }
+    ]
   },
   {
     "type": "bestiary",
     "name": "Constructs",
-    "description": [
-      "Created by elves, mithral constructs were an integral part of ancient society. But without the endless supply of energy of their home world, the elves were eventually forced to invent less sophisticated forms of artificial life.",
-      "As time passed and their empire fell, only the most basic recipes for constructs survived. Modern constructs are made from various types of physical materials including: mithral scrapped from elven ruins, crystals cores from hunted down earth elementals, and even the skin, limbs and bones of beasts and/or monstrosities."
+    "entries": [
+      [
+        "Created by elves, mithral constructs were an integral part of ancient society. But without the endless supply of energy of their home world, the elves were eventually forced to invent less sophisticated forms of artificial life.",
+        "As time passed and their empire fell, only the most basic recipes for constructs survived. Modern constructs are made from various types of physical materials including: mithral scrapped from elven ruins, crystals cores from hunted down earth elementals, and even the skin, limbs and bones of beasts and/or monstrosities."
+      ],
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/f1/26/0d/f1260dd0bc277fd2d8383832fbfd3ee4.jpg"
+        },
+        "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its center atop an oblong blue and purple magical holy symbol."
+      }
     ]
   },
   {
     "type": "bestiary",
     "name": "Demons",
-    "description": [
-      "Whether called demon, devil, or fiend: these creatures are evil made manifest. Born of the Bloodlands, demons are intangible creatures that rely on possession to corrupt and destroy the material plane. 13 Archdemons, also known as Vestiges, martial the Bloodlands.",
-      "Unlike the lesser demons they command, these immortal princes of hell have both the awareness and the intellectual capacity to plan, scheme and otherwise attack Meridian. While exceedingly rare, they can use portals between worlds to cross into the material plane in physical form.",
-      "Lesser demons cannot cross into the physical plane. Instead, they must possess the living, often religious and political leaders. They tend to be driven by basic impulses of corruption and destruction."
+    "entries": [
+      [
+        "Whether called demon, devil, or fiend: these creatures are evil made manifest. Born of the Bloodlands, demons are intangible creatures that rely on possession to corrupt and destroy the material plane. 13 Archdemons, also known as Vestiges, martial the Bloodlands.",
+        "Unlike the lesser demons they command, these immortal princes of hell have both the awareness and the intellectual capacity to plan, scheme and otherwise attack Meridian. While exceedingly rare, they can use portals between worlds to cross into the material plane in physical form.",
+        "Lesser demons cannot cross into the physical plane. Instead, they must possess the living, often religious and political leaders. They tend to be driven by basic impulses of corruption and destruction."
+      ],
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/f1/26/0d/f1260dd0bc277fd2d8383832fbfd3ee4.jpg"
+        },
+        "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its center atop an oblong blue and purple magical holy symbol."
+      }
     ]
   },
   {
     "type": "bestiary",
     "name": "Dragons",
-    "description": [
-      "Followers of Solace believe dragons descend from the Seraphs and can be regarded as angels, sent to Meridian for divine missions known only to themselves. But this is contended by many outside the faithful, who instead see dragons more closely akin to forces of nature.",
-      "Dragons are not benevolent by default. They have no language, culture, nor other humanoid traits of dragons in other settings. The appearance of a dragon must be regarded with caution for their potential for destruction knows no limits.",
-      "There are seven types of dragons in Meridian: blood, gold, grave, hex, lumen, shadow, and tempest dragons."
+    "entries": [
+      [
+        "Followers of Solace believe dragons descend from the Seraphs and can be regarded as angels, sent to Meridian for divine missions known only to themselves. But this is contended by many outside the faithful, who instead see dragons more closely akin to forces of nature.",
+        "Dragons are not benevolent by default. They have no language, culture, nor other humanoid traits of dragons in other settings. The appearance of a dragon must be regarded with caution for their potential for destruction knows no limits.",
+        "There are seven types of dragons in Meridian: blood, gold, grave, hex, lumen, shadow, and tempest dragons."
+      ],
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/f1/26/0d/f1260dd0bc277fd2d8383832fbfd3ee4.jpg"
+        },
+        "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its center atop an oblong blue and purple magical holy symbol."
+      }
     ]
   },
   {
     "type": "bestiary",
     "name": "Elemental",
-    "description": "Elementals are mindless matter brought to life by a spell or Meridian's natural energies. Elementals, including the mountain-sized Primordials who ended the elven empire, are incredible forces of nature that never tire, never question orders, and threaten all civilization equally."
+    "entries": [
+      [
+        "Elementals are mindless matter brought to life by a spell or Meridian's natural energies. Elementals, including the mountain-sized Primordials who ended the elven empire, are incredible forces of nature that never tire, never question orders, and threaten all civilization equally."
+      ],
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/f1/26/0d/f1260dd0bc277fd2d8383832fbfd3ee4.jpg"
+        },
+        "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its center atop an oblong blue and purple magical holy symbol."
+      }
+    ]
   },
   {
     "type": "bestiary",
     "name": "Fey",
-    "description": [
-      "Fey are some of the least understood creatures in all Meridian. They have existed since the beginning of time and are near immortal beings of pure magic that are deeply connected to Meridian's natural world. Fey cannot lie and rarely do they tell the whole truth.",
-      "And while there are notable exceptions, such as the fey that protect Ash'ahla and other natural wonders of the world, most fey make only occasional, brief appearances in the world, causing mischief and doling out both blessings and curses as they see fit.",
-      "Fey is an umbrella term for all manner of magical creature, from ancient sphynx, to wish-granting djinn, to pixies and beyond. Fey have no culture, kingdom nor society known to mortals and while often whimsical, it cannot be overstated that fey are immensely powerful beings who command profound respect (and fear) from all societies around the world."
+    "entries": [
+      [
+        "Fey are some of the least understood creatures in all Meridian. They have existed since the beginning of time and are near immortal beings of pure magic that are deeply connected to Meridian's natural world. Fey cannot lie and rarely do they tell the whole truth.",
+        "And while there are notable exceptions, such as the fey that protect Ash'ahla and other natural wonders of the world, most fey make only occasional, brief appearances in the world, causing mischief and doling out both blessings and curses as they see fit.",
+        "Fey is an umbrella term for all manner of magical creature, from ancient sphynx, to wish-granting djinn, to pixies and beyond. Fey have no culture, kingdom nor society known to mortals and while often whimsical, it cannot be overstated that fey are immensely powerful beings who command profound respect (and fear) from all societies around the world."
+      ],
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/f1/26/0d/f1260dd0bc277fd2d8383832fbfd3ee4.jpg"
+        },
+        "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its center atop an oblong blue and purple magical holy symbol."
+      }
     ]
   },
   {
     "type": "bestiary",
     "name": "Monstrosities",
-    "description": "Whether the by-product of the same failed experiments which created the lesser races, or the result of a terrible curse, monstrosities are monsters in the strictest sense, frightening creatures that are not ordinary, not truly natural, and almost never benign. Monstrosities often defy categorization and, in some sense, the word serve as a catch-all category for creatures that don’t fit into any other type."
+    "entries": [
+      [
+        "Whether the by-product of the same failed experiments which created the lesser races, or the result of a terrible curse, monstrosities are monsters in the strictest sense, frightening creatures that are not ordinary, not truly natural, and almost never benign. Monstrosities often defy categorization and, in some sense, the word serve as a catch-all category for creatures that don’t fit into any other type."
+      ],
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/f1/26/0d/f1260dd0bc277fd2d8383832fbfd3ee4.jpg"
+        },
+        "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its center atop an oblong blue and purple magical holy symbol."
+      }
+    ]
   },
   {
     "type": "bestiary",
     "name": "Undead",
-    "description": "Undead are once-living creatures brought to a horrifying state of undeath through the practice of necromantic magic or some unholy curse. Undead include walking corpses, such as skeletons, vampires and zombies."
+    "entries": [
+      [
+        "Undead are once-living creatures brought to a horrifying state of undeath through the practice of necromantic magic or some unholy curse. Undead include walking corpses, such as skeletons, vampires and zombies."
+      ],
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/f1/26/0d/f1260dd0bc277fd2d8383832fbfd3ee4.jpg"
+        },
+        "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its center atop an oblong blue and purple magical holy symbol."
+      }
+    ]
   },
   {
     "type": "bestiary",
     "name": "Spectral Undead",
-    "description": "Spectral undead are a subcategory of undead that include bodiless spirits, such as ghosts and specters. When unfinished business makes a soul linger in the material world, it cannot sustain itself. With time, the soul withers until all it knows or remembers is suffering. Spectral undead grow less recognizable, and inevitably, more powerful with age."
+    "entries": [
+      [
+        "Spectral undead are a subcategory of undead that include bodiless spirits, such as ghosts and specters. When unfinished business makes a soul linger in the material world, it cannot sustain itself. With time, the soul withers until all it knows or remembers is suffering. Spectral undead grow less recognizable, and inevitably, more powerful with age."
+      ],
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://i.pinimg.com/originals/f1/26/0d/f1260dd0bc277fd2d8383832fbfd3ee4.jpg"
+        },
+        "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its center atop an oblong blue and purple magical holy symbol."
+      }
+    ]
   },
   {
     "type": "language",
