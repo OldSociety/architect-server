@@ -707,7 +707,7 @@
     "name": "Exclusionists",
     "type": ["Religious"],
     "entries": [
-      ["Believe in Miira without the Seraphs.", "", "", ""],
+      ["Believe in Miira without the Seraphs."],
       {
         "type": "image",
         "href": {
@@ -872,7 +872,7 @@
     "name": "Ash'a",
     "type": ["Religious"],
     "entries": [
-      ["Priests of god-Queen Aurora.", "", "", ""],
+      ["Priests of god-Queen Aurora."],
       {
         "type": "image",
         "href": {
@@ -1292,7 +1292,7 @@
     "name": "Zyrese Knights",
     "type": ["Religious"],
     "entries": [
-      ["Warrior-priests similar to the madji.", "", "", ""],
+      ["By the end of the post-Imperial dark age, the Zyrese Knights were an elite paramilitary force. Ordained by priests of Zyry, the Knights were often used to protect valuable areas, especially  areas of pharaonic interest like Capital cities, royal cemetaries, and southern borders."],
       {
         "type": "image",
         "href": {
