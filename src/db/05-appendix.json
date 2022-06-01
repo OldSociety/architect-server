@@ -147,6 +147,39 @@
     "exotic": true
   },
   {
+    "type": "planes",
+    "name": "Bloodlands",
+    "description": [
+      "The Bloodlands are a hell-like plane separated from Meridian by the astral plane's Grey Walls. It is a realm of primal energy and matter, chaos rumored to be the original source of creation of the mortal world. Human religion teaches that Meridian is the birthplace of beasts and men at a time when magic was myth and its monsters imaginary.",
+      "But all of that changed when the elves fell from the stars and committed the Original Sin. Their offenses to the Goddess Miira opened the gates of hell and unleashed evil into the known world.",
+      "According to scholars, the Bloodlands are divided into an infinite number of territories teeming with fiends who occasionally find their way into the material plane. Most of these creatures are thoughtless manifestations of corruption and destruction. But there are a few extremely powerful demons that have full sentience and martial the forces of the Bloodlands for their own, unknowable purposes. While their existence is universal knowledge throughout Meridian, direct contact with these creatures is extremely rare."
+    ]
+  },
+  {
+    "type": "planes",
+    "name": "Far Realm",
+    "description": "While technically not a plane of existence, the elven homeworld is far beyond Meridian’s solar system. Its exact location is lost to history but there are rumors that the ancient knowledge exists in the terrible aberrations that follow the elves. What is more, there may even be a way to contact their home world and the distant relatives that live there."
+  },
+  {
+    "type": "planes",
+    "name": "Grey Halls",
+    "description": [
+      "The Grey Halls are metaphysical barriers that exists between the physical world and the Bloodlands. Neither mortal nor demon can easily pass physically through the Veil, but the consciousness often passes (sometimes unknowingly) without issue.",
+      "This middle path is like what other settings call the Astral and Ethereal planes, a crossroads overflowing with strange, incorporeal inhabitants with an insatiable hunger for both the life force of men and the energy of demons. For followers of Solace and Exclusionism, the Grey Halls are an afterlife for poor souls unable to enter into Miira's Paradise.",
+      "The Grey Halls are not physical, but rather something like a magical vibration that keeps a delicate balance between the two lands. It is a metaphor used by mortal scholars to explain the interactions between the two different realities."
+    ]
+  },
+  {
+    "type": "planes",
+    "name": "Paradise",
+    "description": "Beyond the boundaries of both the Grey Walls and the Bloodlands, humans preach of Miira’s Paradise, a heavenly realm connected to the planet Pandem. When a soul is judged worthy by Udreth-Sol, they are taken safely into Miira’s Paradise to live in eternal joy and peace. Outside of religious study, there is little tangible proof that this Paradise exists, and it is heavily disregarded by elven traditionalists."
+  },
+  {
+    "type": "planes",
+    "name": "Planes of Existence",
+    "description": "There are two confirmed planes of existence outside of the Material plane: the Grey Halls and the Bloodlands. While well established, these lands are mysterious and terrifying to most people. Most knowledge about them is kept locked away by large scholastic institutions and high-ranking religious leaders. Minor demiplanes also exist, pocket dimensions outside of the natural world, but they are small and collapse upon themselves after a time. Mythical places like the elven far realms and Miira's paradise are rumored, but cannot be accessed through normal planar travel."
+  },
+  {
     "type": "language",
     "name": "Uru",
     "description": "An ancient language originating in Uruban. Rarely used by even Stoneborn outside of their northern homeland."

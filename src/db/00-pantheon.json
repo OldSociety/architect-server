@@ -831,7 +831,7 @@
     "rank": "Archdemon",
     "entries": [
       {
-        "description": ["Pain"]
+        "description": ["Worshipped through human sacrifice, Angeres is the Vestige of anguish."]
       },
       {
         "type": "image",
@@ -856,7 +856,7 @@
     "rank": "Archdemon",
     "entries": [
       {
-        "description": [""]
+        "description": ["Vestige of Puppetry."]
       },
       {
         "type": "image",
@@ -881,7 +881,7 @@
     "rank": "Archdemon",
     "entries": [
       {
-        "description": [""]
+        "description": ["Vestige of Delusions."]
       },
       {
         "type": "image",
@@ -906,7 +906,7 @@
     "rank": "Archdemon",
     "entries": [
       {
-        "description": [""]
+        "description": ["Vestige of Vile Ignorance."]
       },
       {
         "type": "image",
@@ -1047,7 +1047,7 @@
     "rank": "Archdemon",
     "entries": [
       {
-        "description": ["Instill fear in my enemies."]
+        "description": ["Hell's Viscount, Dzoavac is a brute that enjoys subjugating, eating and tormenting. Dzoavac's small size disguises their incredible physical power and cunning, making them a threat to even their most powerful enemies."]
       },
       {
         "type": "image",
@@ -1072,7 +1072,7 @@
     "rank": "Archdemon",
     "entries": [
       {
-        "description": ["Death and decay."]
+        "description": ["Vestige of stolen memories, death and decay."]
       },
       {
         "type": "image",
@@ -1092,12 +1092,12 @@
   },
   {
     "id": 36,
-    "name": "Cimeis",
+    "name": "Sashamel",
     "religion": ["Vestige"],
     "rank": "Archdemon",
     "entries": [
       {
-        "description": [""]
+        "description": ["The Leper King, those who come in contact with Sashamel are doomed to join his army."]
       },
       {
         "type": "image",
@@ -1117,12 +1117,12 @@
   },
   {
     "id": 37,
-    "name": "Bokavac",
+    "name": "Vetiti",
     "religion": ["Vestige"],
     "rank": "Archdemon",
     "entries": [
       {
-        "description": [""]
+        "description": ["Also known as the Mage's bane, Vetiti feeds off the magical potential of spellcasters. They are the mentor to hags, witches and warlocks; fattening them up with power before the feast. Vetiti is the author of 'The Iniquitious', a series of cursed tomes describing various True Names of demons under their domain."]
       },
       {
         "type": "image",
