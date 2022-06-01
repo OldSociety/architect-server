@@ -5,12 +5,7 @@
     "type": ["Arcane"],
     "entries": [
       [
-        [
-          "When the elves arrived, surviving human mages fled to secret abbeys, known as Circles, to continue their craft and worship of Miira undisturbed. After the empire, the abbeys came out of hiding and created the Conjunction, a loose organization led by the strongest archmages who train, study and teach undisturbed by the outside world. Only the most talented spellcasters are invited to train among the Conjunction.",
-          "",
-          "",
-          ""
-        ]
+        "When the elves arrived, surviving human mages fled to secret abbeys, known as Circles, to continue their craft and worship of Miira undisturbed. After the empire, the abbeys came out of hiding and created the Conjunction, a loose organization led by the strongest archmages who train, study and teach undisturbed by the outside world. Only the most talented spellcasters are invited to train among the Conjunction."
       ],
       {
         "type": "image",
@@ -92,12 +87,9 @@
     "type": ["Mercantile"],
     "entries": [
       [
-        [
-          "Based out of Taj’aruhn in Karaj, the Scarlet Delegate is powerful, multinational, monopolistic trading company. Newly established by a group of extremely powerful merchants, the Delegate maintains a tenuous trade agreement between Fairbourne, Karaj, Zemer, and Seneka. It’s commitment to absolute neutrality has turned the Delegate into the only naval organization to have access to both sides of Meridian. As such, the Scarlet Delegate both facilitates and monopolizes open trade between the nations.",
-          "The Scarlet Delegate has outposts in each capital city it operates in. Constantly expanding, with dealings in all major trade commodities, the Delegate is careful to follow the individual laws of each nation it deals with. This led to the establishment of the Unbreakable Orders, a set of laws each member must strictly follow. While there is plenty of double dealing, smuggling and other criminal activity, the Delegate’s members must be careful not to get caught.",
-          "Faction merchants that endanger the fragile nature of the Delegate’s arrangement, along with their family and friends, are severely punished.",
-          ""
-        ]
+        "Based out of Taj’aruhn in Karaj, the Scarlet Delegate is powerful, multinational, monopolistic trading company. Newly established by a group of extremely powerful merchants, the Delegate maintains a tenuous trade agreement between Fairbourne, Karaj, Zemer, and Seneka. It’s commitment to absolute neutrality has turned the Delegate into the only naval organization to have access to both sides of Meridian. As such, the Scarlet Delegate both facilitates and monopolizes open trade between the nations.",
+        "The Scarlet Delegate has outposts in each capital city it operates in. Constantly expanding, with dealings in all major trade commodities, the Delegate is careful to follow the individual laws of each nation it deals with. This led to the establishment of the Unbreakable Orders, a set of laws each member must strictly follow. While there is plenty of double dealing, smuggling and other criminal activity, the Delegate’s members must be careful not to get caught.",
+        "Faction merchants that endanger the fragile nature of the Delegate’s arrangement, along with their family and friends, are severely punished."
       ],
       {
         "type": "image",
@@ -179,12 +171,7 @@
     "type": ["Criminal", "Mercantile"],
     "entries": [
       [
-        [
-          "Hidden deep within Harlan's breach is a town of thieves, brigands and rebel rousers. Dominating Fairec criminal world, the Den is smaller but far more resourceful than their counterparts.",
-          "",
-          "",
-          ""
-        ]
+        "Hidden deep within Harlan's breach is a town of thieves, brigands and rebel rousers. Dominating Fairec criminal world, the Den is smaller but far more resourceful than their counterparts."
       ],
       {
         "type": "image",
@@ -387,12 +374,10 @@
     "type": ["Noble"],
     "entries": [
       [
-        [
-          "Unlike their Lynxborn breathren, physicality helped Prideborn overcome the long supremacy of the elves after the empire’s fall. Over centuries, they established powerful noble houses, called Clans, which came to full power during the reign of the Zeméri empire.",
-          "Currently, eight noble houses head the furborn families in Zemer with power and influence reaching across the southern nations, and even Egress. These clans maintain long-held ties to the Synagogue and influence politics, industry, art, entertainment, religion, and every other aspect of Zeméri life. Only the strength of the crown and the competing elven Lineage that keeps the Clan’s power in check.",
-          "Clan estates comprise of whole villages, needed to support the family’s commerce, and sometimes double as fortresses for the Synagogue’s most powerful members. Despite the sometimes conflict of interest, the Clans remain pledged to King Jared.",
-          "A Clan’s most sacred possession is its Yori, or Soulbrand, a set of legendary weapons and armor unique to the Clan. They are powerful tools hand-crafted from Amithrisil (star elves) artifacts using secret techniques. Each Soulbrand is engraved with markings of their clan’s history and ancestral achievements. Theft of even a single Soulbrand by another group or nation would undoubtably mean war, not only with the rest of the Clans, but the full might of the Synagogue as well. Only Zemer’s ruler (as punishment for high crimes against the crown) can rightfully destroy a Soulbrand. The ritual to do so is long and complex, but a Soulbrand’s destruction strips the family (and its branches) of all noble titles, forever branding them as outcasts. In the last 500 years, only one family has seen its Soulbrand destroyed."
-        ]
+        "Unlike their Lynxborn breathren, physicality helped Prideborn overcome the long supremacy of the elves after the empire’s fall. Over centuries, they established powerful noble houses, called Clans, which came to full power during the reign of the Zeméri empire.",
+        "Currently, eight noble houses head the furborn families in Zemer with power and influence reaching across the southern nations, and even Egress. These clans maintain long-held ties to the Synagogue and influence politics, industry, art, entertainment, religion, and every other aspect of Zeméri life. Only the strength of the crown and the competing elven Lineage that keeps the Clan’s power in check.",
+        "Clan estates comprise of whole villages, needed to support the family’s commerce, and sometimes double as fortresses for the Synagogue’s most powerful members. Despite the sometimes conflict of interest, the Clans remain pledged to King Jared.",
+        "A Clan’s most sacred possession is its Yori, or Soulbrand, a set of legendary weapons and armor unique to the Clan. They are powerful tools hand-crafted from Amithrisil (star elves) artifacts using secret techniques. Each Soulbrand is engraved with markings of their clan’s history and ancestral achievements. Theft of even a single Soulbrand by another group or nation would undoubtably mean war, not only with the rest of the Clans, but the full might of the Synagogue as well. Only Zemer’s ruler (as punishment for high crimes against the crown) can rightfully destroy a Soulbrand. The ritual to do so is long and complex, but a Soulbrand’s destruction strips the family (and its branches) of all noble titles, forever branding them as outcasts. In the last 500 years, only one family has seen its Soulbrand destroyed."
       ],
       {
         "type": "image",
@@ -557,12 +542,10 @@
     "type": ["Religious", "Criminal"],
     "entries": [
       [
-        [
-          "The Synagogue is a family first, a religious body second and a criminal organization last. Widely known to already be the most powerful of Meridian churches, the Synagogue's goals are varied - but their main objective is incredibly simple - obtain positions of power across every nation of Meridian. They are highly ritualistic, abide a strict code of conduct and chain of command. The Synagogue is divided into cells, also known as Nests, each in control of rigid territorial borders acting autonomously from the rest. Every Nest is led by an elected individual known as the Dragon's Heir.",
-          "The Synagogue follows a creed unchanged from their original roots, rebuild the world for Miira’s eventual return, though their methods have definitely evolved. A member of the Synagogue feels that they are a member of a very large family and relies on their brothers and sisters for resources and security. However, members are also granted autonomy to pursue their own interests and gain some measure of personal power or influence when no other orders are present.",
-          "On top of being regarded as the wealthiest and most sophisticated criminal organizations, the Synagogue is also a well-respected branch of the human religion. They are Meridian’s largest charitable body, providing disaster relief, healing services and refugee protection during war and other catastrophes. They also have strong ties to local communities, providing financial and protective services, in exchange for respect (and fear). Because of their redeeming qualities, many of its members see their income (and hustles) as a legitimate tax in return for their honorable services.",
-          "Much of the Synagogue's money is old money. The faction was established long ago and now its highest members are also some of the wealthiest and most notable families in the southern nations. They maintain their wealth through a combination of legitimate businesses (realty, investments, banking) that they finance but are run by non-members, as well as their illegal activities. "
-        ]
+        "The Synagogue is a family first, a religious body second and a criminal organization last. Widely known to already be the most powerful of Meridian churches, the Synagogue's goals are varied - but their main objective is incredibly simple - obtain positions of power across every nation of Meridian. They are highly ritualistic, abide a strict code of conduct and chain of command. The Synagogue is divided into cells, also known as Nests, each in control of rigid territorial borders acting autonomously from the rest. Every Nest is led by an elected individual known as the Dragon's Heir.",
+        "The Synagogue follows a creed unchanged from their original roots, rebuild the world for Miira’s eventual return, though their methods have definitely evolved. A member of the Synagogue feels that they are a member of a very large family and relies on their brothers and sisters for resources and security. However, members are also granted autonomy to pursue their own interests and gain some measure of personal power or influence when no other orders are present.",
+        "On top of being regarded as the wealthiest and most sophisticated criminal organizations, the Synagogue is also a well-respected branch of the human religion. They are Meridian’s largest charitable body, providing disaster relief, healing services and refugee protection during war and other catastrophes. They also have strong ties to local communities, providing financial and protective services, in exchange for respect (and fear). Because of their redeeming qualities, many of its members see their income (and hustles) as a legitimate tax in return for their honorable services.",
+        "Much of the Synagogue's money is old money. The faction was established long ago and now its highest members are also some of the wealthiest and most notable families in the southern nations. They maintain their wealth through a combination of legitimate businesses (realty, investments, banking) that they finance but are run by non-members, as well as their illegal activities. "
       ],
       {
         "type": "image",
@@ -643,7 +626,7 @@
     "name": "Scarbacks",
     "type": ["Religious"],
     "entries": [
-      [["Demon hunters pledge to Sen-shi.", "", "", ""]],
+      ["Paladins of Sen-shi, Scarbacks are a loose organization who find and punish Perverse spellcasters before their actions can have long lasting effects. They are also demon hunters that hone their minds, spirits, and bodies to be the ultimate weapons against such threats. Ever vigilant in spotting the influence of extraplanar forces, Scarbacks often establishing a network of spies and informants to gather information on suspected cults. Scarbacks keep a healthy suspicion and awareness about one's surroundings is as natural as wearing armor in battle."],
       {
         "type": "image",
         "href": {
@@ -723,7 +706,7 @@
     "name": "Exclusionists",
     "type": ["Religious"],
     "entries": [
-      [["Believe in Miira without the Seraphs.", "", "", ""]],
+      ["Believe in Miira without the Seraphs."],
       {
         "type": "image",
         "href": {
@@ -804,12 +787,10 @@
     "type": ["Religious"],
     "entries": [
       [
-        [
-          "The Church of Nobility is an atheist religious institution that follows many of the original teachings of the elves. It has strong ties to the Ephemeron and is made up of countless temples and cathedrals across Meridian, the largest being among nations south of Egress. Many of its members pride themselves in find scientific solutions over magical ones, since science is a gift to the masses while magic is only obtainable by the chosen few.",
-          "The Church is led by priests known as “Priors” who are expected to teach and guide followers into making decisions that best lead their flock towards enlightenment, a point where they will ascend the material plane and join the Elven Lords in a higher existence. The Elven Lords are pre-Meridian ancestors who found immortality through ascension, and it is believed that any living creature can do the same (though it never been witnessed in recorded history).",
-          "With hundreds of Elven Lords recorded in their holy texts, Priors memorize and share the many paths towards enlightenment. Because these fables often involve powerful, fantastical technology that no living person could possibly have access to, Priors are tasked with deciphering the stories into metaphors and answers to life’s most troubling questions.",
-          "Due to the simplicity of its teachings, the ease its followers can become priors themselves, and the immeasurable wealth of the Ephemeron: The Church’s influence vastly overshadows Meridians other religions."
-        ]
+        "The Church of Nobility is an atheist religious institution that follows many of the original teachings of the elves. It has strong ties to the Ephemeron and is made up of countless temples and cathedrals across Meridian, the largest being among nations south of Egress. Many of its members pride themselves in find scientific solutions over magical ones, since science is a gift to the masses while magic is only obtainable by the chosen few.",
+        "The Church is led by priests known as “Priors” who are expected to teach and guide followers into making decisions that best lead their flock towards enlightenment, a point where they will ascend the material plane and join the Elven Lords in a higher existence. The Elven Lords are pre-Meridian ancestors who found immortality through ascension, and it is believed that any living creature can do the same (though it never been witnessed in recorded history).",
+        "With hundreds of Elven Lords recorded in their holy texts, Priors memorize and share the many paths towards enlightenment. Because these fables often involve powerful, fantastical technology that no living person could possibly have access to, Priors are tasked with deciphering the stories into metaphors and answers to life’s most troubling questions.",
+        "Due to the simplicity of its teachings, the ease its followers can become priors themselves, and the immeasurable wealth of the Ephemeron: The Church’s influence vastly overshadows Meridians other religions."
       ],
       {
         "type": "image",
@@ -890,7 +871,7 @@
     "name": "Ash'a",
     "type": ["Religious"],
     "entries": [
-      [["Priests of god-Queen Aurora.", "", "", ""]],
+      ["Priests of god-Queen Aurora."],
       {
         "type": "image",
         "href": {
@@ -971,12 +952,7 @@
     "type": ["Religious"],
     "entries": [
       [
-        [
-          "Larimar's most devoted priests dedicate their lives to the protection of wild magic. Through divination or prophecy, Watchers seek out conduits of wild magic and attempt to bring order where there is none. They believe places of power are holy sites that deserve reverence and that those infused with such power are touched by destiny. Yet, wild magic is difficult to contain and even harder to anticipate and sometimes the most a Watcher can hope for is letting its destruction run its course.",
-          "",
-          "",
-          ""
-        ]
+        "Larimar's most devoted priests dedicate their lives to the protection of wild magic. Through divination or prophecy, Watchers seek out conduits of wild magic and attempt to bring order where there is none. They believe places of power are holy sites that deserve reverence and that those infused with such power are touched by destiny. Yet, wild magic is difficult to contain and even harder to anticipate and sometimes the most a Watcher can hope for is letting its destruction run its course."
       ],
       {
         "type": "image",
@@ -1058,12 +1034,10 @@
     "type": ["Science"],
     "entries": [
       [
-        [
-          "The Ephemeron Academy of Elven Technology, better known as the Ephemeron (Eff-ehm-err-in), is an Egressian institution that pioneers the reclamation of lost/forgotten elven technology with the ultimate goal of resurrecting the advanced science of ancient elves. It is a professional and academic organization, located throughout southern Meridian (nations south of Egress).",
-          "Established during the early days of the Zemeri Empire in the Egressian capital, Amenmaatra, by then-Sergeant-in-arms Iric Cimeros, the Ephemeron was the world’s military research institute. Today, the Ephemeron is politically neutral and provides its services publicly to both world leaders and common masses alike.",
-          "Along with its public services, its international charter specifies that the Ephemeron is responsible for building detailed lists of known elven technology, both ancient and modern. They provide states with the names, residencies, and political status of their proprietors. Yet, the Ephemeron itself does not include a policing body and cannot themselves enforce these laws.",
-          "The Ephemeron is funded through private and government contracts to explore newly discovered ruins, along with the sale of common modern technology, and fees for training talented artificers in advance study. As a research institution, the Ephemeron also serves as a museum of sorts. The College of Arbitration in Amenmaatra stores and protects relics, especially those found to be potentially dangerous, from the general public."
-        ]
+        "The Ephemeron Academy of Elven Technology, better known as the Ephemeron (Eff-ehm-err-in), is an Egressian institution that pioneers the reclamation of lost/forgotten elven technology with the ultimate goal of resurrecting the advanced science of ancient elves. It is a professional and academic organization, located throughout southern Meridian (nations south of Egress).",
+        "Established during the early days of the Zemeri Empire in the Egressian capital, Amenmaatra, by then-Sergeant-in-arms Iric Cimeros, the Ephemeron was the world’s military research institute. Today, the Ephemeron is politically neutral and provides its services publicly to both world leaders and common masses alike.",
+        "Along with its public services, its international charter specifies that the Ephemeron is responsible for building detailed lists of known elven technology, both ancient and modern. They provide states with the names, residencies, and political status of their proprietors. Yet, the Ephemeron itself does not include a policing body and cannot themselves enforce these laws.",
+        "The Ephemeron is funded through private and government contracts to explore newly discovered ruins, along with the sale of common modern technology, and fees for training talented artificers in advance study. As a research institution, the Ephemeron also serves as a museum of sorts. The College of Arbitration in Amenmaatra stores and protects relics, especially those found to be potentially dangerous, from the general public."
       ],
       {
         "type": "image",
@@ -1150,13 +1124,11 @@
     "type": ["Science"],
     "entries": [
       [
-        [
-          "Two hundred years ago, the Puzzles were an important competitor to the Ephemeron and an indispensable branch of the Zemeri Council of Ministers. One of Zemer’s best kept secrets, the Puzzles used their affluence to promote the advancement of scientific research while at the same time impeded competing nation’s advancement. But after the ascension of King Jared Kirill, funding has slowly been stripped away from the elven sciences into military advances, specifically the king’s new Marksmen Legion.",
-          "With the slow economic drain on the organization, the Puzzles have had to evolve with the times. While still maintaining King Jared’s ear when it comes to new, important discoveries. The Puzzles are now a self-funded, self-governed exploratory faction. With less than fifty members, the Puzzles pride themselves as honored members of the King’s inner circle, allowing only qualified individuals entry through an extensive election process.",
-          "Their headquarters, the Winged Palace in Alboran serves primarily as a lodge for its members to discuss guild business, future expeditions, and informal dinner debates on current scientific issues and ideas. While society’s workshop continues to research and develop elven technologies for the crown, the Ephemeron’s international charter allows it to step in and recover any and all discoveries.",
-          "Instead, the society’s true power lies within their vaults. Over the course of its existence, the Puzzle’s vaults have collected over two million documents, maps, artifacts, paintings, periodicals, artefacts and books, and that span 500 years of geography, travel and exploration relating to the elves of old, their evolution of their society and their culture. With the power to make or break noble lines through historical records, members of the Ephemeron remain a political figure not worth underestimating.",
-          "The Puzzle Society was founded after the uncovering of an imperial age journal and lockbox known as the Ibin’jurati or the 'Madman's Puzzlebox'. The journal’s riddle (both a poetic and mathematical challenge) is considered one of the greatest discoveries of the modern age and has proven notoriously challenging. More than a few have been driven insane with obsession over a solution. Making matters more frustrating is that the question seems to alter itself depending on the person it is directed to."
-        ]
+        "Two hundred years ago, the Puzzles were an important competitor to the Ephemeron and an indispensable branch of the Zemeri Council of Ministers. One of Zemer’s best kept secrets, the Puzzles used their affluence to promote the advancement of scientific research while at the same time impeded competing nation’s advancement. But after the ascension of King Jared Kirill, funding has slowly been stripped away from the elven sciences into military advances, specifically the king’s new Marksmen Legion.",
+        "With the slow economic drain on the organization, the Puzzles have had to evolve with the times. While still maintaining King Jared’s ear when it comes to new, important discoveries. The Puzzles are now a self-funded, self-governed exploratory faction. With less than fifty members, the Puzzles pride themselves as honored members of the King’s inner circle, allowing only qualified individuals entry through an extensive election process.",
+        "Their headquarters, the Winged Palace in Alboran serves primarily as a lodge for its members to discuss guild business, future expeditions, and informal dinner debates on current scientific issues and ideas. While society’s workshop continues to research and develop elven technologies for the crown, the Ephemeron’s international charter allows it to step in and recover any and all discoveries.",
+        "Instead, the society’s true power lies within their vaults. Over the course of its existence, the Puzzle’s vaults have collected over two million documents, maps, artifacts, paintings, periodicals, artefacts and books, and that span 500 years of geography, travel and exploration relating to the elves of old, their evolution of their society and their culture. With the power to make or break noble lines through historical records, members of the Ephemeron remain a political figure not worth underestimating.",
+        "The Puzzle Society was founded after the uncovering of an imperial age journal and lockbox known as the Ibin’jurati or the 'Madman's Puzzlebox'. The journal’s riddle (both a poetic and mathematical challenge) is considered one of the greatest discoveries of the modern age and has proven notoriously challenging. More than a few have been driven insane with obsession over a solution. Making matters more frustrating is that the question seems to alter itself depending on the person it is directed to."
       ],
       {
         "type": "image",
@@ -1237,7 +1209,9 @@
     "name": "Eastern Fragment",
     "type": ["Science", "Criminal"],
     "entries": [
-      [["Secret organization within the Ephemeron that smuggles elven technology for nepharious purposes.", "", "", ""]],
+      [
+        "Secret organization within the Ephemeron that smuggles elven technology for nepharious purposes."
+      ],
       {
         "type": "image",
         "href": {
@@ -1317,7 +1291,7 @@
     "name": "Zyrese Knights",
     "type": ["Religious"],
     "entries": [
-      [["Warrior-priests similar to the madji.", "", "", ""]],
+      ["By the end of the post-Imperial dark age, the Zyrese Knights were an elite paramilitary force. Ordained by priests of Zyry, the Knights were often used to protect valuable areas, especially  areas of pharaonic interest like Capital cities, royal cemetaries, and southern borders."],
       {
         "type": "image",
         "href": {
@@ -1397,7 +1371,9 @@
     "name": "Marksmen Authority",
     "type": ["Military"],
     "entries": [
-      [["Created by imperial moon elves, the authority is a living construct. Since the loss of the empire, the authority has continued its manufacture of Marksmen warriors through the hunting and cannibalizing of Unmarked.", "", "", ""]],
+      [
+        "Created by imperial moon elves, the authority is a living construct. Since the loss of the empire, the authority has continued its manufacture of Marksmen warriors through the hunting and cannibalizing of Unmarked."
+      ],
       {
         "type": "image",
         "href": {

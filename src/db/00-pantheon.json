@@ -20,8 +20,8 @@
     "entries": [
       {
         "description": [
-          "Miira is the Great Goddess of Meridian, Mother of Men, and the Warrior Who Awaits the Inevitable End.",
-          "Miira represents the unknowable and knowledge that should not be known.",
+          "Miira is the Great Goddess of Meridian, Mother of Men, and the Warrior Who Awaits the Inevitable End. ",
+          "Miira represents the unknowable and knowledge that should not be known. ",
           "Miira fled Meridian for paradise when man committed the Original Sin, perverting Her gift of magic in an act of hubris and damaging the barrier between the Bloodlands and the material plane in the process. Her worshippers work to make both themselves, and the world, worthy enough for Her return."
         ]
       },
@@ -441,7 +441,7 @@
         "type": "image",
         "href": {
           "type": "external",
-          "url": ""
+          "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/727c3ed4-2640-4308-8082-cad30502e0cf/d4e37rj-d9a1c83a-812b-4a39-b5f3-721fe95075aa.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzcyN2MzZWQ0LTI2NDAtNDMwOC04MDgyLWNhZDMwNTAyZTBjZlwvZDRlMzdyai1kOWExYzgzYS04MTJiLTRhMzktYjVmMy03MjFmZTk1MDc1YWEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LDdPp29_MIhyn0GB7sGeVANdnmcl4Bwe4XiOPmYoJFE"
         },
         "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
         "altText": "EXAMPLE: AltText"
@@ -466,7 +466,7 @@
         "type": "image",
         "href": {
           "type": "external",
-          "url": ""
+          "url": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/e350c17750071.560e878a62936.jpg"
         },
         "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
         "altText": "EXAMPLE: AltText"
@@ -666,7 +666,7 @@
         "type": "image",
         "href": {
           "type": "external",
-          "url": "https://i.imgur.com/vXF7piG.jpeg"
+          "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/40efc8aa-012e-44ee-9b1d-a150972c569a/dcsmrzk-6bdf14d3-42bc-4c69-8069-832552db69fc.jpg/v1/fill/w_927,h_862,q_70,strp/devourer_of_worlds_by_lordigan_dcsmrzk-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODkzIiwicGF0aCI6IlwvZlwvNDBlZmM4YWEtMDEyZS00NGVlLTliMWQtYTE1MDk3MmM1NjlhXC9kY3NtcnprLTZiZGYxNGQzLTQyYmMtNGM2OS04MDY5LTgzMjU1MmRiNjlmYy5qcGciLCJ3aWR0aCI6Ijw9OTYwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.0x6LYZekCnXizEK0AMizbMXBljzPyRFQKAcH9tPS4vc"
         },
         "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
         "altText": "EXAMPLE: AltText"
