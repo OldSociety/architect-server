@@ -209,29 +209,34 @@
   {
     "type": "language",
     "name": "Arcanum",
+    "entries": "",
     "description": "The verbal components of arcane casters (most magical classes). Formal arcanum was the first human language, with 221 letters, one for every day of the year, it is extremely intricate and famously difficult to master.",
     "exotic": true
   },
   {
     "type": "language",
     "name": "Ash'a",
+    "entries": "",
     "description": "The national language of Ash’ahla, understood by many druids and nearly all fey."
   },
   {
     "type": "language",
     "name": "Celestial",
+    "entries": "",
     "description": "The language of clerics, paladins, and priests who follow the Church of Nobility. It is also the verbal component of these spellcasters.",
     "exotic": true
   },
   {
     "type": "language",
     "name": "Draconic",
+    "entries": "",
     "description": "The language of clerics, paladins, and other practitioners of the human religion Solace. It is believed to be the language of Miira’s Dragons (other dragons are not known to speak or understand any language including draconic) and is the verbal component for these spellcasters.",
     "exotic": true
   },
   {
     "type": "language",
     "name": "Druidic",
+    "entries": "",
     "description": [
       "The magical language of druids. The spoken version of this language is used exclusively as the verbal components in druidic spell craft.",
       "The written language is a near impossible language to decrypt by non-druids as it uses the environment as part of written components; such as floral arrangements, star positions, druid crafted engravings and secret knowledge."
@@ -241,38 +246,45 @@
   {
     "type": "language",
     "name": "Ancient Elvish",
+    "entries": "",
     "description": "The language of the star elves when they first arrived on Meridian. It is highly complex language, with a three-dimensional script that has so far been impossible to decipher, even through magical means. It cannot be learned and there are no surviving users of this highly complex, mathematical language.",
     "exotic": true
   },
   {
     "type": "language",
     "name": "Modern Elvish",
+    "entries": "",
     "description": "A constructed language believed to be invented by post-Imperial half-elves. It has very little in common with ancient elvish."
   },
   {
     "type": "language",
     "name": "Fairec",
+    "entries": "",
     "description": "The language of Fairbourne, quickly overtaking Merdi as the world's most popular language."
   },
   {
     "type": "language",
     "name": "Infernal",
+    "entries": "",
     "description": "A collection of characters created by Vestige cultists. Infernal has no phonetic components. It is a secret language, like thieves cant, with no universal cypher and immune to magical decryptions. Only those proficient in infernal have enough familiarity with the characters to potential decrypt an infernal script (with a successful investigation check).",
     "exotic": true
   },
   {
     "type": "language",
     "name": "Merdi",
+    "entries": "",
     "description": "A common language cobbled together for trade and political uses. It is understood by most citizens of Meridian, especially those working in international affairs."
   },
   {
     "type": "language",
     "name": "Siiq",
+    "entries": "",
     "description": "An ancient language originally used by desert dwellers. It has remained largely unchanged over time."
   },
   {
     "type": "language",
     "name": "Thieves' Cant",
+    "entries": "",
     "description": [
       "While not common among professional criminal organizations, this secret language is common among smaller thieves’ guilds and petty criminals. Since its words have no universal meaning, varying wildly by region, any magical means of deciphering cant is useless.",
       "Someone proficient in thieves' cant might break its code (with a successful investigation check)."
@@ -282,6 +294,7 @@
   {
     "type": "planes",
     "name": "Bloodlands",
+    "entries": "",
     "description": [
       "The Bloodlands are a hell-like plane separated from Meridian by the astral plane's Grey Walls. It is a realm of primal energy and matter, chaos rumored to be the original source of creation of the mortal world. Human religion teaches that Meridian is the birthplace of beasts and men at a time when magic was myth and its monsters imaginary.",
       "But all of that changed when the elves fell from the stars and committed the Original Sin. Their offenses to the Goddess Miira opened the gates of hell and unleashed evil into the known world.",
@@ -291,11 +304,13 @@
   {
     "type": "planes",
     "name": "Far Realm",
+    "entries": "",
     "description": "While technically not a plane of existence, the elven homeworld is far beyond Meridian’s solar system. Its exact location is lost to history but there are rumors that the ancient knowledge exists in the terrible aberrations that follow the elves. What is more, there may even be a way to contact their home world and the distant relatives that live there."
   },
   {
     "type": "planes",
     "name": "Grey Halls",
+    "entries": "",
     "description": [
       "The Grey Halls are metaphysical barriers that exists between the physical world and the Bloodlands. Neither mortal nor demon can easily pass physically through the Veil, but the consciousness often passes (sometimes unknowingly) without issue.",
       "This middle path is like what other settings call the Astral and Ethereal planes, a crossroads overflowing with strange, incorporeal inhabitants with an insatiable hunger for both the life force of men and the energy of demons. For followers of Solace and Exclusionism, the Grey Halls are an afterlife for poor souls unable to enter into Miira's Paradise.",
@@ -305,46 +320,55 @@
   {
     "type": "planes",
     "name": "Paradise",
+    "entries": "",
     "description": "Beyond the boundaries of both the Grey Walls and the Bloodlands, humans preach of Miira’s Paradise, a heavenly realm connected to the planet Pandem. When a soul is judged worthy by Udreth-Sol, they are taken safely into Miira’s Paradise to live in eternal joy and peace. Outside of religious study, there is little tangible proof that this Paradise exists, and it is heavily disregarded by elven traditionalists."
   },
   {
     "type": "planes",
     "name": "Planes of Existence",
+    "entries": "",
     "description": "There are two confirmed planes of existence outside of the Material plane: the Grey Halls and the Bloodlands. While well established, these lands are mysterious and terrifying to most people. Most knowledge about them is kept locked away by large scholastic institutions and high-ranking religious leaders. Minor demiplanes also exist, pocket dimensions outside of the natural world, but they are small and collapse upon themselves after a time. Mythical places like the elven far realms and Miira's paradise are rumored, but cannot be accessed through normal planar travel."
   },
   {
     "type": "language",
     "name": "Uru",
+    "entries": "",
     "description": "An ancient language originating in Uruban. Rarely used by even Stoneborn outside of their northern homeland."
   },
   {
     "type": "language",
     "name": "Zeméri",
+    "entries": "",
     "description": "The national language of Karaj, Zemér and Seneka; the three nations that once made up the now defunct Zeméri empire."
   },
   {
     "type": "technology",
     "name": "artifice",
+    "entries": "",
     "description": "Artifices are resin-powered devices designed to create one-time short-term effects that duplicate the effects of potions, scrolls, and similar magic items. These don’t take the form of actual elixirs or spells on paper, but they have the same effect. "
   },
   {
     "type": "technology",
     "name": "charges",
+    "entries": "",
     "description": "Mithral items that have charges are limited in their use. Unlike in other settings, these charges do not replenish automatically. Instead, an item’s owner must secure resin and refill the item to replenish its charges. As long as normal resin supplies are available, refilling an item is no problem. A major principle of the Ephemeron is ensuring that resin is fairly distributed among its citizens. Mithral consumables cannot be recharged in this manner."
   },
   {
     "type": "technology",
     "name": "mithral",
+    "entries": "",
     "description": "An alien metal that came to Meridian with the star elves. Mithral comes in two forms. In its most solid state, the silvery-white metal is nearly unbreakable and is able to channel vast amounts of energy without consequence. Then, under just the right circumstances (pressure, temperature, timing and other factors) mithral turns semi-liquid - turning black and taking on new properties."
   },
   {
     "type": "technology",
     "name": "resin",
+    "entries": "",
     "description": " Resin is an artificially created plasma that powers all elven technology. Radioactive and chemically unstable, the modern era could not begin until the process for recreating resin was recovered. Manufacturing resin is highly complex and can only be done under extreme conditions, such as near-volcanic temperature levels. As such, resin is the most valuable substance in the world."
   },
   {
     "type": "technology",
     "name": "materials",
+    "entries": "",
     "description": "Mithral technology requires four separate components to function. The first is resin which acts as a power source. Then, it needs a crystal core to contain the resin and maintain power regulation. Next, an artifice uses a semi-liquid mithral weave that works in tandem with the core to process and store pre-programmed information or instructions. Finally, the artifice requires mithral plating to work as outer shell and frame."
   }
 ]
