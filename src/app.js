@@ -3,6 +3,7 @@ const express = require('express')
 const app = express()
 
 const racesRouter = require("./races/races.router.js");
+const appendixRouter = require("./appendix/appendix.router.js");
 const buildRouter = require("./build/build.router.js");
 const pantheonRouter = require("./pantheon/pantheon.router.js");
 const nationsRouter = require("./nations/nations.router.js");
@@ -27,6 +28,7 @@ app.use(morgan("dev")) //A small logging program to replace Logger printing in t
 // Routes
 //app.use("/")
 app.use("/races", racesRouter); // Note: app.use
+app.use("/appendix", pantheonRouter);
 app.use("/pantheon", pantheonRouter);
 app.use("/nations", nationsRouter)
 app.use("/factions", factionsRouter);
