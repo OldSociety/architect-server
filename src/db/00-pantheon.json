@@ -441,7 +441,7 @@
         "type": "image",
         "href": {
           "type": "external",
-          "url": ""
+          "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/727c3ed4-2640-4308-8082-cad30502e0cf/d4e37rj-d9a1c83a-812b-4a39-b5f3-721fe95075aa.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzcyN2MzZWQ0LTI2NDAtNDMwOC04MDgyLWNhZDMwNTAyZTBjZlwvZDRlMzdyai1kOWExYzgzYS04MTJiLTRhMzktYjVmMy03MjFmZTk1MDc1YWEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LDdPp29_MIhyn0GB7sGeVANdnmcl4Bwe4XiOPmYoJFE"
         },
         "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
         "altText": "EXAMPLE: AltText"
@@ -466,7 +466,7 @@
         "type": "image",
         "href": {
           "type": "external",
-          "url": ""
+          "url": "https://i.pximg.net/img-master/img/2019/01/27/21/28/57/72875242_p0_master1200.jpg"
         },
         "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
         "altText": "EXAMPLE: AltText"
@@ -666,7 +666,7 @@
         "type": "image",
         "href": {
           "type": "external",
-          "url": "https://i.imgur.com/vXF7piG.jpeg"
+          "url": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/e350c17750071.560e878a62936.jpg"
         },
         "title": "EXAMPLE: ART_NAME<br>Art Credit: {@link ARTST|http://www.linkhere.com/}",
         "altText": "EXAMPLE: AltText"
