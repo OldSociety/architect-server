@@ -1,0 +1,217 @@
+[
+  {
+    "type": "bestiary",
+    "name": "Aberrations",
+    "description": "Like elves, aberrations are truly alien beings from a distant place among the stars. Their unnatural presence on Meridian distorts reality and can shatter minds. Aberrations are hunters that have sought out the elves over millenia and are intent to draw their ancient masters to this new world."
+  },
+  {
+    "type": "bestiary",
+    "name": "Bloodied",
+    "description": [
+      "Demons are not the only threat to mortals that the Bloodlands pose. Its chaotic energy sometimes flows through portals infecting the physical world in bizarre and horrible ways. When this energy encounters a humanoid, it can drive the person insane, an act known as becoming 'Bloodied'.",
+      "The Bloodied are self-mutilating creatures known to peel back parts of their skin and savagely engage in horrifying acts of rape, torture, and cannibalism.",
+      "They are hardened by their insanity, unable to feel pain or sympathy and are driven by instinct. Unlike possession, where the victim can be saved by intervention and exorcism: there is no coming back from this descent into madness."
+    ]
+  },
+  {
+    "type": "bestiary",
+    "name": "Celestials",
+    "description": "Like fey, celestials are wonderous, magical creatures native to Meridian. Yet, unlike fey, celestials (also known as Empyrean) exist primarily within the Gray Halls as supreme beings far removed from mortal struggles or plights. It is difficult, if not impossible, to quantify the upper limits of their demigod-like power."
+  },
+  {
+    "type": "bestiary",
+    "name": "Constructs",
+    "description": [
+      "Created by elves, mithral constructs were an integral part of ancient society. But without the endless supply of energy of their home world, the elves were eventually forced to invent less sophisticated forms of artificial life.",
+      "As time passed and their empire fell, only the most basic recipes for constructs survived. Modern constructs are made from various types of physical materials including: mithral scrapped from elven ruins, crystals cores from hunted down earth elementals, and even the skin, limbs and bones of beasts and/or monstrosities."
+    ]
+  },
+  {
+    "type": "bestiary",
+    "name": "Demons",
+    "description": [
+      "Whether called demon, devil, or fiend: these creatures are evil made manifest. Born of the Bloodlands, demons are intangible creatures that rely on possession to corrupt and destroy the material plane. 13 Archdemons, also known as Vestiges, martial the Bloodlands.",
+      "Unlike the lesser demons they command, these immortal princes of hell have both the awareness and the intellectual capacity to plan, scheme and otherwise attack Meridian. While exceedingly rare, they can use portals between worlds to cross into the material plane in physical form.",
+      "Lesser demons cannot cross into the physical plane. Instead, they must possess the living, often religious and political leaders. They tend to be driven by basic impulses of corruption and destruction."
+    ]
+  },
+  {
+    "type": "bestiary",
+    "name": "Dragons",
+    "description": [
+      "Followers of Solace believe dragons descend from the Seraphs and can be regarded as angels, sent to Meridian for divine missions known only to themselves. But this is contended by many outside the faithful, who instead see dragons more closely akin to forces of nature.",
+      "Dragons are not benevolent by default. They have no language, culture, nor other humanoid traits of dragons in other settings. The appearance of a dragon must be regarded with caution for their potential for destruction knows no limits.",
+      "There are seven types of dragons in Meridian: blood, gold, grave, hex, lumen, shadow, and tempest dragons."
+    ]
+  },
+  {
+    "type": "bestiary",
+    "name": "Elemental",
+    "description": "Elementals are mindless matter brought to life by a spell or Meridian's natural energies. Elementals, including the mountain-sized Primordials who ended the elven empire, are incredible forces of nature that never tire, never question orders, and threaten all civilization equally."
+  },
+  {
+    "type": "bestiary",
+    "name": "Fey",
+    "description": [
+      "Fey are some of the least understood creatures in all Meridian. They have existed since the beginning of time and are near immortal beings of pure magic that are deeply connected to Meridian's natural world. Fey cannot lie and rarely do they tell the whole truth.",
+      "And while there are notable exceptions, such as the fey that protect Ash'ahla and other natural wonders of the world, most fey make only occasional, brief appearances in the world, causing mischief and doling out both blessings and curses as they see fit.",
+      "Fey is an umbrella term for all manner of magical creature, from ancient sphynx, to wish-granting djinn, to pixies and beyond. Fey have no culture, kingdom nor society known to mortals and while often whimsical, it cannot be overstated that fey are immensely powerful beings who command profound respect (and fear) from all societies around the world."
+    ]
+  },
+  {
+    "type": "bestiary",
+    "name": "Monstrosities",
+    "description": "Whether the by-product of the same failed experiments which created the lesser races, or the result of a terrible curse, monstrosities are monsters in the strictest sense, frightening creatures that are not ordinary, not truly natural, and almost never benign. Monstrosities often defy categorization and, in some sense, the word serve as a catch-all category for creatures that don’t fit into any other type."
+  },
+  {
+    "type": "bestiary",
+    "name": "Undead",
+    "description": "Undead are once-living creatures brought to a horrifying state of undeath through the practice of necromantic magic or some unholy curse. Undead include walking corpses, such as skeletons, vampires and zombies."
+  },
+  {
+    "type": "bestiary",
+    "name": "Spectral Undead",
+    "description": "Spectral undead are a subcategory of undead that include bodiless spirits, such as ghosts and specters. When unfinished business makes a soul linger in the material world, it cannot sustain itself. With time, the soul withers until all it knows or remembers is suffering. Spectral undead grow less recognizable, and inevitably, more powerful with age."
+  },
+  {
+    "type": "language",
+    "name": "Arcanum",
+    "description": "The verbal components of arcane casters (most magical classes). Formal arcanum was the first human language, with 221 letters, one for every day of the year, it is extremely intricate and famously difficult to master.",
+    "exotic": true
+  },
+  {
+    "type": "language",
+    "name": "Ash'a",
+    "description": "The national language of Ash’ahla, understood by many druids and nearly all fey."
+  },
+  {
+    "type": "language",
+    "name": "Celestial",
+    "description": "The language of clerics, paladins, and priests who follow the Church of Nobility. It is also the verbal component of these spellcasters.",
+    "exotic": true
+  },
+  {
+    "type": "language",
+    "name": "Draconic",
+    "description": "The language of clerics, paladins, and other practitioners of the human religion Solace. It is believed to be the language of Miira’s Dragons (other dragons are not known to speak or understand any language including draconic) and is the verbal component for these spellcasters.",
+    "exotic": true
+  },
+  {
+    "type": "language",
+    "name": "Druidic",
+    "description": [
+      "The magical language of druids. The spoken version of this language is used exclusively as the verbal components in druidic spell craft.",
+      "The written language is a near impossible language to decrypt by non-druids as it uses the environment as part of written components; such as floral arrangements, star positions, druid crafted engravings and secret knowledge."
+    ],
+    "exotic": true
+  },
+  {
+    "type": "language",
+    "name": "Ancient Elvish",
+    "description": "The language of the star elves when they first arrived on Meridian. It is highly complex language, with a three-dimensional script that has so far been impossible to decipher, even through magical means. It cannot be learned and there are no surviving users of this highly complex, mathematical language.",
+    "exotic": true
+  },
+  {
+    "type": "language",
+    "name": "Modern Elvish",
+    "description": "A constructed language believed to be invented by post-Imperial half-elves. It has very little in common with ancient elvish."
+  },
+  {
+    "type": "language",
+    "name": "Fairec",
+    "description": "The language of Fairbourne, quickly overtaking Merdi as the world's most popular language."
+  },
+  {
+    "type": "language",
+    "name": "Infernal",
+    "description": "A collection of characters created by Vestige cultists. Infernal has no phonetic components. It is a secret language, like thieves cant, with no universal cypher and immune to magical decryptions. Only those proficient in infernal have enough familiarity with the characters to potential decrypt an infernal script (with a successful investigation check).",
+    "exotic": true
+  },
+  {
+    "type": "language",
+    "name": "Merdi",
+    "description": "A common language cobbled together for trade and political uses. It is understood by most citizens of Meridian, especially those working in international affairs."
+  },
+  {
+    "type": "language",
+    "name": "Siiq",
+    "description": "An ancient language originally used by desert dwellers. It has remained largely unchanged over time."
+  },
+  {
+    "type": "language",
+    "name": "Thieves' Cant",
+    "description": [
+      "While not common among professional criminal organizations, this secret language is common among smaller thieves’ guilds and petty criminals. Since its words have no universal meaning, varying wildly by region, any magical means of deciphering cant is useless.",
+      "Someone proficient in thieves' cant might break its code (with a successful investigation check)."
+    ],
+    "exotic": true
+  },
+  {
+    "type": "planes",
+    "name": "Bloodlands",
+    "description": [
+      "The Bloodlands are a hell-like plane separated from Meridian by the astral plane's Grey Walls. It is a realm of primal energy and matter, chaos rumored to be the original source of creation of the mortal world. Human religion teaches that Meridian is the birthplace of beasts and men at a time when magic was myth and its monsters imaginary.",
+      "But all of that changed when the elves fell from the stars and committed the Original Sin. Their offenses to the Goddess Miira opened the gates of hell and unleashed evil into the known world.",
+      "According to scholars, the Bloodlands are divided into an infinite number of territories teeming with fiends who occasionally find their way into the material plane. Most of these creatures are thoughtless manifestations of corruption and destruction. But there are a few extremely powerful demons that have full sentience and martial the forces of the Bloodlands for their own, unknowable purposes. While their existence is universal knowledge throughout Meridian, direct contact with these creatures is extremely rare."
+    ]
+  },
+  {
+    "type": "planes",
+    "name": "Far Realm",
+    "description": "While technically not a plane of existence, the elven homeworld is far beyond Meridian’s solar system. Its exact location is lost to history but there are rumors that the ancient knowledge exists in the terrible aberrations that follow the elves. What is more, there may even be a way to contact their home world and the distant relatives that live there."
+  },
+  {
+    "type": "planes",
+    "name": "Grey Halls",
+    "description": [
+      "The Grey Halls are metaphysical barriers that exists between the physical world and the Bloodlands. Neither mortal nor demon can easily pass physically through the Veil, but the consciousness often passes (sometimes unknowingly) without issue.",
+      "This middle path is like what other settings call the Astral and Ethereal planes, a crossroads overflowing with strange, incorporeal inhabitants with an insatiable hunger for both the life force of men and the energy of demons. For followers of Solace and Exclusionism, the Grey Halls are an afterlife for poor souls unable to enter into Miira's Paradise.",
+      "The Grey Halls are not physical, but rather something like a magical vibration that keeps a delicate balance between the two lands. It is a metaphor used by mortal scholars to explain the interactions between the two different realities."
+    ]
+  },
+  {
+    "type": "planes",
+    "name": "Paradise",
+    "description": "Beyond the boundaries of both the Grey Walls and the Bloodlands, humans preach of Miira’s Paradise, a heavenly realm connected to the planet Pandem. When a soul is judged worthy by Udreth-Sol, they are taken safely into Miira’s Paradise to live in eternal joy and peace. Outside of religious study, there is little tangible proof that this Paradise exists, and it is heavily disregarded by elven traditionalists."
+  },
+  {
+    "type": "planes",
+    "name": "Planes of Existence",
+    "description": "There are two confirmed planes of existence outside of the Material plane: the Grey Halls and the Bloodlands. While well established, these lands are mysterious and terrifying to most people. Most knowledge about them is kept locked away by large scholastic institutions and high-ranking religious leaders. Minor demiplanes also exist, pocket dimensions outside of the natural world, but they are small and collapse upon themselves after a time. Mythical places like the elven far realms and Miira's paradise are rumored, but cannot be accessed through normal planar travel."
+  },
+  {
+    "type": "language",
+    "name": "Uru",
+    "description": "An ancient language originating in Uruban. Rarely used by even Stoneborn outside of their northern homeland."
+  },
+  {
+    "type": "language",
+    "name": "Zeméri",
+    "description": "The national language of Karaj, Zemér and Seneka; the three nations that once made up the now defunct Zeméri empire."
+  },
+  {
+    "type": "technology",
+    "name": "artifice",
+    "description": "Artifices are resin-powered devices designed to create one-time short-term effects that duplicate the effects of potions, scrolls, and similar magic items. These don’t take the form of actual elixirs or spells on paper, but they have the same effect. "
+  },
+  {
+    "type": "technology",
+    "name": "charges",
+    "description": "Mithral items that have charges are limited in their use. Unlike in other settings, these charges do not replenish automatically. Instead, an item’s owner must secure resin and refill the item to replenish its charges. As long as normal resin supplies are available, refilling an item is no problem. A major principle of the Ephemeron is ensuring that resin is fairly distributed among its citizens. Mithral consumables cannot be recharged in this manner."
+  },
+  {
+    "type": "technology",
+    "name": "mithral",
+    "description": "An alien metal that came to Meridian with the star elves. Mithral comes in two forms. In its most solid state, the silvery-white metal is nearly unbreakable and is able to channel vast amounts of energy without consequence. Then, under just the right circumstances (pressure, temperature, timing and other factors) mithral turns semi-liquid - turning black and taking on new properties."
+  },
+  {
+    "type": "technology",
+    "name": "resin",
+    "description": " Resin is an artificially created plasma that powers all elven technology. Radioactive and chemically unstable, the modern era could not begin until the process for recreating resin was recovered. Manufacturing resin is highly complex and can only be done under extreme conditions, such as near-volcanic temperature levels. As such, resin is the most valuable substance in the world."
+  },
+  {
+    "type": "technology",
+    "name": "materials",
+    "description": "Mithral technology requires four separate components to function. The first is resin which acts as a power source. Then, it needs a crystal core to contain the resin and maintain power regulation. Next, an artifice uses a semi-liquid mithral weave that works in tandem with the core to process and store pre-programmed information or instructions. Finally, the artifice requires mithral plating to work as outer shell and frame."
+  }
+]

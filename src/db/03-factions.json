@@ -4,7 +4,14 @@
     "name": "The Conjunction",
     "type": ["Arcane"],
     "entries": [
-      [["", "", "", ""]],
+      [
+        [
+          "When the elves arrived, surviving human mages fled to secret abbeys, known as Circles, to continue their craft and worship of Miira undisturbed. After the empire, the abbeys came out of hiding and created the Conjunction, a loose organization led by the strongest archmages who train, study and teach undisturbed by the outside world. Only the most talented spellcasters are invited to train among the Conjunction.",
+          "",
+          "",
+          ""
+        ]
+      ],
       {
         "type": "image",
         "href": {
@@ -12,7 +19,7 @@
           "url": "https://i.pinimg.com/originals/d3/6c/2f/d36c2f99a9af0fd498f6f5efe62509be.jpg"
         },
         "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
-        "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its center atop an oblong blue and purple magical holy symbol."
       },
       {
         "name": "Goals",
@@ -84,7 +91,14 @@
     "name": "Scarlet Delegate",
     "type": ["Mercantile"],
     "entries": [
-      [["", "", "", ""]],
+      [
+        [
+          "Based out of Taj’aruhn in Karaj, the Scarlet Delegate is powerful, multinational, monopolistic trading company. Newly established by a group of extremely powerful merchants, the Delegate maintains a tenuous trade agreement between Fairbourne, Karaj, Zemer, and Seneka. It’s commitment to absolute neutrality has turned the Delegate into the only naval organization to have access to both sides of Meridian. As such, the Scarlet Delegate both facilitates and monopolizes open trade between the nations.",
+          "The Scarlet Delegate has outposts in each capital city it operates in. Constantly expanding, with dealings in all major trade commodities, the Delegate is careful to follow the individual laws of each nation it deals with. This led to the establishment of the Unbreakable Orders, a set of laws each member must strictly follow. While there is plenty of double dealing, smuggling and other criminal activity, the Delegate’s members must be careful not to get caught.",
+          "Faction merchants that endanger the fragile nature of the Delegate’s arrangement, along with their family and friends, are severely punished.",
+          ""
+        ]
+      ],
       {
         "type": "image",
         "href": {
@@ -92,7 +106,7 @@
           "url": "https://i.pinimg.com/originals/c1/09/db/c109dbd1a8e5b2e5a700ab01b020b2ed.jpg"
         },
         "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
-        "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its center atop an oblong blue and purple magical holy symbol."
       },
       {
         "name": "Goals",
@@ -164,7 +178,14 @@
     "name": "Verdel Den",
     "type": ["Criminal", "Mercantile"],
     "entries": [
-      [["", "", "", ""]],
+      [
+        [
+          "Hidden deep within Harlan's breach is a town of thieves, brigands and rebel rousers. Dominating Fairec criminal world, the Den is smaller but far more resourceful than their counterparts.",
+          "",
+          "",
+          ""
+        ]
+      ],
       {
         "type": "image",
         "href": {
@@ -172,7 +193,7 @@
           "url": "https://i.pinimg.com/originals/f1/26/0d/f1260dd0bc277fd2d8383832fbfd3ee4.jpg"
         },
         "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
-        "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its center atop an oblong blue and purple magical holy symbol."
       },
       {
         "name": "Goals",
@@ -245,8 +266,8 @@
     "type": ["Noble"],
     "entries": [
       [
-        "The Rosewhite curse began when the Zeméri Emperor Khyrell Nerisys presented a particularly temperamental fey, Spring Duchess Rosewhite, with a most unflattering portrait. In a rage, Nerisys and his court were trapped in Rosewhite’s portrait for 20 long years. When the fey curse finally ended, Nerisys’ empire was in shambles and under siege by a myriad of forces.",
-        "In response, the Lineage was born. Non-imperial princes, those born of royal blood but with no claim to the throne, were offered a place as feudal lords, forever changing the previous political and social structure of Zemér. The new court renounced their princely titles in exchange for territorial privileges, court status, and power not previously accessible to indirect members of the imperial line. They were given new family names, branded beneath their left eye, as a symbol of their status. And with this change, central state power fell into the hands of Nerisys’ loyal blood relatives.",
+        "The Rosewhite curse began when the Zeméri Emperor Khyrell Nerisys presented a particularly temperamental fey, Spring Duchess Rosewhite, with a most unflattering portrait. In a rage, Nerisys and his court were trapped in Rosewhite’s portrait for 20 long years. When the fey curse finally ended, Nerisys’ empire had crumbled and what remained lay under siege by a myriad of forces.",
+        "In response, the Lineage was born. Non-imperial princes, those born of royal blood but with no claim to the throne, were offered a place as feudal lords, changing the previous political and social structure of Zemér. The new court renounced their princely titles in exchange for territorial privileges, court status, and power not previously accessible to indirect members of the imperial line. They were given new family names, branded beneath their left eye, as a symbol of their status. And with this change, central state power fell into the hands of Nerisys’ loyal blood relatives.",
         "These matriarchically elven houses pass their titles hereditarily, daughter to daughter, and only to full elves. But to prevent lineages from dying out, both illegitimate daughters and family members adopted from collateral family branches (distant cousins) are acceptable heirs. While there is no ban against marrying a human, it does bring notoriety in elven society and all claim to the title is forfeit.",
         "Benefits of being Lineage include seating in the Imperial Court, possession of Imperial relics and garb, a national mourning period after death, the life-long protection of the Trust (military police), the opportunity to marry into the Imperial family, and the most prestigious education in the nation.",
         "After the direct Lineage, there is a “second Lineage” constituted by powerful Nobility priests, persons who’ve made distinguished contributions to the nation (knights, famed artists, etc...), and those who have paid heavy financial contributions to the crown. The second Lineage is not branded beneath their eyes, are considered a lower political class than direct Lineage, and have only a fraction of the benefits of the Lineage’s noble status."
@@ -258,7 +279,7 @@
           "url": "https://tse2.mm.bing.net/th?id=OIP.o5a1LOFc1dcm7C84dtBUWQHaMG&pid=Api"
         },
         "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
-        "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its center atop an oblong blue and purple magical holy symbol."
       },
       {
         "name": "Goals",
@@ -332,7 +353,7 @@
             "name": "Oiolaire",
             "entries": {
               "race": "Moon",
-              "description": ": A glossy leaf tree with large fragrant flowers, with two powerful members – a Master of Blood for the Synagogue and a general of the Zeméri army – Oiolaire is untouchable. Their enemies find themselves flayed, drowned and strung across the sides of their warships."
+              "description": ": A glossy leaf tree with large fragrant flowers, with two powerful members, a Master of Blood for the Synagogue and a general of the Zeméri army, Oiolaire is untouchable. Their enemies find themselves flayed, drowned and strung across the sides of their warships."
             }
           },
           {
@@ -346,7 +367,7 @@
             "name": "Taniquelasse",
             "entries": {
               "race": "Wood",
-              "description": "A uniquely mysterious tree that has been long extinct, the Karaji family is notorious for their political and military push on southern wildfolk – driving the remaining tribes north."
+              "description": "A uniquely mysterious tree that has been long extinct, the Karaji family is notorious for their political and military push on southern wild folk, driving the remaining tribes north."
             }
           },
           {
@@ -365,7 +386,14 @@
     "name": "Prideborn Clans",
     "type": ["Noble"],
     "entries": [
-      [["", "", "", ""]],
+      [
+        [
+          "Unlike their Lynxborn breathren, physicality helped Prideborn overcome the long supremacy of the elves after the empire’s fall. Over centuries, they established powerful noble houses, called Clans, which came to full power during the reign of the Zeméri empire.",
+          "Currently, eight noble houses head the furborn families in Zemer with power and influence reaching across the southern nations, and even Egress. These clans maintain long-held ties to the Synagogue and influence politics, industry, art, entertainment, religion, and every other aspect of Zeméri life. Only the strength of the crown and the competing elven Lineage that keeps the Clan’s power in check.",
+          "Clan estates comprise of whole villages, needed to support the family’s commerce, and sometimes double as fortresses for the Synagogue’s most powerful members. Despite the sometimes conflict of interest, the Clans remain pledged to King Jared.",
+          "A Clan’s most sacred possession is its Yori, or Soulbrand, a set of legendary weapons and armor unique to the Clan. They are powerful tools hand-crafted from Amithrisil (star elves) artifacts using secret techniques. Each Soulbrand is engraved with markings of their clan’s history and ancestral achievements. Theft of even a single Soulbrand by another group or nation would undoubtably mean war, not only with the rest of the Clans, but the full might of the Synagogue as well. Only Zemer’s ruler (as punishment for high crimes against the crown) can rightfully destroy a Soulbrand. The ritual to do so is long and complex, but a Soulbrand’s destruction strips the family (and its branches) of all noble titles, forever branding them as outcasts. In the last 500 years, only one family has seen its Soulbrand destroyed."
+        ]
+      ],
       {
         "type": "image",
         "href": {
@@ -373,7 +401,7 @@
           "url": "https://i.pinimg.com/736x/48/0c/e4/480ce477196d6cafa689ec6824d1b733.jpg"
         },
         "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
-        "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its center atop an oblong blue and purple magical holy symbol."
       },
       {
         "name": "Goals",
@@ -447,9 +475,9 @@
     "entries": [
       [
         "The Red Horde rules Uruban's mountainous wastelands uniting hundreds of Uru communities under a single black banner. As a theological hegemony, the Horde is the head religious and political body within the region. Under the guidance of its Night Blood priests, they have established a culture and religion based solely on the worship and reverence of Udreth-sol, Seraph of death and the afterlife.",
-        "The Horde operates from Uruban's monastery capital at the heart of the empire, Shalath. Here the First Prophet along with his First Council (including the Ministers of the Masses, Minister of Works, and the Minister of War) rule as the final political and religious authority in Uruban. Serving as the final judgement, their decisions are guided by Tsin-sol's 'Validation' - an Arcanum-Uru document which serves as both the Red Horde's Supreme Law and Holy Bible.",
+        "The Horde operates from Uruban's monastery capital at the heart of the empire, Shalath. Here the First Prophet along with his First Council (including the Ministers of the Masses, Minister of Works, and the Minister of War) rule as the final political and religious authority in Uruban. Serving as the final judgement, their decisions are guided by Tsin-sol's 'Validation', an Arcanum-Uru document which serves as both the Red Horde's Supreme Law and Holy Bible.",
         "Outside of Shalath, five Prophets and their council rule over the lesser monasteries of Udreth-sol. Each temple is charged with protecting a Labyrinth sanctum, the subterranean prison for Uruban's undead and one of the Six Promises (holy relics of the first emperor).",
-        "Every 10th Bloody Sun, the Prophets must complete a Trial of Ascension, where they are sent down into the Labyrinth and must find their way back to the surface unharmed - a sign that the Prophet remains in good standing with Udreth-sol. Secretly, the Ascension is steeped with political bribes, blackmail, and the use of necromancy to ensure the power remains within the powerful.",
+        "Every 10th Bloody Sun, the Prophets must complete a Trial of Ascension, where they are sent down into the Labyrinth and must find their way back to the surface unharmed, a sign that the Prophet remains in good standing with Udreth-sol. Secretly, the Ascension is steeped with political bribes, blackmail, and the use of necromancy to ensure the power remains within the powerful.",
         "Citizens of the Red Horde live in strict religious, warrior, and worker castes. At the top of the hierarchal pyramid are Night Blood priests who serve as the de facto heads of church and state. Beneath them serve non-Night Blood priests charged with maintaining both temples and the daily lives of their citizens.",
         "Next, the warrior caste is the foundation of the Red Horde's constantly growing war-machine. Led by their Imperial Commandment (the highest-ranking officer), the Horde's military is divided between its army and its 'Death born', a special force made up of powerful priests, paladins, and necromancers.",
         "Lastly, the working caste includes everyone from merchants to tradesmen to guild craftsman. Every member of the Horde is employed to fulfill a service within the community. Service for salvation is the main motivation for the entire population, under threat of imprisonment, banishment, and death.",
@@ -462,12 +490,12 @@
           "url": "https://i.pinimg.com/originals/5c/c5/cd/5cc5cd219eee5e85d7fe798340baa4d7.jpg"
         },
         "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
-        "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its center atop an oblong blue and purple magical holy symbol."
       },
       {
         "name": "Goals",
         "entries": [
-          "Despite its vast power, there are still many communities throughout Uruban that have rejected the Horde's call for unity - fearing an erasure of local faiths and traditions. This is unacceptable to the Prophets who have spent years waging a campaign of complete dominance. Tribes and communities that reject the faith are eventually taken by force.",
+          "Despite its vast power, there are still many communities throughout Uruban that have rejected the Horde's call for unity, fearing an erasure of local faiths and traditions. This is unacceptable to the Prophets who have spent years waging a campaign of complete dominance. Tribes and communities that reject the faith are eventually taken by force.",
           "Those that pledge their allegiance to the prophets exchange their freedoms for the protection and salvation of the Horde. Forced to suddenly live a new way of life, eventually the tribe's unique culture and history is inevitably erased. This provides the Horde with new skills and resources to be exploited as their empire continues to grow, without the threat of rebellion."
         ]
       },
@@ -528,7 +556,14 @@
     "name": "Synagogue",
     "type": ["Religious", "Criminal"],
     "entries": [
-      [["", "", "", ""]],
+      [
+        [
+          "The Synagogue is a family first, a religious body second and a criminal organization last. Widely known to already be the most powerful of Meridian churches, the Synagogue's goals are varied - but their main objective is incredibly simple - obtain positions of power across every nation of Meridian. They are highly ritualistic, abide a strict code of conduct and chain of command. The Synagogue is divided into cells, also known as Nests, each in control of rigid territorial borders acting autonomously from the rest. Every Nest is led by an elected individual known as the Dragon's Heir.",
+          "The Synagogue follows a creed unchanged from their original roots, rebuild the world for Miira’s eventual return, though their methods have definitely evolved. A member of the Synagogue feels that they are a member of a very large family and relies on their brothers and sisters for resources and security. However, members are also granted autonomy to pursue their own interests and gain some measure of personal power or influence when no other orders are present.",
+          "On top of being regarded as the wealthiest and most sophisticated criminal organizations, the Synagogue is also a well-respected branch of the human religion. They are Meridian’s largest charitable body, providing disaster relief, healing services and refugee protection during war and other catastrophes. They also have strong ties to local communities, providing financial and protective services, in exchange for respect (and fear). Because of their redeeming qualities, many of its members see their income (and hustles) as a legitimate tax in return for their honorable services.",
+          "Much of the Synagogue's money is old money. The faction was established long ago and now its highest members are also some of the wealthiest and most notable families in the southern nations. They maintain their wealth through a combination of legitimate businesses (realty, investments, banking) that they finance but are run by non-members, as well as their illegal activities. "
+        ]
+      ],
       {
         "type": "image",
         "href": {
@@ -536,7 +571,7 @@
           "url": "https://i.pinimg.com/736x/f8/b9/95/f8b99557465b9906298fba976fc9a9f8--for-d.jpg"
         },
         "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
-        "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its center atop an oblong blue and purple magical holy symbol."
       },
       {
         "name": "Goals",
@@ -608,7 +643,7 @@
     "name": "Scarbacks",
     "type": ["Religious"],
     "entries": [
-      [["", "", "", ""]],
+      [["Demon hunters pledge to Sen-shi.", "", "", ""]],
       {
         "type": "image",
         "href": {
@@ -616,7 +651,7 @@
           "url": "https://i.pinimg.com/originals/bc/d2/34/bcd234b33aa023bafae87385826a0d47.jpg"
         },
         "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
-        "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its center atop an oblong blue and purple magical holy symbol."
       },
       {
         "name": "Goals",
@@ -688,7 +723,7 @@
     "name": "Exclusionists",
     "type": ["Religious"],
     "entries": [
-      [["", "", "", ""]],
+      [["Believe in Miira without the Seraphs.", "", "", ""]],
       {
         "type": "image",
         "href": {
@@ -696,7 +731,7 @@
           "url": "https://i.pinimg.com/originals/9e/1c/8a/9e1c8a54b2410911bfeb22d232e3b572.jpg"
         },
         "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
-        "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its center atop an oblong blue and purple magical holy symbol."
       },
       {
         "name": "Goals",
@@ -768,7 +803,14 @@
     "name": "Church of Nobility",
     "type": ["Religious"],
     "entries": [
-      [["", "", "", ""]],
+      [
+        [
+          "The Church of Nobility is an atheist religious institution that follows many of the original teachings of the elves. It has strong ties to the Ephemeron and is made up of countless temples and cathedrals across Meridian, the largest being among nations south of Egress. Many of its members pride themselves in find scientific solutions over magical ones, since science is a gift to the masses while magic is only obtainable by the chosen few.",
+          "The Church is led by priests known as “Priors” who are expected to teach and guide followers into making decisions that best lead their flock towards enlightenment, a point where they will ascend the material plane and join the Elven Lords in a higher existence. The Elven Lords are pre-Meridian ancestors who found immortality through ascension, and it is believed that any living creature can do the same (though it never been witnessed in recorded history).",
+          "With hundreds of Elven Lords recorded in their holy texts, Priors memorize and share the many paths towards enlightenment. Because these fables often involve powerful, fantastical technology that no living person could possibly have access to, Priors are tasked with deciphering the stories into metaphors and answers to life’s most troubling questions.",
+          "Due to the simplicity of its teachings, the ease its followers can become priors themselves, and the immeasurable wealth of the Ephemeron: The Church’s influence vastly overshadows Meridians other religions."
+        ]
+      ],
       {
         "type": "image",
         "href": {
@@ -776,7 +818,7 @@
           "url": "https://i.pinimg.com/originals/25/ef/07/25ef07ae255f2bab1da02279a20b0b80.jpg"
         },
         "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
-        "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its center atop an oblong blue and purple magical holy symbol."
       },
       {
         "name": "Goals",
@@ -848,7 +890,7 @@
     "name": "Ash'a",
     "type": ["Religious"],
     "entries": [
-      [["", "", "", ""]],
+      [["Priests of god-Queen Aurora.", "", "", ""]],
       {
         "type": "image",
         "href": {
@@ -856,7 +898,7 @@
           "url": "https://i.pinimg.com/originals/6d/ed/a2/6deda2e8f6c32ccedaa3789365da5cce.png"
         },
         "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
-        "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its center atop an oblong blue and purple magical holy symbol."
       },
       {
         "name": "Goals",
@@ -928,7 +970,14 @@
     "name": "Watchers of the Wild",
     "type": ["Religious"],
     "entries": [
-      [["", "", "", ""]],
+      [
+        [
+          "Larimar's most devoted priests dedicate their lives to the protection of wild magic. Through divination or prophecy, Watchers seek out conduits of wild magic and attempt to bring order where there is none. They believe places of power are holy sites that deserve reverence and that those infused with such power are touched by destiny. Yet, wild magic is difficult to contain and even harder to anticipate and sometimes the most a Watcher can hope for is letting its destruction run its course.",
+          "",
+          "",
+          ""
+        ]
+      ],
       {
         "type": "image",
         "href": {
@@ -936,7 +985,7 @@
           "url": "https://i.pinimg.com/originals/17/9a/d8/179ad8548cf42d494bfb473171a1124b.jpg"
         },
         "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
-        "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its center atop an oblong blue and purple magical holy symbol."
       },
       {
         "name": "Goals",
@@ -1010,8 +1059,8 @@
     "entries": [
       [
         [
-          "The Ephemeron Academy of Elven Technology - better known as the Ephemeron (Eff-ehm-err-in) - is an Egressian institution that pioneers the reclamation of lost/forgotten elven technology with the ultimate goal of resurrecting the advanced science of ancient elves. It is a professional and academic organization, located throughout southern Meridian (nations south of Egress).",
-          "Established during the early days of the Zemeri Empire in the Egressian capital, Amenmaatra, by then- Sergeant-in-arms Iric Cimeros, the Ephemeron was the world’s military research institute. Today, the Ephemeron is politically neutral and provides its services publicly to both world leaders and common masses alike.",
+          "The Ephemeron Academy of Elven Technology, better known as the Ephemeron (Eff-ehm-err-in), is an Egressian institution that pioneers the reclamation of lost/forgotten elven technology with the ultimate goal of resurrecting the advanced science of ancient elves. It is a professional and academic organization, located throughout southern Meridian (nations south of Egress).",
+          "Established during the early days of the Zemeri Empire in the Egressian capital, Amenmaatra, by then-Sergeant-in-arms Iric Cimeros, the Ephemeron was the world’s military research institute. Today, the Ephemeron is politically neutral and provides its services publicly to both world leaders and common masses alike.",
           "Along with its public services, its international charter specifies that the Ephemeron is responsible for building detailed lists of known elven technology, both ancient and modern. They provide states with the names, residencies, and political status of their proprietors. Yet, the Ephemeron itself does not include a policing body and cannot themselves enforce these laws.",
           "The Ephemeron is funded through private and government contracts to explore newly discovered ruins, along with the sale of common modern technology, and fees for training talented artificers in advance study. As a research institution, the Ephemeron also serves as a museum of sorts. The College of Arbitration in Amenmaatra stores and protects relics, especially those found to be potentially dangerous, from the general public."
         ]
@@ -1023,7 +1072,7 @@
           "url": "https://cdnb.artstation.com/p/assets/images/images/016/182/833/large/marco-ferraccioni-e0bb28d8-f98c-4835-a8e1-cc900aac621e.jpg?1551219924"
         },
         "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
-        "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its center atop an oblong blue and purple magical holy symbol."
       },
       {
         "name": "Goals",
@@ -1074,7 +1123,7 @@
             "name": "First Curator Selynia Marris",
             "entries": {
               "race": "Moon Elf",
-              "description": "Selynia maintains detailed records of every elven relic ever recovered and delivered into the Ephemeron’s vaults. Overseeing an army of researchers, scientists, artificers and diviners, Selynia is deeply proud of her work and the respect she's earned among her all- male peers. Calm, quiet and curious, she is determined to add diversity into the Ephemeron’s hierarchy that she believes is too chained to its now ancient traditions."
+              "description": "Selynia maintains detailed records of every elven relic ever recovered and delivered into the Ephemeron’s vaults. Overseeing an army of researchers, scientists, artificers and diviners, Selynia is deeply proud of her work and the respect she's earned among her all-male peers. Calm, quiet and curious, she is determined to add diversity into the Ephemeron’s hierarchy that she believes is too chained to its now ancient traditions."
             }
           },
           {
@@ -1100,7 +1149,15 @@
     "name": "The Puzzles",
     "type": ["Science"],
     "entries": [
-      [["", "", "", ""]],
+      [
+        [
+          "Two hundred years ago, the Puzzles were an important competitor to the Ephemeron and an indispensable branch of the Zemeri Council of Ministers. One of Zemer’s best kept secrets, the Puzzles used their affluence to promote the advancement of scientific research while at the same time impeded competing nation’s advancement. But after the ascension of King Jared Kirill, funding has slowly been stripped away from the elven sciences into military advances, specifically the king’s new Marksmen Legion.",
+          "With the slow economic drain on the organization, the Puzzles have had to evolve with the times. While still maintaining King Jared’s ear when it comes to new, important discoveries. The Puzzles are now a self-funded, self-governed exploratory faction. With less than fifty members, the Puzzles pride themselves as honored members of the King’s inner circle, allowing only qualified individuals entry through an extensive election process.",
+          "Their headquarters, the Winged Palace in Alboran serves primarily as a lodge for its members to discuss guild business, future expeditions, and informal dinner debates on current scientific issues and ideas. While society’s workshop continues to research and develop elven technologies for the crown, the Ephemeron’s international charter allows it to step in and recover any and all discoveries.",
+          "Instead, the society’s true power lies within their vaults. Over the course of its existence, the Puzzle’s vaults have collected over two million documents, maps, artifacts, paintings, periodicals, artefacts and books, and that span 500 years of geography, travel and exploration relating to the elves of old, their evolution of their society and their culture. With the power to make or break noble lines through historical records, members of the Ephemeron remain a political figure not worth underestimating.",
+          "The Puzzle Society was founded after the uncovering of an imperial age journal and lockbox known as the Ibin’jurati or the 'Madman's Puzzlebox'. The journal’s riddle (both a poetic and mathematical challenge) is considered one of the greatest discoveries of the modern age and has proven notoriously challenging. More than a few have been driven insane with obsession over a solution. Making matters more frustrating is that the question seems to alter itself depending on the person it is directed to."
+        ]
+      ],
       {
         "type": "image",
         "href": {
@@ -1108,7 +1165,7 @@
           "url": "https://i.pinimg.com/originals/91/9e/5b/919e5b0f70e3febe8a3d7ad6611e40f4.jpg"
         },
         "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
-        "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its center atop an oblong blue and purple magical holy symbol."
       },
       {
         "name": "Goals",
@@ -1180,7 +1237,7 @@
     "name": "Eastern Fragment",
     "type": ["Science", "Criminal"],
     "entries": [
-      [["", "", "", ""]],
+      [["Secret organization within the Ephemeron that smuggles elven technology for nepharious purposes.", "", "", ""]],
       {
         "type": "image",
         "href": {
@@ -1188,7 +1245,7 @@
           "url": "https://i.pinimg.com/736x/c7/ce/41/c7ce411400b2c952132dde1b77290a5f--character-portraits-character-ideas.jpg"
         },
         "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
-        "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its center atop an oblong blue and purple magical holy symbol."
       },
       {
         "name": "Goals",
@@ -1260,7 +1317,7 @@
     "name": "Zyrese Knights",
     "type": ["Religious"],
     "entries": [
-      [["", "", "", ""]],
+      [["Warrior-priests similar to the madji.", "", "", ""]],
       {
         "type": "image",
         "href": {
@@ -1268,7 +1325,7 @@
           "url": "https://cdna.artstation.com/p/assets/images/images/004/413/316/large/saranit-klinklaykun-war-priest.jpg?1483544344"
         },
         "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
-        "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its center atop an oblong blue and purple magical holy symbol."
       },
       {
         "name": "Goals",
@@ -1340,7 +1397,7 @@
     "name": "Marksmen Authority",
     "type": ["Military"],
     "entries": [
-      [["", "", "", ""]],
+      [["Created by imperial moon elves, the authority is a living construct. Since the loss of the empire, the authority has continued its manufacture of Marksmen warriors through the hunting and cannibalizing of Unmarked.", "", "", ""]],
       {
         "type": "image",
         "href": {
@@ -1348,7 +1405,7 @@
           "url": "https://i.pinimg.com/originals/27/0a/40/270a403a7124c7a8618ea521e905a799.jpg"
         },
         "title": "EXAMPLE: Crest of the Arcana Pansophical<br>Art Credit: {@link Conceptopolis, LLC|http://conceptopolis.com/}",
-        "altText": "EXAMPLE: A golden rhombus with a blue eye in its centre atop an oblong blue and purple magical holy symbol."
+        "altText": "EXAMPLE: A golden rhombus with a blue eye in its center atop an oblong blue and purple magical holy symbol."
       },
       {
         "name": "Goals",
