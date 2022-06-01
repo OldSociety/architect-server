@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "type": "bestiary",
     "name": "Aberrations",
     "entries": [
@@ -18,6 +19,7 @@
     ]
   },
   {
+    "id": 2,
     "type": "bestiary",
     "name": "Bloodied",
     "entries": [
@@ -38,6 +40,7 @@
     ]
   },
   {
+    "id": 3,
     "type": "bestiary",
     "name": "Celestials",
     "entries": [
@@ -56,6 +59,7 @@
     ]
   },
   {
+    "id": 4,
     "type": "bestiary",
     "name": "Constructs",
     "entries": [
@@ -75,6 +79,7 @@
     ]
   },
   {
+    "id": 5,
     "type": "bestiary",
     "name": "Demons",
     "entries": [
@@ -95,6 +100,7 @@
     ]
   },
   {
+    "id": 6,
     "type": "bestiary",
     "name": "Dragons",
     "entries": [
@@ -115,6 +121,7 @@
     ]
   },
   {
+    "id": 7,
     "type": "bestiary",
     "name": "Elemental",
     "entries": [
@@ -133,6 +140,7 @@
     ]
   },
   {
+    "id": 8,
     "type": "bestiary",
     "name": "Fey",
     "entries": [
@@ -153,6 +161,7 @@
     ]
   },
   {
+    "id": 9,
     "type": "bestiary",
     "name": "Monstrosities",
     "entries": [
@@ -171,6 +180,7 @@
     ]
   },
   {
+    "id": 10,
     "type": "bestiary",
     "name": "Undead",
     "entries": [
@@ -189,6 +199,7 @@
     ]
   },
   {
+    "id": 11,
     "type": "bestiary",
     "name": "Spectral Undead",
     "entries": [
@@ -207,6 +218,7 @@
     ]
   },
   {
+    "id": 12,
     "type": "language",
     "name": "Arcanum",
     "entries": [
@@ -224,6 +236,7 @@
     "exotic": true
   },
   {
+    "id": 13,
     "type": "language",
     "name": "Ash'a",
     "entries": [
@@ -240,6 +253,7 @@
     ]
   },
   {
+    "id": 14,
     "type": "language",
     "name": "Celestial",
     "entries": [
@@ -257,6 +271,7 @@
     "exotic": true
   },
   {
+    "id": 15,
     "type": "language",
     "name": "Draconic",
     "entries": [
@@ -274,6 +289,7 @@
     "exotic": true
   },
   {
+    "id": 16,
     "type": "language",
     "name": "Druidic",
     "entries": [
@@ -294,6 +310,7 @@
     "exotic": true
   },
   {
+    "id": 17,
     "type": "language",
     "name": "Ancient Elvish",
     "entries": [
@@ -311,6 +328,7 @@
     "exotic": true
   },
   {
+    "id": 18,
     "type": "language",
     "name": "Modern Elvish",
     "entries": [
@@ -327,6 +345,7 @@
     ]
   },
   {
+    "id": 19,
     "type": "language",
     "name": "Fairec",
     "entries": [
@@ -343,6 +362,7 @@
     ]
   },
   {
+    "id": 20,
     "type": "language",
     "name": "Infernal",
     "entries": [
@@ -360,6 +380,7 @@
     "exotic": true
   },
   {
+    "id": 21,
     "type": "language",
     "name": "Merdi",
     "entries": [
@@ -376,6 +397,7 @@
     ]
   },
   {
+    "id": 22,
     "type": "language",
     "name": "Siiq",
     "entries": [
@@ -392,6 +414,7 @@
     ]
   },
   {
+    "id": 23,
     "type": "language",
     "name": "Thieves' Cant",
     "entries": [
@@ -412,6 +435,7 @@
     "exotic": true
   },
   {
+    "id": 24,
     "type": "planes",
     "name": "Bloodlands",
     "entries": [
@@ -432,6 +456,7 @@
     ]
   },
   {
+    "id": 25,
     "type": "planes",
     "name": "Far Realm",
     "entries": [
@@ -448,6 +473,7 @@
     ]
   },
   {
+    "id": 26,
     "type": "planes",
     "name": "Grey Halls",
     "entries": [
@@ -468,6 +494,7 @@
     ]
   },
   {
+    "id": 27,
     "type": "planes",
     "name": "Paradise",
     "entries": [
@@ -484,6 +511,7 @@
     ]
   },
   {
+    "id": 28,
     "type": "planes",
     "name": "Planes of Existence",
     "entries": [
@@ -500,6 +528,7 @@
     ]
   },
   {
+    "id": 29,
     "type": "language",
     "name": "Uru",
     "entries": [
@@ -516,6 +545,7 @@
     ]
   },
   {
+    "id": 30,
     "type": "language",
     "name": "Zeméri",
     "entries": [
@@ -532,6 +562,7 @@
     ]
   },
   {
+    "id": 31,
     "type": "technology",
     "name": "artifice",
     "entries": [
@@ -548,6 +579,7 @@
     ]
   },
   {
+    "id": 32,
     "type": "technology",
     "name": "charges",
     "entries": [
@@ -564,6 +596,7 @@
     ]
   },
   {
+    "id": 33,
     "type": "technology",
     "name": "mithral",
     "entries": [
@@ -580,6 +613,7 @@
     ]
   },
   {
+    "id": 34,
     "type": "technology",
     "name": "resin",
     "entries": [
@@ -596,6 +630,7 @@
     ]
   },
   {
+    "id": 35,
     "type": "technology",
     "name": "materials",
     "entries": [
