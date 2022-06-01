@@ -28,7 +28,7 @@ app.use(morgan("dev")) //A small logging program to replace Logger printing in t
 // Routes
 //app.use("/")
 app.use("/races", racesRouter); // Note: app.use
-app.use("/appendix", pantheonRouter);
+app.use("/appendix", appendixRouter);
 app.use("/pantheon", pantheonRouter);
 app.use("/nations", nationsRouter)
 app.use("/factions", factionsRouter);
