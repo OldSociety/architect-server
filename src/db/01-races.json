@@ -75,9 +75,7 @@
       {
         "type": "entries",
         "name": "Skill Versatility",
-        "entries": [
-          "You gain proficiency in any skill of your choice."
-        ]
+        "entries": ["You gain proficiency in any skill of your choice."]
       },
       {
         "name": "Children of Miira",
@@ -127,7 +125,7 @@
         "type": "entries",
         "entries": [
           "The Nyx are divided into two tribes: sea faring islanders and the nomadic gypsies. Both hail from the Fractured Sea, Nyxen tend to be bulky, pale skin with curly hair. These humans are deeply passionate people at their best and blood-curdling warriors at their worst. Their communities are faithful purveyors of the arts with strong familial ties.",
-          "Nyxen tribes were first to lose their ancestral home, Arxyk, to the invading elves and the still contaminated land fuels ancenstral resentment even now."
+          "Nyxen tribes were first to lose their ancestral home, Arxyk, to the invading elves and the still contaminated land fuels ancestral resentment even now."
         ]
       },
       {
@@ -156,9 +154,7 @@
       {
         "type": "entries",
         "name": "Skill Versatility",
-        "entries": [
-          "You gain proficiency in any skill of your choice."
-        ]
+        "entries": ["You gain proficiency in any skill of your choice."]
       },
       {
         "name": "Savage Blow",
@@ -207,7 +203,7 @@
         "name": "Description",
         "type": "entries",
         "entries": [
-          "Amenmaatra, capital of Egress and famed Gateway to the South is said to be the birthplace of the Siiq - a desertfolk spread across all four major deserts.",
+          "Amenmaatra, capital of Egress and famed Gateway to the South is said to be the birthplace of the Siiq, a desert folk spread across all four major deserts.",
           "Tribal Siiq are proud warriors that thrive on trade through steep taxes to travelers between north and south Meridian."
         ]
       },
@@ -237,9 +233,7 @@
       {
         "type": "entries",
         "name": "Skill Versatility",
-        "entries": [
-          "You gain proficiency in any skill of your choice."
-        ]
+        "entries": ["You gain proficiency in any skill of your choice."]
       },
       {
         "name": "Ambusher",
@@ -310,7 +304,7 @@
         "name": "Description",
         "type": "entries",
         "entries": [
-          "With sun-kissed skin and green eyes, Thesians pride themselves in being the most civilized of the human cultures - trading mysticsm and folklore for innovation and invention. After the fall of the elven empire, Thesians and high elves came together along Meridian's western shores to construct Polythesis - Meridian's first democracy."
+          "With sun-kissed skin and green eyes, Thesians pride themselves in being the most civilized of the human cultures, trading mysticism and folklore for innovation and invention. After the fall of the elven empire, Thesians and high elves came together along Meridian's western shores to construct Polythesis, Meridian's first democracy."
         ]
       },
       {
@@ -339,9 +333,7 @@
       {
         "type": "entries",
         "name": "Skill Versatility",
-        "entries": [
-          "You gain proficiency in any skill of your choice."
-        ]
+        "entries": ["You gain proficiency in any skill of your choice."]
       },
       {
         "name": "Lucky",
@@ -408,7 +400,9 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["Also known as Sun-kin, High Elves are the most common elves in Meridian. They have tanned skin and dark features like wood elves, though tend to be taller and slenderer. High elves are deeply ingrained in the world compared to the other elves, holding positions of political and economic power throughout the world, especially in Thesian society."]
+        "entries": [
+          "Also known as Sun-kin, High Elves are the most common elves in Meridian. They have tanned skin and dark features like wood elves, though tend to be taller and slenderer. High elves are deeply ingrained in the world compared to the other elves, holding positions of political and economic power throughout the world, especially in Thesian society."
+        ]
       },
       {
         "type": "image",
@@ -496,7 +490,9 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["With a talent for engineering, Amechisil (meaning literally `moon elf`) or Mech for short, hold themselves to high esteem and even higher expectations. Most commonly found in the southern nations, where their natural gifts for engineering and logic are appreciated, moon elves have a long history of segregation even from other elves. Moon elves are unmistakable for their fair skin, blond hair, and ethereal features (which are almost cliché)."]
+        "entries": [
+          "With a talent for engineering, Amechisil (meaning literally `moon elf`) or Mech for short, hold themselves to high esteem and even higher expectations. Most commonly found in the southern nations, where their natural gifts for engineering and logic are appreciated, moon elves have a long history of segregation even from other elves. Moon elves are unmistakable for their fair skin, blond hair, and ethereal features (which are almost cliché)."
+        ]
       },
       {
         "type": "image",
@@ -535,9 +531,7 @@
       },
       {
         "name": "Incisive Sense",
-        "entries": [
-          "You have proficiency in the Investigation skill."
-        ],
+        "entries": ["You have proficiency in the Investigation skill."],
         "type": "entries"
       },
       {
@@ -583,7 +577,9 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["Easily recognizable by their intricate birthmarks, woods elves are most found in the south, where they use harness biotechnology for a variety of purposes, such as healing, natural construction, and yes… genetic testing. Their methods have been condemned frequently for questionable ethics. Wood elf technology is a staple of Furborn weapons, armor and daily lifestyle."]
+        "entries": [
+          "Easily recognizable by their intricate birthmarks, woods elves are most found in the south, where they use harness biotechnology for a variety of purposes, such as healing, natural construction, and yes… genetic testing. Their methods have been condemned frequently for questionable ethics. Wood elf technology is a staple of Furborn weapons, armor and daily lifestyle."
+        ]
       },
       {
         "type": "image",
@@ -696,7 +692,9 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["With near black skin and beaded eyes, dark elves are the most religious of elves – keeping reverence to the Elven Lords. While common enough throughout the world, dark elves are commonly found in religious sanctuaries high in the mountains left to their own holy devices."]
+        "entries": [
+          "With near black skin and beaded eyes, dark elves are the most religious of elves – keeping reverence to the Elven Lords. While common enough throughout the world, dark elves are commonly found in religious sanctuaries high in the mountains left to their own holy devices."
+        ]
       },
       {
         "type": "image",
@@ -919,7 +917,9 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["It took countless years and experiments for the dying star elves to successfully breed with humans and create the first half-elves. Their success saved their people, half-elves are now the second dominate race in the world, after humans."]
+        "entries": [
+          "It took countless years and experiments for the dying star elves to successfully breed with humans and create the first half-elves. Their success saved their people, half-elves are now the second dominate race in the world, after humans."
+        ]
       },
       {
         "type": "image",
@@ -947,9 +947,7 @@
       {
         "type": "entries",
         "name": "Skill Versatility",
-        "entries": [
-          "You gain proficiency in two skills of your choice."
-        ]
+        "entries": ["You gain proficiency in two skills of your choice."]
       },
       {
         "name": "Elven Ancestry",
@@ -1141,7 +1139,7 @@
         "type": "entries"
       },
       {
-        "name": "Agressive",
+        "name": "Aggressive",
         "entries": [
           "As a bonus action, you can move up to your movement speed toward a hostile creature you can see or hear. You must end this move closer to the enemy than you started."
         ],
@@ -1373,7 +1371,7 @@
         "name": "Description",
         "type": "entries",
         "entries": [
-          "Naga are deep sea dwellers who live in complex cave systems in the deepest crevices of the open sea. Naga are skilled physical warriors who defend their communities, also known as 'Beacons', from deep sea abberations. are rarely seen among surface dwellers. Their alien physiology only allows for a few Naga to live on land, isolating Naga society from the rest of the world. Although they are the most mysterious race, it is common knowledge that they are fierce enemies of the sea elves."
+          "Naga are deep sea dwellers who live in complex cave systems in the deepest crevices of the open sea. Naga are skilled physical warriors who defend their communities, also known as 'Beacons', from deep sea aberrations. are rarely seen among surface dwellers. Their alien physiology only allows for a few Naga to live on land, isolating Naga society from the rest of the world. Although they are the most mysterious race, it is common knowledge that they are fierce enemies of the sea elves."
         ]
       },
       {
@@ -1489,7 +1487,9 @@
       {
         "name": "Description",
         "type": "entries",
-        "entries": ["Sigri live in coastal caves or underground springs close to shore. Unlike Naga, they do on occasion interact with landwalkers, but rarely for anything other than trade. Many Sigri are natural druids and use their gifts to protect and keep balance in the natural world."]
+        "entries": [
+          "Sigri live in coastal caves or underground springs close to shore. Unlike Naga, they do on occasion interact with land walkers, but rarely for anything other than trade. Many Sigri are natural druids and use their gifts to protect and keep balance in the natural world."
+        ]
       },
       {
         "type": "image",
@@ -1712,7 +1712,7 @@
       {
         "name": "Desert Born",
         "entries": [
-          "You have resistance to fire damage. In hot hot, dry weather, you can survive drinking a single gallon of water a day without suffering any ill effects. This feature replaces the Mountain Born feature."
+          "You have resistance to fire damage. In hot, dry weather, you can survive drinking a single gallon of water a day without suffering any ill effects. This feature replaces the Mountain Born feature."
         ],
         "type": "entries"
       },
@@ -1860,9 +1860,7 @@
       {
         "type": "entries",
         "name": "Skill Versatility",
-        "entries": [
-          "You gain proficiency in two skills of your choice."
-        ]
+        "entries": ["You gain proficiency in two skills of your choice."]
       },
       {
         "name": "Ambusher",
@@ -2079,7 +2077,7 @@
         "name": "Description",
         "type": "entries",
         "entries": [
-          "Soldiers from a forgotten age, the Marksmen are technologically enhanced humanoids forged and controlled by an ancient elven construct known only as the Authority. Generation III Markmen are known as mage-slayers."
+          "Soldiers from a forgotten age, the Marksmen are technologically enhanced humanoids forged and controlled by an ancient elven construct known only as the Authority. Generation III Marksmen are known as mage-slayers."
         ]
       },
       {
@@ -2185,12 +2183,14 @@
       {
         "type": "entries",
         "name": "Creature Type",
-        "entries": ["You are a Construct. You are also considered a humanoid for any prerequisite or effect that requires you to be a humanoid."]
+        "entries": [
+          "You are a Construct. You are also considered a humanoid for any prerequisite or effect that requires you to be a humanoid."
+        ]
       },
       {
         "name": "Elven Tech",
         "entries": [
-          "As an artificial race, you do not study a spell book nor cast spells and/or other magical effects. Instead, you work with your tools and create the specialized items you'll use to produce your spell-like effects. You are unable to use magical consumables, such as potions and scrolls, but not from utilizing mithril artifices that produce the similar effects."
+          "As an artificial race, you do not study a spell book nor cast spells and/or other magical effects. Instead, you work with your tools and create the specialized items you'll use to produce your spell-like effects. You are unable to use magical consumables, such as potions and scrolls, but not from utilizing mithral artifices that produce the similar effects."
         ],
         "type": "entries"
       },
