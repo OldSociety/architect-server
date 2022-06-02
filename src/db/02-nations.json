@@ -25,7 +25,18 @@
     "id": 2,
     "name": "Fairbourne",
     "nationality": "Fairec",
-    "ruler": "King Leos VII",
+    "ruler": [
+      { "name": "King Leos VII" },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://images.pexels.com/photos/3892172/pexels-photo-3892172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "title": "",
+        "altText": ""
+      }
+    ],
     "government": "absolute monarchy",
     "capital": [
       {
@@ -73,7 +84,18 @@
     "id": 3,
     "name": "Whitepine",
     "nationality": "I bow to no king. (Whitepine)",
-    "ruler": "none",
+    "ruler": [
+      { "name": "none" },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://images.pexels.com/photos/3892172/pexels-photo-3892172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "title": "",
+        "altText": ""
+      }
+    ],
     "government": "none",
     "description": [
       "Whitepine remains mostly unexplored, unsettled and unconquered. Its active volcano threatens to erupt with regular tremors. Its lush forests are filled with deadly monstrosities and terrifying abominations.",
@@ -95,7 +117,18 @@
     "id": 4,
     "name": "Uruban",
     "nationality": "Uru",
-    "ruler": "Red Horde",
+    "ruler": [
+      { "name": "Red Horde" },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://images.pexels.com/photos/3892172/pexels-photo-3892172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "title": "",
+        "altText": ""
+      }
+    ],
     "government": "theocracy",
     "capital": [
       {
@@ -134,7 +167,18 @@
     "id": 5,
     "name": "Ash'ahla",
     "nationality": "Ash'a",
-    "ruler": "god-Queen Aurora",
+    "ruler": [
+      { "name": "god-Queen Aurora" },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://images.pexels.com/photos/3892172/pexels-photo-3892172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "title": "",
+        "altText": ""
+      }
+    ],
     "government": "theocracy",
     "capital": [
       {
@@ -175,7 +219,18 @@
     "id": 6,
     "name": "Egress",
     "nationality": "Egressian",
-    "ruler": "Emperor Adahn",
+    "ruler": [
+      { "name": "Emperor Adahn" },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://images.pexels.com/photos/3892172/pexels-photo-3892172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "title": "",
+        "altText": ""
+      }
+    ],
     "government": "constitutional monarchy",
     "capital": [
       {
@@ -255,7 +310,18 @@
     "id": 9,
     "name": "Karaj",
     "nationality": "Karaji",
-    "ruler": "King Karaji V",
+    "ruler": [
+      { "name": "King Karaji V" },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://images.pexels.com/photos/3892172/pexels-photo-3892172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "title": "",
+        "altText": ""
+      }
+    ],
     "government": "absolute monarchy",
     "capital": [
       {
@@ -296,7 +362,18 @@
     "id": 10,
     "name": "Zemér",
     "nationality": "Zeméri",
-    "ruler": "King Jared",
+    "ruler": [
+      { "name": "King Jared" },
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://images.pexels.com/photos/3892172/pexels-photo-3892172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        "title": "",
+        "altText": ""
+      }
+    ],
     "government": "absolute monarchy",
     "capital": [
       {
@@ -338,6 +415,18 @@
     "capital": [
       {
         "name": "Gale Serene",
+        "ruler": [
+          { "name": "King Leos VII" },
+          {
+            "type": "image",
+            "href": {
+              "type": "external",
+              "url": "https://images.pexels.com/photos/3892172/pexels-photo-3892172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+            },
+            "title": "",
+            "altText": ""
+          }
+        ],
         "size": "large",
         "entries": [
           "Gale Serene was the official capital under its former-queen, but suffered wide-spread social unrest has following a decade worth of political, economic and moral decline. While it remains, a powerful cosmopolitan built around an Imperial age wood elf citadel, “the Hroa” (roh-ah), only time will tell if its return to krytocracy (government of judges) will bring it back to glory."
@@ -347,6 +436,18 @@
     "settlements": [
       {
         "name": "Adalome",
+        "ruler": [
+          { "name": "King Leos VII" },
+          {
+            "type": "image",
+            "href": {
+              "type": "external",
+              "url": "https://images.pexels.com/photos/3892172/pexels-photo-3892172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+            },
+            "title": "",
+            "altText": ""
+          }
+        ],
         "size": "large",
         "entries": [
           "Under King Garius and Queen Stolas, Adalome has flourished. Nicknamed “the State of Love”, Adalome is reputed for its Dream Houses where thosands of well-educated prostitutes, known as Companions, serve the wealthy. Many of these Companions are considered both artists and entertainers. The most preferred Companions can garner incredible wealth and fame."
@@ -354,6 +455,18 @@
       },
       {
         "name": "Amberwall",
+        "ruler": [
+          { "name": "King Leos VII" },
+          {
+            "type": "image",
+            "href": {
+              "type": "external",
+              "url": "https://images.pexels.com/photos/3892172/pexels-photo-3892172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+            },
+            "title": "",
+            "altText": ""
+          }
+        ],
         "size": "large",
         "entries": [
           "Amberwall is a ‘noocracy’, ruled by a group of philosophers and thinktanks, and respects intellectual achievements over famed accolades. Amberwall is the seat of technologic advancement throughout the southern nations, being the birthplace of everything from the industrial gear, to steam powered showers, to advanced sewage systems. Amberwall’s Ephemeron ties are the strongest among the southern states. Pride and vanity overshadow the spirit of mutual interests and interdependence between its many researchers and scholars."
@@ -361,6 +474,18 @@
       },
       {
         "name": "Ellesmere",
+        "ruler": [
+          { "name": "King Leos VII" },
+          {
+            "type": "image",
+            "href": {
+              "type": "external",
+              "url": "https://images.pexels.com/photos/3892172/pexels-photo-3892172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+            },
+            "title": "",
+            "altText": ""
+          }
+        ],
         "size": "large",
         "entries": [
           ". The Ellesian Order controls every sector of public life in the state. While Ellesmere is considered a conservative state, that frowns on both glory-seeking and flamboyance, it continues to attract visitors and residents from throughout Meridian. From its wonder-inspiring architecture to its famed Temple of Apotheosis, Ellesmere has much to offer those who fall in line."
@@ -368,6 +493,18 @@
       },
       {
         "name": "Endoza",
+        "ruler": [
+          { "name": "King Leos VII" },
+          {
+            "type": "image",
+            "href": {
+              "type": "external",
+              "url": "https://images.pexels.com/photos/3892172/pexels-photo-3892172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+            },
+            "title": "",
+            "altText": ""
+          }
+        ],
         "size": "large",
         "entries": [
           "King Cadmus is both loved and revered by his people for restoring Endoza after kraken-born tsunami brought the city to its knees. His political savvy, firm demeaner, and contributions to education (including the construction of the Aqora College, an elven school of arcane arts) given Cadmus a shining reputation throughout Meridian."
@@ -375,6 +512,18 @@
       },
       {
         "name": "Falasse",
+        "ruler": [
+          { "name": "King Leos VII" },
+          {
+            "type": "image",
+            "href": {
+              "type": "external",
+              "url": "https://images.pexels.com/photos/3892172/pexels-photo-3892172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+            },
+            "title": "",
+            "altText": ""
+          }
+        ],
         "size": "large",
         "entries": [
           "The idea of representative democracy has started taking root in the state best known for its commitment to religious freedom. Each of the state’s dozen settlements are represented by a number of councilmen expected to represent their community’s best interest. "
@@ -383,17 +532,22 @@
 
       {
         "name": "Soldusk",
+        "ruler": [
+          { "name": "King Leos VII" },
+          {
+            "type": "image",
+            "href": {
+              "type": "external",
+              "url": "https://images.pexels.com/photos/3892172/pexels-photo-3892172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+            },
+            "title": "",
+            "altText": ""
+          }
+        ],
         "size": "large",
         "entries": [
           "Sometimes described as a kleptocracy, the elves of House Althulas bring endless wealth to the city with their casinos and inscrupulous business practices. But beneath the surface, there is social and political turmoil with the Lineage that “always lines their pockets first”."
         ]
-      }
-    ],
-    "settlements": [
-      {
-        "name": "",
-        "size": "small",
-        "entries": [""]
       }
     ],
     "description": [
