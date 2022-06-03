@@ -566,5 +566,26 @@
         "altText": ""
       }
     ]
+  },
+  {
+    "id": 12,
+    "name": "Oceanic",
+    "nationality": "I bow to no king.",
+    "ruler": "none",
+    "government": "none",
+    "description": [
+      "Beneath Meridian's oceans are the mysterious the Seaborn empires."
+    ],
+    "entries": [
+      {
+        "type": "image",
+        "href": {
+          "type": "external",
+          "url": "https://static0.thethingsimages.com/wordpress/wp-content/uploads/2018/12/Atlantis.jpg"
+        },
+        "title": "Aurora Borealis",
+        "altText": "Aurora Borealis"
+      }
+    ]
   }
 ]
