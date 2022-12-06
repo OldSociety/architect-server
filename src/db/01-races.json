@@ -6,16 +6,6 @@
     "size": ["M"],
     "speed": 30,
     "sanity": 20,
-    "ability": [
-      {
-        "str": 1,
-        "dex": 1,
-        "con": 1,
-        "int": 1,
-        "wis": 1,
-        "cha": 1
-      }
-    ],
     "age": {
       "mature": 20,
       "max": 100
@@ -100,16 +90,6 @@
     "raceName": "Human",
     "speed": 30,
     "sanity": 20,
-    "ability": [
-      {
-        "str": 1,
-        "dex": 1,
-        "con": 1,
-        "int": 1,
-        "wis": 1,
-        "cha": 1
-      }
-    ],
     "age": {
       "mature": 20,
       "max": 100
@@ -179,16 +159,6 @@
     "raceName": "Human",
     "speed": 30,
     "sanity": 20,
-    "ability": [
-      {
-        "str": 1,
-        "dex": 1,
-        "con": 1,
-        "int": 1,
-        "wis": 1,
-        "cha": 1
-      }
-    ],
     "age": {
       "mature": 20,
       "max": 100
@@ -280,16 +250,6 @@
     "raceName": "Human",
     "speed": 30,
     "sanity": 20,
-    "ability": [
-      {
-        "str": 1,
-        "dex": 1,
-        "con": 1,
-        "int": 1,
-        "wis": 1,
-        "cha": 1
-      }
-    ],
     "age": {
       "mature": 20,
       "max": 100
@@ -358,12 +318,6 @@
     "raceName": "Elf",
     "speed": 30,
     "sanity": 18,
-    "ability": [
-      {
-        "dex": 2,
-        "int": 1
-      }
-    ],
     "age": {
       "mature": 30,
       "max": 150
@@ -469,12 +423,6 @@
     "raceName": "Elf",
     "speed": 30,
     "sanity": 18,
-    "ability": [
-      {
-        "dex": 2,
-        "int": 1
-      }
-    ],
     "age": {
       "mature": 30,
       "max": 150
@@ -550,12 +498,6 @@
     "raceName": "Elf",
     "speed": 35,
     "sanity": 18,
-    "ability": [
-      {
-        "dex": 2,
-        "wis": 1
-      }
-    ],
     "age": {
       "mature": 30,
       "max": 150
@@ -644,12 +586,6 @@
     "raceName": "Elf",
     "speed": 30,
     "sanity": 18,
-    "ability": [
-      {
-        "dex": 2,
-        "cha": 1
-      }
-    ],
     "age": {
       "mature": 40,
       "max": 200
@@ -771,12 +707,6 @@
     "raceName": "Elf",
     "speed": 30,
     "sanity": 18,
-    "ability": [
-      {
-        "cha": 2,
-        "any": 1
-      }
-    ],
     "age": {
       "mature": 30,
       "max": 150
@@ -896,12 +826,6 @@
     "size": ["M"],
     "speed": 30,
     "sanity": 19,
-    "ability": [
-      {
-        "cha": 2,
-        "any": 1
-      }
-    ],
     "age": {
       "mature": 20,
       "max": 100
@@ -1015,12 +939,6 @@
       "climb": true
     },
     "sanity": 19,
-    "ability": [
-      {
-        "dex": 2,
-        "cha": 1
-      }
-    ],
     "age": {
       "mature": 20,
       "max": 100
@@ -1091,12 +1009,6 @@
     "raceName": "Furborn",
     "speed": 30,
     "sanity": 19,
-    "ability": [
-      {
-        "con": 2,
-        "str": 1
-      }
-    ],
     "age": {
       "mature": 20,
       "max": 100
@@ -1175,12 +1087,6 @@
     "raceName": "Scaleborn",
     "speed": 30,
     "sanity": 19,
-    "ability": [
-      {
-        "int": 2,
-        "wis": 1
-      }
-    ],
     "age": {
       "mature": 20,
       "max": 100
@@ -1237,9 +1143,7 @@
       },
       {
         "name": "Infiltrator",
-        "entries": [
-          "As a bonus action, you can let out an especially menacing roar. Creatures of your choice within 10 feet of you that can hear you must succeed on a Wisdom saving throw or become frightened of you until the end of your next turn. The DC of the save equals 8 + your proficiency bonus + your Constitution modifier. Once you use this trait, you can't use it again until you finish a short or long rest. "
-        ],
+        "entries": [" You have proficiency in deception."],
         "type": "entries"
       }
     ]
@@ -1254,12 +1158,6 @@
       "swim": true
     },
     "sanity": 19,
-    "ability": [
-      {
-        "con": 2,
-        "wis": 1
-      }
-    ],
     "age": {
       "mature": 20,
       "max": 100
@@ -1340,13 +1238,6 @@
       "swim": true
     },
     "sanity": 19,
-    "ability": [
-      {
-        "str": 1,
-        "con": 1,
-        "wis": 1
-      }
-    ],
     "age": {
       "mature": 15,
       "max": 200
@@ -1437,13 +1328,6 @@
       "swim": true
     },
     "sanity": 19,
-    "ability": [
-      {
-        "str": 1,
-        "con": 1,
-        "wis": 1
-      }
-    ],
     "age": {
       "mature": 15,
       "max": 100
@@ -1543,12 +1427,6 @@
     "raceName": "Stoneborn",
     "speed": 30,
     "sanity": 20,
-    "ability": [
-      {
-        "str": 2,
-        "con": 1
-      }
-    ],
     "age": {
       "mature": 20,
       "max": 100
@@ -1639,12 +1517,6 @@
     "raceName": "Stoneborn",
     "speed": 30,
     "sanity": 20,
-    "ability": [
-      {
-        "wis": 2,
-        "con": 1
-      }
-    ],
     "age": {
       "mature": 20,
       "max": 100
@@ -1742,12 +1614,6 @@
       "fly": true
     },
     "sanity": 19,
-    "ability": [
-      {
-        "dex": 2,
-        "wis": 1
-      }
-    ],
     "age": {
       "mature": 20,
       "max": 80
@@ -1811,12 +1677,6 @@
     "raceName": "Skyborn",
     "speed": 30,
     "sanity": 19,
-    "ability": [
-      {
-        "dex": 2,
-        "wis": 1
-      }
-    ],
     "age": {
       "mature": 20,
       "max": 80
@@ -1892,12 +1752,6 @@
     "raceName": "Marksmen",
     "speed": 30,
     "sanity": 17,
-    "ability": [
-      {
-        "con": 2,
-        "str": 1
-      }
-    ],
     "skillProficiencies": [
       {
         "any": 1
@@ -1971,12 +1825,6 @@
     "raceName": "Marksmen",
     "speed": 30,
     "sanity": 17,
-    "ability": [
-      {
-        "con": 2,
-        "str": 1
-      }
-    ],
     "resist": [
       {
         "choose": ["force, lightning, radiant, thunder"]
@@ -2045,12 +1893,6 @@
     "raceName": "Marksmen",
     "speed": 30,
     "sanity": 17,
-    "ability": [
-      {
-        "con": 2,
-        "str": 1
-      }
-    ],
     "conditionImmune": ["disease"],
     "additionalSpells": [
       {
@@ -2133,12 +1975,6 @@
     "size": ["M"],
     "speed": 30,
     "sanity": 16,
-    "ability": [
-      {
-        "int": 2,
-        "cha": 1
-      }
-    ],
     "darkvision": 60,
     "skillProficiencies": [
       {
